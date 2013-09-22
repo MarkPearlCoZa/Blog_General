@@ -1,4 +1,4 @@
 blog
 ====
 
-Mark Pearl's Blog
+Mark Pearl's General Blog
