@@ -5,9 +5,4 @@ tags: Code
 category: General
 ---
 
-![Collaborative Coding Progression]({{ site.url }}/assets/images/Collaborative-Coding-Progression.png)
-
-
-
-
-
+<img class="img-responsive" alt="Collaborative Coding Progression" src="{{ site.url }}/assets/images/Collaborative-Coding-Progression.png">

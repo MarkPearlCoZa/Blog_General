@@ -38,7 +38,7 @@ For a while now I have been asking myself what I value. Below is an attempt to o
 - Change peoples lives for the better  
 - Have a worldwide impact  
 
-![Original Brainstorm]({{ site.url }}/assets/images/What-I-Value.jpg)
+<img class="img-responsive" alt="Original Brainstorm" src="{{ site.url }}/assets/images/What-I-Value.jpg">
 
 #### What I look for in an work environment ####
 - Organization that values learning  

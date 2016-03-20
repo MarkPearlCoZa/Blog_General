@@ -189,6 +189,14 @@ To start with we said we would ask for each story being work on whether it shoul
 
 We also had a bit of a debate about the time we should hold stand-ups. Different people wanted it at different times. We eventually decided to hold stand-ups as the last activity before the day ended. We believe this may not be the ideal time but since we have never had stand up that late in the day we decided to give it a go for a few days and then re-evaluate. Embrace the fail fast principle.
 
-![Killing Standups what we liked]({{ site.url }}/assets/images/Killing-Standups-What-We-Liked.jpg)  
+-----------------------------------------------------------------------------------
 
-![Killing Standups what we didn't like]({{ site.url }}/assets/images/Killing-Standups-What-We-Didnt-Like.jpg)  
+#### Original Notes ####
+
+##### What we liked #####
+
+<img class="img-responsive" alt="Killing Standups what we liked" src="{{ site.url }}/assets/images/Killing-Standups-What-We-Liked.jpg">
+
+##### What we didn't like #####
+
+<img class="img-responsive" alt="Killing Standups what we didn't like" src="{{ site.url }}/assets/images/Killing-Standups-What-We-Didnt-Like.jpg">

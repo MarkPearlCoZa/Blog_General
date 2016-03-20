@@ -14,17 +14,17 @@
     <!-- Next / Previous Buttons -->
     <div class="row">
         <div class="col-md-4">
-          {% if page.previous %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous Post</a>
+          {% if page.next %}
+            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">&larr; Next Post</a>
           {% else %}
-            <a class='btn btn-info btn-block' >&larr; Previous</a>
+            <a class='btn btn-info btn-block disabled' >&larr; Next Post</a>
           {% endif %}
         </div>
         <div class="col-md-4 col-md-offset-4">
-          {% if page.next %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next Post &rarr;</a>
+          {% if page.previous %}
+            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous Post &rarr;</a>
           {% else %}
-            <a class='btn btn-info btn-block' >Next &rarr;</a>
+            <a class='btn btn-info btn-block disabled' >Previous Post &rarr;</a>
           {% endif %}
         </div>
     </div>
