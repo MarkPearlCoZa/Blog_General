@@ -1,0 +1,63 @@
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:title 
+
+# interpreter to use for markdown
+markdown: kramdown
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : Mark Pearl's Software Development Blog
+tagline: An exploration in the art of software development
+author :
+  name : Mark Pearl
+  email : MarkPearl@gmail.com
+  github : MarkPearl
+  twitter : MarkPearlCoZa
+  feedburner : feedname
+
+production_url : http://blog.MarkPearl.co.za
+
+JB :
+  version : 0.3.0
+
+  BASE_PATH : false
+
+  ASSET_PATH : /assets/themes/pearltheme
+
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tags_path : /categories/index.html
+  atom_path : /atom.xml
+  rss_path : /rss.xml
+
+  comments :
+    provider : disqus
+    disqus :
+      short_name : markspearlsblog
+    livefyre :
+      site_id : 
+    intensedebate :
+      account : 
+    facebook :
+      appid : 
+      num_posts: 
+      width: 
+      colorscheme: 
+   
+  analytics :
+    provider : google 
+    google : 
+        tracking_id : 'UA-37277378-1'
+    getclicky :
+      site_id : 
+    mixpanel :
+        token : '_MIXPANEL_TOKEN_'
+
+  sharing :
+    provider : false
+    

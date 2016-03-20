@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- atom & rss feed -->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+  </head>
+
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                </button>
+              <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class='col-md-8'>
+            {{ content }}
+        </div>
+        <div class='col-md-4'>
+            <div class='thumbnail'>
+                <div class='caption'>
+                    <h3>Mark Pearl</h3>
+                    <p>I find nothing more fulfilling than being involved in creating something that has a real impact on other people's lives.</p>
+                    <ul class="list-inline social-buttons">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-github"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        {% if page.tags %}
+        <div class='col-md-4'>
+            <div class='thumbnail'>
+                <div class='caption'>
+                    <h3>Tags on Post</h3>
+                    {% for tag in page.tags %} 
+                      <a href='{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref'>{{ tag }}</a>
+                    {% endfor %}
+                 </div>
+            </div>    
+        </div>
+        {% endif %}
+        <div class='col-md-4'>
+            <div class='thumbnail'>
+                <div class='caption'>
+                    <h3>Categories</h3>
+                    {% for tag in site.tags %} 
+                      <a href='{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref'>{{ tag[0] }} ({{ tag[1].size }})</a>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class='thumbnail'>
+                <div class='caption'>
+                    <h3>Pages</h3>
+                    {% assign pages_list = site.pages %}
+                    {% include JB/pages_list %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} </p>
+        </div>
+    </footer>
+    {% include JB/analytics %}
+  </body>
+</html>
