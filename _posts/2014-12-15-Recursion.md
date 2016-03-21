@@ -2,7 +2,7 @@
 layout: post
 title: Recursion
 tags: Recursion
-category: Tech
+category: Programming
 ---
 
 #### Avoiding Pitfalls ####

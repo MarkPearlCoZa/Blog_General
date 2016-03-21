@@ -2,7 +2,7 @@
 layout: post
 title: Transformation Priority Premise
 tags: TDD
-category: Tech
+category: Programming
 ---
 #### General Notes ####
 

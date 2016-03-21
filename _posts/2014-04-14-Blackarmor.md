@@ -2,7 +2,7 @@
 layout: post
 title: BlackArmor NAS 440 is a disappointment
 tags: Disappointment
-category: Tech
+category: General
 ---
 I have had a [BlackArmor NAS 440](http://www.seagate.com/external-hard-drives/network-storage/business/blackarmor-nas-440/) for the last two years. Originally I bought the drive with the goal of getting "peace" of mind that my most critical data was backed up at RAID level 5. I have been sorely disappointed with my overall experience with the NAS drive.
 

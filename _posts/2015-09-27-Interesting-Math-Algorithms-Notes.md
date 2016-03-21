@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Interesting Math Algorithm Notes
+title: Interesting Math Algorithm for Programming Notes
 tags: Useful
-category: Tech
+category: Programming
 ---
 
 I recently have been spending a fair amount of time on [CodeWars](http://www.CodeWars.com)  

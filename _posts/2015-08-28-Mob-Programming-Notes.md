@@ -2,7 +2,7 @@
 layout: post
 title: Mob Programming Notes
 tags: XP
-category: Tech
+category: Soft
 ---
 
 #### References ####

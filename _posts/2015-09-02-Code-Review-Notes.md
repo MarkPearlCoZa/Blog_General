@@ -2,7 +2,7 @@
 layout: post
 title: Code Review Notes
 tags: Programming
-category: Tech
+category: Soft
 ---
 
 #### References ####

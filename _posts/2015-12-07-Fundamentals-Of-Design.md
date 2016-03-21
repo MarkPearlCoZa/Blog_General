@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fundamentals of Design Notes
+title: Fundamentals of Visual Design Notes
 tags: Design
-category: Tech
+category: Meta
 ---
 
 #### General ####

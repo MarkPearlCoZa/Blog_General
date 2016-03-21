@@ -2,7 +2,7 @@
 layout: post
 title: Four rules of simple design
 tags: Design
-category: Tech
+category: Programming
 ---
 #### General Notes ####
 

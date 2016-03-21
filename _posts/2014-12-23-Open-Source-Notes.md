@@ -2,7 +2,7 @@
 layout: post
 title: Open Source Notes
 tags: Open Source
-category: Tech
+category: Meta
 ---
 
 #### References ####

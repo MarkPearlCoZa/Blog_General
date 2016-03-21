@@ -2,7 +2,7 @@
 layout: post
 title: DevOps Notes
 tags: DevOps
-category: Tech
+category: Soft
 ---
 
 #### General ####

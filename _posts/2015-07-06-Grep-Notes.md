@@ -29,6 +29,12 @@ grep -rl "StuffToSearch" .
 grep -rli "StuffToSearch" *
 ~~~
 
+#### Move files that match a grep search
+
+~~~
+grep -l 'Search Statement' . | while read f; do mv "$f" targetDir; done
+~~~
+
 #### References ####
 
 [Drew's grep tutorial](http://www.uccs.edu/~ahitchco/grep/)  
