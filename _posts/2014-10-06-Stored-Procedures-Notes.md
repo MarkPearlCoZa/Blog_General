@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Stored Procedures
+title: Stored Procedures Notes
 tags: Useful
-category: Tech
+category: Programming
 ---
 
 ####  General Notes ####
