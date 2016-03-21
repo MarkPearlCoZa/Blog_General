@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sh Scripts
+title: Sh Script Notes
 tags: Useful
 category: Tech
 ---
