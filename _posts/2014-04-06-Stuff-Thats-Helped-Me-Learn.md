@@ -2,7 +2,7 @@
 layout: post
 title: "Stuff that's helped me learn"
 description: "Learning material that has positively impacted my software development career"
-category: Programming
+category: General
 tags: Read Watch Conferences Typing
 ---
 There's a ton of stuff that has helped me learn.

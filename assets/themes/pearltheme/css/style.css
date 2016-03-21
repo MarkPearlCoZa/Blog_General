@@ -18,6 +18,10 @@ body {
 }
 
 
+.img-center {
+    margin: 0 auto;
+}
+
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */

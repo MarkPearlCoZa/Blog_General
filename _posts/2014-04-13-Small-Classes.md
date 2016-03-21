@@ -2,7 +2,7 @@
 layout: post
 title: "Small Classes"
 description: "Small Classes"
-category: CodeProject
+category: General
 tags: Design
 ---
 For the last few years I have been an advocate of [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) and trying to keep classes to a level where they have a [single responsibility](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod). In learning how to apply the Single Responsibility Principle I have found my classes have become small, focussed and reusable. The better I apply this principle, the more my classes possess these attributes. This was not always the case. There was a time when my classes were large and cumbersome. In looking back I can see there were several reasons why I fell into the trap of large classes - today I am going to explain two of them.

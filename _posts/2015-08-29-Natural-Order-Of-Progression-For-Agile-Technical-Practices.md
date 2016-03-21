@@ -2,7 +2,7 @@
 layout: post
 title: Natural Order of Progression for Agile Technical Practices
 tags: Agile
-category: Agile
+category: General
 ---
 
 This post is a transcript of a talk done at Agile Africa 2015.

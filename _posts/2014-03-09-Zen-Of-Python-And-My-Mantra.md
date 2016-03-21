@@ -2,7 +2,7 @@
 layout: post
 title: "Zen of Python and my Mantra"
 description: "The Zen of Python is in many ways my personal mantra"
-category: Programming
+category: General
 tags: Code
 ---
 I was recently listening to a [podcast on Python](http://www.dotnetrocks.com/default.aspx?showNum=951) when an interesting topic came up that I just had to share. It is called the 'Zen of Python'. It goes like this...

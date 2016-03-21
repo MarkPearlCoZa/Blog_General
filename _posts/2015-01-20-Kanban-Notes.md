@@ -1,0 +1,35 @@
+---
+layout: post
+title: Kanban Notes
+tags: Kanban
+category: Soft
+---
+
+#### Mantra ####
+
+Pull work, Limit Work in Progress  
+
+#### Limiting Work in Progress ####
+
+![Usual Response when limiting WIP]({{ site.url }}/assets/images/Limit-Wip.png)
+
+#### Kanban Games ####
+
+[The Envelope Game](http://vimeo.com/114702345)  
+
+#### Product Owner in Kanban ####
+
+[Do we need a product owner with Kanban](http://www.software-kanban.de/2011/08/do-we-need-product-owner-in-kanban.html)  
+
+#### Recipe for working with teams that are struggling ####
+
+- Focus on Quality  
+- Reduce Work in Progress  
+- Deliver Often  
+- Balance Demand against Throughput  
+- Prioritize  
+- Attack Sources of Variabilty to Improve Predictability  
+
+#### Additional Resources ####
+
+[Kanban and Agile](http://leankit.com/kanban/kanban-agile/)  

@@ -2,7 +2,7 @@
 layout: post
 title: Why sponsor a conference
 tags: Conferences
-category: Conference
+category: General
 ---
 #### Why have conferences ####
 

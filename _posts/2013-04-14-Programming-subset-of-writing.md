@@ -2,7 +2,7 @@
 layout: post
 title: "Programming, a Subset of Writing"
 description: "The parallels between a good writer and a good programmer"
-category: Thoughts
+category: General
 tags: Code
 ---
 A while back I read a post by David Hansson on [the five programming books that meant the most to him](http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me). In the post he made the comment that he considered programming to be a subset of writing - I had never considered this before. Inspired by his post I decided to order one of the books he recommended - ["On Writing Well" by William Zinser](http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548/) - and see if I could draw any parallels between writing and programming.

@@ -2,7 +2,7 @@
 layout: post
 title: Setting up the Golden Master using ApprovalTests.Net
 tags: Refactoring Testing Code
-category: Code
+category: General
 ---
 
 **The Golden Master is one of the approaches I use to make my life easier when refactoring legacy code. Today I would like to share the approach with you.**
