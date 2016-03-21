@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Notes
 tags: Web
-category: General
+category: Tech
 ---
 #### Resetting a prototype override ####
 

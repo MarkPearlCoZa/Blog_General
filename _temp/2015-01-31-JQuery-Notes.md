@@ -2,7 +2,7 @@
 layout: post
 title: JQuery Notes
 tags: JavaScript
-category: General
+category: Tech
 ---
 ### General ###
 

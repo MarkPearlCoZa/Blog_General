@@ -2,7 +2,7 @@
 layout: post
 title: Asp.Net MVC Notes
 tags: MVC
-category: General
+category: Tech
 ---
 
 #### Basics ####

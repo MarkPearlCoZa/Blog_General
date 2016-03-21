@@ -2,7 +2,7 @@
 layout: post
 title: Visual Studio Resharper Keyboard Shortcuts Notes
 tags: Tests
-category: General
+category: Tech
 ---
 #### General Visual Studio Shortcuts ####
 

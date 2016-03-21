@@ -2,7 +2,7 @@
 layout: post
 title: Art & Icon Notes
 tags: Slides
-category: General
+category: Tech
 ---
 
 #### Attribution ####

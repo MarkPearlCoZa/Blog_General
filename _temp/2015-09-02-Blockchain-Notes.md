@@ -2,7 +2,7 @@
 layout: post
 title: Blockchain Notes
 tags: Internet
-category: General
+category: Tech
 ---
 
 #### References ####

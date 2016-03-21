@@ -2,7 +2,7 @@
 layout: post
 title: Visual Studio Notes
 tags: VS
-category: General
+category: Tech
 ---
 
 #### Open Solution from Command Line in Windows ####

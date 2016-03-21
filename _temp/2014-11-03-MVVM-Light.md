@@ -2,7 +2,7 @@
 layout: post
 title: MVVM Light Notes
 tags: Xaml
-category: General
+category: Tech
 ---
 
 #### General Components ####

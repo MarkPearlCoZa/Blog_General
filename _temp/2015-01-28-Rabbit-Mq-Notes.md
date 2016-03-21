@@ -2,7 +2,7 @@
 layout: post
 title: Rabbit MQ Notes
 tags: Messaging
-category: General
+category: Tech
 ---
 ### General ###
 

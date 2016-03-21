@@ -2,7 +2,7 @@
 layout: post
 title: Ninject Notes
 tags: IOC
-category: General
+category: Tech
 ---
 
 #### General ####

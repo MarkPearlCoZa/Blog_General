@@ -2,7 +2,7 @@
 layout: post
 title: Curl Notes
 tags: Curl
-category: General
+category: Tech
 ---
 
 #### About ####

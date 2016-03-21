@@ -2,7 +2,7 @@
 layout: post
 title: Installing Ubuntu on Virtual Box
 tags: Ubuntu
-category: General
+category: Tech
 ---
 
 ### Step 1 - Set Virtual Box Network Cards ###
