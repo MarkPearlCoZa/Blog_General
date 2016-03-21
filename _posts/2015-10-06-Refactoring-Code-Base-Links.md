@@ -2,7 +2,7 @@
 layout: post
 title: Refactoring Code Base Links
 tags: Refactoring
-category: Tech
+category: Programming
 ---
 
 ### Refactoring Code Base Links ###
