@@ -5,24 +5,23 @@ tagline: my thoughts and comments
 ---
 {% include JB/setup %}
 
-## Recent Posts
+## Categories 
 
-{% assign posts_per_page = 15 %}
-{% assign more_posts_to_show = false %}
+{% for category in site.categories %}
+        {{ category | first }}
+        {% unless forloop.last %}
+        {% endunless %}
+{% endfor %}
+
+## Recent Posts
 
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.category contains 'General' %}
-        {% if forloop.index <= posts_per_page %}
-            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {% else %}
-            {% assign more_posts_to_show = true %}
-        {% endif %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
-  {% if more_posts_to_show == true %}
-    <a href=''>See all posts...</a>
-  {% endif %}
+  <a href='{{ BASE_PATH }}/allposts'>See all general posts...</a>
 </ul>
 
 ## Tech Notes

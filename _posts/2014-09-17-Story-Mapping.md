@@ -2,7 +2,7 @@
 layout: post
 title: Story Mapping
 tags: Useful
-category: Notes
+category: Soft
 ---
 
 - Identify personas

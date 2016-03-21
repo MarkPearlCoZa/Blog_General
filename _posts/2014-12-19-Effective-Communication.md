@@ -2,7 +2,7 @@
 layout: post
 title: Effective Communication
 tags: Useful
-category: Notes
+category: Soft
 ---
 
 #### References ####
