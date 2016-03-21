@@ -2,7 +2,7 @@
 layout: post
 title: Declarative vs Imperaive Coding Notes
 tags: Style
-category: Tech
+category: Programming
 ---
 #### Imperative Coding ####
 

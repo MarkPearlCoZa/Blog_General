@@ -2,7 +2,7 @@
 layout: post
 title: INotifyPropertyChanged in the Domain
 tags: Style
-category: Tech
+category: Programming
 ---
 #### The Post that triggered this response from Janco ####
 

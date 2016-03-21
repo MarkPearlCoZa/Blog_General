@@ -2,7 +2,7 @@
 layout: post
 title: OO Constructors
 tags: OO
-category: Tech
+category: Programming
 ---
 #### Named Constructors ####
 

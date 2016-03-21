@@ -2,8 +2,8 @@
 layout: post
 title: "Liskov Substitution Principle Notes"
 description: "Liskon Substitution Principle Notes"
-category: Tech
 tags: [Notes, SOLID]
+category: Programming
 ---
 #### General Ramblings ####
 
