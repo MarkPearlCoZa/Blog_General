@@ -66,9 +66,13 @@
         <div class='col-md-4'>
             <div class='thumbnail'>
                 <div class='caption'>
-                    <h3>Categories</h3>
-                    {% for tag in site.tags %} 
-                      <a href='{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref'>{{ tag[0] }} ({{ tag[1].size }})</a>
+                    <h3>Posts by Tags</h3>
+                    {% assign sorted_tags = site.tags | sort %}
+                    {% for tag in sorted_tags %}
+                    {% assign zz = tag[1] | where: "category", "General" | sort %}
+                    {% if zz != empty %}
+                    <a href='{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref'>{{ tag[0] }} ({{ tag[1].size }})</a>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
