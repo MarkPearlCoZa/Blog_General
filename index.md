@@ -8,9 +8,10 @@ tagline: my thoughts and comments
 <p>Blog Posts</p>
 
 <ul>
-  {% for post in site.categories.general %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+  {% for post in site.posts %}
+        {% if post.category == 'General' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
   {% endfor %}
+
 </ul>
