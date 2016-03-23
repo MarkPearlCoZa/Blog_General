@@ -5,7 +5,7 @@ tagline: my thoughts and comments
 ---
 {% include JB/setup %}
 
-<p>Posts in category "basic" are:</p>
+<p>Blog Posts</p>
 
 <ul>
   {% for post in site.categories.general %}
