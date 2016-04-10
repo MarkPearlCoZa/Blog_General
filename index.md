@@ -22,12 +22,15 @@ tagline: my thoughts and comments
 	</div>
 	<div class="tab-pane" id="yellow">
 		<ul>
-		  {% for post in site.posts %}
+		  {% assign sortedposts = site.posts | sort:"title" %}
+		  {% for post in sortedposts  %}
 			{% if post.category == 'Tech' %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 			{% endif %}
 		  {% endfor %}
 		</ul>
+
+
 	</div>
 	<div class="tab-pane" id="green">
 		<ul>
