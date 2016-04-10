@@ -21,12 +21,22 @@ tagline: my thoughts and comments
 		</ul>
 	</div>
 	<div class="tab-pane" id="yellow">
-	    <h1>Yellow</h1>
-	    <p>yellow yellow yellow yellow yellow</p>
+		<ul>
+		  {% for post in site.posts %}
+			{% if post.category == 'Tech' %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		  {% endfor %}
+		</ul>
 	</div>
 	<div class="tab-pane" id="green">
-	    <h1>Green</h1>
-	    <p>green green green green green</p>
+		<ul>
+		  {% for post in site.posts %}
+			{% if post.category == 'Soft' %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		  {% endfor %}
+		</ul>
 	</div>
 </div>
 
