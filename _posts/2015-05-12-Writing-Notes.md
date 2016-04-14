@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Writing Notes
+category: Misc
 tags: Useful
-category: Soft
 ---
 
 #### Words to Avoid ####

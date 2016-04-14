@@ -2,7 +2,7 @@
 layout: post
 title: Words to Use
 tags: Meta
-category: General
+category: Misc
 ---
 
 In the attempt to expand my vocabulary, here are a list of words I have enjoyed hearing that I tend to forget what they mean. I've also added a few words I see crop up in technical documents that I have never understood before.

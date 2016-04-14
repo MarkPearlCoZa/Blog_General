@@ -9,6 +9,7 @@ tagline: my thoughts and comments
 <li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
 <li><a href="#tech" data-toggle="tab">Tech Notes</a></li>
 <li><a href="#soft" data-toggle="tab">Soft Notes</a></li>
+<li><a href="#misc" data-toggle="tab">Misc</a></li>
 </ul>
 <div id="my-tab-content" class="tab-content">
 
@@ -37,6 +38,15 @@ tagline: my thoughts and comments
 		  {% for post in alphabeticalPosts %}
 			{% if post.category == 'Soft' %}
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		  {% endfor %}
+		</ul>
+	</div>
+	<div class="tab-pane" id="misc">
+		<ul>
+		  {% for post in site.posts %}
+			{% if post.category == 'Misc' %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 			{% endif %}
 		  {% endfor %}
 		</ul>
