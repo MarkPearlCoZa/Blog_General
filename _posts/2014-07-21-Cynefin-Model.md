@@ -2,7 +2,7 @@
 layout: post
 title: Cynefin Framework
 tags: Concept
-category: Soft
+category: Process
 ---
 ####  Notes ####
 

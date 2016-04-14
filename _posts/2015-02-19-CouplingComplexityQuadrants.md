@@ -2,7 +2,7 @@
 layout: post
 title: Coupling Complexity Quadrants
 tags: Useful
-category: Soft
+category: Misc
 ---
 ![Coupling Complexity Quadrants]({{ site.url }}/assets/images/CouplingComplexityQuadrants.png)
 

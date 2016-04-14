@@ -2,7 +2,7 @@
 layout: post
 title: Digital Team Boards
 tags: Useful
-category: Soft
+category: Process
 ---
 
 #### Advantages of Physical Boards ####

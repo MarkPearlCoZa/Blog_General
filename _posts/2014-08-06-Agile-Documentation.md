@@ -2,7 +2,7 @@
 layout: post
 title: Agile Documentation
 tags: Useful
-category: Soft
+category: Process
 ---
 
 #### Introduction ####

@@ -2,7 +2,7 @@
 layout: post
 title: Story Mapping
 tags: Useful
-category: Soft
+category: Process
 ---
 
 - Identify personas

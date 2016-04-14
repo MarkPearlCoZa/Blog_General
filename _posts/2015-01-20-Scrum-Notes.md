@@ -2,7 +2,7 @@
 layout: post
 title: Scrum Notes
 tags: Scrum
-category: Soft
+category: Process
 ---
 
 #### Mantra ####

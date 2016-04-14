@@ -2,7 +2,7 @@
 layout: post
 title: Agile Essence and Fluency
 tags: Useful
-category: Soft
+category: Process
 ---
 Here are some notes I got from a talk by Martin Fowler at Agile Africa 13.
 

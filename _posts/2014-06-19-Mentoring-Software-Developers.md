@@ -2,7 +2,7 @@
 layout: post
 title: "Mentoring Software Developers"
 description: "Notes on Mentoring Software Developers"
-category: Soft
+category: Misc
 tags: [Journeyman, Mentor]
 ---
 #### Making it intentional ####

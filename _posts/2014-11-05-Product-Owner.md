@@ -2,7 +2,7 @@
 layout: post
 title: Product Owner
 tags: Useful
-category: Soft
+category: Process
 ---
 
 #### References ####

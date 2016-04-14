@@ -2,7 +2,7 @@
 layout: post
 title: Software Craftmanship
 tags: Craft
-category: Soft
+category: Misc
 ---
 
 #### General ####

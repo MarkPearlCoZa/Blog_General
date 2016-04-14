@@ -2,7 +2,7 @@
 layout: post
 title: Speaking Notes
 tags: Useful
-category: Soft
+category: Misc
 ---
 
 #### References ####

@@ -2,7 +2,7 @@
 layout: post
 title: Cycle Time
 tags: Useful
-category: Soft
+category: Process
 ---
 #### Definition ####
 

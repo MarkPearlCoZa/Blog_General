@@ -2,7 +2,7 @@
 layout: post
 title: Software Quality Notes
 tags: Notes
-category: Soft
+category: Misc
 ---
  
 #### Technical Debt ####

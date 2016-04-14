@@ -2,7 +2,7 @@
 layout: post
 title: Pre Conference Preperation
 tags: Useful
-category: Soft
+category: Misc
 ---
 Watching a pro do pre-conference is alway enlightening. At Agile Africa last year I got in early enough to watch Martin Fowler do some pre-conference prep.
 

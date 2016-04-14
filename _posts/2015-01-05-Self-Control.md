@@ -2,7 +2,7 @@
 layout: post
 title: Self Control
 tags: Character
-category: Soft
+category: Misc
 ---
 
 

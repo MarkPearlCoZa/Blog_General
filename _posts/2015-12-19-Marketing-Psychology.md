@@ -2,7 +2,7 @@
 layout: post
 title: Marketing Psychology
 tags: Useful
-category: Soft
+category: Misc
 ---
 #### Priming ####
 

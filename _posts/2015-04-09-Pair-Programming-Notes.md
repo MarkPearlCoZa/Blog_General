@@ -2,7 +2,7 @@
 layout: post
 title: Pair Programming Notes
 tags: XP
-category: Soft
+category: Process
 ---
 
 #### References ####

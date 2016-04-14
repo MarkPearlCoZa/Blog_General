@@ -2,7 +2,7 @@
 layout: post
 title: Technical Debt Notes
 tags: Concept
-category: Soft
+category: Process
 ---
 #### Technical Debt Notes ####
 

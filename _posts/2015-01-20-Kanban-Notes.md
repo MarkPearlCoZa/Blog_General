@@ -2,7 +2,7 @@
 layout: post
 title: Kanban Notes
 tags: Kanban
-category: Soft
+category: Process
 ---
 
 #### Mantra ####

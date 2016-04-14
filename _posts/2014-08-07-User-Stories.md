@@ -2,7 +2,7 @@
 layout: post
 title: User Stories Notes
 tags: Useful
-category: Soft
+category: Process
 ---
 #### General ####
 

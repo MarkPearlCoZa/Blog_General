@@ -2,7 +2,7 @@
 layout: post
 title: Deadlines
 tags: Useful
-category: Soft
+category: Process
 ---
 
 #### General Notes about Deadlines ####
