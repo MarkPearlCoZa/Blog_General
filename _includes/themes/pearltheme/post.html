@@ -11,46 +11,9 @@
       {{ content }}
     </div>
     <hr>
-    <!-- Next / Previous Buttons -->
-
-
-{% if page.categories %}
-  {% assign category = page.categories[0] %}
-  {% assign posts = site.categories[category] %}
-  {% for post in posts %}
-    {% if post.url == page.url %}
-      {% assign post_index0 = forloop.index0 %}
-      {% assign post_index1 = forloop.index %}
+    {% if page.category == 'General' %}
+       {% include next_and_previous_category_posts.html %}
     {% endif %}
-  {% endfor %}
-  {% for post in posts %}
-    {% if post_index0 == forloop.index %}
-      {% assign next_post = post %}
-    {% endif %}
-    {% if post_index1 == forloop.index0 %}
-      {% assign prev_post = post %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-
-    <div class="row">
-        <div class="col-md-4">
-          {% if next_post  %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ next_post.url }}" title="{{ next_post.title }}">&larr; Next Post</a>
-          {% else %}
-            <a class='btn btn-info btn-block disabled' >&larr; Next Post</a>
-          {% endif %}
-        </div>
-        <div class="col-md-4 col-md-offset-4">
-          {% if prev_post %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ prev_post.url }}" title="{{ prev_post.title }}">Previous Post &rarr;</a>
-          {% else %}
-            <a class='btn btn-info btn-block disabled' >Previous Post &rarr;</a>
-          {% endif %}
-        </div>
-    </div>
     <hr>
-
     {% include JB/comments %}
 </div>
