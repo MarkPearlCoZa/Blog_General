@@ -14,7 +14,7 @@ Books to read..
 - [The Pragmatic Programmer by Hunt and Thomas](http://bookreviews.markpearl.co.za/programmer/2011/03/11/The-Pragmatic-Programmer/)
 - [Clean Code by Robert C Martin](http://bookreviews.markpearl.co.za/programming/2011/05/23/Clean-Code/)  
 - Refactoring by Martin Fowler  
-- Working effectively with legacy code by Michael Feathers  
+- [Working effectively with legacy code by Michael Feathers](http://bookreviews.markpearl.co.za/Working-Effectively-With-Legacy-Code/)  
 - [Code Complete by Steve McConnell](http://bookreviews.markpearl.co.za/programming/2011/06/27/Code-Complete/)  
 - [The Art of Unit Testing by Roy Osherove](http://bookreviews.markpearl.co.za/programming/2011/02/15/The-Art-of-Unit-Testing/)  
 
@@ -26,7 +26,7 @@ Video resources to watch..
 Conferences I would love to attend..
 
 - [NDC Oslo Conference Videos](http://www.ndcoslo.com)  
-- [LeanKanban Central Europe](http://www.lkce13.com/)  
+- [Lean Kanban Central Europe](http://www.lkce13.com/)  
 
 Should you want to improve you typing abilities I would recommend..
 
