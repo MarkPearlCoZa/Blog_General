@@ -18,23 +18,23 @@ As I have become more experienced as a developer, I have found it important to m
 
 As a programmer, I have found a real advantage to being able to express solutions at the speed of thought - that means not having typing get in the way. Having a keyboard that supports above average typing speeds (70wpm+) is important to me.
 
-##### Speed and health should live together like a happy family #####
-
 Thankfully I have discovered several keyboards that appear to solve both the ergonomics and speed requirements I have as a software developer.
+
+<blockquote>
+  <p>"Speed and health should live together like a happy family"</p>
+</blockquote>
 
 At the end of this post is a list of keyboards I would keep my eye on, while not comprehensive, the list has a range of keyboards that I would consider 'professional' programming keyboards. Some of them solve the speed issue, some solve the ergonomic issue, some solve both. With that said, let's move on to my ultimate developer keyboard.
 
+<img class="img-responsive" alt="Ultimate Developer Keyboard" src="{{ site.url }}/assets/images/Keyboard-UltimateDeveloper.jpg">
+
+Having worked with the Kinesis, Ergodox and Ultimate Hacking Keyboard (UHK), I often dream of designing my own keyboard and combining the strengths of all three of these keyboards into one single keyboard - what I would consider the ultimate developer keyboard! All three keyboards have gotten things right, and all three keyboards have gotten things wrong - put the right things together and you have something special.
+
+Having a wife who is good with photoshop, I (with her significant help) was able to put what has up to now been only in my mind as the ultimate developer keyboard into a picture for all to behold. At first glance it looks like the Kinesis, on closer examination you begin to see the Ergodox and UHK shine through - with some special additions.
+
 -----------------------------------------------------------------------------------------
 
-#### My Ultimate Developer Keyboard ####
-
-Having worked with both the Kinesis and Ergodox (see reviews below) I often dream of designing my own keyboard and combining the strengths of both of these keyboards into one single keyboard - what I would consider the ultimate developer keyboard. Both keyboards have gotten things right, and both keyboards have gotten things wrong - put the right things together and you have something special.
-
-Having a wife who is good with photoshop, I (with her significant help) was able to put what has up to now been only in my mind as the ultimate developer keyboard into a picture for all to behold. At first glance it looks like the Kinesis, on closer examination you begin to see the Ergodox shine through - with some special additions.
-
-**My ultimate developer keyboard would look something like this...**
-
-![Ultimate Developer Keyboard]({{ site.url }}/assets/images/Keyboard-UltimateDeveloper.jpg)
+#### Design Decisions ####
 
 ##### Shape of Keyboard #####
 
@@ -106,7 +106,7 @@ In addition, if possible I would add a bluetooth module that would allow for the
 
 #### Kinesis Advantage Pro Review ####
 
-![Kinesis Advantage Pro]({{ site.url }}/assets/images/Keyboard-KinesisAdvantagePro.jpg)
+<img class="img-responsive" alt="Kinesis Advantage Pro" src="{{ site.url }}/assets/images/Keyboard-KinesisAdvantagePro.jpg">
 
 ##### What I like about the Kinesis #####
 
@@ -136,7 +136,7 @@ The keyboard does not work properly on certain Windows 7 machines. As stated by 
 
 #### Ergodox EZ Review ####
 
-![Ergodox Ez]({{ site.url }}/assets/images/Keyboard-ErgodoxEz.jpg)
+<img class="img-responsive" alt="Ergodox Ez" src="{{ site.url }}/assets/images/Keyboard-ErgodoxEz.jpg">
 
 ##### What I like about the Ergodox EZ #####
 
@@ -152,7 +152,7 @@ Transporting the Ergodox is really easy. Because it comes in two parts, you can 
 
 The Ergodox has the additional windows/function keys below shift. This is a step up from the Kinesis and means you can have alt + ctrl on both thumb maps and still have a windows key.
 
-##### What I don't like  about the Ergodox EZ #####
+##### What I don't like about the Ergodox EZ #####
 
 Unfortunately it doesn't have a USB hub built in. This means whenever I plug my keyboard into a terminal I have to plug my mouse dongle in as well. I miss the usb hub that the Kinesis has.
 
@@ -164,30 +164,44 @@ I really miss the curved design for the hands of the Kinesis. The keys on the Ki
 
 -----------------------------------------------------------------------------------------
 
+#### Ultimate Hacking Keyboard Review ####
+
+<img class="img-responsive" alt="Ultimate Hacking Keyboard" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-UHK.jpg">
+
+##### What I like about the UHK #####
+
+##### What I don't like UHK #####
+
+-----------------------------------------------------------------------------------------
+
 #### Summary ####
 
-I enjoy both keyboards. Right now my preference is the Ergodox. The extra keys really make a big difference. Because both the Ergodox and Kinesis both have the thumb pad with the primary keys on it (space, backspace, enter, ctrl, alt), switching between them is very easy. Also, both keyboards are ergo-friendly. After having switched to them the numbness in my hands has virtually gone away.
+I enjoy all three keyboards. Right now my preference is the Ergodox. The extra keys for switching key map layers really make a big difference. Because both the Ergodox and Kinesis both have the thumb pad with the primary keys on it (space, backspace, enter, ctrl, alt), switching between them once you have mapped the new positions is very easy. Also, all three keyboards are ergo-friendly. After having switched to a split layout the numbness in my hands has gone away.
 
-#### Developer Keyboards ####
+See the [Stack Exchange discussion](http://programmers.stackexchange.com/questions/2254/what-are-good-keyboards-for-programming) for some other options...  
+See a [great comparison review for keyboards](http://www.cataclysmicmutation.com/2014/01/18/fun-with-expensive-keyboards/).  
+See the discussion on [Quora regarding ultimate programmer keyboard](https://www.quora.com/What-is-the-best-keyboard-for-a-programmer).  
+
+-----------------------------------------------------------------------------------------
+
+#### Developer keyboards to keep an eye on... ####
 
 [ErgoDox EZ](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard) - $295  
 [Kinesis Advantage Pro for PC](http://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/) - $359  
-
 [Ultimate Hacker Keyboard](https://ultimatehackingkeyboard.com/)- $220  
-[ATREUS](http://atreus.technomancy.us) - $149  
+
+[Atreus](http://atreus.technomancy.us) - $149  
 [Code Keyboards](https://codekeyboards.com/) - $150 to $180  
 [Happy Hacking Keyboard](https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b) - $?  
 [Noppoo-Nano75](http://www.banggood.com/Noppoo-Nano75-s-60-Cherry-MX-Red-Switch-Mechanical-Gaming-Keyboard-p-966287.html) -$90  
 [DAS Keyboard](http://www.daskeyboard.com/) - $100 to $150  
 
-See the [Stack Exchange discussion](http://programmers.stackexchange.com/questions/2254/what-are-good-keyboards-for-programming) for some other options...  
-See a [great comparison review for keyboards](http://www.cataclysmicmutation.com/2014/01/18/fun-with-expensive-keyboards/)  
-See discussion on [Quora regarding ultimate programmer keyboard](https://www.quora.com/What-is-the-best-keyboard-for-a-programmer)  
+#### Which mechanical keyboard switches should I use? ####
 
-### Which keyboard switches should I use? ###
+See a [detailed explanation of different switches](http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/)  
 
-[Detailed explanation of different switches](http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/)  
+I'm very happy with Gaetron Browns - I find they are firm enough to get the great mechanical feel, yet quite enough to not be hated around the office.
 
-#### Modifying your Kinensis ####
+#### Resources ####
 
-[Mounting magic trackpad to Kinesis](https://www.petekeen.net/mounting-a-magic-trackpad-on-a-kinesis-advantage-keyboard)  
+[Modifying your Kinesis - Mounting magic trackpad to Kinesis](https://www.petekeen.net/mounting-a-magic-trackpad-on-a-kinesis-advantage-keyboard)  
