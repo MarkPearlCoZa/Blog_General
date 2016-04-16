@@ -2,7 +2,7 @@
 layout: post
 title: Presenting at International Conferences
 tags: Conferences
-category: General
+category: Misc
 ---
 
 I have been presenting at local conferences for a few years. At the end of last year I decided to make it a goal for this year to present at an overseas conference. With no experience on how to make the transition from local to international conferences and a limited budget, I decided email a few freinds of mine what that have already made this leap to get their advice.

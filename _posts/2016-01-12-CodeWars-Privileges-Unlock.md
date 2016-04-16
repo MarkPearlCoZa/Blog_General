@@ -2,7 +2,7 @@
 layout: post
 title: Codewars Privileges Unlock
 tags: Meta
-category: General
+category: Misc
 ---
 #### What is CodeWars? ####
 

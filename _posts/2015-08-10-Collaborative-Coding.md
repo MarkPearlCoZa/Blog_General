@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaborative Coding
-tags: Code
+tags: Collaboration
 category: General
 ---
 

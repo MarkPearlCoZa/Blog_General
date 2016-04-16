@@ -2,7 +2,7 @@
 layout: post
 title: Conference Speaker Tools
 tags: Conferences
-category: General
+category: Misc
 ---
 For those that know me - I have spoken at a few conferences. Below are a collection of tools I use for discovering conferences and opportunitites to speak.
 
