@@ -34,7 +34,7 @@ Having a wife who is good with photoshop, I (with her significant help) was able
 
 -----------------------------------------------------------------------------------------
 
-#### Design Decisions ####
+#### Design Decisions on the Ultimate Developer Keyboard ####
 
 ##### Shape of Keyboard #####
 
