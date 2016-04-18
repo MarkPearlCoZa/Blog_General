@@ -9,6 +9,8 @@ category: General
 
 In June 2015 I attended [Agile Roots](http://www.agileroots.com/) - a regional agile conference held in Utah that I highly recommend. While there I had the privilege of spending a day at [Pluralsight](http://www.pluralsight.com/) with one of their engineering teams ([Allan](https://twitter.com/AllanCodes), [Eric](https://twitter.com/iminurcodez]) and  [David](https://twitter.com/battenworks)) doing a team tourism day. It was one of the funnest day's I have had in my professional career and while at the time I didn't realize it - I learnt a technique of collaboration that has had a fundamental impact on how I develop software.
 
+<img class="img-responsive" alt="Me with Allan, David & Eric at Pluralsight" src="{{ site.utl }}/assets/images/Becomming-A-Mobber-Pluralsight-Team.jpg">
+
 So what did we do? In a nutshell, the four of us stood around a large screen (60") with a single keyboard, working together on a single user story for the entire day. Every ten minutes we would swap who was typing on the keyboard, while those not typing remained engaged in solving the problem by giving their insights. By the end of the day I was thoroughly exhausted but hooked - it was my first introduction to mob programming. 
 
 #### Flow utilization vs. resource utilization 
