@@ -44,23 +44,31 @@ Keeping the shape of the keyboard would impact the ease of transportation of the
 
 #### Thumb Keypad Layout ####
 
+<img class="img-responsive" alt="Thumb Keys" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-ErgoDoxKeyLayout-Thumb-Keys.png">
+
 Keeping the thumb keypad layout (the area where enter, ctrl, alt, backspace, space, etc) are located as per both the ErgoDox and Kinesis is important. After having used this layout compared to a traditional layout, I have found it to be superior as well as easier on the hands.
 
 #### Key Wells ####
+
+<img class="img-responsive" alt="Thumb Keys" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-Kinesis-Key-Wells.png">
 
 I would keep the kinesis key wells - the advantage of the key wells is having the standard keys closer together and naturally angled so that your hands fit comfortably in a resting position and your fingers do not have to move far to make a key press.
 
 #### Mechanical Function Keys ####
 
-I would introduce normal sized mechanical keys as function keys (The traditional function keys that the kinesis has are a waste of time) . This would make a huge difference when working in IDE's that require regular use of the function keys.
+I would have normal sized mechanical keys as function keys (The traditional function keys that the kinesis has are a waste of time - in the ErgoDox you typically map a different layer to function keys - neither approach is great) . This would make a huge difference when working in IDE's that require regular use of the function keys.
 
 #### Dedicated Gui/Function keys below Shift ####
 
-I would adjust the key layout that the Kinesis has to have the additional key underneath the shift keys (same as the ErgoDox currently has). This would allow for the windows/function key to be assigned to these keys while still keeping the ctrl and alt keys on both thumb keypad layout.
+I like the approach the ErgoDox has taken with the additional key underneath the shift keys. This allows for the windows/function keys to be assigned to these keys while still keeping the ctrl and alt keys on both thumb keypad layout. A key combination that is fairly common for programmers, especially when using tools like ReSharper.
 
 #### Remapping Keys Functionality ####
 
-Mapping of keys would use the same process that the Ergodox uses. Having a graphical display for for remapping keys is superior compared to manual remapping done with the Kinesis.
+Mapping of keys would use the same process that the Ergodox uses. 
+
+See [Massdrops Keyboard Configurator for ErgoDox](https://keyboard-configurator.massdrop.com/ext/ergodox)  
+
+Having a graphical display for for remapping keys is superior compared to manual remapping done with the Kinesis.
 
 #### Macro Recording Functionality ####
 
@@ -68,7 +76,7 @@ I would drop the current macro recording facility of the Kinesis. It is a waste 
 
 #### Additional Row in Key Well for Layer Keys ####
 
-I would add an additional column of keys in the key well for layer keys - similar to how the ErgoDox currently has it. These layer keys make it extremely easy to switch between layer mappings which makes them useful for VIM mappings etc.
+I would add an additional column of keys in the key well for layer keys - similar to how the ErgoDox currently has it. These layer keys make it extremely easy to switch between layer mappings which makes them useful layers for VIM mappings etc.
 
 #### Eight Additional Keys in Dead Area ####
 
