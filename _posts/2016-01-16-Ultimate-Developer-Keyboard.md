@@ -36,67 +36,67 @@ Having a wife who is good with photoshop, I (with her significant help) was able
 
 ### Design Decisions on the Ultimate Developer Keyboard ###
 
-### Shape of Keyboard ###
+#### Shape of Keyboard ####
 
 The Kinesis got the shape of the keyboard right. My ideal developer keyboard would have a shell exactly the same as the Kinesis. This would allow arms to be parallel to the body instead of angled in.
 
 Keeping the shape of the keyboard would impact the ease of transportation of the keyboard, but the wins of portability having the keyboard as a single unit outweigh the cons of transportation. A single unit makes it easy to move between computers at a single location - something that is important if you work in a co-located office where pairing and mobbing is common.
 
-### Thumb Keypad Layout ###
+#### Thumb Keypad Layout ####
 
 Keeping the thumb keypad layout (the area where enter, ctrl, alt, backspace, space, etc) are located as per both the ErgoDox and Kinesis is important. After having used this layout compared to a traditional layout, I have found it to be superior as well as easier on the hands.
 
-### Key Wells ###
+#### Key Wells ####
 
 I would keep the kinesis key wells - the advantage of the key wells is having the standard keys closer together and naturally angled so that your hands fit comfortably in a resting position and your fingers do not have to move far to make a key press.
 
-### Mechanical Function Keys ###
+#### Mechanical Function Keys ####
 
 I would introduce normal sized mechanical keys as function keys (The traditional function keys that the kinesis has are a waste of time) . This would make a huge difference when working in IDE's that require regular use of the function keys.
 
-### Dedicated Gui/Function keys below Shift ###
+#### Dedicated Gui/Function keys below Shift ####
 
 I would adjust the key layout that the Kinesis has to have the additional key underneath the shift keys (same as the ErgoDox currently has). This would allow for the windows/function key to be assigned to these keys while still keeping the ctrl and alt keys on both thumb keypad layout.
 
-### Remapping Keys Functionality ###
+#### Remapping Keys Functionality ####
 
 Mapping of keys would use the same process that the Ergodox uses. Having a graphical display for for remapping keys is superior compared to manual remapping done with the Kinesis.
 
-### Macro Recording Functionality ###
+#### Macro Recording Functionality ####
 
 I would drop the current macro recording facility of the Kinesis. It is a waste of time. If possible I would introduce a graphical macro recording facility. If this was not possible, I would scrap the idea of macro recording totally.
 
-### Additional Row in Key Well for Layer Keys ###
+#### Additional Row in Key Well for Layer Keys ####
 
 I would add an additional column of keys in the key well for layer keys - similar to how the ErgoDox currently has it. These layer keys make it extremely easy to switch between layer mappings which makes them useful for VIM mappings etc.
 
-### Eight Additional Keys in Dead Area ###
+#### Eight Additional Keys in Dead Area ####
 
 Looking at the Kinesis layout, there is a big wide open space in the middle of the keyboard I like to call the dead area. I would introduce 8 additional mechanical keys to this area. These keys can be mapped to anything. If we were able to substantially improve the macro recording facility these keys could prove to be really useful. Alternatively just mapping these keys to common key combinations could also add value.
 
-### Mechanical Keys all the way ###
+#### Mechanical Keys all the way ####
 
 I understand that key switches are interchangeable, but by default I would use the gaetron browns - these are the default key switches I have in my ergodox and they are really comfortable. All keys on the keyboard would be mechanical.
 
-### Led section to show current layer ###
+#### Led section to show current layer ####
 
 One of my irratances of the ErgoDox is guessing what layer you are currently on.
 
 I would add additional LED display to the top left of the keyboard which would graphically display what layer the keyboard is currently on.#
 
-### Touchpad below thumb key pad ###
+#### Touchpad below thumb key pad ####
 
 I would add the apple touchpad built in to the keyboard just below the thumb key pad. This would allow you to keep you hands on your keyboard at all times. In the situations when you absolutely have to use mouse navigation, the touchpad is there.
 
 The touchpad is also useful for having on operating systems where you have multiple desktops and scrolling between desktops is common. 
 
-### USB Hub / Ports ###
+#### USB Hub / Ports ####
 
 I would keep the USB hub where the Kinesis already has it underneath the keyboard. I would add an additional usb port on either side of the Kinesis box. This could be used for plugging in flash sticks, etc.
 
 You can never have enough USB ports!
 
-### Bluetooth Connectivity ###
+#### Bluetooth Connectivity ####
 
 In addition, if possible I would add a bluetooth module that would allow for the device to be connected to a PC via bluetooth. I'm not sure on how easy this would be, but hey, this is my imaginary developer keyboard.
 
