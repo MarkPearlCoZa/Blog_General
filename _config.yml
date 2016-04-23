@@ -20,7 +20,7 @@ author :
   twitter : MarkPearlCoZa
   feedburner : feedname
 
-production_url : www.markpearl.co.za.s3-website-us-west-2.amazonaws.com
+production_url : www.markpearl.co.za
 
 JB :
   version : 0.3.0
