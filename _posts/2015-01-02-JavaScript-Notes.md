@@ -115,6 +115,30 @@ or
 if (data === parseInt(data, 10)) { ... }
 ~~~
 
+#### Closures ####
+
+Closures are functions that refer to independent (free) variables. In other words, the function defined in the closure 'remembers' the environment in which it was created.
+
+Below is an example of a closures. A 
+
+~~~
+function buildFun(n){
+  var result  = []
+
+  for (let i = 0; i< n; i++) {
+    var closure = function() {
+      return i;               
+    };
+   
+   result.push(closure);
+  }
+ 
+  return result;
+}
+~~~
+
+[Read more](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)  
+
 #### References ####
 
 [Useful Methods for Strings]("http://www.impressivewebs.com/javascript-string-methods-reference/")  
