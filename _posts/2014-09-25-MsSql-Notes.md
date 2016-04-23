@@ -170,7 +170,7 @@ itemValue	itemValue
 4	4
 ~~~
 
-#### Left Outer Join ####
+#### Left Outer Join  ####
 
 ~~~
 select T1.itemValue, T2.itemValue from #Temp as T1 left outer join #Temp2 as T2 on T1.itemValue = T2.itemValue
@@ -213,6 +213,10 @@ itemValue	itemValue
 NULL	5
 NULL	6
 ~~~
+
+#### Joining on the same table ####
+
+Note, it can be done! Google for examples.
 
 ### Dynamic Queries using Schema ###
 
