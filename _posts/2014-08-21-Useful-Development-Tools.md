@@ -2,7 +2,7 @@
 layout: post
 title: Useful Develpment Tools
 tags: Useful
-category: Programming
+category: Misc
 ---
 Below are a list of tools that are useful for software development. I have categorized them based on the language I saw them being used in - this doesn't exclude them from possibly working in other languages.
 
@@ -35,3 +35,7 @@ Below are a list of tools that are useful for software development. I have categ
 
 - [WinSCP](winscp.net) - free sftp, scp & ftp client for Windows
 - [FileZilla](https://filezilla-project.org) - free sftp, ftp client for Windows
+
+#### Fun ####
+
+- [Hacker Typer](http://hackertyper.net/) - pretends you are programming
