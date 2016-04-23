@@ -123,6 +123,15 @@ You can insert data into the table, e.g.
 insert into #Temp select 1, 'example text'
 ~~~
 
+### Working with Nulls ###
+
+You can do the following in a where statement...
+
+~~~
+Where Field is Null
+Where Field is Not Null
+~~~
+
 ### Joins ###
 
 [see this post for interesting details](http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-joins)  
@@ -241,5 +250,22 @@ END
 GO
 ~~~
 
+### Sections to add more detail on viewed in Mark Long's video series ###
+
+[Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)
+
+Adding a primary key
+Inner and outer joins
+Refreshing intellisense
+Aggregate Functions
+Having and Where
+Select into
+Insert Select
+Variables
+Case Statements
+Stored Procs vs Functions
+Clustered vs Non-Clustered Indexes
+
 ### References ###
 
+[Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)

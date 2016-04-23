@@ -30,6 +30,10 @@ Something that took me a while to figure out was if you have a secondary or exte
 sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 ~~~
 
+#### Sharing the clipboard between memory registers ####
+
+[How can I copy text to the system clipboard from vim](http://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim)  
+
 #### Open up graphical equivalent to Windows Explorer from CLI ####
 
 ~~~

@@ -15,3 +15,7 @@ He contends that names further to the right of this spectrum provide more clarit
 #### Why naming is so important ####
 
 To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie)  
+
+#### References ####
+
+[Six Stages of Naming](https://twitter.com/llewellynfalco/status/634014935706636288)
