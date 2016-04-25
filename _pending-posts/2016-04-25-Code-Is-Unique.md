@@ -2,6 +2,53 @@ How can all code be seen as equal.
 
 The following is an example of two approaches to solving the same problem.
 
+---------------------------------------
+
+function unusedDigits(...args){
+  return "0123456789".replace(new RegExp('['+args.join('')+']','g'), '')
+}
+ 
+-------------------------------------------
+
+Compared to….
+ 
+function unusedDigits(...args){
+  args = typeof args[0] === 'object' && args[0].length ? args[0] : args;
+  let usedDigits = args.join('').split('').map(Number).sort(),
+    allDigits = [0,1,2,3,4,5,6,7,8,9];
+  return arrayMinus(allDigits, usedDigits).join('');
+}
+ 
+function arrayMinus(arr1, arr2) {
+  arr1 = unique(arr1.sort());
+  arr2 = unique(arr2.sort());
+  let i = 0, j = 0, result = [];
+  while (i < arr1.length || j < arr2.length) {
+    let item1 = i < arr1.length ? arr1[i] : Infinity;
+    let item2 = j < arr2.length ? arr2[j] : Infinity;
+    if (item1 < item2) {
+      result.push(item1);
+      i++;
+    } else if (item1 > item2) {
+      j++;
+    } else {
+      i++; j++;
+    }
+  }
+  return result;
+}
+ 
+function unique(arr) {
+  return arr.reduce(function(memo, v) {
+      if (!memo.seen[v]) {
+        memo.seen[v] = true;
+        memo.result.push(v);
+      }
+      return memo;
+    }, { result: [], seen: {} })
+    .result;
+}
+
 -------------------------------------------------------------------------
 
 function isMatching(string, str1, str2) {
