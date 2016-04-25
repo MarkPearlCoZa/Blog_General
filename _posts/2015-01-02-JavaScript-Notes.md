@@ -33,6 +33,11 @@ Another approach for creating an array and populating it with values 1 to 10...
 Array.from({length:n}, (_,i)=>i+1)
 ~~~
 
+#### Array cheat sheet ####
+
+ unshift -> array <- push
+ shift   <- array -> pop
+
 #### Checking for Null Values ####
 
 Use the || to return a default value if the first value is null.
