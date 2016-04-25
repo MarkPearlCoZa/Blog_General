@@ -21,6 +21,10 @@ Below are a list of tools that are useful for software development. I have categ
 - [Brackets](http://brackets.io/) - open source code editor for web designers and front-end developers
 - [LightTable](http://www.lighttable.com/) - code editor
 
+#### JavaScript ####
+
+- [JS Online Reply](https://babeljs.io/repl/) - javascript online repl  
+
 #### General ####
 
 - [ConEmu](https://code.google.com/p/conemu-maximus5/) - console management
