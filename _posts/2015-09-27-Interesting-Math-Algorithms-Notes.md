@@ -34,6 +34,10 @@ var triangular = (n*(n+1)) / 2;
 [Triangular Numbers](https://en.wikipedia.org/wiki/Triangular_number)  
 [Polygonal Numbers](https://en.wikipedia.org/wiki/Polygonal_number)  
 
+#### Triangle Inequality Theorem ####
+
+Triangle Inequality Theorem, which states that the sum of two side lengths of a triangle is always greater than the third side. If this is true for all three combinations of added side lengths, then you will have a triangle.
+
 #### Permutations vs Combinations ####
 
 Combinations if order DOES NOT matter.  

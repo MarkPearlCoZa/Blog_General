@@ -266,6 +266,21 @@ Case Statements
 Stored Procs vs Functions
 Clustered vs Non-Clustered Indexes
 
+#### Show Running Queries ####
+
+~~~
+SELECT sqltext.TEXT
+                ,req.session_id
+                ,req.STATUS
+                ,req.command
+                ,req.cpu_time
+                ,req.total_elapsed_time / 1000 / 60 AS [Running Minutes],
+                blocking_session_id AS [Blocked By]--,
+                --db.name
+FROM sys.dm_exec_requests req
+CROSS APPLY sys.dm_exec_sql_text(sql_handle) AS sqltext
+~~~
+
 ### References ###
 
 [Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)
