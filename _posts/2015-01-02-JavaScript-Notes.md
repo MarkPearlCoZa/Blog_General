@@ -139,6 +139,14 @@ function buildFun(n){
 
 [Read more](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)  
 
+#### Check if key is in Json Object ####
+
+~~~
+let person = { name : "Mark", surname : "Pearl"}
+
+If ('propertyName' in person) ...
+~~~
+
 #### References ####
 
 [Useful Methods for Strings]("http://www.impressivewebs.com/javascript-string-methods-reference/")  
