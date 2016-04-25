@@ -64,6 +64,19 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
+#### Sorting ####
+
+An example of sorting values/numbers in an array
+
+~~~
+function isTriangle(a,b,c)
+{
+  [a, b, c] = [a, b, c].sort((x, y) => x-y);
+  
+  return a+b > c;
+}
+~~~
+
 #### Easy way to Run JavaScript ####
 
 Create a html file called program.html with the following content.
@@ -146,6 +159,11 @@ let person = { name : "Mark", surname : "Pearl"}
 
 If ('propertyName' in person) ...
 ~~~
+
+#### Iterators ####
+
+[Read more on iterators](http://exploringjs.com/es6/ch_iteration.html)  
+
 
 #### References ####
 
