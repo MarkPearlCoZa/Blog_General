@@ -181,6 +181,12 @@ The () section indicates that any one of these can be in the space.
 (?:street|lane)
 ~~~
 
+Another example would be below where it finds a match for http or ftp but does not include it in a match.
+
+~~~
+(?:http|ftp)
+~~~
+
 #### Capturing Groups #####
 
 Use a group (), to return a capture group

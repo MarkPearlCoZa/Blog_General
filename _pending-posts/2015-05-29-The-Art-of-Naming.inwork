@@ -39,6 +39,7 @@ Request handlers -
 Payload -  
 Filter - 
 Transformer -  
+Encoding - Decoding
 
 Name the responsibility, not the thing. For example, if you think in terms of responsibilities, names of classes should describe behaviour, not things.
 
