@@ -5,6 +5,8 @@ category: Misc
 tags: Useful
 ---
 
+No matter what one writes, no matter how carefully one tries to articulate it, a non-trivial segment of the readership will interpret it differently from what one intended - J.B. Rainsberger
+
 #### Words to Avoid ####
 
 That  
