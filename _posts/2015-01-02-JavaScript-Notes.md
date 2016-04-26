@@ -88,6 +88,14 @@ function isTriangle(a,b,c)
 }
 ~~~
 
+#### Squaring Number Syntax ####
+
+The below code square c to the power of 2
+
+~~~
+c ** 2
+~~~
+
 #### Easy way to Run JavaScript ####
 
 Create a html file called program.html with the following content.
