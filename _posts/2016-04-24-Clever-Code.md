@@ -5,6 +5,8 @@ tags: Code
 category: Misc
 ---
 
+### Javascript ###
+
 #### Get the last digit of a number ####
 
 ~~~
@@ -23,3 +25,12 @@ function insertDashII(num) {
 }
 ~~~
 
+#### Replace every word not matching a pattern using Regex and JS ####
+
+~~~
+function rakeGarden(garden) {
+  return garden.replace(/\w+/g,function(v){if(v!=='rock')v='gravel';return v;});
+}
+~~~
+
+### C# ###
