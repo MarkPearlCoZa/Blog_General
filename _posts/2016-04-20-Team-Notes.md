@@ -13,6 +13,13 @@ That’s because the cause-and-effect is the reverse of what most people believe
 
 > The mood of the orchestra members after a performance says more about how well they did than the mood beforehand.  
 
+#### Need for deviant's on teams ####
+
+If teams need to stay together to achieve the best performance, how do you prevent them from becoming complacent?
+
+This is where what I call a deviant comes in. Every team needs a deviant, someone who can help the team by challenging the tendency to want too much homogeneity, which can stifle creativity and learning. Deviants are the ones who stand back and say, “Well, wait a minute, why are we even doing this at all?
+
+> Every team needs a deviant, someone who says, “Why are we even doing this at all?”
 
 #### References ####
 
