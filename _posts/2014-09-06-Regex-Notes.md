@@ -23,6 +23,14 @@ This is a bit of a hack because of special characters...
 
 [\S\s] == any character
 
+#### Negatice Matching ####
+
+Match any word that isn't rock
+
+~~~
+\b(?!rock\b)\S+
+~~~
+
 ### Operators ###
 
 #### Or Operator ####
