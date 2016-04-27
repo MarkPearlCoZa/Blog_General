@@ -10,21 +10,17 @@ category: Tech
 #### Tag for posts in a specific category ####
 
 ~~~
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-{% assign zz = tag[1] | where: "category", "Photoshop" | sort %}
-{% if zz != empty %}
+ assign sorted_tags = site.tags | sort 
+ for tag in sorted_tags 
+ assign zz = tag[1] | where: "category", "Photoshop" | sort 
+ if zz != empty 
 
-<li><span class="tag">{{ tag[0] }}</span>
-<ul>
-  {% for p in zz %}
-  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-  {% endfor %}
- </ul>
- </li>
- {% endif %}
+   for p in zz 
+  {{ p.url }}{{ p.title }}
+   endfor 
+  endif 
 
- {% endfor %}
+  endfor 
 ~~~
 
 #### References ####
