@@ -35,6 +35,10 @@ Below are a list of tools that are useful for software development. I have categ
 - [Launchy](www.launchy.ne) - Quick Launch Applicaions  
 - [Text Editor Anywhere](http://www.listary.com/text-editor-anywhere) - useful tool for keeping your favorite text editor everywhere!  
 
+#### Windows ####
+
+- [Process Explorer from Sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb795533.aspx) - useful for seeing all processes on a machine   
+
 #### File Transfer ####
 
 - [WinSCP](winscp.net) - free sftp, scp & ftp client for Windows
