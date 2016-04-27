@@ -63,3 +63,14 @@ To answer your questions..
 
 1. No, unless they do recall the same thing but decide it is not good for them to "remember" it.
 2. No, if a person does not recall the conversation they do not need to take your word for it.
+
+<JB Rainsberger>
+
+Building Trust
+I've never built trust without giving it away first. I've never built trust quickly, but rather I've always built it steadily over time. It often starts—once again—with expressing genuine interest in understanding the other people's point of view and a willingness to help them get what they need from a situation, while also sharing what I need to get from the situation. The discussion might start like this.
+
+I notice that we're not writing tests for all our features. I'm worried that if we only write tests for some of our features, then we're going to have false confidence in our code, and that seems like a recipe for anything form embarrassment to disaster. I need us to discuss this so that I can feel more settled about the situation. I'd like to help, if I can. Can we talk about what's causing us not to write these tests?
+
+If no-one's willing to talk about it, then maybe there's a much deeper trust problem. Or maybe they just don't see the tests as useful because some other problem is the bottleneck. The distributed nature of the team means developing trust more slowly and with greater difficulty. The possibilities branch so much at this point, I can't cover them all in a short article. I think that what matters most is opening the discussion, inviting others to join it, and treating everyone well. Start by trusting everyone to care about the problem and try to improve things, then see what happens.
+
+For someone in this situation, you can read some books, starting with the ones I list below in the references, or you can push the fast-forward button by hiring me to help mediate the discussion or to coach you through doing it yourself. People who join my consulting circle get timely answers to their questions and can hire me for real-time coaching on an as-needed basis.
