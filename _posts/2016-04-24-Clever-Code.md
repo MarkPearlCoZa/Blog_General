@@ -33,4 +33,13 @@ function rakeGarden(garden) {
 }
 ~~~
 
+
+#### Make sure that every letter in a word is unique suing Regex and JS ####
+
+~~~
+function isIsogram(str){ 
+  return !/(\w).*\1/i.test(str)
+}
+~~~
+
 ### C# ###
