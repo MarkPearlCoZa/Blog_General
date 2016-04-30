@@ -8,7 +8,7 @@ tags: Meta
 
 #### What prompted juggling ####
 
-A few weeks ago [Daniel Irvine](https://twitter.com/d_ir) spent a day with our team. Daniel is a software craftsman working at [8th Light's](https://8thlight.com/) UK offices. One of the reasons for the visit was to give Daniel a feel for the culture we have at [Driven](http://drivenalliance.com/) and to give us a feel for the culture of 8th Lighters. As a parting gift, Daniel gave us 3 [hacky sacks](https://en.wikipedia.org/wiki/Hacky_Sack) - at 8th light something they do is juggle - apparently it's a thing. 
+A few weeks ago [Daniel Irvine](https://twitter.com/d_ir) spent a day with our team. Daniel is a software craftsman working at [8th Light's](https://8thlight.com/) UK offices. One of the reasons for the visit was to give Daniel a feel for the culture we have at [Driven](http://drivenalliance.com/) and to give us a feel for the culture of 8th Lighters. As a parting gift, Daniel gave us 3 [hacky sacks](https://en.wikipedia.org/wiki/Hacky_Sack) - at 8th Light something they do is juggle - apparently it's a thing. 
 
 <img class="img-responsive center-block" alt="Learning to Juggle" src="{{ site.url }}/assets/images/Juggling-3-ball-cascade.gif">
 
