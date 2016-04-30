@@ -1,5 +1,7 @@
 How can all code be seen as equal.
 
+First, they learn to recognize the letters (the ball or pin). Then they learn to recognize the word (the juggling pattern). However, once this basic juggling “pattern” (the word) has been learned, then the focus can shift to a higher level still (the words become a sentence).
+
 The following is an example of two approaches to solving the same problem.
 
 --------------------------------------------------

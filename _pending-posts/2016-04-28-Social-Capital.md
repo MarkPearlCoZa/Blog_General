@@ -4,6 +4,22 @@ title: Building Social Capital
 tags: Trust
 category: General
 ---
+Over time I've noticed a very important ingredient to successful software development. When it is there, things go great, when it is missing life becomes very painful. For want of a better word I'm call it 'trust'.
+
+#### What do I mean by trust ####
+
+Words are tricky things. Trust means different things to different people. Instead of trying to get a dictionary perfect definition of it - I would like to illustrate what I mean using an example.
+
+I once worked in an environment where people were always checking their backs. When things went wrong, someone would get be blamed. To protect yourself from being the 'victim', you would always make sure you had documented proof that you did the right thing.
+
+For instance, a developer would speak to their manager about a bug in the system. The manager would say it was fine and that it did not need to be fixed. Following the conversation the developer would email the manager so that there was documented proof that the conversation happened because in the past the manager would fein ignorance.
+
+I understand that sometimes people genuinely have no recollections of conversations, or things get mixed up. People can be totally different. What I have observed is that in some scenarios there is a high frequency where people recall differently on whether a conversation happened at all and what the outcome of it was - in particular the magic sauce seems to be when the conversation is under scrutiny of someone they report to and there are consequences to the conversation and the content. When there are no consequences, they seem to have a much better recall. 
+
+To answer your questions..
+
+1. No, unless they do recall the same thing but decide it is not good for them to "remember" it.
+2. No, if a person does not recall the conversation they do not need to take your word for it.
 #### What is Social Capital ####
 
 <Kevin> 
@@ -27,42 +43,16 @@ I think it all boils down to courage and communication.
 Hope it helps in some way :)
 
 
-<Mark>
-
-In this very specific case maybe a very specific definition would be...
-
-trust is when I am confident to speak to people verbally instead of relying solely on email for need of proof that a conversation occurred.
-
-Lack of trust...
-
-emailing people so that I have proof a conversation occurred and that someone can't come back and tell me it didn't when things go wrong.
-
-Make sense?
 
 <Candice>
 
 
 Hey Mark,
 
-It's an interesting thing that memory is not a reliable source of data, and people can be quite insistent that something did or did not take place, and sometimes the details of past events can be mixed up with others when we remember.
-
-To add to that and speak to what Kevin said about meaning being different for different people, we often make different assumptions at the end of a conversation than the next person. Or, we simply don't recall it. People might also have only paid attention to certain details and not others.
-
-So, to come back to trust, I ask two questions :
-
-1. Are you suggesting that people are being dishonest when they don't recall the same thing you do? 
-2. Assuming that someone genuinely has no recollection of a conversation, are you expecting trust to include this person taking your word for it because they trust you? 
-
 <Mark>
 
 Hi Candice
 
-I agree that when a conversation happens, the understanding from the people can be totally different. What I have observed is that in some scenarios there is a high frequency where people recall differently on whether a conversation happened at all and what the outcome of it was - in particular the magic sauce seems to be when the conversation is under scrutiny of someone they report to and there are consequences to the conversation and the content. When there are no consequences, they seem to have a much better recall. 
-
-To answer your questions..
-
-1. No, unless they do recall the same thing but decide it is not good for them to "remember" it.
-2. No, if a person does not recall the conversation they do not need to take your word for it.
 
 <JB Rainsberger>
 

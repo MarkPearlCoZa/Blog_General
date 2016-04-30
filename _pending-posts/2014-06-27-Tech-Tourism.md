@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Tech Tourism"
-description: "Tech Tourism"
-category: Ideas
-tags: [Journeyman]
+description: "Tech/Team Tourism"
+category: General
+tags: Journeyman
 ---
+
+#### What prompted it ####
+
+
 
 #### The Reasons ####
 
