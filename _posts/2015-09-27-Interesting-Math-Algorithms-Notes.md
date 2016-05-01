@@ -84,13 +84,27 @@ where n is the number of things to choose from, and we choose r of them.
 
 ##### When repetition is NOT allowed: #####
 
-n! / (r!(n - r)!) 
+n! / (r! * (n - r)!)
 
 where n is the number of things to choose from, and we choose r of them.
 
-
-
 [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)  
+[Combination Calculator](https://www.mathsisfun.com/combinatorics/combinations-permutations-calculator.html)  
+
+### Factorial ###
+
+Calculating factorial can be done as follows in JavaScript...
+
+~~~
+const fact = (n) =>
+   if (n === 0) return 1;
+   if (n < 0 ) return undefined;
+   for(var i = n; --i; ) {
+       n *= i;
+   }
+   return n;
+}
+~~~
 
 ### Calculating the nth root of a number  ###
 
