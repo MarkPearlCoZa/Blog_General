@@ -73,8 +73,8 @@ What order could 16 pool balls be in?
 #### Combinations ####
 
 2 Types:  
-- Repetition is allowed 
-- Repetition is NOT allowed 
+- Repetition is allowed  
+- Repetition is NOT allowed  
 
 ##### When repetition is allowed: #####
 
