@@ -70,7 +70,25 @@ What order could 16 pool balls be in?
 - Our third choice has 14 possibilities.  
 - etc.  
 
-### Combinations ###
+#### Combinations ####
+
+2 Types:  
+- Repetition is allowed 
+- Repetition is NOT allowed 
+
+##### When repetition is allowed: #####
+
+(n + r - 1)! / r! (n - 1)! 
+
+where n is the number of things to choose from, and we choose r of them.
+
+##### When repetition is NOT allowed: #####
+
+n! / (r!(n - r)!) 
+
+where n is the number of things to choose from, and we choose r of them.
+
+
 
 [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)  
 
