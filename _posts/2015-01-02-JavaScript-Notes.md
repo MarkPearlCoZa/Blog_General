@@ -184,6 +184,14 @@ If ('propertyName' in person) ...
 [Read more on iterators](http://exploringjs.com/es6/ch_iteration.html)  
 
 
+#### Numbers ####
+
+##### Fast Math.Floor #####
+
+That ~~ is a double NOT bitwise operator.
+
+It is used as a faster substitute for Math.floor().
+
 #### References ####
 
 [Useful Methods for Strings]("http://www.impressivewebs.com/javascript-string-methods-reference/")  
