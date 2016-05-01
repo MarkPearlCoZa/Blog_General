@@ -58,11 +58,13 @@ Permutations if order DOES matter.
 - Repetition is NOT allowed (n! / (n - r)!)   
 
 n^r  
-> imagine you have a lock with 10 numbers on it from 0..9 and you have to choose 3 of them.  
-> 10^3 = 1000 permutations  
+
+Imagine you have a lock with 10 numbers on it from 0..9 and you have to choose 3 of them.  
+10^3 = 1000 permutations  
 
 n! / (n - r)!   
-what order could 16 pool balls be in?  
+
+What order could 16 pool balls be in?  
 - Our first choice has 16 possibilities.  
 - Our second choice has 15 possibilities.  
 - Our third choice has 14 possibilities.  
