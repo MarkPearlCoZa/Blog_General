@@ -2,7 +2,7 @@
 layout: post
 title: Interesting Math Algorithm for Programming Notes
 tags: Useful
-category: Programming
+category: Misc
 ---
 
 I recently have been spending a fair amount of time on [CodeWars](http://www.CodeWars.com)  
