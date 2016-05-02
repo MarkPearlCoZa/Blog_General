@@ -106,6 +106,15 @@ const fact = (n) =>
 }
 ~~~
 
+### Sum of multiples ###
+
+Sn = (n/2) * (a1 + an) 
+
+Sn = the sum of the n terms in the sequence.
+n = number of terms in the sequence
+a1 = the first term in the sequence.
+an = the nth term in the sequence. 
+
 ### Calculating the nth root of a number  ###
 
 Get the nth root of a number using JavaScript  

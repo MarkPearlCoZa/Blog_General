@@ -61,7 +61,52 @@ class CommentBox extends React.Component {
 
 ** In Jsx, anything written in {} is interpreted as literal javascript. **
 
+### Component State ###
 
+The state is a JavaScript object that lives inside each component. We can access it via this.state
+
+~~~
+if (this.state.ShowComments) ...
+~~~
+
+We set the initial state of our component in the class constructor...
+
+~~~
+class CommentBox extends React.Components {
+  constructor() {
+    super();       // super() must be called in our constructor
+    this.state = {
+      stateName : stateValue
+    };
+  }
+}
+
+We don't assign to the state object directly - instead, we call setState by passing it an object.
+
+~~~
+this.setState({stateName: newValue});
+~~~
+
+Things that can cause state to change:
+- button clicks  
+- link clicks  
+- form submission  
+- ajax calls  
+
+~~~
+class CommentBox extends React.Component { ...  
+  render() {
+   ...
+   <button onClick={this._handleClick.bind(this)}> Show Comments</button>
+   ...
+  }
+
+  _handleClick() {
+    this.setState({ 
+      showComments: !this.state.showComments
+    }); 
+  }
+~~~
 
 #### References ####
 
