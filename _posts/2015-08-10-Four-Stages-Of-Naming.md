@@ -13,7 +13,7 @@ I first read about the concept of different stages of naming on [J. B. Rainsberg
 
 ### Moving from zero to four stages ###
 
-Joe's original proposed four stages of naming...
+Joe's original post proposed four stages of naming...
 
 <img class="img-responsive" alt="Four Stages of Naming" src="{{ site.url }}/assets/images/Naming-Four-Stages.png">
 
@@ -25,15 +25,15 @@ Understanding and embracing stage based naming is a liberating experience that h
 
 <img class="img-responsive center-block" alt="Six Stages of Naming" src="{{ site.url }}/assets/images/Naming-Six-Stages.png">
 
-One aspect I really like about Arlo's model is the indication that refactoring starts at the "does the right thing" stage. My own experiences lead me to believe that while I'm trying to get something to work names typically sit in the "precisely named" or "honest & complete" stages. Once things are working, I then itypically put on my refactoring hat, and at that point names transition to reveal intent and meaning.
+One aspect I really like about Arlo's model is the indication that refactoring starts at the "does the right thing" stage. My own experiences lead me to believe that while I'm trying to get something to work names typically sit in the "precisely named" or "honest & complete" stages. Once things are working, I then typically put on my refactoring hat, and at that point names transition to reveal intent and meaning.
 
 ### Naming is emergent
 
-Another attribute that I have noticed with naming is that it is an emergent process. I would love to be able to name things immediately at the "Meaningful" or "Domain Abstraction" stage. Alas, my brain does not work that way. Instead, I'm quite happy to start off with nonsense names, and then allow the names to progess through each stage.
+Another attribute that I have noticed with naming is that it is an emergent process. I would love to be able to name things immediately at the "Meaningful" or "Domain Abstraction" stage. Alas, my brain does not work that way. Instead, I'm quite happy to start off with nonsense names, and then allow the names to progress through each stage.
 
 <img class="img-responsive" alt="Naming is emergent" src="{{ site.url }}/assets/images/Naming-Emergent.jpg">
 
-For instance, I might start with a variable that holds a number. I might initially name the variable "x" (nonsense stage). Then realizing that "n" is a number and is representing money, I would probably rename it to "amount" (potentially honest & complete?). With time I may realize that the amount acutally is not just any amount, but in fact it is a sum of a set of values, at that point amount gets renamed to "total" and so the name continues to emerge as it progresses through each stage.
+For instance, I might start with a variable that holds a number. I might initially name the variable "x" (nonsense stage). Then realizing that "n" is a number and is representing money, I would probably rename it to "amount" (potentially honest & complete?). With time I may realize that the amount actually is not just any amount, but in fact it is a sum of a set of values, at that point amount gets renamed to "total" and so the name continues to emerge as it progresses through each stage.
 
 <blockquote>
 x => (time to think) => value => (time to think) => total
@@ -41,7 +41,7 @@ x => (time to think) => value => (time to think) => total
 
 ### Naming impacts design
 
-Another aspect of naming that I have noticed is that names impact design. Recently I was working on a piece of code where a class was named badly. Without getting into the specifics, whenever we were worked on code impacted by that class we semmed to get tripped up. A good indication of a bad name is that it is hard to explain what the thing is doing to others.
+An aspect of naming that I have noticed is that names impact design. Recently I was working on a piece of code where a class was named badly. Without getting into the specifics, whenever we were worked on code impacted by that class we seemed to get tripped up. A good indication of a bad name is that it is hard to explain what the thing is doing to others.
 
 <img class="img-responsive" alt="Naming impacts design" src="{{ site.url }}/assets/images/Naming-Design.jpg">
 
