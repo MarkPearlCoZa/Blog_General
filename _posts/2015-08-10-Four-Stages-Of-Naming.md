@@ -53,7 +53,7 @@ Names of things impact design!
 
 ### To sum it up
 
-Next time you are writing code, be aware of the names you give to things. Be conscious of what stage each thing is currently at in terms of it's name. You will be surprised at how as you uncover the more meaningful names your design and solution is impacted. Happy naming!
+Next time you are writing code, be aware of the names you give things. Be conscious of what stage each thing is currently at in terms of it' naming. As you uncover meaningful names your design and solution will impacted for good. Happy naming!
 
 <blockquote>
 To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie) 
