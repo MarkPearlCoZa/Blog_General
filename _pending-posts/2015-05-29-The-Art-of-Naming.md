@@ -14,6 +14,10 @@ Things -
 Collaborator - 
 Processor -
 
+#### Naming Progressions
+
+Moving from Amount => Total
+
 #### Names to consider ####
 
 Consumer  

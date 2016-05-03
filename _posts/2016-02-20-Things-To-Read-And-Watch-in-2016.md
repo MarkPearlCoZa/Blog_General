@@ -15,6 +15,7 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
+[The Fundamental Theorem of Agile Software Development by J. B. Rainsberger](https://vimeo.com/79106557)
 [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)  
 [What we actually know about Software Development, and why we believe it's true](https://vimeo.com/9270320)  
 [3 Productivity Hacks for Tech Teams](https://www.youtube.com/watch?v=ZO8hN6Nvl5Y)  
