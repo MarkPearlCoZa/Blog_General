@@ -6,7 +6,7 @@ category: General
 ---
 
 <blockquote>
-To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie) 
+There are only two hard things in Computer Science: cache invalidation and naming things -- Phil Karlton
 </blockquote>
 
 I first read about the concept of different stages of naming on [J. B. Rainsberger's blog](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) in 2015. At the time I had already recognized that my brain was going through different stages when I was naming things (methods, variables, tests etc.) although ironically I hadn't yet been able to put specific names to each stage yet. 
@@ -51,7 +51,16 @@ After further discussion with business users we discovered that we had misunders
 
 Names of things impact design!
 
+### To sum it up
+
+Next time you are writing code, be aware of the names you give to things. Be conscious of what stage each thing is currently at in terms of it's name. You will be surprised at how as you uncover the more meaningful names your design and solution is impacted. Happy naming!
+
+<blockquote>
+To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie) 
+</blockquote>
+
 #### References ####
 
 [Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design)  
 [Six Stages of Naming](https://twitter.com/llewellynfalco/status/634014935706636288)  
+[Two hard things](http://martinfowler.com/bliki/TwoHardThings.html)  
