@@ -4,20 +4,6 @@ title: JavaScript Notes
 tags: Web
 category: Tech
 ---
-#### Resetting a prototype override ####
-
-~~~
-Array.prototype.join = Array.prototype._join;
-~~~
-
-#### Check if value is a number ####
-
-~~~
-function isANumber(value) {
-  return (value instanceof Number||typeof value === 'number') && !isNaN(value);
-}
-~~~
-
 ### Array's ###
 
 #### Creating an array of a size with a certain value ####
@@ -34,10 +20,37 @@ Another approach for creating an array and populating it with values 1 to 10...
 Array.from({length:n}, (_,i)=>i+1)
 ~~~
 
+Some other ways to generate prepopulated arrays...
+
+~~~
+let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) => i + nums[0]);
+~~~
+
+~~~
+[...Array(max - min + 1)].map((v, i) => i + min);
+~~~
+
+~~~
+((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
+~~~
+
 #### Putting and taking off an array ####
 
  unshift -> array <- push
    shift <- array -> pop
+
+#### Sorting ####
+
+An example of sorting values/numbers in an array
+
+~~~
+function isTriangle(a,b,c)
+{
+  [a, b, c] = [a, b, c].sort((x, y) => x-y);
+  
+  return a+b > c;
+}
+~~~
 
 ### Nulls ###
 
@@ -61,34 +74,6 @@ if (!a) {
 }
 ~~~
 
-#### Generating Collections ####
-
-Some ways to generate prepopulated collections...
-
-~~~
-let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) => i + nums[0]);
-~~~
-
-~~~
-[...Array(max - min + 1)].map((v, i) => i + min);
-~~~
-
-~~~
-((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
-~~~
-
-#### Sorting ####
-
-An example of sorting values/numbers in an array
-
-~~~
-function isTriangle(a,b,c)
-{
-  [a, b, c] = [a, b, c].sort((x, y) => x-y);
-  
-  return a+b > c;
-}
-~~~
 
 #### Squaring Number Syntax ####
 
@@ -98,26 +83,7 @@ The below code square c to the power of 2
 c ** 2
 ~~~
 
-#### Easy way to Run JavaScript ####
-
-Create a html file called program.html with the following content.
-
-~~~
-<html>
-  <body>
-    <pre>
-      <script src="program.js">
-      </script>
-    </pre>
-  </body>
-</html>
-~~~
-
-Create a javacrip file called program.js with the following content.
-
-~~~
-document.writeln("Hello World");
-~~~
+### Strings ###
 
 #### String Functions ####
 
@@ -133,9 +99,21 @@ let value = "Blah";
 console.log(`Hello ${value}!`);
 ~~~
 
-#### Map & Reduce ####
+### Numbers ###
 
-[Explanation of Map/Reduce](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)  
+#### Fast Math.Floor ####
+
+That ~~ is a double NOT bitwise operator.
+
+It is used as a faster substitute for Math.floor().
+
+#### Check if value is a number ####
+
+~~~
+function isANumber(value) {
+  return (value instanceof Number||typeof value === 'number') && !isNaN(value);
+}
+~~~
 
 #### Recognizing Integers #### 
 
@@ -149,7 +127,11 @@ or
 if (data === parseInt(data, 10)) { ... }
 ~~~
 
-#### Closures ####
+### Map & Reduce ###
+
+[Explanation of Map/Reduce](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)  
+
+### Closures ###
 
 Closures are functions that refer to independent (free) variables. In other words, the function defined in the closure 'remembers' the environment in which it was created.
 
@@ -173,6 +155,35 @@ function buildFun(n){
 
 [Read more](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)  
 
+### Misc ###
+
+#### Easy way to Run JavaScript ####
+
+Create a html file called program.html with the following content.
+
+~~~
+<html>
+  <body>
+    <pre>
+      <script src="program.js">
+      </script>
+    </pre>
+  </body>
+</html>
+~~~
+
+Create a javacrip file called program.js with the following content.
+
+~~~
+document.writeln("Hello World");
+~~~
+
+#### Resetting a prototype override ####
+
+~~~
+Array.prototype.join = Array.prototype._join;
+~~~
+
 #### Check if key is in Json Object ####
 
 ~~~
@@ -185,14 +196,6 @@ If ('propertyName' in person) ...
 
 [Read more on iterators](http://exploringjs.com/es6/ch_iteration.html)  
 
-
-#### Numbers ####
-
-##### Fast Math.Floor #####
-
-That ~~ is a double NOT bitwise operator.
-
-It is used as a faster substitute for Math.floor().
 
 #### References ####
 
