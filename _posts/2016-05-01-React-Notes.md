@@ -5,6 +5,107 @@ tags: React
 category: Tech
 ---
 
+## React Notes ##
+
+React is a JavaScript library for building user interfaces.
+
+Component-based Architecture
+
+We create components, if they get to complex we break them into smaller simpler components.
+
+Components generate an output every time it is invoked.
+
+### Virtual DOM ###
+
+The virtual DOM is an in-memory representaion of the actual DOM.
+
+The browser DOM is generall slow.
+
+Virtual DOM's allow react to be fast by allowing diffing which allows react to mimize changes to the DOM.
+
+### Components in React ###
+
+Components in React are JS classes that inherit from the React.Component base class.
+
+in components.js
+
+~~~ 
+class StoryBox extends React.Component {
+	render() {
+		return ( <div>Story Box</div> );
+	}
+}
+
+let target = document.getElementById('story-app');
+
+ReactDOM.render( <StoryBox />, target );
+~~~
+
+in index.html
+
+~~~
+<html>
+	<body>
+		<div> id="story-app"></div>
+		<script ... >
+	</body>
+</html>
+~~~
+
+### JSX ###
+
+JSX is another way or writing JS with a transpile step.
+
+JSX executes anything in camel case as react components
+
+JSX executes anything in lower case as normal html.
+
+Code written within curly braces is itnerpreted as literal JavaScript.
+
+** Note that to specify a class use a className instead of class. **
+
+~~~
+class StoryBox extends React.Component {
+	render() {
+		const now = new Date();
+
+		return (
+			<div>
+				<h3>Info</h3>
+				<p className="lead">
+					Current time: {now.toTimeString() }
+				</p>
+			</div>	
+	}
+}
+~~~
+
+----------
+
+### Synthetic Events ###
+
+~~~
+	class CommentForm extends React.Component {
+		render() {
+			return (
+				<form className="comment-form" onsubmit={this._handleSubmit.bind(this)}>
+				...
+					<input placeholder="Name:" ref={(input) => this._author = input}/>
+					<textarea placeholder="Comment:" ref={(textarea) => this._body = textarea}></textarea>
+				...
+				</form>
+			);
+		}
+
+		_handleSubmit(event) {
+			event.preventDefault();
+			let author = this._author;
+			let body = this._body;
+
+			this.props.addComment(author.value, body.value);	
+		}
+	}	
+~~~
 ### Scripts to use ###
 
 ~~~
@@ -13,6 +114,7 @@ script src="vendors/react-dom.js"
 script src="vendors/babel.js">
 script type="text/babe;" src="components.js"
 ~~~
+
 
 ### Props & Components Communication ###
 
