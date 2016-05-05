@@ -96,13 +96,21 @@ where n is the number of things to choose from, and we choose r of them.
 Calculating factorial can be done as follows in JavaScript...
 
 ~~~
-const fact = (n) =>
+const fact = (n) => {
    if (n === 0) return 1;
    if (n < 0 ) return undefined;
    for(var i = n; --i; ) {
        n *= i;
    }
    return n;
+}
+~~~
+
+Or...
+
+~~~
+function factorial(n) {
+  return n>=0 ? n ? n*factorial(n-1) : 1 : null;
 }
 ~~~
 
