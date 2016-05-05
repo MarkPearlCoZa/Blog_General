@@ -9,7 +9,7 @@ category: General
 There are only two hard things in Computer Science: cache invalidation and naming things -- Phil Karlton
 </blockquote>
 
-I first read about the concept of different stages of naming on [J. B. Rainsberger's blog](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) in 2015. At the time I had already recognized that my brain was going through different stages when I was naming things (methods, variables, tests etc.) although ironically I hadn't yet been able to put specific names to each stage yet. 
+I first read about the concept of different stages of naming on [J. B. Rainsberger's blog](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) in 2015. At the time I had already recognized that my brain was going through different stages when I was naming things (methods, variables, tests etc.) although ironically I hadn't been able to put specific names to each stage. 
 
 ### Moving from zero to four stages ###
 
@@ -21,39 +21,40 @@ As he explained, laziness or ignorance would push one towards the left end of th
 
 ### Moving from four to six stages ###
 
-Understanding and embracing stage based naming is a liberating experience that has had a huge impact on the code I write. In early 2016 I saw a new take on naming stages that took things to the next level. Instead of four stages, [Arlo Belshee](https://twitter.com/arlobelshee) proposed six stages. 
+Understanding and embracing stage based naming is a liberating experience that has a huge impact on the code I have written. In early 2016 I saw a new take on naming stages that enhanced the original four stages of naming. Instead of four stages, [Arlo Belshee](https://twitter.com/arlobelshee) proposed six stages. 
 
 <img class="img-responsive center-block" alt="Six Stages of Naming" src="{{ site.url }}/assets/images/Naming-Six-Stages.png">
 
-One aspect I really like about Arlo's model is the indication that refactoring starts at the "does the right thing" stage. My own experiences lead me to believe that while I'm trying to get something to work names typically sit in the "precisely named" or "honest & complete" stages. Once things are working, I then typically put on my refactoring hat, and at that point names transition to reveal intent and meaning.
+What I really like about Arlo's model is his indication of where structural refactoring starts. This aligns with my own experiences with naming:  
+
+- While I'm trying to get something to work names typically reach the "precisely named" stage. 
+- Once things are working, I then put on my refactoring hat, at which point names transition to reveal intent.  
 
 ### Naming is emergent
 
-Another attribute that I have noticed with naming is that it is an emergent process. I would love to be able to name things immediately at the "Meaningful" or "Domain Abstraction" stage. Alas, my brain does not work that way. Instead, I'm quite happy to start off with nonsense names, and then allow the names to progress through each stage.
+One aspect that I have noticed with regards to naming is that it is typically an emergent process. I would love to be able to name things immediately at the "Meaningful" or "Domain Abstraction" stage, alas, my brain does not work that way! Instead, I'm quite happy to start off with nonsense names, and then allow good names to emerge as I progress through each stage.
 
 <img class="img-responsive" alt="Naming is emergent" src="{{ site.url }}/assets/images/Naming-Emergent.jpg">
 
-For instance, I might start with a variable that holds a number. I might initially name the variable "x" (nonsense stage). Then realizing that "n" is a number and is representing money, I would probably rename it to "amount" (potentially honest & complete?). With time I may realize that the amount actually is not just any amount, but in fact it is a sum of a set of values, at that point amount gets renamed to "total" and so the name continues to emerge as it progresses through each stage.
+For instance, I might start with a variable that holds a number. I might initially name the variable "n" (nonsense stage). Then realizing that "n" is a number and is representing money, I would likely rename it to "amount" (potentially honest & complete stage?). With time I may realize that the amount actually is not just any amount, but in fact it is a sum of a set of values, at that point amount gets renamed to "total" and so the meaningful name continues to emerge.
 
 <blockquote>
-x => (time to think) => value => (time to think) => total
+n => (time to think) => value => (time to think) => total
 </blockquote>
 
 ### Naming impacts design
 
-An aspect of naming that I have noticed is that names impact design. Recently I was working on a piece of code where a class was named badly. Without getting into the specifics, whenever we were worked on code impacted by that class we seemed to get tripped up. A good indication of a bad name is that it is hard to explain what the thing is doing to others.
+Another aspect of naming that I have noticed is that it has a very real impact on  design. Recently I was working on a piece of code where a class was named badly. Without getting into the specifics, whenever we worked on the code using the badly named class we got tripped up. We found it hard to make insights into the design and found it hard to explain to others. If it is hard to explain to others what something is doing without going into great detail you may be suffering from a bad name.
 
 <img class="img-responsive" alt="Naming impacts design" src="{{ site.url }}/assets/images/Naming-Design.jpg">
 
-After a while we had some insights into a better name for that class. A simple change in the name of the class changed what we felt the intent of the class should be. It also made it easier to explain to others. This led us to do some adjustments to the class that further impacted the design.
+With this specific class, we made a conceptual breakthrough and came up with a better name for it. A simple change in the name of the class changed what we felt the intent of the class should be. This led us to do some adjustments to the class that further impacted the design - it also made it a lot easier to explain to others what the class did. 
 
-After further discussion with business users we discovered that we had misunderstood the business process. The class was doing the wrong thing. Identifying a better name for the process led to a better name for the class. This led to further adjustments that ultimately helped us make design breakthroughs. 
-
-Names of things impact design!
+Simply put, names of things impact design!
 
 ### To sum it up
 
-Next time you are writing code, be aware of the names you give things. Be conscious of what stage each thing is currently at in terms of it' naming. As you uncover meaningful names your design and solution will impacted for good. Happy naming!
+Next time you are writing code, be aware of the names you give things. Be conscious of what stage each variable, method, class or function is currently at in terms of it's naming. As you uncover meaningful names your design and solution will be impacted for good. Happy naming!
 
 <blockquote>
 To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie) 
