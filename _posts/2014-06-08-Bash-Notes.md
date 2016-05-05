@@ -127,6 +127,16 @@ find . -iname "*stuff*"
 
 finds all files in the current and children directory that match the FileNameToMatch  
 
+##### Open First found file in Vim #####
+
+~~~
+vim $(find -name somefile.txt)
+~~~
+
+~~~
+find -name somefile.txt -exec vim {} \;
+~~~
+
 #### Manipulating Directories ####
 
 Remove directory and all sub directories

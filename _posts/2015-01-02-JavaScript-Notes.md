@@ -18,12 +18,13 @@ function isANumber(value) {
 }
 ~~~
 
+### Array's ###
+
 #### Creating an array of a size with a certain value ####
 
 ~~~
 let size = 10;
 let initialValue = "blah";
-
 new Array(size).join(initialValue);
 ~~~
 
@@ -33,15 +34,16 @@ Another approach for creating an array and populating it with values 1 to 10...
 Array.from({length:n}, (_,i)=>i+1)
 ~~~
 
-#### Array cheat sheet ####
+#### Putting and taking off an array ####
 
  unshift -> array <- push
- shift   <- array -> pop
+   shift <- array -> pop
+
+### Nulls ###
 
 #### Checking for Null Values ####
 
-Use the || to return a default value if the first value is null.
-Remember null is falsey.
+Use the || to return a default value if the first value is null. **Remember null is falsey.**
 
 Falsey values: null, undefined, false, empty string or 0
 
