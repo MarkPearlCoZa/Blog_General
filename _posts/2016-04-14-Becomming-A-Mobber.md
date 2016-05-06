@@ -7,7 +7,7 @@ category: General
 
 #### First introduction to mob programming
 
-In June 2015 I attended [Agile Roots](http://www.agileroots.com/) - a regional agile conference held in Utah that I highly recommend. While there I had the privilege of spending a day at [Pluralsight](http://www.pluralsight.com/) with one of their engineering teams ([Allan](https://twitter.com/AllanCodes), [Eric](https://twitter.com/iminurcodez]) and  [David](https://twitter.com/battenworks)) doing a team tourism day. It was one of the funnest day's I have had in my professional career and while at the time I didn't realize it - I learnt a technique of collaboration that has had a fundamental impact on how I develop software.
+In June 2015 I attended [Agile Roots](http://www.agileroots.com/) - a regional agile conference held in Utah that I highly recommend. While there I had the privilege of spending a day at [Pluralsight](http://www.pluralsight.com/) with one of their engineering teams ([Allan](https://twitter.com/AllanCodes), [Eric](https://twitter.com/iminurcodez]) and  [David](https://twitter.com/battenworks)) doing a [team tourism](http://blog.markpearl.co.za/Team-Tourism) day. It was one of the funnest day's I have had in my professional career and while at the time I didn't realize it - I learnt a technique of collaboration that has had a fundamental impact on how I develop software.
 
 <img class="img-responsive" alt="Me with Allan, David & Eric at Pluralsight" src="{{ site.utl }}/assets/images/Becomming-A-Mobber-Pluralsight-Team.jpg">
 
