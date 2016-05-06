@@ -5,7 +5,7 @@ description: Team Tourism
 category: General
 tags: Collaboration
 ---
-#### The Challenge ####
+### The Challenge ###
 
 In the last few years I have discovered that there are software development teams spread across the world that are doing amazing things.
 
@@ -32,7 +32,7 @@ Neither of these approaches are great. The guru is expensive, the hire is perman
 
 <img class="img-responsive center-block" alt="Passports" src="{{ site.url }}/assets/images/Team-Tourism-Passports.jpg">
 
-#### What is Team Tourism? ####
+### What is Team Tourism? ###
 
 Team tourism is the idea that every once in a while we need to get out of our specific team and be a tourist with another team with the intention of openly sharing. The person touring has just as much responsibility in sharing as the team being toured. The aim of team tourism is to create intentional cross pollination between organizations at a higher cadence than currently exists..
 
@@ -46,11 +46,13 @@ Open cross pollination at a fraction of the price with no bias - you get to see 
 
 ---------------------------------------------------------------------------------------
 
-At a conceptual level I think there is a compelling enough argument for team tourism. When coming to implementation I've go the following suggestions:  
+### Practical Implementation Suggestions ###
+
+At a conceptual level I think there is a compelling enough argument for team tourism - when coming to implementation I've go the following help make it effective...   
 
 #### How long should a tourist visit? ####
 
-- I've found two to three day's is great.  
+- I've found one to three day's is great. Personally I've found one day a bit overwhelming, my preference is two days which gets to show you some of the routine.
 
 #### To make it possible ####
 
