@@ -26,7 +26,9 @@ Currently now I see two approaches:
 1) Company pays a guru consultant to come and visit and share their insights. The guru spends a few days sharing their wisdom with the team, before moving on to the next team.  
 2) Company hires new employees who bring some of the "magic sauce" with them from their previous employers.  
 
-Neither of these approaches are great. The guru is expensive, the hire is permanent and irregular. Both approaches don't encourage regular sharing. I think there is a better way. We've called it "Team Tourism" although I would love a better name for it.
+Neither of these approaches are great. The guru is expensive, the hire is permanent and irregular. Both approaches don't encourage regular sharing. 
+
+I've found a better way - we call it "Team Tourism" (although I would love a better name for it).
 
 ---------------------------------------------------------------------------------------
 
