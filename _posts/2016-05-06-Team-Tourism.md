@@ -5,7 +5,7 @@ description: Team Tourism
 category: General
 tags: Collaboration
 ---
-### The Challenge ###
+### Disconnected Pockets of Brilliance ###
 
 In the last few years I have discovered that there are software development teams spread across the world that are doing amazing things.
 
