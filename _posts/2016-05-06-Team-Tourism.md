@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Tourism - Solving the pockets of brilliance problem.
+title: Team Tourism - connecting teams
 description: Team Tourism
 category: General
 tags: Collaboration
