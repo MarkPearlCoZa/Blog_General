@@ -66,8 +66,8 @@ At a conceptual level I there is a compelling argument for team tourism - I've p
 
 I love doing tourism days. I've found two things typically hold me back from doing them more frequently.
 
-1) Expenses (Travel & Accomodation)
-2) Taking leave
+1) Expenses (Travel & Accomodation)  
+2) Taking leave  
 
 If you would be interested in having me be a tourist at your company shoot me an email and we will see if we can make it happen.  
 
