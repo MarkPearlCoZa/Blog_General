@@ -46,19 +46,19 @@ Open cross pollination at a fraction of the price with no bias - you get to see 
 
 ---------------------------------------------------------------------------------------
 
-### Practical Implementation Suggestions ###
+### Practical Implementation ###
 
-At a conceptual level I think there is a compelling enough argument for team tourism - when coming to implementation I've go the following help make it effective...   
+At a conceptual level I there is a compelling argument for team tourism - I've put together a few suggestions below that I've found  help make it effective...   
 
 #### How long should a tourist visit? ####
 
-- I've found one to three day's is great. Personally I've found one day a bit overwhelming, my preference is two days which gets to show you some of the routine.
+- I've found one to three day's is great. Personally I've found anything less than a day is too short with even one day being a bit overwhelming (especially if you have travelled to get there). My preference is two days which gets to show you some of the routine.
 
 #### To make it possible ####
 
 - Team tourism is not a 'polite' word for poaching staff - for it to work sponsoring companies should not be concerned that their staff will be poached.  
 - Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave, alas it is hard to do when leave with family is so limited anyway.  
-- Costs of tourism should be shared between companies.
+- Costs of tourism should be shared between companies. There should be no profit making movtive.
 
 #### References ####
 
