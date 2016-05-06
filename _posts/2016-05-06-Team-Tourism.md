@@ -44,6 +44,10 @@ A person visits a team for a period of time. During the visit they learn by part
 
 Open cross pollination at a fraction of the price 
 
+---------------------------------------------------------------------------------------
+
+At a conceptual level I think there is a compelling enough argument for team tourism. When coming to implementation I've go the following suggestions:  
+
 #### How long should a tourist visit? ####
 
 - I've found two to three day's is great.  
