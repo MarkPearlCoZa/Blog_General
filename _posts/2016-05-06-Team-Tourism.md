@@ -60,6 +60,15 @@ At a conceptual level I there is a compelling argument for team tourism - I've p
 - Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave, alas it is hard to do when leave with family is so limited anyway.  
 - Costs of tourism should be shared between companies. There should be no profit making movtive.
 
+### Interested in having me visit? ###
+
+I love doing tourism days. I've found two things typically hold me back from doing them more frequently.
+
+1) Expenses (Travel & Accomodation)
+2) Taking leave
+
+If you would be interested in having me be a tourist at your company shoot me an email and we will see if we can make it happen.  
+
 #### References ####
 
 [I briefly spoke about the concept at Agile Roots in 2015](http://www.agileroots.com/)  
