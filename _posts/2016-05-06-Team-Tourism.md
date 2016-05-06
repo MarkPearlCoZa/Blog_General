@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Tourism - connecting teams
+title: Team Tourism - Connecting the Disconnected
 description: Team Tourism
 category: General
 tags: Collaboration
