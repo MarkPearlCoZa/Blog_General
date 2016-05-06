@@ -84,5 +84,7 @@ Enter-PSSession -ComputerName {MachineNameHere} -Credential {CredentialsHere}
 Look at Pester as a possible Powershell Unit Testing Framework
 
 #### References ####
-[Testing in Powershell](https://www.simple-talk.com/sysadmin/powershell/practical-powershell-unit-testing-checking-program-flow/?utm_source=simpletalk&utm_medium=email-main&utm_content=practicalps3-20141208&utm_campaign=sysadmin)
+
+[Questions about Powershell Basics that you were too shy to ask](https://www.simple-talk.com/sysadmin/powershell/questions-about-powershell-basics-that-you-were-too-shy-to-ask/)  
+[Testing in Powershell](https://www.simple-talk.com/sysadmin/powershell/practical-powershell-unit-testing-checking-program-flow/)
 
