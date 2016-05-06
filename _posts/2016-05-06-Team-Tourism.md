@@ -30,7 +30,7 @@ Neither of these approaches are great. The guru is expensive, the hire is perman
 
 ---------------------------------------------------------------------------------------
 
-<img class="img-responsive" alt="Passports" src="{{ site.url }}/assets/images/Team-Tourist-Passports.jpg">
+<img class="img-responsive" alt="Passports" src="{{ site.url }}/assets/images/Team-Tourism-Passports.jpg">
 
 #### What is Team Tourism ####
 
