@@ -21,7 +21,7 @@ The challenge I see is that it is all disconnected - there are pockets of brilli
 
 So how are we currently connecting these pockets of excellence? 
 
-Right now I see two approaches:
+Currently now I see two approaches:
 
 1) Company pays a guru consultant to come and visit and share their insights. The guru spends a few days sharing their wisdom with the team, before moving on to the next team.  
 2) Company hires new employees who bring some of the "magic sauce" with them from their previous employers.  
