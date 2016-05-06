@@ -28,6 +28,10 @@ Right now I see two approaches:
 
 Neither of these approaches are great. The guru is expensive, the hire is permanent and irregular. Both approaches don't encourage regular sharing. I think there is a better way. We've called it "Team Tourism" although I would love a better name for it.
 
+---------------------------------------------------------------------------------------
+
+<img class="img-responsive" alt="Passports" src="{{ site.url }}/assets/images/Team-Tourist-Passports.jpg">
+
 #### What is Team Tourism ####
 
 Team tourism is the idea that every once in a while we need to get out of our specific team and be a tourist with another team with the intention of openly sharing. The person touring has just as much responsibility in sharing as the team being toured. The aim of team tourism is to create intentional cross pollination between organizations at a higher cadence than currently exists..
