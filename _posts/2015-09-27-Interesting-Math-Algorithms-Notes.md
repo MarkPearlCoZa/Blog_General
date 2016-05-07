@@ -174,3 +174,28 @@ var gcd = function(a, b) {
     return gcd(b, a % b);
 };
 ~~~
+
+------------------------------------------------------------------------------------------------
+
+#### Calculate Square Root ####
+
+Using Newton's Formula - [see more](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number)  
+
+~~~
+function squareRoot(n) {
+	let curSqrtApprox = guess(n);
+  
+  do {
+    let prevSqrtApprox = curSqrtApprox;
+		curSqrtApprox = newtonApprox(curSqrtApprox, n);  	
+    if (curSqrtApprox === prevSqrtApprox) return curSqrtApprox;
+    
+  } while (0 !== 1)
+}
+
+const adjustPrecision = (x) => Number(x.toFixed(5));
+const newtonApprox = (x, ori) => adjustPrecision(x - (sqrfun(x, ori) / derivative(x)));
+const sqrfun = (x, ori) => (x * x) - ori;
+const derivative = (x) => 2 * x;
+const guess = (x) => x / 2;
+~~~
