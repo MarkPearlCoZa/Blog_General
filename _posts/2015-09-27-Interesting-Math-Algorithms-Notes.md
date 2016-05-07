@@ -199,3 +199,9 @@ const sqrfun = (x, ori) => (x * x) - ori;
 const derivative = (x) => 2 * x;
 const guess = (x) => x / 2;
 ~~~
+
+Another approach...
+
+~~~
+const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2)).toFixed(5))
+~~~
