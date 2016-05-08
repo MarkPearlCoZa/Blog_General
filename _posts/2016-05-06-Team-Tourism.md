@@ -35,17 +35,17 @@ Team tourism is the idea that every once in a while we need to get out of our sp
 
 #### How does it work? ####
 
-A person visits a team for a period of time. During the visit they learn by participation. This means you join the team, you pair or mob with others, attend stand up, attend retro, etc.
+A person visits a team for a period of time. During the visit they learn by participation. This means the tourist joins the team, pairs or mobs with others, attends stand up, attends retro, etc.
 
 #### Why is this a better way? ####
 
-Open cross pollination at a fraction of the price with no bias - nobody is selling you anything - you get to see exactly what and how a different team handles things.
+Open cross pollination at a fraction of the price with no bias - nobody is selling you anything - you get to see exactly what and how a different team handles things which sparks ideas for your own team.
 
 ---------------------------------------------------------------------------------------
 
 ### Practical Implementation ###
 
-At a conceptual level I there is a compelling argument for team tourism - I've put together a few suggestions below that I've found  help make it effective...   
+At a conceptual level there is a compelling argument for team tourism - how to practically implement it varies. To help, I've put together a few suggestions from my own experiences that I've found  help make it effective...   
 
 #### How long should a tourist visit? ####
 
@@ -55,13 +55,13 @@ At a conceptual level I there is a compelling argument for team tourism - I've p
 
 - Team tourism is not a 'polite' word for poaching staff - for it to work sponsoring companies should not be concerned that their staff will be poached.  
 - Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave, alas it is hard to do when leave with family is so limited anyway.  
-- Costs of tourism should be shared between companies. There should be no profit making movtive.
+- Costs of tourism should be shared between companies. There should be no profit making motive.
 
 ### Interested in doing a team tourism day with me? ###
 
 I love doing tourism days. I've found two things typically hold me back from doing them more frequently.
 
-1) Expenses (Travel & Accomodation)  
+1) Expenses (Travel & Accommodation)  
 2) Taking leave  
 
 If you would be interested in having me be a tourist at your company shoot me an email and we will see if we can make it happen.  
