@@ -31,15 +31,15 @@ Neither of these approaches are great. The guru is expensive, the hire is perman
 
 ### What is Team Tourism? ###
 
-Team tourism is the idea that every once in a while we need to get out of our specific team and be a tourist with another team with the intention of openly sharing. The person touring has just as much responsibility in sharing as the team being toured. The aim of team tourism is to create intentional cross pollination between organizations at a higher cadence than currently exists..
+Team tourism is the idea that every once in a while we need to get out of our specific team and be a tourist with another team with the intention of openly sharing. The person touring has just as much responsibility in sharing as the team being toured. The aim of team tourism is to create intentional cross pollination between organizations at a higher cadence than currently exists with consultants or new hires.
 
 #### How does it work? ####
 
-A person visits a team for a period of time. During the visit they learn by participation, since I've done this from a developer perspective this means you join the team, you pair or mob with others, attend stand up, attend retro, etc.
+A person visits a team for a period of time. During the visit they learn by participation. This means you join the team, you pair or mob with others, attend stand up, attend retro, etc.
 
 #### Why is this a better way? ####
 
-Open cross pollination at a fraction of the price with no bias - you get to see exactly what and how a different team handles things.
+Open cross pollination at a fraction of the price with no bias - nobody is selling you anything - you get to see exactly what and how a different team handles things.
 
 ---------------------------------------------------------------------------------------
 
