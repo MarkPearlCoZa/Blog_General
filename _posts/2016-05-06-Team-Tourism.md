@@ -9,13 +9,12 @@ tags: Collaboration
 
 In the last few years I have discovered that there are software development teams spread across the world that are doing amazing things.
 
-Some of the things I seen in different teams in different organizations over the last few years include:
+Some of the things I seen across these teams include:
 
-- teams that have been able to intentionally create amazing team culture.  
-- teams that have done unique things to represent the work they do collaboratively.  
-- teams that have deep technical skills developed through mentorship or intentional learning.  
-- teams that have raised the level of collaboration by pushing the boundaries of mobbing.  
-- teams that have figured out how to hire properly.
+- teams that intentionally create team culture.  
+- unique ways to represent collaborative work.  
+- advanced mentoring and intentional learning.  
+- pushing the boundaries of mobbing.  
 
 The challenge I see is that it is all disconnected - there are pockets of brilliance, but very little connecting these islands. We need to fix that!
 
