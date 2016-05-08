@@ -55,9 +55,9 @@ At a conceptual level there is a compelling argument for team tourism - how to p
 
 - Costs of tourism should be shared between companies. Typically if there is a reciprocal visit planned it makes sense for each company to pay one leg of the trip. There should be no profit making motive.
 
-#### To make it possible ####
+#### Is this work or leave? ####
 
-- Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave, alas it is hard to do when leave with family is so limited anyway.  
+- Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave - I gained a lot from it but alas for me, it is hard to do when leave with family is so limited anyway.  
 
 #### Additional No No's ####
 
