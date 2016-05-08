@@ -18,9 +18,7 @@ Some of the things I seen across these teams include:
 
 The challenge is that all these teams are disconnected - each team has pockets of brilliance. We need to fix that!
 
-So how are we currently connecting these pockets of excellence? 
-
-Currently now I see two approaches:
+So how do we connect these pockets of excellence? Currently I've seen two approaches used:  
 
 1) Company pays a guru consultant to come and visit and share their insights. The guru spends a few days sharing their wisdom with the team, before moving on to the next team.  
 2) Company hires new employees who bring some of the "magic sauce" with them from their previous employers.  
