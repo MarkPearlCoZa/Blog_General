@@ -49,13 +49,19 @@ At a conceptual level there is a compelling argument for team tourism - how to p
 
 #### How long should a tourist visit? ####
 
-- I've found one to three day's is great. Personally I've found anything less than a day is too short with even one day being a bit overwhelming (especially if you have travelled to get there). My preference is two days which gets to show you some of the routine.
+- One to three day's is great. I've found anything less than a day is too short with even one day being a bit overwhelming (especially if you have travelled a distance to get there). My preference is two days which gets to show you some of the routine.
+
+#### Who covers the costs? ####
+
+- Costs of tourism should be shared between companies. Typically if there is a reciprocal visit planned it makes sense for each company to pay one leg of the trip. There should be no profit making motive.
 
 #### To make it possible ####
 
-- Team tourism is not a 'polite' word for poaching staff - for it to work sponsoring companies should not be concerned that their staff will be poached.  
 - Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave, alas it is hard to do when leave with family is so limited anyway.  
-- Costs of tourism should be shared between companies. There should be no profit making motive.
+
+#### Additional No No's ####
+
+- Team tourism is not a 'polite' word for poaching staff - for it to work sponsoring companies should not be concerned that their staff will be poached.  
 
 ### Interested in doing a team tourism day with me? ###
 
