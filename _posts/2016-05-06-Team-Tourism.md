@@ -13,10 +13,10 @@ Some of the things I seen across these teams include:
 
 - teams that intentionally create team culture.  
 - unique ways to represent collaborative work.  
-- advanced mentoring and intentional learning.  
+- advanced mentoring and intentional learning techniques.  
 - pushing the boundaries of mobbing.  
 
-The challenge I see is that it is all disconnected - there are pockets of brilliance, but very little connecting these islands. We need to fix that!
+The challenge is that all these teams are disconnected - each team has pockets of brilliance. We need to fix that!
 
 So how are we currently connecting these pockets of excellence? 
 
