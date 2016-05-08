@@ -34,6 +34,22 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
+#### Creating Arrays from Strings ####
+
+Using split operator...
+
+~~~
+let a = 'this is a string';
+a.split('').map(c=> console.log(c));
+~~~
+
+Using spread operator...
+
+~~~
+let a = 'this is a string';
+[...a].map(c => console.log(c));
+~~~
+
 #### Putting and taking off an array ####
 
  unshift -> array <- push
