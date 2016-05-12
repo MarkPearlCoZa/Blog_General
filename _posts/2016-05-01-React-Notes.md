@@ -7,21 +7,19 @@ category: Tech
 
 ## React Notes ##
 
-React is a JavaScript library for building user interfaces.
+React is a JavaScript library for building user interfaces. It leverages a component-based architecture.
 
-Component-based Architecture
-
-We create components, if they get to complex we break them into smaller simpler components.
+The mindset behind react is create components, if they get too complex, break them into smaller simpler components.
 
 Components generate an output every time it is invoked.
 
 ### Virtual DOM ###
 
-The virtual DOM is an in-memory representaion of the actual DOM.
+The virtual DOM is an in-memory representation of the actual DOM.
 
-The browser DOM is generall slow.
+The browser DOM is generally slow.
 
-Virtual DOM's allow react to be fast by allowing diffing which allows react to mimize changes to the DOM.
+Virtual DOM's allow react to be fast by allowing diffing which allows react to minimize changes to the DOM.
 
 ### Components in React ###
 
@@ -138,7 +136,7 @@ e.g.
 {this.props.author}
 ~~~
 
-then using it in a compontns can be done as follows...
+then using it in a components can be done as follows...
 
 ~~~
 <MyComponent autor="Bob" />
@@ -227,15 +225,15 @@ We use reacts events system to capure user input, including form submissions and
 
 Refs allow us to reference DOM Elements in our code after the component has been rendered.
 
-Parent components can pass callback functions as props to child componets to allow two-way communication.
+Parent components can pass callback functions as props to child components to allow two-way communication.
 
 In React we use **refs** to reference DOM Elements in our code after the component has been rendered.
 
 ### Talking to remote servers ###
 
-jQuery helps us make Ajax request. 
+Query helps us make Ajax request. 
 
-An example of getting data using JQuery.
+An example of getting data using jQuery.
 
 ~~~
 class CommentBox extends React.Component {
@@ -253,16 +251,16 @@ class CommentBox extends React.Component {
 
 To call a method before the render method is called use React's life cycle methods.
 
-### Lifecycle Events ###
+### Life cycle events ###
 
-Lifecycle methods in React are functions that get called while the component is rendered for the first time or about to be removed from the DOM.
+Life cycle methods in React are functions that get called while the component is rendered for the first time or about to be removed from the DOM.
 
 LifeCycle... 
-- constructor() ->  
-- componentWillMount() ->  
-- render() ->  
-- componentDidMount() ->  
-- componentWillUnmount() ->
+- constructor() ->   
+- componentWillMount() ->   
+- render() ->   
+- componentDidMount() ->   
+- componentWillUnmount() ->  
 
 For a full lust of React's lifecycle methods, visit http://go.codeschool.com/react-lifecycle-methods  
 
@@ -328,7 +326,7 @@ React optimizes the rendering process by only updating the DOM when changes are 
 
 ### Memory Leads on Page Change ###
 
-- Page changes in a single-page app environment will cause each CommentBox component to keep loading new comments every five seconds, even when they're no longger being displayed.
+- Page changes in a single-page app environment will cause each CommentBox component to keep loading new comments every five seconds, even when they're no longer being displayed.
 
 Each component should be responsible for removing any timers it has created. We do this in the componentWillUnmount method.
 
@@ -386,7 +384,7 @@ class CommentBox extends React.Component { ...
 
 One way control flow.
 
-In reazct controls flows from higher level components down to child components, forcing changes to happen reactively. This keeps apps modular and fast.
+In react controls flows from higher level components down to child components, forcing changes to happen reactively. This keeps apps modular and fast.
 
 
 ## Remember ##
