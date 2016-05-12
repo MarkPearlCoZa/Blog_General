@@ -20,6 +20,8 @@ script src="vendors/babel.js">
 script type="text/babe;" src="components.js"
 ~~~
 
+Go to the [react site](https://facebook.github.io/react/docs/getting-started.html) to get the latest.  
+
 ### Components in React ###
 
 Components in React are JS classes that inherit from the React.Component base class.
