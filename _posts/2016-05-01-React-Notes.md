@@ -5,21 +5,20 @@ tags: React
 category: Tech
 ---
 
-## React Notes ##
-
-React is a JavaScript library for building user interfaces. It leverages a component-based architecture.
-
-The mindset behind react is create components, if they get too complex, break them into smaller simpler components.
-
-Components generate an output every time it is invoked.
+React is a JavaScript library for building user interfaces. It leverages a component-based architecture. The mindset behind react is create components, if they get too complex, break them into smaller simpler components. Components generate an output every time they are invoked.
 
 ### Virtual DOM ###
 
-The virtual DOM is an in-memory representation of the actual DOM.
+The virtual DOM is an in-memory representation of the actual DOM. React leverages the virtual DOM because the browser DOM is generally slow. Virtual DOM's are fast by leveraging DOM diffing which allows react to minimize changes to the browser DOM.
 
-The browser DOM is generally slow.
+### Scripts needed for React ###
 
-Virtual DOM's allow react to be fast by allowing diffing which allows react to minimize changes to the DOM.
+~~~
+script src="vendors/react.js"
+script src="vendors/react-dom.js"
+script src="vendors/babel.js">
+script type="text/babe;" src="components.js"
+~~~
 
 ### Components in React ###
 
@@ -52,15 +51,12 @@ in index.html
 
 ### JSX ###
 
-JSX is another way or writing JS with a transpile step.
+JSX is another way or writing JS with a transpile step.  
+- JSX executes anything in camel case as react components.  
+- JSX executes anything in lower case as normal html.  
+- Code written within curly braces is interpreted as literal JavaScript.  
 
-JSX executes anything in camel case as react components
-
-JSX executes anything in lower case as normal html.
-
-Code written within curly braces is itnerpreted as literal JavaScript.
-
-** Note that to specify a class use a className instead of class. **
+** Note in JSX specify a class use a className instead of class. **
 
 ~~~
 class StoryBox extends React.Component {
@@ -104,15 +100,6 @@ class StoryBox extends React.Component {
 		}
 	}	
 ~~~
-### Scripts to use ###
-
-~~~
-script src="vendors/react.js"
-script src="vendors/react-dom.js"
-script src="vendors/babel.js">
-script type="text/babe;" src="components.js"
-~~~
-
 
 ### Props & Components Communication ###
 
