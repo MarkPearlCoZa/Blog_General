@@ -244,7 +244,7 @@ To call a method before the render method is called use React's life cycle metho
 
 Life cycle methods in React are functions that get called while the component is rendered for the first time or about to be removed from the DOM.
 
-LifeCycle... 
+LifeCycle...  
 - constructor() ->   
 - componentWillMount() ->   
 - render() ->   
@@ -313,11 +313,11 @@ class CommentBox extends React.Component {
 
 React optimizes the rendering process by only updating the DOM when changes are detected on the resulting markup.
 
-### Memory Leads on Page Change ###
+### Memory Leaks on Page Change ###
 
 - Page changes in a single-page app environment will cause each CommentBox component to keep loading new comments every five seconds, even when they're no longer being displayed.
 
-Each component should be responsible for removing any timers it has created. We do this in the componentWillUnmount method.
+- Each component should be responsible for removing any timers it has created. We do this in the componentWillUnmount method.
 
 ~~~
 class CommentBox extends React.Component {
@@ -378,8 +378,9 @@ In react controls flows from higher level components down to child components, f
 
 ## Remember ##
 
-Parent components can send data to child components using props
-Child components can accept call functions as props to communicate back with parent com
+Parent components can send data to child components using props  
+Child components can accept call functions as props to communicate back with parent com  
+
 #### References ####
 
 [Add a Build System to a React Application]("https://www.codeschool.com/screencasts/add-a-build-system-to-a-react-application")
