@@ -218,7 +218,7 @@ Parent components can pass callback functions as props to child components to al
 
 In React we use **refs** to reference DOM Elements in our code after the component has been rendered.
 
-### Talking to remote servers ###
+### Talking to Remote Servers ###
 
 Query helps us make Ajax request. 
 
