@@ -30,9 +30,9 @@ in components.js
 
 ~~~ 
 class StoryBox extends React.Component {
-	render() {
-		return ( <div>Story Box</div> );
-	}
+  render() {
+    return ( <div>Story Box</div> );
+  }
 }
 
 let target = document.getElementById('story-app');
@@ -44,10 +44,10 @@ in index.html
 
 ~~~
 <html>
-	<body>
-		<div> id="story-app"></div>
-		<script ... >
-	</body>
+  <body>
+    <div> id="story-app"></div>
+    <script ... >
+  </body>
 </html>
 ~~~
 
@@ -87,7 +87,8 @@ class CommentForm extends React.Component {
       <form className="comment-form" onsubmit={this._handleSubmit.bind(this)}>
       ...
         <input placeholder="Name:" ref={(input) => this._author = input}/>
-	<textarea placeholder="Comment:" ref={(textarea) => this._body = textarea}></textarea>
+	<textarea placeholder="Comment:" ref={(textarea) => this._body = textarea}>
+        </textarea>
       ...
       </form>
     );
@@ -177,6 +178,7 @@ class CommentBox extends React.Components {
     };
   }
 }
+~~~
 
 We don't assign to the state object directly - instead, we call setState by passing it an object.
 
