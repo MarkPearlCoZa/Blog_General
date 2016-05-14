@@ -54,6 +54,7 @@ in index.html
 ### JSX ###
 
 JSX is another way or writing JS with a transpile step.  
+
 - JSX executes anything in camel case as react components.  
 - JSX executes anything in lower case as normal html.  
 - Code written within curly braces is interpreted as literal JavaScript.  
@@ -62,17 +63,16 @@ JSX is another way or writing JS with a transpile step.
 
 ~~~
 class StoryBox extends React.Component {
-	render() {
-		const now = new Date();
-
-		return (
-			<div>
-				<h3>Info</h3>
-				<p className="lead">
-					Current time: {now.toTimeString() }
-				</p>
-			</div>	
-	}
+  render() {
+    const now = new Date();
+    return (
+      <div>
+        <h3>Info</h3>
+	<p className="lead">
+	Current time: {now.toTimeString() }
+        </p>
+      </div>	
+   }
 }
 ~~~
 
@@ -81,26 +81,25 @@ class StoryBox extends React.Component {
 ### Synthetic Events ###
 
 ~~~
-	class CommentForm extends React.Component {
-		render() {
-			return (
-				<form className="comment-form" onsubmit={this._handleSubmit.bind(this)}>
-				...
-					<input placeholder="Name:" ref={(input) => this._author = input}/>
-					<textarea placeholder="Comment:" ref={(textarea) => this._body = textarea}></textarea>
-				...
-				</form>
-			);
-		}
+class CommentForm extends React.Component {
+  render() {
+    return (
+      <form className="comment-form" onsubmit={this._handleSubmit.bind(this)}>
+      ...
+        <input placeholder="Name:" ref={(input) => this._author = input}/>
+	<textarea placeholder="Comment:" ref={(textarea) => this._body = textarea}></textarea>
+      ...
+      </form>
+    );
+  }
 
-		_handleSubmit(event) {
-			event.preventDefault();
-			let author = this._author;
-			let body = this._body;
-
-			this.props.addComment(author.value, body.value);	
-		}
-	}	
+  _handleSubmit(event) {
+   event.preventDefault();
+   let author = this._author;
+   let body = this._body;
+     this.props.addComment(author.value, body.value);	
+   }
+}	
 ~~~
 
 ### Props & Components Communication ###
