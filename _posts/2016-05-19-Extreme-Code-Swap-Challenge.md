@@ -6,6 +6,8 @@ category: General
 ---
 I am a fan of code retreats. There is so much to get from them, from the different pairings to the different constraints on each session, to just meeting different people. Today I want to mention of an exercise I came up with inspired by code retreat's. It's a ton of fun, can be done in under 40 minutes and will give you some insights into the quality of the code you right as a team. I call it the Extreme Code Swap Challenge.
 
+-------------------------------------------------------------------------
+
 ### Vanilla Code Swap ###
 
 #### What you need ####
