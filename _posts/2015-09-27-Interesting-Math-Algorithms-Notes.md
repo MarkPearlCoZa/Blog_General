@@ -93,6 +93,10 @@ where n is the number of things to choose from, and we choose r of them.
 
 ### Factorial ###
 
+Read [shmoop's explanation on factorials & permutations](http://www.shmoop.com/probability-statistics/factorials-permutations.html) for a humorous and understandable explanation of factorials.  
+
+#### Recursive Factorial ####
+
 Calculating factorial can be done as follows in JavaScript...
 
 ~~~
@@ -113,6 +117,12 @@ function factorial(n) {
   return n>=0 ? n ? n*factorial(n-1) : 1 : null;
 }
 ~~~
+
+#### Non-recursive Factorial ####
+
+
+
+[See more](http://stackoverflow.com/questions/231250/how-would-you-write-a-non-recursive-algorithm-to-calculate-factorials)  
 
 ### Sum of multiples ###
 
