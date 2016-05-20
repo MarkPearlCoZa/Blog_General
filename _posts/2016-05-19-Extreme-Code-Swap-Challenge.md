@@ -21,6 +21,7 @@ Identical development lanugage and IDE (or ones that everyone is comfortable) on
 - Each developer starts at their machine and is given 5 minutes to solve the kata.  
 - As the time lapses someone calls time and everyone gets up from their machine and rotates to the next workstation.  
 - Rotations are done blind - meaning when you come to a new workstation you cannot speak to the developer that was there before - you can only rely on the code.  
+- At the new terminal you try and pick up where the previous developer left off.
 - After sufficient rotations we stop, have a mini-retro where everyone gets together to share the experiences and what is frustrating them etc.  
 
 -------------------------------------------------------------------------
