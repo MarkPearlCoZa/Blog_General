@@ -5,6 +5,12 @@ tags: Learning
 category: General  
 ---  
 
+2 useful questions to ask when naming things…
+ 
+1) What it is  
+2) What it’s for  
+
+
 #### Common Names to look out for ####
 
 Helper - 
@@ -50,6 +56,7 @@ Parse vs. Compose
 Name the responsibility, not the thing. For example, if you think in terms of responsibilities, names of classes should describe behaviour, not things.
 
 Patterns provide a base for names. For technical level solutions use well known pattern names if they match with what you are using. These are the ubiquotous names for the industry.
+
 
 #### References ####
 

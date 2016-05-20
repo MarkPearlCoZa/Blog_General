@@ -34,6 +34,13 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
+#### Creating Array removing duplicate values ####
+
+~~~
+let a = [1, 2, 3, 2, 2, 1, 3];
+let uniqueA = [...new Set(a)];
+~~~
+
 #### Creating Arrays from Strings ####
 
 Using split operator...
