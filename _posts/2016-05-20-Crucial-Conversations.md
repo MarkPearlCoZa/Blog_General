@@ -32,7 +32,7 @@ E - Encourage testing
 
 #### Tell your story ####
 
-– facts alone are rarely worth mentioning without a conclusion.  
+- facts alone are rarely worth mentioning without a conclusion.  
 - it takes confidence to share your story, be honest.  
 - when sharing your story look for safety problems. 
 - use contrasting.  
@@ -40,13 +40,13 @@ E - Encourage testing
 
 #### Ask for others paths ####
 
-– encourage them to express their facts, stories, and feelings.  
+- encourage them to express their facts, stories, and feelings.  
 - carefully listen to what the other person has to say.  
 - be willing to abandon or reshapre your story as more information pours into the pool of shared meaning  
 
 #### Talk tentatively ####
 
-– tell your story as a story rather than disguising it as a fact.  
+- tell your story as a story rather than disguising it as a fact.  
 - strike a balance between confidence and humility.   
 
 ##### Examples of talking tentatively #####
@@ -57,7 +57,7 @@ E - Encourage testing
 
 #### Encourage testing ####
 
-– invite opposing views. 
+- invite opposing views. 
 - mean your invitation when you invite opposing views. 
 - if you don’t get opposing views play’s devil’s advocate.  
  
