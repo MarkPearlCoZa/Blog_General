@@ -130,7 +130,7 @@ public int factorial(int n) {
 }
 ~~~
 
-[See more](http://stackoverflow.com/questions/231250/how-would-you-write-a-non-recursive-algorithm-to-calculate-factorials)  
+[See more on Stack Overflow](http://stackoverflow.com/questions/231250/how-would-you-write-a-non-recursive-algorithm-to-calculate-factorials)  
 
 ### Sum of multiples ###
 
