@@ -49,6 +49,12 @@ E - Encourage testing
 – tell your story as a story rather than disguising it as a fact.  
 - strike a balance between confidence and humility.   
 
+##### Examples of talking tentatively #####
+ 
+“In my opinion ... “   
+“Perhaps you were unaware ... “  
+"Is that what is going on here, or am I jumping to conclusions ..."  
+
 #### Encourage testing ####
 
 – invite opposing views. 
@@ -57,15 +63,9 @@ E - Encourage testing
  
 ----------------------------------------------------------------------------------------------------------
 
-##### Examples of talking tentatively #####
- 
-“In my opinion ... “   
-“Perhaps you were unaware ... “  
-"Is that what is going on here, or am I jumping to conclusions ..."  
- 
 ##### Contrasting #####
  
-##### Softening #####
+##### Examples of Softening #####
  
 “I’m beginning to wonder if … “  
  
