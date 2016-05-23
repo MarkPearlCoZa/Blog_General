@@ -11,20 +11,57 @@ Learn to look – notice when safety is at risk
 Make things safe  
 Master your stories – how to stay in dialogue when you’re angry, scared, or hurt  
 
-### State your path ###
+----------------------------------------------------------------------------------------------------------
+
+## State your path ##
  
-#### STATE ####
+### STATE ###
+
+S - Share your facts  
+T - Tell your story  
+A - Ask for others paths  
+T - Talk tentatively  
+E - Encourage testing  
  
-Share your facts – facts are general not controversial, facts are more persuasive than subjective conclusions. Facts for the foundation of belief. Facts are the least insulting.  
-Tell your story – Facts alone are rarely worth mentioning without a conclusion. It takes confidence to share your story, be honest. When sharing your story look for safety problems. Use contrasting. Do not apologize for your views  
-Ask for others paths – encourage them to express their facts, stories, and feelings. Carefully listen to what the other person has to say. Be willing to abandon or reshapre your story as more information pours into the pool of shared meaning  
-Talk tentatively – tell your story as a story rather than disguising it as a fact. Strike a balance between confidence and humility.  
-Encourage testing – Invite opposing views. Mean your invitation when you invite opposing views. If you don’t get opposing views play’s devil’s advocate.  
+#### Share your facts #### 
+
+- facts are general not controversial.  
+- facts are more persuasive than subjective conclusions.  
+- facts for the foundation of belief.  
+- facts are the least insulting.  
+
+#### Tell your story ####
+
+– facts alone are rarely worth mentioning without a conclusion.  
+- it takes confidence to share your story, be honest.  
+- when sharing your story look for safety problems. 
+- use contrasting.  
+- do not apologize for your views  
+
+#### Ask for others paths ####
+
+– encourage them to express their facts, stories, and feelings.  
+- carefully listen to what the other person has to say.  
+- be willing to abandon or reshapre your story as more information pours into the pool of shared meaning  
+
+#### Talk tentatively ####
+
+– tell your story as a story rather than disguising it as a fact.  
+- strike a balance between confidence and humility.   
+
+#### Encourage testing ####
+
+– invite opposing views. 
+- mean your invitation when you invite opposing views. 
+- if you don’t get opposing views play’s devil’s advocate.  
  
-##### Talking Tentatively #####
+----------------------------------------------------------------------------------------------------------
+
+##### Examples of talking tentatively #####
  
-“In my opinion … “  
-“Perhaps you were unaware … “  
+“In my opinion ... “   
+“Perhaps you were unaware ... “  
+"Is that what is going on here, or am I jumping to conclusions ..."  
  
 ##### Contrasting #####
  
