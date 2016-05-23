@@ -120,7 +120,15 @@ function factorial(n) {
 
 #### Non-recursive Factorial ####
 
+Since an integers overflow on anything bigger than 12!, non-recursive factorials can often be done using look up tables...  
 
+~~~
+public int factorial(int n) {
+  int[] fact = {1, 1, 2, 6, 24, 120, 720, 5040, 40320, 
+                362880, 3628800, 39916800, 479001600};
+  return fact[n];
+}
+~~~
 
 [See more](http://stackoverflow.com/questions/231250/how-would-you-write-a-non-recursive-algorithm-to-calculate-factorials)  
 
