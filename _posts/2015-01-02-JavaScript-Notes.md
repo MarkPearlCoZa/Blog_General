@@ -192,6 +192,16 @@ function buildFun(n){
 
 [Read more](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)  
 
+### RegEx ###
+
+
+Using RegExp
+ 
+~~~
+"This is a string value".match(new RegExp(key,'gi'));
+~~~
+
+
 ### Misc ###
 
 #### Easy way to Run JavaScript ####

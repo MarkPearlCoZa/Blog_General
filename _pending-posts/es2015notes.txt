@@ -1,0 +1,78 @@
+#### Sets
+
+Store unique values of any type, whether primitive values or object references.
+
+When adding duplicate items, it ignores the duplicates.
+
+Sets are iterable
+
+~~~
+let tags = new Set();
+tags.add("1");
+tags.add("2");
+tags.add("3");
+tags.add("3"); // This add is ignored!
+~~~
+
+#### Weak Sets
+
+A weak set is a type of set where only objects are allowed to be stored. They are more memory efficient.
+
+~~~
+let weakTags = new WeakSet();
+weakTags.add({ name: "JavaScript" });
+~~~
+
+#### Classes
+
+##### Constructor Functions
+
+A old/traditional way of making objects in JS 
+
+~~~
+function TheObject(val1, val2) {
+ this.val1 = val1;
+ this.val2 = val2;
+}
+
+TheObject.prototype.doSomething = function() {
+ console.log(this.val1);
+}
+
+let newObject = new TheObject('1', '2');
+newObject.doSomething();
+~~~
+
+A newer way - it's exactly the same just syntactlically nicer...
+
+~~~
+class TheObject {
+ constructor(val1, val2) {
+   this.val1 = val1;
+   this.val2 = val2;
+ }
+
+ render() {
+  console.log(this.val1);
+ }
+}
+~~~
+
+##### Class Inheritance
+
+To create a subclass use the extend method.
+
+~~~
+ class SponsorWidget extends Widget {
+	
+   constructor() {
+    super();              // calls the parent class constructor
+   };
+
+   render() {
+     //... do something
+   }
+ }
+~~~
+
+
