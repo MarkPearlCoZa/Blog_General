@@ -124,6 +124,14 @@ console.log(`Hello ${value}!`);
 
 ### Numbers ###
 
+#### Check if a number is a whole number / integer  ####
+
+~~~
+function isWholeNumber(n){
+    return Number(n) === n && n % 1 === 0;
+}
+~~~
+
 #### Fast Math.Floor ####
 
 That ~~ is a double NOT bitwise operator.
