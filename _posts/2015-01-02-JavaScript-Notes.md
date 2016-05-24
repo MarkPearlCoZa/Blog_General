@@ -20,6 +20,12 @@ Another approach for creating an array and populating it with values 1 to 10...
 Array.from({length:n}, (_,i)=>i+1)
 ~~~
 
+Or...
+
+~~~
+[...Array(n)].map((_, i) => i+1);
+~~~
+
 Some other ways to generate prepopulated arrays...
 
 ~~~
