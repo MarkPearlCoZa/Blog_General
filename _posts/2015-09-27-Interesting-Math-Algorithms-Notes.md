@@ -195,6 +195,18 @@ var gcd = function(a, b) {
 
 ------------------------------------------------------------------------------------------------
 
+#### Calculate a Power Of ####
+
+~~~
+const powerOf = (n, y) => {
+                let x = n;
+  while (x % y == 0) x = x / y;
+  return x == 1;    
+}
+~~~
+
+------------------------------------------------------------------------------------------------
+
 #### Calculate Square Root ####
 
 Using Newton's Formula - [see more](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number)  
