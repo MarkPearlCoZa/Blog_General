@@ -164,6 +164,14 @@ or
 if (data === parseInt(data, 10)) { ... }
 ~~~
 
+#### Rounding ####
+
+Rounding to certain decimal places  
+
+~~~
+const roundTo = (n, decimal) => (Math.round(n * Math.pow(10,decimal)) * Math.pow(10,-decimal)).toFixed(decimal);
+~~~
+
 ### Map & Reduce ###
 
 [Explanation of Map/Reduce](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)  
@@ -237,6 +245,14 @@ Array.prototype.join = Array.prototype._join;
 let person = { name : "Mark", surname : "Pearl"}
 
 If ('propertyName' in person) ...
+~~~
+
+#### Method Parameters ####
+
+The following is allowed in method signatures...  
+
+~~~
+const lengthOfLine = ([[x1,y1],[x2,y2]]) => (x1 - x2) * (y1 - y2)
 ~~~
 
 #### Iterators ####
