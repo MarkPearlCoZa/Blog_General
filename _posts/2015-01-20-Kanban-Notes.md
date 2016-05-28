@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Kanban Notes
+title: Kanban
 tags: Kanban
 category: Process
+permalink: Kanban-Notes
 ---
 
 #### Mantra ####
