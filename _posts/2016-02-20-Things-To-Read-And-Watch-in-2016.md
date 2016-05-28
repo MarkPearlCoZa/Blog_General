@@ -20,3 +20,4 @@ So here's my latest list of recommended readings... As I come across new things 
 [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)  
 [What we actually know about Software Development, and why we believe it's true](https://vimeo.com/9270320)  
 [3 Productivity Hacks for Tech Teams](https://www.youtube.com/watch?v=ZO8hN6Nvl5Y)  
+[The Timeless Way of Building by John Athayde](https://youtu.be/DJJbIjlLmLM)  
