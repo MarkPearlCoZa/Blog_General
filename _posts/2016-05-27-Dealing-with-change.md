@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: Dealing with Change
-tags: Learning
+tags: Change
 category: Soft
 ---
 #### Summary ####
