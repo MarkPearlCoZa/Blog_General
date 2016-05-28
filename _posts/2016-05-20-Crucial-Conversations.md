@@ -11,6 +11,8 @@ Learn to look – notice when safety is at risk
 Make things safe  
 Master your stories – how to stay in dialogue when you’re angry, scared, or hurt  
 
+<img class="img-responsive" alt="Crucial Conversations Order" src="{{ site.url }}/assets/images/Crucial-Conversations-Order.jpg">
+
 ----------------------------------------------------------------------------------------------------------
 
 ## State your path ##
