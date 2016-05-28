@@ -11,7 +11,7 @@ Pull work, Limit Work in Progress
 
 #### Limiting Work in Progress ####
 
-<img class="img-responsive" alt="Usual Response when limiting WIP" src="{{ site.url }}/assets/images/Limit-Wip-png">
+<img class="img-responsive" alt="Usual Response when limiting WIP" src="{{ site.url }}/assets/images/Limit-Wip.png">
 
 #### Motivations for Implimenting Kanban ####
 
