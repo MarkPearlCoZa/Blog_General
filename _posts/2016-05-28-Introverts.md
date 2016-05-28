@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Introvert Notes
+title: Introverts
 tags: Learning
 category: Soft
 ---
