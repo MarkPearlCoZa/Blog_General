@@ -37,3 +37,7 @@ This is new(ish). They used to actually verify all requests to make sure you wer
 If a wildcard certificate is compromised anywhere on any of the services you use, the information on all your services is at risk. You also have to replace the certificate everywhere it's used.
 
 [Read More](https://en.wikipedia.org/wiki/Wildcard_certificate)  
+
+#### SHA-2 vs SHA-1 ####
+
+[Read More](https://support.dnsimple.com/articles/sha-2-ssl-certificates/#sha-2-ssl-certificate-compatibility)  
