@@ -181,7 +181,7 @@ function isPrime(x) {
 
 -------------------------------------------------------------------------------------------------
 
-#### Lowest Common Denominator / Greatest Common Denominator ####
+### Lowest Common Denominator / Greatest Common Denominator ###
 
 ~~~
 var gcd = function(a, b) {
@@ -195,7 +195,7 @@ var gcd = function(a, b) {
 
 ------------------------------------------------------------------------------------------------
 
-#### Calculate a Power Of ####
+### Calculate a Power Of ###
 
 ~~~
 const powerOf = (n, y) => {
@@ -207,7 +207,7 @@ const powerOf = (n, y) => {
 
 ------------------------------------------------------------------------------------------------
 
-#### Calculate Square Root ####
+### Calculate Square Root ###
 
 Using Newton's Formula - [see more](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number)  
 
@@ -238,7 +238,15 @@ const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2
 
 ------------------------------------------------------------------------------------------------
 
-#### Distance / Length of a line ####
+### Distance / Length of a line ###
 
 [Length of Line Segment (Distance) explained](http://www.regentsprep.org/regents/math/geometry/gcg3/ldistance.htm)  
+
+------------------------------------------------------------------------------------------------
+
+### Remainder ###
+
+~~~
+const remainder = (D , d) => d == 0 ? "NaN" : D - (Math.floor(D / d) * d);
+~~~
 
