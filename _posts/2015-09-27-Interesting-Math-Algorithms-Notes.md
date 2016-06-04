@@ -246,6 +246,8 @@ const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2
 
 ### Remainder ###
 
+Calculate the remaineder without using the modulous operator...  
+
 ~~~
 const remainder = (D , d) => d == 0 ? "NaN" : D - (Math.floor(D / d) * d);
 ~~~
