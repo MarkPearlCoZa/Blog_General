@@ -34,6 +34,7 @@ Below are a list of tools that are useful for software development. I have categ
 - [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA  
 - [Launchy](www.launchy.ne) - Quick Launch Applicaions  
 - [Text Editor Anywhere](http://www.listary.com/text-editor-anywhere) - useful tool for keeping your favorite text editor everywhere!  
+- [EditorConfig](http://editorconfig.org/) - define and maintain consistent coding styles between different IDE's    
 
 #### Windows ####
 
