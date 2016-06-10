@@ -5,6 +5,22 @@ tags: html
 category: Tech
 ---
 
+#### Get path of current page ###
+
+You have access to the current_page variable. current_page.path is the source path of this resource (relative to the source directory, without template extensions) and current_page.url is the path without the directory index (so foo/index.html becomes just foo).
+
+~~~
+<%= current_page.path %>
+# -> index.html
+~~~
+
+~~~
+<%= current_page.url %>
+# -> /
+~~~
+
+
+
 #### Syntax for a link_to with html content and additional attributes ####
 
 The following...
