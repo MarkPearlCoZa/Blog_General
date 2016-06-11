@@ -34,7 +34,7 @@ function rakeGarden(garden) {
 ~~~
 
 
-#### Make sure that every letter in a word is unique suing Regex and JS ####
+#### Make sure that every letter in a word is unique using Regex and JS ####
 
 ~~~
 function isIsogram(str){ 
