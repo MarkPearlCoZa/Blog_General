@@ -17,9 +17,13 @@ Algebra & calculus are two different branches of mathematics.
 - Algebra is the simpler of the two and can be used in everyday life. It deals with operations and relations of mathematics and their respective rules.  
 - Calculus is more complex and has its applications in professional fields only. Calculus is the study of change. It deals with functions, limits, derivatives, integrals & infinite series.
 
-[Read more on the differences here](http://www.differencebetween.com/difference-between-algebra-and-calculus/)  
+[Read more on the differences between the two fields here.](http://www.differencebetween.com/difference-between-algebra-and-calculus/)  
 
 -------------------------------------------------------------------------------------------------
+
+### Inversing Exponents ###
+
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Inverse_Exponent.png">
 
 ### Pronic Numbers ###
 
