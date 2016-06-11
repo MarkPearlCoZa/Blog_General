@@ -56,6 +56,19 @@ const powerOf = (n, y) => {
 }
 ~~~
 
+#### Exponential Decay & Growth ####
+
+[Math Is Fun Explanation](http://www.mathsisfun.com/algebra/exponential-growth.html)  
+
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponential_Growth.png">
+
+- where y(t) is a value at time "t"  
+- a = value at the start  
+- k = rate of growth (when > 0) or decay (when < 0)  
+- t = time  
+
+[Wiki Explanation](https://en.wikipedia.org/wiki/Exponential_decay)  
+
 ------------------------------------------------------------------------------------------------
 
 ### Pronic Numbers ###
