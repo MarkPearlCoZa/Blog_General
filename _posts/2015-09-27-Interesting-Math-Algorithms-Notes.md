@@ -35,6 +35,7 @@ Another way to represent this relationship is as follows :
 
 <img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponent_with_Log.png">
 
+[Read more about inversing exponenets here](http://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents)  
 
 ### Pronic Numbers ###
 
