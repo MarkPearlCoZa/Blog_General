@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Interesting Math Algorithm for Programming Notes
+title: Math stuff for Programmers
 tags: Useful
+permalink: Interesting-Math-Algorithms-Notes
 category: Misc
 ---
 
