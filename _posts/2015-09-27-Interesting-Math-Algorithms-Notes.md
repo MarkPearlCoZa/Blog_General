@@ -23,7 +23,18 @@ Algebra & calculus are two different branches of mathematics.
 
 ### Inversing Exponents ###
 
+To inverse an exponent you need to use logarithms. For the following exponent (where b > 0) :  
+
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponent.png">
+
+We could rewrite it as follows :  
+
 <img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Inverse_Exponent.png">
+
+Another way to represent this relationship is as follows :  
+
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponent_with_Log.png">
+
 
 ### Pronic Numbers ###
 
