@@ -22,3 +22,4 @@ Below are a list of websites that I have found useful in the past for programmin
 - [Vim Golf](http://www.vimgolf.com/) - Vim game
 - [Tagul](https://tagul.com) - Word cloud generator  
 - [Colors.co](https://coolors.co) - Creating color palletes  
+- [Online Latex Equation Editor](http://www.sciweavers.org/free-online-latex-equation-editor) - Great for generating math equations as images  
