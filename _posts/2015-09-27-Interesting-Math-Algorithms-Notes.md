@@ -8,7 +8,7 @@ category: Misc
 
 I recently have been spending a fair amount of time on [CodeWars](http://www.CodeWars.com)  
 
-I doing many of the katas on the site I'm coming across interesing math problems. My mathematic skills are not great, so in an attempt to remember some of these things, I have collected the problems and solutions below:  
+Many of the katas on the site are based around math problems. My mathematic skills are not great, so in an attempt to make it easier to tackle these problems I have collected the following notes:  
 
 -------------------------------------------------------------------------------------------------
 
