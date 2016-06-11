@@ -25,10 +25,9 @@ Algebra & calculus are two different branches of mathematics.
 
 When we write
 
-   3
-  2
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponent_Example.png">
 
-we say that 2 is the "base", 3 is the "exponent", and the whole thing is "a power of 2" (in particular, "the third power of 2")
+we say that a is the "base", 3 is the "exponent", and the whole thing is "a power of 2" (in particular, "the third power of 2")
 
 #### Inversing Exponents ####
 
