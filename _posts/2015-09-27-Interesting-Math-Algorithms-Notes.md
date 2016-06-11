@@ -23,11 +23,11 @@ Algebra & calculus are two different branches of mathematics.
 
 ### Exponents and PowerOf ###
 
-When we write
+When we write:  
 
 <img src="{{ site.url }}/assets/images/Math_Exponent_Example.png">
 
-we say that a is the "base", b is the "exponent", and the whole thing is "a power of b".  
+We say that a is the "base", b is the "exponent", and the whole thing is "a power of b".  
 
 #### Inversing Exponents ####
 
