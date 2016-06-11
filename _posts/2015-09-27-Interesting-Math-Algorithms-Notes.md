@@ -12,9 +12,20 @@ Many of the katas on the site are based around math problems. My mathematic skil
 
 -------------------------------------------------------------------------------------------------
 
+### Difference between Calculus and Algebra ###
+
+Algebra & calculus are two different branches of mathematics. 
+
+- Algebra is the simpler of the two and can be used in everyday life. It deals with operations and relations of mathematics and their respective rules.  
+- Calculus is more complex and has its applications in professional fields only. Calculus is the study of change. It deals with functions, limits, derivatives, integrals & infinite series.
+
+[Read more on the differences here](http://www.differencebetween.com/difference-between-algebra-and-calculus/)  
+
+-------------------------------------------------------------------------------------------------
+
 ### Pronic Numbers ###
 
-Pronic Number -A pronic number, oblong number, rectangular number or heteromecic number, is a number which is the product of two consecutive integers, that is, n(n + 1).
+A pronic number, oblong number, rectangular number or heteromecic number, is a number which is the product of two consecutive integers, that is, n(n + 1).
 
 ~~~
 public class Kata
