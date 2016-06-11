@@ -25,7 +25,7 @@ Algebra & calculus are two different branches of mathematics.
 
 When we write
 
-<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponent_Example.png">
+<img src="{{ site.url }}/assets/images/Math_Exponent_Example.png">
 
 we say that a is the "base", b is the "exponent", and the whole thing is "a power of b".  
 
