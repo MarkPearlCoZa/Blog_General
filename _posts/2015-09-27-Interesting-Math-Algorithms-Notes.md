@@ -58,7 +58,7 @@ const powerOf = (n, y) => {
 
 #### Exponential Decay & Growth ####
 
-[Math Is Fun Explanation](http://www.mathsisfun.com/algebra/exponential-growth.html)  
+Assume we said something grew by 15% every year. We call this 'growth' exponential growth. It can be represented using the following equation :   
 
 <img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Exponential_Growth.png">
 
@@ -67,6 +67,7 @@ const powerOf = (n, y) => {
 - k = rate of growth (when > 0) or decay (when < 0)  
 - t = time  
 
+[Math Is Fun Explanation](http://www.mathsisfun.com/algebra/exponential-growth.html)  
 [Wiki Explanation](https://en.wikipedia.org/wiki/Exponential_decay)  
 
 ------------------------------------------------------------------------------------------------
