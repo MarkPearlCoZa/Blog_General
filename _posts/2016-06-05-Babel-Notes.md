@@ -8,6 +8,59 @@ category: Tech
 #### Babel-polyfill ####
 
 Allows you to use some of the features of ES6 that do not transcompile.
+ 
+---------------------------------------------------------------------------------
+
+### Install Babel Locally ###
+ 
+~~~
+npm init
+npm install –save-dev babel-cli
+~~~
+ 
+Package.json is useful for resolving default projects - once setup on a new machine you just need to do
+
+~~~
+npm install
+~~~
+ 
+---------------------------------------------------------------------------------
+
+#### Compiling code with Babel ####
+ 
+The following outputs the transpiled code to the screen:  
+
+~~~
+babel src
+~~~
+ 
+ 
+npm install babel-preset-es2015 –save-dev
+ 
+babel src –presets es2015
+ 
+~~~
+babel src –presets es2015 –out-dir build
+~~~
+ 
+#### Combine files into one bundle ####
+ 
+~~~
+babel src –presets es2015 –out-file build/bundle.js
+~~~
+ 
+##### using a json file for cli ####
+ 
+.babelrc json file
+ 
+---------------------------------------------------------------------------------
+
+
+#### Installing Plugins ####
+ 
+Go to babeljs.io > plugins section
+
+---------------------------------------------------------------------------------
 
 #### Getting Babel to work with React #### 
 
