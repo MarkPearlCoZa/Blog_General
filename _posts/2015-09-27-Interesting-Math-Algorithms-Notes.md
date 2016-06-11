@@ -56,7 +56,7 @@ const powerOf = (n, y) => {
 }
 ~~~
 
-#### Exponential Decay & Growth ####
+#### Exponential Growth & Decay ####
 
 Assume Foo grew by 15% every year. Foo would be experiencing exponential growth. Exponential growth can be represented using the following equation :   
 
