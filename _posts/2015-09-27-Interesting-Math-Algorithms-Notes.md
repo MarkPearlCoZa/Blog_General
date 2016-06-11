@@ -6,13 +6,11 @@ permalink: Interesting-Math-Algorithms-Notes
 category: Misc
 ---
 
-I recently have been spending a fair amount of time on [CodeWars](http://www.CodeWars.com)  
-
-Many of the katas on the site are based around math problems. My mathematic skills are not great, so in an attempt to make it easier to tackle these problems I have collected the following notes:  
+I recently have been spending a fair amount of time on [CodeWars](http://www.CodeWars.com). Many of the katas on the site are based around math problems. My mathematic skills are not great, so in an attempt to make it easier to tackle these problems I have collected the following notes:  
 
 -------------------------------------------------------------------------------------------------
 
-### Difference between Calculus and Algebra ###
+### Difference between Algebra and Calculus  ###
 
 Algebra & calculus are two different branches of mathematics. 
 
