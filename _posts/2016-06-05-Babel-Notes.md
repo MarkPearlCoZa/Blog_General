@@ -11,7 +11,7 @@ Allows you to use some of the features of ES6 that do not transcompile.
  
 ---------------------------------------------------------------------------------
 
-### Install Babel Locally ###
+#### Installing Babel Locally ####
  
 ~~~
 npm init
@@ -54,7 +54,6 @@ babel src –presets es2015 –out-file build/bundle.js
 .babelrc json file
  
 ---------------------------------------------------------------------------------
-
 
 #### Installing Plugins ####
  
