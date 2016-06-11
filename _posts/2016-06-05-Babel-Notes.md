@@ -36,3 +36,4 @@ Your Package.json file should look as follows:
 
 #### References ####
 
+[Pluralsight Babel Course](https://www.pluralsight.com/courses/babel-get-started)  
