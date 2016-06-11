@@ -42,4 +42,12 @@ function isIsogram(str){
 }
 ~~~
 
+#### Checking for Palindrome ####
+
+~~~
+const isPalindrome = (str) => str === reverse(str);
+ 
+const reverse = (str) => str.toString().split('').reverse().join('');
+~~~
+
 ### C# ###
