@@ -45,6 +45,13 @@ Below are a list of tools that are useful for software development. I have categ
 - [WinSCP](winscp.net) - free sftp, scp & ftp client for Windows
 - [FileZilla](https://filezilla-project.org) - free sftp, ftp client for Windows
 
+#### Images ####
+
+- [PNGQuant](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images.  
+- [Image Magick](http://www.imagemagick.org/) - create, edit, compose, or convert bitmap images.  
+- [PunyPng](http://www.punypng.com/) - Image compressor for designers and developers.  
+- [TinyPng](https://tinypng.com/) - Optimize your images with a perfect balance in quality and file size.  
+
 #### Fun ####
 
 - [Hacker Typer](http://hackertyper.net/) - pretends you are programming
