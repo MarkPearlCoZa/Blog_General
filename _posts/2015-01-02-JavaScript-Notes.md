@@ -242,6 +242,27 @@ Using RegExp
 
 -------------------------------------------------------------------------------------------
 
+### Json Objects ###
+
+#### Check if key is in Json Object ####
+
+~~~
+let person = { name : "Mark", surname : "Pearl"}
+
+If ('propertyName' in person) ...
+~~~
+
+#### Parse through each key in Json Object ####
+
+~~~
+for (let key in object) {
+  console.log("key is " + key);
+  console.log("value is " + object[key]);
+}
+~~~
+
+-------------------------------------------------------------------------------------------
+
 ### Misc ###
 
 #### Easy way to Run JavaScript ####
@@ -271,14 +292,6 @@ document.writeln("Hello World");
 Array.prototype.join = Array.prototype._join;
 ~~~
 
-#### Check if key is in Json Object ####
-
-~~~
-let person = { name : "Mark", surname : "Pearl"}
-
-If ('propertyName' in person) ...
-~~~
-
 #### Method Parameters ####
 
 The following is allowed in method signatures...  
@@ -290,7 +303,6 @@ const lengthOfLine = ([[x1,y1],[x2,y2]]) => (x1 - x2) * (y1 - y2)
 #### Iterators ####
 
 [Read more on iterators](http://exploringjs.com/es6/ch_iteration.html)  
-
 
 #### References ####
 
