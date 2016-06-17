@@ -19,3 +19,7 @@ net user <username> /domain
 net group <groupname> /domain
 ~~~
 
+#### References ####
+
+[LDAP Attibutes for Active Directory](http://www.computerperformance.co.uk/Logon/LDAP_attributes_active_directory.htm)  
+

@@ -158,6 +158,15 @@ function isWholeNumber(n){
 isFinite(testValue);
 ~~~
 
+#### Performant way to check if number is odd ####
+
+~~~
+let number = 123;
+(number & 1)i ? console.log('is odd') : console.log('is even');
+~~~
+
+[Read more](http://stackoverflow.com/questions/6572670/other-ways-of-performing-modulo-operation)  
+
 #### Fast Math.Floor ####
 
 That ~~ is a double NOT bitwise operator.
