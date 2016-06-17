@@ -89,6 +89,8 @@ Checks if all elements are numbers
   if (arr.some(x => typeof x != "number")) return "Not all numbers";
 ~~~
 
+-------------------------------------------------------------------------------------------
+
 ### Nulls ###
 
 #### Checking for Null Values ####
@@ -120,6 +122,8 @@ The below code square c to the power of 2
 c ** 2
 ~~~
 
+-------------------------------------------------------------------------------------------
+
 ### Strings ###
 
 #### String Functions ####
@@ -136,6 +140,8 @@ let value = "Blah";
 console.log(`Hello ${value}!`);
 ~~~
 
+-------------------------------------------------------------------------------------------
+
 ### Numbers ###
 
 #### Check if a number is a whole number / integer  ####
@@ -146,6 +152,11 @@ function isWholeNumber(n){
 }
 ~~~
 
+#### Check if a value is a finite number ####
+
+~~~
+isFinite(testValue);
+~~~
 
 #### Fast Math.Floor ####
 
@@ -180,6 +191,8 @@ Rounding to certain decimal places
 ~~~
 const roundTo = (n, decimal) => (Math.round(n * Math.pow(10,decimal)) * Math.pow(10,-decimal)).toFixed(decimal);
 ~~~
+
+-------------------------------------------------------------------------------------------
 
 ### Map & Reduce ###
 
@@ -218,6 +231,7 @@ Using RegExp
 "This is a string value".match(new RegExp(key,'gi'));
 ~~~
 
+-------------------------------------------------------------------------------------------
 
 ### Misc ###
 
@@ -236,7 +250,7 @@ Create a html file called program.html with the following content.
 </html>
 ~~~
 
-Create a javacrip file called program.js with the following content.
+Create a javacript file called program.js with the following content.
 
 ~~~
 document.writeln("Hello World");
