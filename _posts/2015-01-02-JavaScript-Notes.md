@@ -81,6 +81,14 @@ function isTriangle(a,b,c)
 }
 ~~~
 
+#### Checking if all elements in an array match a criteria ####
+
+Checks if all elements are numbers  
+
+~~~
+  if (arr.some(x => typeof x != "number")) return "Not all numbers";
+~~~
+
 ### Nulls ###
 
 #### Checking for Null Values ####
@@ -137,6 +145,7 @@ function isWholeNumber(n){
     return Number(n) === n && n % 1 === 0;
 }
 ~~~
+
 
 #### Fast Math.Floor ####
 
