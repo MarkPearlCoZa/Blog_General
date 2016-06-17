@@ -103,25 +103,6 @@ Falsey values: null, undefined, false, empty string or 0
 const lowercaseCount = str => (str.match(/[a-z]/g) || []).length;
 ~~~
 
-#### Checking for empty strings ####
-
-Remember, an empty string is falsey - so you can do something like this...
-
-~~~
-if (!a) {
-  // is emtpy
-}
-~~~
-
-
-#### Squaring Number Syntax ####
-
-The below code square c to the power of 2
-
-~~~
-c ** 2
-~~~
-
 -------------------------------------------------------------------------------------------
 
 ### Strings ###
@@ -140,6 +121,17 @@ let value = "Blah";
 console.log(`Hello ${value}!`);
 ~~~
 
+#### Checking for empty strings ####
+
+Remember, an empty string is falsey - so you can do something like this...
+
+~~~
+if (!a) {
+  // is emtpy
+}
+~~~
+
+
 -------------------------------------------------------------------------------------------
 
 ### Numbers ###
@@ -156,6 +148,14 @@ function isWholeNumber(n){
 
 ~~~
 isFinite(testValue);
+~~~
+
+#### Squaring Number Syntax ####
+
+The below code square c to the power of 2
+
+~~~
+c ** 2
 ~~~
 
 #### Performant way to check if number is odd ####
