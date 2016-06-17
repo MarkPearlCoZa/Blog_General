@@ -376,6 +376,9 @@ One way control flow.
 
 In react controls flows from higher level components down to child components, forcing changes to happen reactively. This keeps apps modular and fast.
 
+### Misc ###
+
+[Example of a React Count Down Timer](http://w33ble.github.io/understanding-react/demos/countdown.html)  
 
 ## Remember ##
 
