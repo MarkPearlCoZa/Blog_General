@@ -139,5 +139,40 @@ Attributes of an introvert?
 4)      Sell yourself
 5)      Put on a happy face
 
+# Speaking to people #
+
+#### Preparing for meeting people at a conference - Offers & Needs ####
+
+What do you have to offer
+What do you need / want to learn
+O&N is a useful tool to help lubricate conversations. Get a mix between personal and work related needs
+When speaking to people, think WIIFT
+ 
+What’s in it for them?
+
+
+### Quiet Time ###
+
+Communal Solitude - We get some of the best work done in the company of others – even if we are no interacting with them
+Don’t overbook your schedule – keep gaps in between to re-charge
+ 
+### Preparation ###
+
+Gives you confidence that you know your stuff
+Prepare before you meet people on what you can offer them and what you need from them.
+ 
+#### Preparing for a meeting ####
+ 
+Preparing an agenda is a way to help people be prepared at a meeting
+Preparing for a meeting helps allow someone to engage in a meeting
+Use the first five minute rule – get your voice in a meeting within the first five minutes of a meeting starting
+Figure out where you are going to sit – sit strategically.
+ 
+#### Preparing for presentations ####
+ 
+Do your preparation aloud - say your words out loud.
+“Rehearsal is the art of experimentation”
+ 
+
 #### References ####
 
