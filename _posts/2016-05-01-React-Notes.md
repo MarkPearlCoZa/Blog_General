@@ -180,6 +180,19 @@ class CommentBox extends React.Components {
 }
 ~~~
 
+Or we can set it using the getInitialState method...
+
+~~~
+var CommentBox = React.createClass({
+  getInitialState : function() {
+     return {
+	stateName : stateValue
+     }
+  }
+});
+~~~
+
+
 We don't assign to the state object directly - instead, we call setState by passing it an object.
 
 ~~~
