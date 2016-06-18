@@ -25,7 +25,7 @@ function insertDashII(num) {
 }
 ~~~
 
-#### Replace every word not matching a pattern using Regex and JS ####
+#### Replace every word not matching a pattern ####
 
 ~~~
 function rakeGarden(garden) {
@@ -34,7 +34,7 @@ function rakeGarden(garden) {
 ~~~
 
 
-#### Make sure that every letter in a word is unique using Regex and JS ####
+#### Make sure that every letter in a word is unique ####
 
 ~~~
 function isIsogram(str){ 
@@ -50,4 +50,37 @@ const isPalindrome = (str) => str === reverse(str);
 const reverse = (str) => str.toString().split('').reverse().join('');
 ~~~
 
-### C# ###
+#### Handling Pricing Combinations / Steps  ####
+
+The cost of deliveries is:
+
+$3.85 for 40 newspapers
+$1.93 for 20
+$0.97 for 10
+$0.49 for 5
+$0.10 for 1
+
+Write a function that's passed an integer representing the amount of newspapers and returns the cheapest price. 
+
+~~~
+const cheapestQuote = newspapers => {
+  let total = 0;
+  
+  total += Math.floor(newspapers/40) * 3.85;
+  newspapers %= 40;
+  
+  total += Math.floor(newspapers/20) * 1.93;
+  newspapers %= 20;
+  
+  total += Math.floor(newspapers/10) * 0.97;
+  newspapers %= 10;
+  
+  total += Math.floor(newspapers/5) * 0.49;
+  newspapers %= 5;
+ 
+  total += newspapers * 0.1;
+
+  return total;
+};
+~~~
+
