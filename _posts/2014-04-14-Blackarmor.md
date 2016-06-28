@@ -13,3 +13,8 @@ In spite of numerous attempts to get the drive to be detected and the process in
 Eventually I took the three remaining drives and placed them in a different machine running Windows Server 2008. I then installed [UFS Explorer Raid Recovery](http://www.ufsexplorer.com/download_stdrr.php), which detected the drives and made it possible to recover my files. Luckily I didn't lose any data and the recovery worked fine. I would have expected this functionality to be built in the NAS drive without having to purchase third party software at an extra R12000.
 
 I would give this drive a 2 out of 5 stars.
+
+#### References ####
+
+[Cracking Seagate Black Armor NAS 110](http://crapnas.blogspot.co.za/)  
+[How to install latest U-Boot & Linux Kernel on BlackArmor](http://wiki.ccc-ffm.de/projekte:diverses:seagate_blackarmor_nas_220_debian)  
