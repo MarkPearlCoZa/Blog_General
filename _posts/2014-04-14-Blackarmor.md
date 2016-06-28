@@ -18,3 +18,4 @@ I would give this drive a 2 out of 5 stars.
 
 [Cracking Seagate Black Armor NAS 110](http://crapnas.blogspot.co.za/)  
 [How to install latest U-Boot & Linux Kernel on BlackArmor](http://wiki.ccc-ffm.de/projekte:diverses:seagate_blackarmor_nas_220_debian)  
+[GNU ARM Eclipse](http://gnuarmeclipse.github.io/toolchain/install/)  
