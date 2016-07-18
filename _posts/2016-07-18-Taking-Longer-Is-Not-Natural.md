@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking longer is not natural
+title: Taking the longer route is not natural
 tags: Misc
 category: General
 ---
