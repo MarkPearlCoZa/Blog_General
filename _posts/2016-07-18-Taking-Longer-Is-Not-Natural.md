@@ -29,6 +29,15 @@ What has this got to do with software development?
 
 "Sometimes we think we know the quickest route to delivering a feature. When we are in this situation, do we ever explore other approaches that while taking longer may have other learnings available?"
 
-I think the challenge many of us face is that we revert to the quickest route to the solution, I think is part of human nature. The reality is without experimentation and trying approaches that may seem unfamiliar or 'longer' we are missing out on great learning opportunities. 
+I think the challenge many of us face is that we revert to the quickest route to the solution, this seems to be part of human nature. The reality is without experimentation and trying approaches that may seem unfamiliar or 'longer' we are missing out on great learning opportunities.
 
-Next time you have the opportunity to "try" different things, try it - you may learn something you never realized was useful until you learnt it - and often that leads to the biggest breakthroughs!
+For instance, off the top of my head things I have learnt about that I didn't know about before I tried something new included:
+- Pair Programming  
+- Mob Programming
+- Code Retreats  
+- Distributed Version Control  
+- Vim  
+
+And so the list could go on...
+
+Next time you have the opportunity to "try" different things, try it - even if the value is not obviously clear - this is often called the unkown unkowns. You never know, you may learn something you never realized was useful until you learnt it - and often that leads to the biggest breakthroughs!
