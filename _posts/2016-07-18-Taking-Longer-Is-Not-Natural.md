@@ -9,7 +9,9 @@ category: General
 
 Having recently moved to Auckland, I'm currently walking to work each day. Being new to the area, I rely heavily on Google Maps to show me the way. 
 
-Google Maps is amazing - it show's me the optimal route to my office with a few alternate routes and how each alternate route will delay my estimated time of arrival. For the first few day's I took the optimal route - at the time I thought to myself why would I ever choose take a longer route when I know there is a quicker one? That would seem absurd.
+Google Maps is amazing - it show's me the optimal route to my office with a few alternate routes and how each alternate route will delay my estimated time of arrival. 
+
+For the first few day's I took the optimal route - at the time I thought to myself why would I ever choose take a longer route when I know there is a quicker one - that would seem absurd!
 
 After a few day's I realized that Google Maps was optimising for one thing - quickest way to my destination. Did I really want to quickest way to my destination each time?  
 
