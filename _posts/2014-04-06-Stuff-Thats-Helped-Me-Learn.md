@@ -33,6 +33,7 @@ Should you want to improve you typing abilities I would recommend..
 - [TypingIo](http://typing.io/)  
 - [Type Racer](http://play.typeracer.com/)  
 - [Typing Master](http://www.typingmaster.com/)  
+- [Keybr](http://www.keybr.com/)  
 
 Finally, if you work in a particular IDE, I love NMDD (No Mouse Driven Development). You can sharpen your skills at..
 
