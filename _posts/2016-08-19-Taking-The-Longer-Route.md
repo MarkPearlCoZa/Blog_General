@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking the unkown or longer route
+title: Taking the longer route  
 tags: Misc
 category: General
 ---
