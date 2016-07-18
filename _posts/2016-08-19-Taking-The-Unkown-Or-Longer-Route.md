@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking the longer route is not natural
+title: Taking the unkown or longer route
 tags: Misc
 category: General
 ---
