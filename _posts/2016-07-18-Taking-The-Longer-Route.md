@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking the longer route is not natural
+title: Taking the longer route
 tags: Misc
 category: General
 ---
@@ -31,7 +31,7 @@ What has this got to do with software development?
 
 I think the challenge many of us face is that we revert to the quickest route to the solution, this seems to be part of human nature. The reality is without experimentation and trying approaches that may seem unfamiliar or 'longer' we are missing out on great learning opportunities.
 
-For instance, off the top of my head things I have learnt about that I didn't know about before I tried something new included:
+For instance, off the top of my head things I have learnt about that I didn't know about before I tried something new included:  
 - Pair Programming  
 - Mob Programming
 - Code Retreats  
