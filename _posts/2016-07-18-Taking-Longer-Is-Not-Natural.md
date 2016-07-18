@@ -7,7 +7,11 @@ category: General
 
 #### Taking the quickest route
 
-Having recently moved to Auckland, I'm currently walking to work each day. Being new to the area, I rely heavily on Google Maps to show me the way. Google Maps is amazing - it show's me the optimal route to my office with a few alternate routes and how each alternate route will delay my estimated time of arrival. For the first few day's I took the optimal route - at the time I thought to myself why would I ever choose take a longer route when I know there is a quicker one? After a few day's I realized that Google Maps was optimising for one thing - quickest way to my destination. Did I really want to quickest way to my destination each time? 
+Having recently moved to Auckland, I'm currently walking to work each day. Being new to the area, I rely heavily on Google Maps to show me the way. 
+
+Google Maps is amazing - it show's me the optimal route to my office with a few alternate routes and how each alternate route will delay my estimated time of arrival. For the first few day's I took the optimal route - at the time I thought to myself why would I ever choose take a longer route when I know there is a quicker one? That would seem absurd.
+
+After a few day's I realized that Google Maps was optimising for one thing - quickest way to my destination. Did I really want to quickest way to my destination each time?  
 
 At first consideration the thought of taking an alternate route seemed ridiculous - I knew the quickest way, it would be stupid to knowingly take a slower route. However, on thinking about it I realized that there were learning opportunities I was missing out on by always taking the same old route. For instance, I had only learnt very specific streets in Auckland, should I ever need to get to another place in the city I would be lacking on 'local' knowledge. Also, I didn't just walk to get to the office, intrinsically I wanted to see different buildings and places - adding a minute or two to my walk would give me a great opportunity to explore. So now I mix it up. Some day's I take the quickest route, other days I intentionally take a longer route to explore new areas.
 
