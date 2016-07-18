@@ -5,7 +5,7 @@ tags: Misc
 category: General
 ---
 
-#### Taking the quickest route
+#### Taking the quickest route ####
 
 Having recently moved to Auckland, I'm currently walking to work each day. Being new to the area, I rely heavily on Google Maps to show me the way. 
 
@@ -15,7 +15,7 @@ For the first few day's I took the optimal route - at the time I thought to myse
 
 After a few day's I realized that Google Maps was optimising for one thing - the quickest way to my destination. Did I really want to quickest way to my destination each time?  
 
-#### Taking the longer route
+#### Taking the longer route ####
 
 At first consideration the thought of taking an alternate route seemed ridiculous - I knew the quickest way, it would be stupid to knowingly take a slower route. However, on thinking about it I realized that there were learning opportunities I was missing out on by always taking the same old route. 
 
@@ -25,7 +25,7 @@ Also, I didn't just walk to get to the office, intrinsically I wanted to see dif
 
 So now I mix it up. Some day's I take the quickest route, other days I intentionally take a longer route to explore new areas - I've even reached the point when sometimes I keep Google Maps turned off.
 
-#### How this relates to software development
+#### How this relates to software development ####
 
 What has this got to do with software development? 
 
