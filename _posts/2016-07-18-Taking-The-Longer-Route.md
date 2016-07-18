@@ -35,11 +35,11 @@ I think the challenge many of us face is that we revert to the quickest route to
 
 For instance, off the top of my head things I have learnt about that I didn't know about before I tried something new included:  
 - Pair Programming  
-- Mob Programming
+- Mob Programming  
 - Code Retreats  
 - Distributed Version Control  
 - Vim  
 
 And so the list could go on...
 
-Next time you have the opportunity to "try" different things, try it - even if the value is not obviously clear - this is often called the unkown unkowns. You never know, you may learn something you never realized was useful until you learnt it - and often that leads to the biggest breakthroughs!
+Next time you have the opportunity to "try" different things, try it - even if the value is not obviously clear - this is often called the unkown unkown opportunities. You never know, you may learn something you never realized was useful until you learnt it - and often that leads to the biggest breakthroughs!
