@@ -15,6 +15,8 @@ For the first few day's I took the optimal route - at the time I thought to myse
 
 After a few day's I realized that Google Maps was optimising for one thing - the quickest way to my destination. Did I really want to quickest way to my destination each time?  
 
+#### Taking the longer route
+
 At first consideration the thought of taking an alternate route seemed ridiculous - I knew the quickest way, it would be stupid to knowingly take a slower route. However, on thinking about it I realized that there were learning opportunities I was missing out on by always taking the same old route. 
 
 For instance, I had only learnt very specific streets in Auckland, should I ever need to get to another place in the city I would be lacking on 'local' knowledge. 
