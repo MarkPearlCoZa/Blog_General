@@ -25,7 +25,7 @@ Strangely enough I've observed an uncanny correlation between how "pretty" a met
 
 #### How to avoid the anti-pattern
 
-I've found the best way to avoid the anti-pattern is to start with nothing. Scale the metrics down to a handful of things and then build it up over time. For instance, ask yourself, what is the one really important thing that can be "event or time triggered" that would be useful for the team to know about. 
+The best way to avoid the anti-pattern is to start with nothing. Scale the metrics down to a handful of things and then build it up over time. For instance, ask yourself, what is the one really important thing that can be "event or time triggered" that would be useful for the team to know about. 
 
 > The general motto should be: "don't let your message get lost in the noise. Focus on core!"
 
