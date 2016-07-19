@@ -7,7 +7,7 @@ category: General
 
 I once worked with an organization who had mastered vanity metrics as information radiators. They had a large development space with about 50 developers on the "floor". When you walked in to the space for the first time it was very impressive. On nearly every wall was at least one if not several large flat screen tv's showing fancy looking graphs and metrics with great animations.
 
-After a day with the team, a colleague of mine who was joint consulting to the organization commented to me that the place was littered with vanity metrics. It was the first time I had heard the term so I had to look it up to understand what he meant but he was right. Nobody actually cared about anything that was being displayed on the screens. It was there merely to impress.
+After a day with the team, a colleague of mine who was joint consulting to the organization with me commented that the place was littered with vanity metrics as information radiators. It was the first time I had heard the term 'vanity metric' so I had to look it up to understand what he, but when I did I realized he he was absolutely right. Nobody on that floor actually cared about anything that was being displayed on the screens. It was there merely to impress - a vanity metric informaiton radiator at its worst!
 
 #### What are Vanity Metrics?
 
