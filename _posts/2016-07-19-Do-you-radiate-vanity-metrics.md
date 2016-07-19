@@ -29,7 +29,7 @@ The best way to avoid the anti-pattern is to start with nothing. Scale the metri
 
 > The general motto should be: "don't let your message get lost in the noise. Focus on core!"
 
-One such thing for me is failing tests on the build server. If the team owns the build server I want it to be in their face when it is broken. It should be something everyone should talk about. I find build progress a useful metric.
+One such thing for me is failing tests on the build server. If the team owns the build server I want it to be in their face when it is broken. It should be something everyone should talk about. I find build progress a useful metric - I want it on my information radiator.
 
 Once you have found a really useful metric, learn to represent the metric in as simple a way as possible to communicate critical event changes. This is often achieved by leveraging colors to act as visual queues to spark these conversations. For instance, in my culture the color red typically means something is wrong, while the color green means everything is fine. If a conversation needs to happen on a event in the system I usually make the indicator turn red. One side note about colors is to avoid too many colors. As soon as you have too many colors it is hard to remember what lime aqua represents.
 
