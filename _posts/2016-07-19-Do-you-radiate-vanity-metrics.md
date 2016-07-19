@@ -33,7 +33,7 @@ One such thing for me is failing tests on the build server. If the team owns the
 
 Once you have found a really useful metric, learn to represent the metric in as simple a way as possible to communicate critical event changes. This is often achieved by leveraging colors to act as visual queues to spark these conversations. For instance, in my culture the color red typically means something is wrong, while the color green means everything is fine. If a conversation needs to happen on a event in the system I usually make the indicator turn red. One side note about colors is to avoid too many colors. As soon as you have too many colors it is hard to remember what lime aqua represents.
 
-#### Get it in there face
+#### Get it in their face
 
 Finally, once you have found the handful of valuable metrics, you want it in your teams face all the time. If it is useful to put on one monitor, it is often useful to put on several. 
 
