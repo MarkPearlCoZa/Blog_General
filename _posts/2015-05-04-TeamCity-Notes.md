@@ -37,5 +37,9 @@ write-host "##teamcity[setParameter name='version_to_deploy' value='${ver}']"
 
 Reads the value from the written file back in to TeamCity parameters.  
 
+#### Great Visualizers ####
+
+[BuildReactor](https://chrome.google.com/webstore/detail/buildreactor/agfdekbncfakhgofmaacjfkpbhjhpjmp?hl=en)  
+
 #### References ####
 
