@@ -37,6 +37,8 @@ Once you have found a really useful metric, learn to represent the metric in as 
 
 Finally, once you have found the handful of valuable metrics, you want it in your teams face all the time. If it is useful to put on one monitor, it is often useful to put on several. 
 
+> If it is useful to put on one monitor, it is often useful to put on several. 
+
 Personally, I've found if you do standup in a certain place, it is really useful having the "health" of the system visually represented above the stand up board.
 I've also found it extremely useful to have monitors placed in positons where all the team sitting at their desks can all see the screens. Often this means having at least two screen up because often people sit face to face which means if one person can see the monitor, the person opposite to them cannot.
 
