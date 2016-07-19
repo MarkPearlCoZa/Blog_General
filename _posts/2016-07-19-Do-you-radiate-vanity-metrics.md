@@ -19,7 +19,7 @@ I have found information radiators to be extremely useful in highly collaborativ
 
 #### The Anti-Pattern
 
-Vanity metrics that guise themselves as information radiators are extremely dangerous. They give us a false sense of security that we are a collaborative team. Information radiators are too useful to waste on vanity metrics. Please don't do it.
+Vanity metrics that guise themselves as information radiators are extremely dangerous. They often give us a false sense that we are a collaborative team when we are not. Information radiators are too useful to waste on vanity metrics. Please don't do it.
 
 Strangely enough I've observed an uncanny correlation between how "pretty" a metric is displayed and whether it is a vanity metric or not. So far I have found useful information often looks butt ugly. Vanity metrics often look really impressive and pretty.
 
