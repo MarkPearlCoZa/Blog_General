@@ -22,7 +22,9 @@ var rejected = String.Join(",", rejectedIds);
 var unknown = String.Join(",", unknownIds);
 ~~~
 
-Everything looks great. In terms of desired values, everything is being generated correctly. However, at this point I do a further refactoring as follows:
+Everything looks great. In terms of desired values, everything is being generated correctly.   
+
+At this point I do a further refactoring as follows:  
 
 ~~~
 public static void Main(string[] args)
