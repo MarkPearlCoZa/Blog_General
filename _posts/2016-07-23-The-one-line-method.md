@@ -6,7 +6,8 @@ category: General
 ---
 I recently had a chance for an interesting code discussion. It is something I've been wanting to write about for a while, a practice I've been applying to my code that I find many other developers find strange, and being in a new team I've been reminded of this fact. I call it the "one line method" practice.
 
-To illustrate where I apply the one line method practice let me show some sample C# code. 
+To illustrate where I apply the one line method practice let me show some sample C# code.  
+
 ~~~
 var approvedIds = new List<string>();
 var rejectedIds = new List<string>();
