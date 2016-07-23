@@ -53,7 +53,7 @@ So why pull out the work that makes the comma separated string into another meth
 
 For me there are two main motivators. 
 
-1) My overarching principle in programming systems in the business space is writing code that is maintainable. The most maintainable code for me is code that is easily readable (write once, read many times). For me (and I understand this may not be for everyone), pulling the "work" of generating a comma separated string into a separate method increases the readability of the "DoSomeWork" method. Those reading my code can read that the approved, rejected & unknown variables have comma separated values from their respective collections without processing what String.Join(",", ...) does.
+1) My overarching principle in programming systems in the business space is writing code that is maintainable. The most maintainable code for me is code that is easily readable (write once, read many times). For me (and I understand this may not be for everyone), pulling the "work" of generating a comma separated string into a separate method increases the readability of the "DoSomeWork" method when a developer is "scanning" while reading the code. Those reading my code can read that the approved, rejected & unknown variables have comma separated values from their respective collections without processing what String.Join(",", ...) does.
 
 2) In this instance, I'm sensing some re-use. It is likely that if I decide to change how I format the approved variable, the rejected and unknown variable values will also likely change. By extracting a method with this work in it, it makes it easier to adjust all 3 values.
 
@@ -70,6 +70,8 @@ For me there are two main motivators.
 - Without a refactoring tool this creates extra work
 - You could argue that String.Join("," ... ) in your brain tells you straight away that it is generating a comma separated string
 - Code becomes longer to read in its entirety
+
+-------------------------------------------------------------------------------------------------
 
 #### What do you think?
 
