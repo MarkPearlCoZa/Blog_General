@@ -27,13 +27,13 @@ Everything looks great. In terms of desired values, everything is being generate
 ~~~
 public static void Main(string[] args)
 {
-		var approvedIds = new List<string>();
-		var rejectedIds = new List<string>();
-		var unknownIds = new List<string>();
+	var approvedIds = new List<string>();
+	var rejectedIds = new List<string>();
+	var unknownIds = new List<string>();
 
-		var approved = GenerateCommaSeparatedFrom(approvedIds);
-		var rejected = GenerateCommaSeparatedFrom(rejectedIds);
-		var unknown = GenerateCommaSeparatedFrom(unknownIds);
+	var approved = GenerateCommaSeparatedFrom(approvedIds);
+	var rejected = GenerateCommaSeparatedFrom(rejectedIds);
+	var unknown = GenerateCommaSeparatedFrom(unknownIds);
 }
 
 public static string GenerateCommaSeparatedFrom(IEnumerable<string> values){
