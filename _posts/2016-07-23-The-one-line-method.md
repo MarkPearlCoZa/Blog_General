@@ -22,21 +22,29 @@ var rejected = String.Join(",", rejectedIds);
 var unknown = String.Join(",", unknownIds);
 ~~~
 
-Everything looks great. In terms of desired values, everything is being generated correctly. However, at this point I do a further refactoring:
+Everything looks great. In terms of desired values, everything is being generated correctly. However, at this point I do a further refactoring as follows:
 
 ~~~
 public static void Main(string[] args)
 {
-	var approvedIds = new List<string>();
-	var rejectedIds = new List<string>();
-	var unknownIds = new List<string>();
+ var approvedIds = new List<string>();
+ var rejectedIds = new List<string>();
+ var unknownIds = new List<string>();
 
-	var approved = GenerateCommaSeparatedFrom(approvedIds);
-	var rejected = GenerateCommaSeparatedFrom(rejectedIds);
-	var unknown = GenerateCommaSeparatedFrom(unknownIds);
+...
+// Populate id's and do some work on them...
+...
+
+ var approved = GenerateCommaSeparatedFrom(approvedIds);
+ var rejected = GenerateCommaSeparatedFrom(rejectedIds);
+ var unknown = GenerateCommaSeparatedFrom(unknownIds);
 }
 
 public static string GenerateCommaSeparatedFrom(IEnumerable<string> values){
  return String.Join(",", values);
 }
 ~~~
+
+So why pull out the work that makes the comma separated string into another method? 
+
+For me there are two main motivators. The overarching principle in programming systems in the business space is writing code that is maintainable. The most maintainable code is the code that is easily readable (write once, read many times). For me, pulling the "work" into a separate method increases the readability - those reading my code can see that the approved, rejected & unknown variables have comma separated values from their respective collections. There is very little processing that the brain needs to do to ascertain this.
