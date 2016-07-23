@@ -37,6 +37,6 @@ public static void Main(string[] args)
 }
 
 public static string GenerateCommaSeparatedFrom(IEnumerable<string> values){
-	 return String.Join(",", values);
+ return String.Join(",", values);
 }
 ~~~
