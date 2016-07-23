@@ -57,10 +57,13 @@ For me there are two main motivators.
 
 2) In this instance, I'm sensing some re-use. It is likely that if I decide to change how I format the approved variable, the rejected and unknown variable values will also likely change. By extracting a method with this work in it, it makes it easier to adjust all 3 values.
 
+-------------------------------------------------------------------------------------------------
+
 #### Advantages of this approach
 
 - Readability is increased provided methods are named to reveal intent
 - Patterns become easier to detect
+- Less processing when people are "scanning" the code
 
 #### Disadvantages of this approach
 
