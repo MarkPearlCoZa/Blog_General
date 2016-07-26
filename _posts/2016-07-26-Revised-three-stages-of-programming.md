@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three stages of programming
+title: My revised three stages of programming
 tags: Code
 category: General
 ---
