@@ -60,6 +60,6 @@ With that explanation I would like to propose a slight variant on the original 3
 
 1) Make it work,  
 2) Make it work right,  
-3) Make it adequately fast.  
+3) Make it **adequately** fast.  
 
 I think if you keep these three stages in mind you are going to be in a good place with long lived maintainable code.
