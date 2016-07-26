@@ -32,4 +32,14 @@ In a nutshell, at this stage I'm focussing on making the code readable and maint
 
 #### Stage 3 - Make it fast
 
-So, in all honesty I rarely progress to stage 3. To understand why, you need a little context on the type of problems I typically solve. I work predominantly in the business application domain space - from my experience, a small percentage of the code written in this space ends up being a performance bottleneck. Most of the code written performs just fine without any tweaking. In addition, 
+So, in all honesty I rarely progress to stage 3. To understand why, you need a little context on the type of problems I typically solve. 
+
+I work predominantly in the business application domain space - from past experience, a small percentage of the code written in the problems I solve end up being a performance bottleneck on the system. Most of the code written performs just fine without any tweaking. To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. 
+
+Typically, when given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance?
+
+Why do I value this? My experience is when you 'optimize' code you typically loose readability. Readability and performance sit on opposite ends of the scale. The more performant your code is, the less readable it is, and likewise, the more readable your code is, the less performant it is. 
+
+The problems I typically solve are continually evolving, which means someone will probably be adjusting what you originally wrote many times in the future. This often means the CPU cycles saved by making code performant aren't worth the expense and time it will take for the next developer to de-tangle your extremely performant code to discover what it was intended to do. That's why I typically don't do stage 3.
+
+Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 - I believe there are situations where this is necessary
