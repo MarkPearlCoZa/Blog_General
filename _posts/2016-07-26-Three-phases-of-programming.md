@@ -42,4 +42,12 @@ Why do I value this? My experience is when you 'optimize' code you typically loo
 
 The problems I typically solve are continually evolving, which means someone will probably be adjusting what you originally wrote many times in the future. This often means the CPU cycles saved by making code performant aren't worth the expense and time it will take for the next developer to de-tangle your extremely performant code to discover what it was intended to do. That's why I typically don't do stage 3.
 
-Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 - I believe there are situations where this is necessary
+Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 - I believe there are situations where this is necessary. I have friends who solve problems where performant code nearly always outweighs readability.
+
+#### My revised 3 stages
+
+With that explanation I would like to propose a slight variant on the original 3 stages, it goes as follows:
+
+1) Make it work,
+2) Make it work right,
+3) Make it adequately fast.
