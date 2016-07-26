@@ -50,7 +50,7 @@ Why do I feel this way? I've observed that when I 'optimize' code I typically lo
 
 The problems I typically solve are continually evolving, which means someone will be adjusting what I originally wrote many times in the future. This often means the CPU cycles saved by me making code performant aren't worth the expense and time it will take for the next developer to de-tangle my extremely performant code to discover what it was I intended it to do. 
 
-Now, that doesn't mean I never make code performant. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 and I believe there are situations where this is necessary - I just don't come accross them often.
+Now, that doesn't mean I never make code performant. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 and I believe there are situations where this is necessary - I just don't come across them often.
 
 -------------------------------------------------------------------------------------------
 
@@ -61,3 +61,5 @@ With that explanation I would like to propose a slight variant on the original 3
 1) Make it work,  
 2) Make it work right,  
 3) Make it adequately fast.  
+
+I think if you keep this in mind, you are going to be in a good place with long lived maintainable code.
