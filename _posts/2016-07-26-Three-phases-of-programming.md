@@ -36,9 +36,9 @@ So, in all honesty I rarely progress to stage 3. To understand why, you need a l
 
 #### Why I don't progress to Stage 3  
 
-I work predominantly in the business application domain space - from past experience, a small percentage of the code written in the problems I solve end up being a performance bottleneck on the system. Most of the code written performs just fine without any tweaking. To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. 
+I work predominantly in the business applications - from past experience, a small percentage of the code written in the problems I solve end up becoming a performance bottleneck on the system. Most of the code written performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
 
-Typically, when given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance?
+To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. Typically, when given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance?
 
 Why do I value this? My experience is when you 'optimize' code you typically loose readability. Readability and performance sit on opposite ends of the scale. The more performant your code is, the less readable it is, and likewise, the more readable your code is, the less performant it is. 
 
