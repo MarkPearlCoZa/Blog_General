@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three stages of programming
+title: Make it work, make it work right, make it work adequately fast
 tags: Code
 category: General
 ---
@@ -17,4 +17,6 @@ Today I want to explain my interpretation of these three stages, with my own twi
 
 #### Make it work 
 
-This is the first stage. When I am at this stage I'm still feeling around the problem. I'm not to worried about naming. In fact, I purposely pick 'bad' names (see my [article on stage of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming))
+This is the first stage I typically go through. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not to worried about naming things right. In fact, I often purposely pick 'bad' names (see my [article on stage of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not to worried encapsulation - I'm happy to have big chunks of code mashed together. I'm solely focussed on getting the code to "work".
+
+That doesn't mean I write the entire application all at once. I'm still breaking the problem down into smaller chunks.
