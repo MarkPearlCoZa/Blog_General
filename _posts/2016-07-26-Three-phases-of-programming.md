@@ -34,6 +34,8 @@ In a nutshell, at this stage I'm focussing on making the code readable and maint
 
 So, in all honesty I rarely progress to stage 3. To understand why, you need a little context on the type of problems I typically solve. 
 
+-------------------------------------------------------------------------------------------
+
 #### Why I don't progress to Stage 3  
 
 I work predominantly on business applications - from past experience, a small percentage of the code written in the problems I solve end up becoming a performance bottleneck. Most of the code written performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
