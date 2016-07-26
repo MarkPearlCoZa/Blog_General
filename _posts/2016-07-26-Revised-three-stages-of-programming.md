@@ -42,7 +42,7 @@ In all honesty I rarely progress to stage 3. To understand why, you need a littl
 
 I work predominantly on business applications - from past experience, a small percentage of the code written in the problems I solve ends up becoming a performance bottleneck. Most of the code performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
 
-To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. When given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance!
+To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. When given a choice between readability and performance, I will pick readability any day of the week. Generally, I value readability over performance!
 
 <img class="img-responsive" alt="Scale" src="{{ site.url }}/assets/images/Three-Stages-Of-Programming-Scale.jpg">
 
