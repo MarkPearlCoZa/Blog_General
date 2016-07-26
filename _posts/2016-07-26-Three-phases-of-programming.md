@@ -12,13 +12,13 @@ I believe Kent Beck was originally attributed with saying that when he solved pr
 3) Make it fast.  
 
 
-The first time I heard this quoted was during the early days of me learning TDD. If I remember right, the person I was pairing with was explaining why I should be worrying about performance at that particular point since I hadn't yet "made the code work" yet. It was immensely helpful at the time.
+The first time I heard this quoted was during the early days of me learning TDD. If I remember right, the person I was pairing with was explaining why I should not be worrying about performance at that particular point since I hadn't yet "made the code work". It was immensely helpful at the time.
 
-Today I want to explain my interpretation of these three stages, with my own twist.
+Today I want to explain my interpretation of these three stages, with my own twist:
 
 #### Stage 1 - Make it work 
 
-This is the first stage I typically go through when coding a solution. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stage of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried too much about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on getting the "code to work".
+This is the first stage I typically go through when coding a solution. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
 
 Now don't get me wrong, that doesn't mean I write the entire application all at once as a huge mess. I'm most probably using TDD, which means I'm still working with small subsets of the problem. But in that subset I'm not phased about 'breaking the rules' a bit.
 
