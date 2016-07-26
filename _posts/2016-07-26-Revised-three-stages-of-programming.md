@@ -34,7 +34,7 @@ In a nutshell, at this stage I'm focussing on making the code readable and maint
 
 #### Stage 3 - Make it fast
 
-So, in all honesty I rarely progress to stage 3. To understand why, you need a little context on the type of problems I typically solve. 
+In all honesty I rarely progress to stage 3. To understand why, you need a little context on the type of problems I typically solve. 
 
 -------------------------------------------------------------------------------------------
 
