@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make it work, make it work right, make it work adequately fast
+title: Three stages of programming
 tags: Code
 category: General
 ---
