@@ -18,15 +18,15 @@ Today I want to explain my interpretation of these three stages, with my own twi
 
 #### Stage 1 - Make it work 
 
-This is the first stage I typically go through when coding a solution. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
+This is the first stage I typically go through when coding a solution. I think of it as the problem solving stage. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
 
-Now don't get me wrong, that doesn't mean I write the entire application all at once as a huge mess. I'm most probably using TDD, which means I'm still working with small subsets of the problem. But in that subset I'm not phased about 'breaking the rules' a bit.
+Now don't get me wrong, that doesn't mean I write the entire application all at once as a huge mess. I'm most probably using TDD, which means I'm still working with small subsets of the whole problem. But in that subset I'm not phased about 'breaking the rules' a bit.
 
 If I have done my job right, typically I have achieved my goal of "making it work" when my failing test suddenly passes. At that point I move onto stage 2.
 
 #### Stage 2 - Make it work right
 
-Stage 2 is for me the design part. In stage 2 I've already got a working solution - it just may not be the most beautiful code. This is where I mercilessly refactor. At this stage I'm looking for points of abstraction and encapsulation. I'm looking at the names I've given things (classes, methods, variables, you name it). I'm looking for nested loops and multi-level if statements. I'm mindful of patterns - yes, patterns are still useful (often a variant of a pattern will emerge).
+For me, this is the real design part. In stage 2 I've already got a working solution - it just may not be the most beautiful code. This is where I mercilessly refactor. At this stage I'm looking for points of abstraction and encapsulation. I'm looking at the names I've given things (classes, methods, variables, you name it). I'm looking for nested loops and multi-level if statements. I'm mindful of patterns - yes, patterns are still useful (often a variant of a pattern will emerge).
 
 In a nutshell, at this stage I'm focussing on making the code readable and maintainable. Once I've felt that I have accomplished stage 2 I have a choice, I can stop or I can move on to stage 3.
 
