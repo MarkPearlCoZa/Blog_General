@@ -20,9 +20,9 @@ Today I want to explain my interpretation of these three stages, with my own twi
 
 #### Stage 1 - Make it work 
 
-This is the first stage I typically go through when coding a solution. I think of it as the problem solving stage. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
+This is the first stage I typically go through when coding a solution. I think of it as the problem solving stage. When I'm at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right, in fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
 
-Now don't get me wrong, that doesn't mean I write the entire application all at once as a huge mess. I'm most probably using TDD, which means I'm still working with small subsets of the whole problem. But in that subset I'm not phased about 'breaking the rules' a bit.
+Now don't get me wrong, that doesn't mean I write the entire application all at once as a huge mess. That would be a bad idea. I'm most probably using TDD, which means I'm still working with small subsets of the whole problem. But in that subset I'm not phased about 'breaking the rules' a bit.
 
 If I have done my job right, typically I have achieved my goal of "making it work" when my failing test suddenly passes. At that point I move onto stage 2.
 
