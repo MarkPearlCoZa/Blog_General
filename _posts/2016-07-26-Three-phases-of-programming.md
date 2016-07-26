@@ -52,7 +52,9 @@ The problems I typically solve are continually evolving, which means someone wil
 
 Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 and I believe there are situations where this is necessary. 
 
-#### My revised 3 stages
+-------------------------------------------------------------------------------------------
+
+#### My revised 3 stages of programming
 
 With that explanation I would like to propose a slight variant on the original 3 stages, it goes as follows:
 
