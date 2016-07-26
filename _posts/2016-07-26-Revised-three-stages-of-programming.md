@@ -28,7 +28,7 @@ If I have done my job right, typically I have achieved my goal of "making it wor
 
 #### Stage 2 - Make it work right
 
-For me, this is the real design part. In stage 2 I've already got a working solution - it just may not be the most beautiful code. This is where I mercilessly refactor. At this stage I'm looking for points of abstraction and encapsulation. I'm looking at the names I've given things (classes, methods, variables, you name it). I'm looking for nested loops and multi-level if statements. I'm mindful of patterns - yes, patterns are still useful (often a variant of a pattern will emerge).
+For me, this is the real design part. In stage 2 I've already got a working solution - it just may not be the most beautiful code. This is where I mercilessly refactor. At this stage I'm looking for points of abstraction and encapsulation. I'm looking at the names I've given things (classes, methods, variables, you name it). I'm looking for nested loops and multi-level if statements. I'm also mindful of patterns - yes, patterns are still useful (often a variant of a pattern will emerge).
 
 In a nutshell, at this stage I'm focussing on making the code readable and maintainable. Once I've felt that I have accomplished stage 2 I have a choice, I can stop or I can move on to stage 3.
 
