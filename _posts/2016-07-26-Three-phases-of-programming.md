@@ -48,6 +48,6 @@ Now, that doesn't mean I never get to stage 3. Sometimes performant code is wort
 
 With that explanation I would like to propose a slight variant on the original 3 stages, it goes as follows:
 
-1) Make it work,
-2) Make it work right,
-3) Make it adequately fast.
+1) Make it work,  
+2) Make it work right,  
+3) Make it adequately fast.  
