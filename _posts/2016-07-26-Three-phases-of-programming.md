@@ -16,6 +16,8 @@ The first time I heard this quoted was during the early days of me learning TDD.
 
 Today I want to explain my interpretation of these three stages, with my own twist:
 
+-------------------------------------------------------------------------------------------
+
 #### Stage 1 - Make it work 
 
 This is the first stage I typically go through when coding a solution. I think of it as the problem solving stage. When I am at this stage I'm still feeling around the problem or a subset of the problem. I'm not worried about naming things right. In fact, I often purposely pick 'bad' names ([see my article on stages of naming](http://blog.markpearl.co.za/Four-Stages-Of-Naming)). I'm also not worried overly worried about encapsulation - I'm happy to have big chunks of code mashed together. In essence, I'm focussed on one thing - getting the "code to work".
