@@ -40,7 +40,7 @@ So, in all honesty I rarely progress to stage 3. To understand why, you need a l
 
 #### Why I don't progress to Stage 3  
 
-I work predominantly on business applications - from past experience, a small percentage of the code written in the problems I solve end up becoming a performance bottleneck. Most of the code performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
+I work predominantly on business applications - from past experience, a small percentage of the code written in the problems I solve ends up becoming a performance bottleneck. Most of the code performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
 
 To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. When given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance!
 
@@ -48,9 +48,9 @@ To further motivate why I rarely focus on making code 'fast' it is important to 
 
 Why do I value this? What I've observed is that when I 'optimize' code I typically loose readability. For me, readability and performance sit on opposite ends of the scale. The more performant my code is, the less readable it is, and likewise, the more readable my code is, the less performant it is. 
 
-The problems I typically solve are continually evolving, which means someone will probably be adjusting what I originally wrote many times in the future. This often means the CPU cycles saved by me making code performant aren't worth the expense and time it will take for the next developer to de-tangle my extremely performant code to discover what it was I intended to do. 
+The problems I typically solve are continually evolving, which means someone will be adjusting what I originally wrote many times in the future. This often means the CPU cycles saved by me making code performant aren't worth the expense and time it will take for the next developer to de-tangle my extremely performant code to discover what it was I intended to do. 
 
-Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 - I believe there are situations where this is necessary. I have friends who solve problems where performant code nearly always outweighs readability.
+Now, that doesn't mean I never get to stage 3. Sometimes performant code is worth more than readable code. If I was working on a platform where the costs of writing performant code outweighed the benefits of readability I would follow through to stage 3 and I believe there are situations where this is necessary. 
 
 #### My revised 3 stages
 
