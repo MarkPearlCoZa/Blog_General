@@ -38,7 +38,7 @@ In all honesty I rarely progress to stage 3. To understand why, you need a littl
 
 -------------------------------------------------------------------------------------------
 
-#### Why I don't progress to Stage 3  
+#### Why I often don't make it fast... 
 
 I work predominantly on business applications - from past experience, a small percentage of the code written in the problems I solve ends up becoming a performance bottleneck. Most of the code performs just fine without any tweaking - it may not be optimally running, but it is good enough. 
 
