@@ -44,7 +44,7 @@ I work predominantly on business applications - from past experience, a small pe
 
 To further motivate why I rarely focus on making code 'fast' it is important to understand what I value most. When given a choice between readability and performance, I will pick readability any day of the week. I value readability over performance!
 
-<img class="img-responsive center-block" alt="Scale" src="{{ site.url }}/assets/images/Three-Stages-Of-Programming-Scale.jpg">
+<img class="img-responsive" alt="Scale" src="{{ site.url }}/assets/images/Three-Stages-Of-Programming-Scale.jpg">
 
 Why do I value this? What I've observed is that when I 'optimize' code I typically loose readability. For me, readability and performance sit on opposite ends of the scale. The more performant my code is, the less readable it is, and likewise, the more readable my code is, the less performant it is. 
 
