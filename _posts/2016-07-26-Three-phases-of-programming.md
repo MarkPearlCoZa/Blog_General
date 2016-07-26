@@ -42,7 +42,7 @@ To further motivate why I rarely focus on making code 'fast' it is important to 
 
 Why do I value this? I've observed that when I 'optimize' code I typically loose readability. For me, readability and performance sit on opposite ends of the scale. The more performant your code is, the less readable it is, and likewise, the more readable your code is, the less performant it is. 
 
-<img class="img-responsive" alt="Scale" src="{{ site.url }}/assets/images/Three-Stages-Of-Programming-Scale.jpg">
+<img class="img-responsive center-block" alt="Scale" src="{{ site.url }}/assets/images/Three-Stages-Of-Programming-Scale.jpg">
 
 The problems I typically solve are continually evolving, which means someone will probably be adjusting what I originally wrote many times in the future. This often means the CPU cycles saved by me making code performant aren't worth the expense and time it will take for the next developer to de-tangle my extremely performant code to discover what it was I intended to do. 
 
