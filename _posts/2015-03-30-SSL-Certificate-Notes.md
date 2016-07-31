@@ -41,3 +41,19 @@ If a wildcard certificate is compromised anywhere on any of the services you use
 #### SHA-2 vs SHA-1 ####
 
 [Read More](https://support.dnsimple.com/articles/sha-2-ssl-certificates/#sha-2-ssl-certificate-compatibility)  
+
+--------------------------------------------------------------------------------------------------
+
+#### Setting up your browser with ssl for authentication ####
+
+With StartCom you will have a P12 File.
+
+To import the file as a certificate into Google Chrome, do the following:  
+
+Chrome > Settings > Advanced > HTTPS / TLS > Manage Certificates > Personal  
+
+Import the certificate  
+
+Clean cookies in the browser and restart it
+
+Certificate should take effect  
