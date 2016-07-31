@@ -2,7 +2,7 @@
 layout: post
 title: Useful Website Tools
 tags: Useful
-category: Programming
+category: Misc
 ---
 Below are a list of websites that I have found useful in the past for programming and programming related skills..
 
