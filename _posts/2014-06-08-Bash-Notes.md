@@ -5,6 +5,14 @@ tags: Useful
 category: Tech
 ---
 
+## Alias's ##
+
+Edit the file in the following location: ~/.bashrc
+
+~~~
+alias doSomething='commands'
+~~~
+
 ## Basic File Management ##
 
 ### Copy a File ###
@@ -42,7 +50,6 @@ deletes empty directories
 rm -rf directoryName
 ~~~
 recursively deletes directory and all of its content
-
 
 ### Move or Rename File ###
 
@@ -289,9 +296,6 @@ grep -E 'regex'
 ~~~
 
 -E stands for a full regex expression
-
-
-
 
 -----------------------------------------------------------------------
 
