@@ -96,3 +96,22 @@ var listA = new List<int> { 1, 2, 3 };
 var listB = new List<int> { 4, 5, 6 };
 var cartesianLst = listA.SelectMany(a => listB.Select(b => new Tuple<int, int>(a, b)));
 ~~~
+
+-----------------------------------------------------------------------------------
+
+## CSharp 6 Features ##
+
+#### Expression Bodied Methods & Auto Properties ####
+
+~~~
+static public addNumbers(int a, int b) => a + b;	
+~~~
+
+#### Dictionary Initialization ####
+
+~~~
+var colorMap = new Dictionary<string, ConsoleColor> {
+	["Error"] = ConsoleColor.Red,
+	["Information"] = ConsoleColor.Yellow
+};
+~~~
