@@ -13,5 +13,9 @@ Command (Four Leaf Clover) - Windows
 Delete - Backspace  
 Return - Enter  
 
+#### Other useful Shortcuts ####
+
+Control + Shift + Power - Lock Account
+
 #### References ####
 
