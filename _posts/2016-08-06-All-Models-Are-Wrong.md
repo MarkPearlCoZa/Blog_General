@@ -11,7 +11,7 @@ While the statistician George Box is generally attributed with the statement, **
 
 At the time we were looking at various models for understanding and predicting team behavior. Danie & Kevin were trying to get across as strongly as they could that while the model we were looking at was useful (if I remember right it was probably [Tuckmans model](http://blog.markpearl.co.za/Tuckmans-Model)), it was fundamentally an over-simplification and thus wrong. 
 
-As they explained, all models are simplifications - that's why they are models. In a model being a simplification it makes it easier for a person to grasp certain concepts about the thing being modelled without getting overwhelmed by the complexity of the actual thing. However, with the model being a simplification, it is also fundamentally wrong (there will always be instances where the model doesn't explain or predict the behavior correctly).
+As they explained, all models are simplifications - that's why they are models. The model makes it easier for a person to grasp certain concepts about the thing being modelled without getting overwhelmed by the complexity of the actual thing HOWEVER with the model being a simplification, it is also fundamentally wrong (there will always be instances where the model doesn't explain or predict the behavior correctly).
 
 #### Some models are useful ####
 
