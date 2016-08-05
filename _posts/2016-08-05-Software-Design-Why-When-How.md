@@ -70,8 +70,13 @@ As humans, we generally have a desire to help the next generation. We might have
 
 ### When to do software design? ###
 
-To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed.
+Should you design now, or should you design later?  
 
+To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed. 
+
+We do not have enough information at the point of time when a design decision is made to make the right decision. 
+
+NPV pushes us to do design later.
 
 
 ## Misc ##
