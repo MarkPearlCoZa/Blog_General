@@ -19,6 +19,11 @@ When is a model useful? Originally I thought models were useful when they were c
 
 For instance, with Tuckmans model, I find it useful when I can look at a newly formed team and see that they are still "Norming". Being able to predict that the team will transition from a norming to a storming phase is also extremely useful.
 
+While I still think models are useful when they are explaining or predicting things correctly, I've got a new angle on when a model is useful.
+
+#### Some models are useful because they are clearly wrong ####
+
+I'm finding some models are extremely useful because they are clearly wrong. 
 
 
 #### References ####
