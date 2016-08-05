@@ -92,7 +92,15 @@ Lack of knowledge pushes design later.
 
 ## Misc ##
 
+#### Coupling ####
+
 Coupling, two elements are coupled if a change to one element implies a change to another element.
 Coupling is important to software design becuase the costs of changing software are dominated by rippling changes (which means one section of code is coupled to another section). The exponetially rippling changes kills you in software design. Reducing coupling takes effort. The more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
 
+#### Premature Abstraction ####
 
+Premature abstraction makes it hard to get the right type of abstraction. When you abstract, you fix certain aspects while allowing other aspects to change. If you don't have enough types to look at, you may fix the wrong things.
+
+#### Simplistic Rules ####
+
+Software design does not lend itself to simplistic rules.
