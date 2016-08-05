@@ -5,7 +5,7 @@ tags: General
 category: General
 ---
 
-#### All models are wrong, some are useful ####
+#### All models are wrong, some models are useful ####
 
 While the statistician George Box is generally attributed with the statement, **"All models are wrong, but some are useful"**, my first encounter with it was when I was starting in a coaching role at Driven Alliance and was in a informal training session with [Danie Roux](https://twitter.com/danieroux) & [Kevin Tretheway](https://twitter.com/KevinTrethewey). 
 
