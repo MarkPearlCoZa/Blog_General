@@ -38,7 +38,7 @@ There are two topics in economics we should consider.
 
 The first economic topic is NPV (Net Present Value). In essence, NPV says a dollar today is worth more than a dolar tomorrow. This means we should earn money sooner and spend money later, all other things being equal.
 
-Doing all design upfront flies in the face of NPV. When doing all design upfront, we are spending all the money today, and only earning it later.
+Doing all design upfront flies in the face of NPV. When doing all design upfront, we are spending all the money today, and only earning money from that spend later.
 
 ### Options Value of Software ###
 
