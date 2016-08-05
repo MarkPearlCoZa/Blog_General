@@ -34,7 +34,8 @@ Economics has a good vocabulary for talking about timing.
 There are two topics in economics we should consider.
 
 1. Net Present Value  
-2. Options Value of Software  
+2. Opportunity Cost
+3. Options Value of Software  
 
 #### Net Present Value ####
 
@@ -43,6 +44,12 @@ The first economic topic is NPV (Net Present Value). In essence, NPV says a doll
 **This means we should earn money sooner and spend money later, all other things being equal.**  
 
 Doing all design upfront flies in the face of NPV. When doing all design upfront, we are spending all the money today, and only earning money from that spend later.
+
+#### Opportunity Cost ####
+
+Opportunity cost is everything else you can be doing instead of what you are doing. 
+
+If you look at the time you will put into software design at a point in time, what else can you be doing at that point in time?
 
 #### Options Value of Software ####
 
@@ -77,6 +84,10 @@ To determine when to do software design is tricky. Economically, the ideal point
 We do not have enough information at the point of time when a design decision is made to make the right decision. 
 
 NPV pushes us to do design later.
+Opportunity cost of software often pushes design later.
+Lack of knowledge pushes design later.
+
+
 
 
 ## Misc ##
