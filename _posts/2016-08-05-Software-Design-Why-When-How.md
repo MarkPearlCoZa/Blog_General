@@ -64,7 +64,7 @@ Part of the satisfaction of creating software is the sense of satisfaction one g
 
 As software engineers, we like the challenge of taming software - of finding better design.
 
-#### Helping the next generation ####
+#### Humans like helping the next generation ####
 
 As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design.
 
