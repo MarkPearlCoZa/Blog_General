@@ -13,7 +13,7 @@ At the time we were looking at various models for understanding and predicting t
 
 As they explained, all models are simplifications - that's why they are models. The model makes it easier for a person to grasp certain concepts about the thing being modelled without getting overwhelmed by the complexity of the actual thing HOWEVER with the model being a simplification, it is also fundamentally wrong (there will always be instances where the model doesn't explain or predict the behavior correctly). Make sense?  
 
-#### Models are useful when they are right ####
+#### Models are useful when they are kinda right ####
 
 When is a model useful? Originally I thought models were useful when they were correctly explaining or predicting behavior. 
 
