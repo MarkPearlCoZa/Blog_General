@@ -29,7 +29,7 @@ I really battle to come up with new ideas. Let's say I'm working on some marketi
 
 One of my favorite talks at software conferences this year was a talk done by [Sarah Mei](https://twitter.com/sarahmei). I watched her talk at Ruby Fuza in Cape Town, and then a revised edition at CodeMania in Auckland. Both times I really enjoyed it. 
 
-Sarah's talk was about how we make software and the models we use to explain team software development. She proposes a new model called the "Stage" model. In getting to her stage model, she first goes through two widely accepted models, the Factory Model and the Craftmanship Model of Software Development.
+Sarah's talk was about how we make software and the models we use to explain team software development. She proposed a new model called the "Stage" model. In getting to her stage model, she first goes through two widely accepted models, the Factory Model and the Craftmanship Model of Software Development.
 
 
 #### References ####
