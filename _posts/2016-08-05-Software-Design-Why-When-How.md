@@ -99,7 +99,7 @@ There are a set of forces that are different depending on who, when and what you
 
 ## How to do software design? ##
 
-If only the answer to the how was as simple as "Big changes in small steps". While this is usually the case, it is not always the case.  
+If only the answer to the how was as simple as "Big changes in small safe steps". While this is usually the case, it is not always the case.  
 
 Let's say that you have software that is such a tangled mess that it would take an incredible amount of time to clean up. Small safe steps can be really expensive. It can take an incredible amount of time.
 
@@ -107,6 +107,14 @@ The alternative is the leap - doing a huge change. This can be extremely dangero
 
 **The critical strategy is being able to run the old design and the new design at the same time.**
 
+The ability to run the old design and the new design at the same time is the mitigation strategy that allows you to move forward with confidence.
+
+### 3 Key Skills ###
+
+For all of this there are three key skills that don't come naturally to programmers, but that can be learned:
+
+1. Tolerance for ambiguity - the moment when you defer making a design decision because things are still ambigous  
+2.  
 
 ## Misc ##
 
