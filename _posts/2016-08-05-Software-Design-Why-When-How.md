@@ -68,6 +68,10 @@ As software engineers, we like the challenge of taming software - of finding bet
 
 As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design.
 
+### When to do software design? ###
+
+To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed.
+
 
 
 ## Misc ##
