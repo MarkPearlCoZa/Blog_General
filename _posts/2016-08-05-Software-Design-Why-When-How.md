@@ -75,7 +75,7 @@ As software engineers, we like the challenge of taming software - of finding bet
 
 As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design.
 
-### When to do software design? ###
+## When to do software design? ##
 
 Should you design now, or should you design later?  
 
@@ -97,12 +97,15 @@ Humans aspects pushes design sooner.
 
 There are a set of forces that are different depending on who, when and what you are designing. There is no easy answer to this.  
 
-### How to do software design? ###
+## How to do software design? ##
 
 If only the answer to the how was as simple as "Big changes in small steps". While this is usually the case, it is not always the case.  
 
-Let's say that you have software that is such a tangled mess that it would take an incredible amount of time to clean up. Small safe steps can be expensive in time.  
+Let's say that you have software that is such a tangled mess that it would take an incredible amount of time to clean up. Small safe steps can be really expensive. It can take an incredible amount of time.
 
+The alternative is the leap - doing a huge change. This can be extremely dangerous, and there are a few occaisons when this is the right approach.  
+
+**The critical strategy is being able to run the old design and the new design at the same time.**
 
 
 ## Misc ##
