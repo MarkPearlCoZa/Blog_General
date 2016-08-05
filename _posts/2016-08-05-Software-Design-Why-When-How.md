@@ -69,3 +69,10 @@ As software engineers, we like the challenge of taming software - of finding bet
 As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design.
 
 
+
+## Misc ##
+
+Coupling, two elements are coupled if a change to one element implies a change to another element.
+Coupling is important to software design becuase the costs of changing software are dominated by rippling changes (which means one section of code is coupled to another section). The exponetially rippling changes kills you in software design. Reducing coupling takes effort. The more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
+
+
