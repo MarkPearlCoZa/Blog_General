@@ -93,6 +93,10 @@ Options value of software pushes design sooner.
 Batching effect pushes design sooner.  
 Humans aspects pushes design sooner.
 
+#### So when to do software design ####
+
+There are a set of forces that are different depending on who, when and what you are designing. There is no easy answer to this.  
+
 ## Misc ##
 
 #### Coupling ####
