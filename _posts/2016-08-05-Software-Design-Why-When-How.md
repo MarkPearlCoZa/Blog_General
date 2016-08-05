@@ -97,7 +97,7 @@ Humans aspects pushes design sooner.
 
 There are a set of forces that are different depending on who, when and what you are designing. There is no easy answer to this.  
 
-### How to do software design ###
+### How to do software design? ###
 
 If only the answer to the how was as simple as "Big changes in small steps". While this is usually the case, it is not always the case.  
 
