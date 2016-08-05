@@ -114,7 +114,8 @@ The ability to run the old design and the new design at the same time is the mit
 For all of this there are three key skills that don't come naturally to programmers, but that can be learned:
 
 1. Tolerance for ambiguity - the moment when you defer making a design decision because things are still ambigous  
-2.  
+2. Being able to wait - part of tolerance for ambiguity, being conscious that there is a problem, but being able to wait for now      
+3. 
 
 ## Misc ##
 
