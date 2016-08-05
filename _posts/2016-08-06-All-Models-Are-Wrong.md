@@ -15,7 +15,9 @@ As they explained, all models are simplifications - that's why they are models. 
 
 #### Some models are useful ####
 
-When is a model useful? Originally I thought models were useful when they were correctly explaining or predicting behavior. For instance, with Tuckmans model, I would find it useful when I could look at a team and see that they were still "Norming". Being able to predict that the team would eventually transition from a norming to a storming phase was also extremely useful.
+When is a model useful? Originally I thought models were useful when they were correctly explaining or predicting behavior. 
+
+For instance, with Tuckmans model, I find it useful when I can look at a newly formed team and see that they are still "Norming". Being able to predict that the team will transition from a norming to a storming phase is also extremely useful.
 
 
 
