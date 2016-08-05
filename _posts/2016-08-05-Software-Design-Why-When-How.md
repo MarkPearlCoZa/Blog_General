@@ -91,7 +91,7 @@ Lack of knowledge pushes design later.
 
 Options value of software pushes design sooner.  
 Batching effect pushes design sooner.  
-
+Humans aspects pushes design sooner.
 
 ## Misc ##
 
@@ -110,4 +110,4 @@ Software design does not lend itself to simplistic rules.
 
 #### Batching Effect ####
 
-
+There are economies of scale to doing design sooner provided you have the design right. (Shared context can be expensive to recreate later).
