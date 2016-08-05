@@ -79,15 +79,18 @@ As humans, we generally have a desire to help the next generation. We might have
 
 Should you design now, or should you design later?  
 
-To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed. 
+To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed however we often do not have enough information at the point of time when a design decision is made to make the right decision. 
 
-We do not have enough information at the point of time when a design decision is made to make the right decision. 
+#### Forces pushing us to do design later... ####
 
 NPV pushes us to do design later.
 Opportunity cost of software often pushes design later.
 Lack of knowledge pushes design later.
 
+#### Forces pushing us to do software design sooner... ####
 
+Options value of software pushes design sooner.  
+Batching effect pushes design sooner.  
 
 
 ## Misc ##
@@ -104,3 +107,7 @@ Premature abstraction makes it hard to get the right type of abstraction. When y
 #### Simplistic Rules ####
 
 Software design does not lend itself to simplistic rules.
+
+#### Batching Effect ####
+
+
