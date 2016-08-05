@@ -36,12 +36,16 @@ There are two topics in economics we should consider.
 
 ### Net Present Value ###
 
-The first economic topic is NPV (Net Present Value). In essence, NPV says a dollar today is worth more than a dolar tomorrow. This means we should earn money sooner and spend money later, all other things being equal.
+The first economic topic is NPV (Net Present Value). In essence, NPV says a dollar today is worth more than a dolar tomorrow. 
+
+**This means we should earn money sooner and spend money later, all other things being equal.**  
 
 Doing all design upfront flies in the face of NPV. When doing all design upfront, we are spending all the money today, and only earning money from that spend later.
 
 ### Options Value of Software ###
 
-If I have software and I can only make one kind of change to it, that software is **less** valuable than if I have the same software and can change it in 3 different ways. The future is unpredictable and we don't know which of those 3 ways will be most valuable. If I have multiple options, I have more valuable software.  
+If I have software and I can only make one kind of change to it, that software is **less** valuable than if I have the same software and can change it in 3 different ways. The future is unpredictable and we don't know which of those 3 ways will be most valuable. 
+
+**If I have multiple options for change, I have more valuable software.**  
 
 
