@@ -24,7 +24,7 @@ Without talking about why we do software design, we don't have an opportunity to
 Software as its sits doesn't care how it is designed - it just runs. 
 Software design is not software. Software design is about change - it is only when we want to change software does design play a role.
 
-## Why software design? ##
+## Drivers of software design? ##
 
 The first driver for software design is economics. We get paid to write programs. When we write programs, somebody expects to make money somehow, sometime.  
 
