@@ -25,7 +25,7 @@ While I still think models are useful when they are explaining or predicting thi
 
 Some models are useful because they are clearly wrong. Yes, I know this may sound counter intuitive - let me explain why...  
 
-I really battle to come up with new ideas. Let's say I'm working on some marketing material - a brochure for a product for instance. I can sit for hours and not come up with anything new. My brain just seems to battle with this. Show me a 'proposed' brochure and within seconds I can tell you what I would change on it. Having the 'wrong' thing becomes useful to getting to the 'right' thing. I think the same applies with models.
+I really battle to come up with new ideas. Let's say I'm working on some marketing material - for instance, a brochure for a product.  I can sit for hours and not come up with anything new. My brain just seems to battle with this. Show me a 'proposed' brochure and within seconds I can tell you what I would change on it. Having the 'wrong' thing becomes useful to getting to the 'right' thing. I think the same applies with models.
 
 One of my favorite talks at software conferences this year was a talk done by [Sarah Mei](https://twitter.com/sarahmei). I watched her talk at Ruby Fuza in Cape Town, and then a revised edition at CodeMania in Auckland. Both times I really enjoyed it. 
 
