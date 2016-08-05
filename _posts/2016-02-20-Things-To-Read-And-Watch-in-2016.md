@@ -15,7 +15,8 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
-[SOLID Deconstruction - Kevlin Henney](https://vimeo.com/157708450)  
+[Software Design: Why, When & How by Kent Beck](https://vimeo.com/105771493)  
+[SOLID Deconstruction by Kevlin Henney](https://vimeo.com/157708450)  
 [The Fundamental Theorem of Agile Software Development by J. B. Rainsberger](https://vimeo.com/79106557) 
 [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)  
 [What we actually know about Software Development, and why we believe it's true](https://vimeo.com/9270320)  
