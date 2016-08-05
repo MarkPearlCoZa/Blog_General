@@ -42,3 +42,4 @@ Next time you come across a model that appears to be wrong. Appreciate it. It ma
 #### References ####
 
 [About George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box)  
+[Storify of Stage Model of Software Development](https://storify.com/sarahmei/the-factory-the-workshop-and-the-stage)  
