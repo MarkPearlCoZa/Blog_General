@@ -21,7 +21,8 @@ Without talking about why we do software design, we don't have an opportunity to
 
 ## When does design matter? ##
 
-Software as its sits doesn't care how it is designed - it just runs. Software design is about change. It is only when we want to change does design play a role.
+Software as its sits doesn't care how it is designed - it just runs. 
+Software design is not software. Software design is about change - it is only when we want to change software does design play a role.
 
 ## Why ##
 
@@ -30,11 +31,14 @@ The first driver for software design is economics. We get paid to write programs
 Economics has a good vocabulary for talking about timing.
 There are two topics in economics we should consider.
 
+1. Net Present Value  
+2. Options Value of Software  
+
 ### Net Present Value ###
 
 The first economic topic is NPV (Net Present Value). In essence, NPV says a dollar today is worth more than a dolar tomorrow. This means we should earn money sooner and spend money later, all other things being equal.
 
-Doing all design upfront flies in the face of economics.
+Doing all design upfront flies in the face of NPV. When doing all design upfront, we are spending all the money today, and only earning it later.
 
 ### Options Value of Software ###
 
