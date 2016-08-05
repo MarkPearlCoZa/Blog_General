@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All models are wrong, some models are useful because they are wrong
+title: All models are wrong. Some models are useful because they are wrong!
 tags: General
 category: General
 ---
