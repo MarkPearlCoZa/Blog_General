@@ -35,6 +35,9 @@ Sarah's talk was about how we make software and the models we use to explain tea
 
 While exploring these two models, she pointed out why each model was wrong and why it did not answer the questions she had about team based software development. Had she merely jumped to her stage model without exploring the flaws in the other models, I don't think I would have appreciated why the stage model was an improvement. Being able to understand what was wrong about the models gave me a deeper understanding of the thing being modeled.
 
+Next time you come across a model that appears to be wrong. Appreciate it. It may be enabling you to get to a better model that gives you a deeper understanding.
+
+**All models are wrong. Some models are useful because they are wrong!**
 
 #### References ####
 
