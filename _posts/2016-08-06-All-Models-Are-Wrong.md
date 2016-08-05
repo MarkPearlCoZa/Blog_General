@@ -29,7 +29,7 @@ Show me a 'proposed' brochure and within seconds I can tell you what I would cha
 
 One of my favorite talks at software conferences this year was a talk done by [Sarah Mei](https://twitter.com/sarahmei). I watched it at Ruby Fuza in Cape Town, and then a revised edition at CodeMania in Auckland. Both times I really enjoyed it. 
 
-Sarah's talk was about how we make software and the models we use to explain team software development. She proposed a new model called the stage model. In getting to her stage model, she first went through two widely accepted models, the Factory Model and the Craftmanship Model of Software Development. 
+Sarah's talk was about how we make software and the models we use to explain team software development. She proposed a new model called the stage model. In getting to her stage model, she first went through two widely accepted models, the Factory Model and the Craftsmanship Model of Software Development. 
 
 While exploring these two models, she pointed out why each model was wrong and why it did not answer the questions she had about team based software development. Had she merely jumped to her stage model without exploring the flaws in the other models, I don't think I would have appreciated why the stage model was an improvement. Being able to understand what was wrong about the models gave me a deeper understanding of the thing being modeled.
 
