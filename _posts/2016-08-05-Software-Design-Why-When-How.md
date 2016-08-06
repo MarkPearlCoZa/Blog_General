@@ -119,6 +119,8 @@ For all of this there are three key skills that don't come naturally to programm
 
 Software design isn't just a matter of what are the things and how they are related. It is keeping in mind why we are designing. It is mindfully choosing when we design and picking the transition strategy of where we are today and where we want to get while being aware of the people in the team and the social process.
 
+------------------------------------------------------------------------
+
 ## Misc ##
 
 #### Coupling ####
