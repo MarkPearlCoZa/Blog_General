@@ -22,9 +22,10 @@ Stage Model of Software Development tries to answer 4 questions related to softw
 
 Think of software development like putting on a performance with a set of actors. 
 
-The final product is an experience.  
-When you change actors, the experience changes.  
-More actors on a stage doesn't mean the experience goes any faster.  
+- The final product is an experience.  
+- When you change actors, the experience changes.  
+- More actors on a stage doesn't mean the experience goes any faster.  
+- Actors don't rehearse as a group all the time, they need their own personal time to learn their lines, master their craft, etc.  
 
 ## What the stage model makes us think about software development ##
 
