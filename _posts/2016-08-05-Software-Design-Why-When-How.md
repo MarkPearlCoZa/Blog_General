@@ -83,15 +83,15 @@ To determine when to do software design is tricky. Economically, the ideal point
 
 #### Forces pushing us to do design later... ####
 
-NPV pushes us to do design later.
-Opportunity cost of software often pushes design later.
-Lack of knowledge pushes design later.
+NPV pushes us to do design later.  
+Opportunity cost of software often pushes design later.  
+Lack of knowledge pushes design later.  
 
 #### Forces pushing us to do software design sooner... ####
 
 Options value of software pushes design sooner.  
-Batching effect pushes design sooner.  
-Humans aspects pushes design sooner.
+Batching effect pushes design sooner.   
+Humans aspects pushes design sooner.  
 
 #### So when to do software design? ####
 
