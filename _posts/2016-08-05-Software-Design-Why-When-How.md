@@ -7,8 +7,6 @@ category: Misc
 
 These notes are based on Kent Beck's talk on "[Software Design: Why, When & How](https://vimeo.com/105771493)" done at JavaZone in September 2014.
 
-## Intro ##
-
 The **What** of Software Design is well established. We have a pretty good idea of "what" good software is. For instance, we have design patterns which have been around for well over a decade. 
 
 Somehow in focussing so long, so effectively on what, we have forgotten to talk about the why.
