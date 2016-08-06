@@ -310,7 +310,7 @@ Or, another way to format it would be to use the "Slope-Intercept" form:
 <img src="{{ site.url }}/assets/images/Math_SlopeInterceptFormula.png">
 
 
-
+[Equation of Line explained](https://www.mathsisfun.com/algebra/line-equation-2points.html)  
 
 ------------------------------------------------------------------------------------------------
 
