@@ -293,6 +293,8 @@ const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2
 
 ### Linear equation given 2 points ###
 
+<img src="{{ site.url }}/assets/images/Math_EquationOfLine.gif">
+
 - Find the slope 
 
 <img src="{{ site.url }}/assets/images/Math_Slope.png">
