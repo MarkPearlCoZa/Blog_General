@@ -15,7 +15,7 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
-[Software Design: Why, When & How by Kent Beck](https://vimeo.com/105771493)  
+[Software Design: Why, When & How by Kent Beck](https://vimeo.com/105771493), [see notes](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
 [SOLID Deconstruction by Kevlin Henney](https://vimeo.com/157708450)  
 [The Fundamental Theorem of Agile Software Development by J. B. Rainsberger](https://vimeo.com/79106557) 
 [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)  
