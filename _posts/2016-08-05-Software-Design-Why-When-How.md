@@ -87,7 +87,9 @@ As people, we often worry about our reputation. We fear that others will think p
 
 Should you design now, or should you design later?  
 
-To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed. 
+To determine when to do software design is tricky.  
+
+Economically, the ideal point when software should be defined for change is the instant before it needs to be changed. 
 
 However we often do not have enough information at the point of time when a design decision should be made to make the right decision. 
 
@@ -113,7 +115,7 @@ If only the answer to the how was as simple as "Big changes in small safe steps"
 
 Let's say that you have software that is such a tangled mess that it would take an incredible amount of time to clean up. Small safe steps can be really expensive. It can take an incredible amount of time.
 
-The alternative is the leap - doing a huge change. This can be extremely dangerous, and there are a few occaisons when this is the right approach.  
+The alternative is the leap - doing a huge change at once. This can be extremely dangerous, and there are a few occaisons when this is the right approach.  
 
 **The critical strategy is being able to run the old design and the new design at the same time.**
 
