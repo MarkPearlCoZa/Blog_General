@@ -27,7 +27,7 @@ Think of software development like putting on a performance with a set of actors
 - More actors on a stage doesn't mean the experience goes any faster.  
 - Actors don't rehearse as a group all the time, they need their own personal time to learn their lines, master their craft, etc.  
 
-## What the stage model makes us think about software development ##
+## How it answers the 4 Questions##
 
 1) Hiring - actors need to trust their co-workers enough to be able to try out ideas, even if they might be bad. Hiring in this model means finding people you can trust to perform their roles, and letting them work out the details with their peers.
 
