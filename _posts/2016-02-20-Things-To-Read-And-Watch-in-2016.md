@@ -11,7 +11,7 @@ So here's my latest list of recommended readings... As I come across new things 
 #### Articles ####
 
 [What is software design by Jack Reeves](http://www.developerdotstar.com/mag/articles/reeves_design.html)  
-[Stage model of software development by Sarah Mei](https://storify.com/sarahmei/the-factory-the-workshop-and-the-stage)
+[Stage model of software development by Sarah Mei](https://storify.com/sarahmei/the-factory-the-workshop-and-the-stage), [see notes](http://blog.markpearl.co.za/Stage-Model-of-Software-Development)  
 
 #### Videos ####
 
