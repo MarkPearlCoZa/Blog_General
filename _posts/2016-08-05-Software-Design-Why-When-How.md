@@ -31,7 +31,7 @@ The first driver for software design is economics. We get paid to write programs
 ### Economic drivers of design ###
 
 Economics has a good vocabulary for talking about timing.
-There are two topics in economics we should consider.
+There are several topics in economics we should consider.
 
 1. Net Present Value  
 2. Opportunity Cost
@@ -47,11 +47,13 @@ Doing all design upfront flies in the face of NPV. When doing all design upfront
 
 #### Opportunity Cost ####
 
-Opportunity cost is everything else you can be doing instead of what you are doing. 
+Opportunity cost is the opportunites you are missing from everything else you can be doing at this time instead of what you are actually doing right now. 
 
-If you look at the time you will put into software design at a point in time, what else can you be doing at that point in time?
+**If you look at the effort you will put into software design at a point in time, what else can you be doing at that point in time?**
 
 #### Options Value of Software ####
+
+The options value of software goes something like this...  
 
 If I have software and I can only make one kind of change to it, that software is **less** valuable than if I have the same software and can change it in 3 different ways. The future is unpredictable and we don't know which of those 3 ways will be most valuable. 
 
@@ -59,7 +61,7 @@ If I have software and I can only make one kind of change to it, that software i
 
 #### NPV vs. Options Value ####
 
-Looking at NPV and Options Value, we have two competing forces. We would like to defer work, because we want to defer investment AND we want options, which requires us to do more work. NPV & Options Value of Software are economic drivers of Software Design.
+Looking at NPV and Options Value, we have two competing forces. We would like to defer work, because we want to defer investment AND we want options, which requires us to do more work. NPV & Options Value of Software are economic drivers of software design.
 
 ### Human drivers of design ###
 
@@ -69,17 +71,25 @@ We also cannot forget than people make software.
 
 Part of the satisfaction of creating software is the sense of satisfaction one gets from doing a good piece of design. 
 
-As software engineers, we like the challenge of taming software - of finding better design.
+**As software engineers, we like the challenge of taming software - of finding better design.**
 
 #### Humans like helping the next generation ####
 
-As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design.
+As humans, we generally have a desire to help the next generation. We might have a section of code that does not require immediate design improvements, but as a sense of compassion for the next developer working on the system, we will work on improving the design. 
+
+#### Humans worry about their reputation ####
+
+As people, we often worry about our reputation. We fear that others will think poorly of us. This can lead us to doing unecessary design because we think others will have a higher impression of us.
+
+**If I don't do 'current best practices', will this impact my reputation as a developer.**
 
 ## When to do software design? ##
 
 Should you design now, or should you design later?  
 
-To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed however we often do not have enough information at the point of time when a design decision is made to make the right decision. 
+To determine when to do software design is tricky. Economically, the ideal point when software should be defined for change is the instant before it needs to be changed. 
+
+However we often do not have enough information at the point of time when a design decision should be made to make the right decision. 
 
 #### Forces pushing us to do design later... ####
 
