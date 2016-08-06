@@ -297,11 +297,11 @@ const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2
 
 #### Steps 
 
-- Find the slope 
+Find the slope using the following:  
 
 <img src="{{ site.url }}/assets/images/Math_Slope.png">
 
-- Find the equation from two points  
+Find the equation from two points:    
 
 Use "point-slope" formula  
 
