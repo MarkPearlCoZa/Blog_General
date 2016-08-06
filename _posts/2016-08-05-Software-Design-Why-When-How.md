@@ -121,7 +121,7 @@ Software design isn't just a matter of what are the things and how they are rela
 
 ------------------------------------------------------------------------
 
-## Misc ##
+## Misc Points of Interest ##
 
 #### Coupling ####
 
