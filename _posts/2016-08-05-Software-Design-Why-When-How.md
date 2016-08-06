@@ -115,7 +115,9 @@ For all of this there are three key skills that don't come naturally to programm
 
 1. Tolerance for ambiguity - the moment when you defer making a design decision because things are still ambigous.  
 2. Being able to wait - part of tolerance for ambiguity, being conscious that there is a problem, but being able to wait for now.  
-3. Treat design as a social process - managing design requires a social process, be aware of the social capacity of your team.  
+3. Treat design as a social process - managing design requires a social process, and being aware of the other people in your team that are impacted by the design.  
+
+Software design isn't just a matter of what are the things and how they are related. It is keeping in mind why we are designing. It is mindfully choosing when we design and picking the transition strategy of where we are today and where we want to get while being aware of the people in the team and the social process.
 
 ## Misc ##
 
