@@ -9,8 +9,6 @@ Putting the product at the center of our process is a mistake.
 
 **Software development is about people, and only incidently about computers.**
 
-Stage Model of Software Development tries to answer 4 questions related to software development:
-
 ## What is the stage model ##
 
 Think of software development like putting on a performance with a set of actors. 
@@ -22,6 +20,8 @@ Think of software development like putting on a performance with a set of actors
 - Actos need their own personal time to learn their lines, master their craft, etc.  
 
 ## Four questions it tries to answer ##
+
+Stage Model of Software Development tries to answer 4 questions related to software development:
 
 1) Why is turnover so expensive?   
 2) Why can't we treat developers as interchangeable resources?  
