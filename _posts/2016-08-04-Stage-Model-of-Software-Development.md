@@ -32,7 +32,7 @@ Think of software development like putting on a performance with a set of actors
 
 1) Hiring - actors need to trust their co-workers enough to be able to try out ideas, even if they might be bad. Hiring in this model means finding people you can trust to perform their roles, and letting them work out the details with their peers.
 
-2) Turnover - because this team model is build on collaboration, you should find that everyone knows the roles of their coworkers, and has the flexibility to re-negotiate shared ideas and rules when someone is replaced.  
+2) Turnover - because this team model is built on collaboration, you should find that everyone knows the roles of their co-workers, and has the flexibility to re-negotiate shared ideas and rules when someone is replaced.  
 
 3) Growth - a director cannot make twice as much show with twice as many actors. They could produce two diffent shows at the same time though. Rather than adding people to go faster on existing work, create new teams to build complimentary products.
 
