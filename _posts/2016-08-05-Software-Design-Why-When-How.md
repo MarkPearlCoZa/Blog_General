@@ -109,7 +109,7 @@ The alternative is the leap - doing a huge change. This can be extremely dangero
 
 The ability to run the old design and the new design at the same time is the mitigation strategy that allows you to move forward with confidence.
 
-### 3 key skills you need to master ###
+## 3 key skills you need to master ##
 
 For all of this there are three key skills that don't come naturally to programmers, but that can be learned:
 
