@@ -38,6 +38,8 @@ Stage Model of Software Development tries to answer 4 questions related to softw
 
 4) Productivity - doesn't apply. The endgame is not a product, but an experience. You can't quanitfy individual impact.
 
+----------------------------------------------------------------------------
+
 #### References ####
 
 [Someones notes from CodeMania](https://raygun.com/blog/2016/04/codemania/)  
