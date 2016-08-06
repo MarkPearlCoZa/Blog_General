@@ -291,6 +291,13 @@ const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2
 
 [Length of Line Segment (Distance) explained](http://www.regentsprep.org/regents/math/geometry/gcg3/ldistance.htm)  
 
+### Linear equation given 2 points ###
+
+- Find the slope 
+
+<img src="{{ site.url }}/assets/images/Math_Slope.png">
+
+
 ------------------------------------------------------------------------------------------------
 
 ### Remainder ###
