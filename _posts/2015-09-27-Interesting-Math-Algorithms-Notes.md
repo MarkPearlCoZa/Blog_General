@@ -256,6 +256,58 @@ var gcd = function(a, b) {
 
 ------------------------------------------------------------------------------------------------
 
+### Cutting Cubes ###
+
+If you have a cube and you cut it once across all 3 dimensions, how many different types of cubes will you have?
+Do we have a formula for calculating this for any number of cuts across all 3 dimensions?
+
+If we cut a cube into x number of halves, the total number of small cubes is (no. of halves) to the power of 3.
+
+~~~
+const totalCubes = (cuts) => Math.pow(cuts, 3);
+~~~
+
+If we painted the cube a color, and then cut it into smaller cubes, what are the different types of cubes we will have?  
+
+1) Central cubes that are not painted  
+2) Cubes that are painted on only one side  
+3) Cubes that are painted on 2 sides  
+4) Cubes that are painted on 3 sides  
+
+#### Cubes that are not painted ####
+
+Take the number of cuts, visualize on one plain so that you can see rows and columns - we call this a face. 
+
+The total number of small cubes that are unpainted would be the (number of cuts - 2) ^ 3  
+
+#### Cubes that are painted on only one side ####
+
+Number of faces * central cubes  
+
+#### Cubes that are painted on only two sides ####
+
+Number of 2 sides in one face * 3  
+
+#### Cubes that are painted on only three sides ####
+
+This will be the corners of the original cube, which will always be 8
+
+#### Worked Example ####
+
+If we cut a cube into 5 number of halves, the total number of small cubes are as follows:  
+
+Cubes that are not painted = (5 - 2)^3 = 27  
+Cubes that are painted on one side = (6 * 9) = 54  
+Cubes that are painted on two sides = (3 * 12) = 36  
+Cubes that are painted on three sides = 9  
+
+Total Cubes are 125  
+
+<img src="{{ site.url }}/assets/images/Math_Cubes.png">
+
+
+------------------------------------------------------------------------------------------------
+
 ### Calculate Square Root ###
 
 Using Newton's Formula - [see more](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number)  
