@@ -305,6 +305,7 @@ Total Cubes are 125
 
 <img src="{{ site.url }}/assets/images/Math_Cubes.png">
 
+[Read Discussion](http://www.geekinterview.com/question_details/37928)  
 
 ------------------------------------------------------------------------------------------------
 
