@@ -6,7 +6,9 @@ category: Tech
 ---
 Great [pluralsight course on networking for developers](http://pluralsight.com/training/courses/TableOfContents?courseName=tcp-ip-networking-for-devs). I always forget this stuff.
 
-#### DHCP ####
+## Concepts ##
+
+### DHCP ###
 
 DHCP forms the basis of the functionality that allows your machine to automatically get and ip address and subnet mask.
 
@@ -22,7 +24,7 @@ DHCP has different messages that it can send, these include:
 - DHCPINFORM  
 - DHCPRELEASE  
 
-#### DNS Nameservers ####
+### DNS Nameservers ###
 
 Domain Name System (DNS) is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network.
 
@@ -31,9 +33,14 @@ It is the service that when you ping www.google.com translates that address into
 
 [What is DHCP and how it works](http://www.thegeekstuff.com/2013/03/dhcp-basics/)
 
-#### ping ####
 
-#### ipconfig ####
+-------------------------------------------------------------------------------------------------
+
+## Tools ##
+
+### ping ###
+
+### ipconfig ###
 
 Display all the cached records on your local machine including the time till that cached record expires.  
 
@@ -41,7 +48,7 @@ Display all the cached records on your local machine including the time till tha
 > ipconfig /displaydns
 >
 
-#### Dig ####
+### dig ###
 
 Short for Domain Information Groper, dig is a network administration tool for querying DNS name servers.  
 
@@ -62,14 +69,14 @@ Tracing to make iterative queries
 
 [see more about dig](https://newsletter.dnsimple.com/how-to-dig/)  
 
-#### Host #### 
+### host ### 
 
 host is used for converting domain names to ip addresses and the other way around. 
 
 - Simple & quick  
 - Doesn't have a lot of functions  
 
-#### nslookup ####
+### nslookup ###
 
 Allows you to get dns responses from the command line.
 
