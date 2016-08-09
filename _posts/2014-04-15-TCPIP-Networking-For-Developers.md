@@ -41,10 +41,41 @@ Display all the cached records on your local machine including the time till tha
 > ipconfig /displaydns
 >
 
+#### Dig ####
+
+Short for Domain Information Groper, dig is a network administration tool for querying DNS name servers.  
+
+- Powerful  
+- Lots of functions  
+
+Simple query 
+
+> dig markpearl.co.za  
+
+Querying a specific name server
+
+> dig @ns1.dnsimple.com markpearl.co.za
+
+Tracing to make iterative queries  
+
+> dig +trace markpearl.co.za  
+
+[see more about dig](https://newsletter.dnsimple.com/how-to-dig/)  
+
+#### Host #### 
+
+host is used for converting domain names to ip addresses and the other way around. 
+
+- Simple & quick  
+- Doesn't have a lot of functions  
 
 #### nslookup ####
 
 Allows you to get dns responses from the command line.
+
+- One of the oldest tools for DNS lookup  
+- Does not use the local resolver provided by the OS, uses its own internal resolver to make DNS queries  
+- Sometimes produces confusing or inconsistent results  
 
 >  
 > e.g. nslookup markpearl.co.za  
@@ -85,7 +116,6 @@ The host file is located at...
 Changing the host file will clear the local cache and cause it to be repopulated with the settings in the host file.
 
 Firealls
-
 
 
 
