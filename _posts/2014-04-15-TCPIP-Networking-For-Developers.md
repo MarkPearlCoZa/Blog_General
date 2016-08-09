@@ -30,15 +30,29 @@ Domain Name System (DNS) is a hierarchical distributed naming system for compute
 
 It is the service that when you ping www.google.com translates that address into an ip address.  
 
+### Subnets ###
+
+#### Host Files ####
+
+You can overwrite dns by customizing your host file.
+
+The host file is located at...
+
+>  
+> C:\Windows\System32\drivers\etc  
+>  
+
+Changing the host file will clear the local cache and cause it to be repopulated with the settings in the host file.
 
 [What is DHCP and how it works](http://www.thegeekstuff.com/2013/03/dhcp-basics/)
-
 
 -------------------------------------------------------------------------------------------------
 
 ## Tools ##
 
 ### ping ###
+
+-------------------------------------------------------------------------------------------------
 
 ### ipconfig ###
 
@@ -47,6 +61,8 @@ Display all the cached records on your local machine including the time till tha
 >
 > ipconfig /displaydns
 >
+
+-------------------------------------------------------------------------------------------------
 
 ### dig ###
 
@@ -69,12 +85,18 @@ Tracing to make iterative queries
 
 [see more about dig](https://newsletter.dnsimple.com/how-to-dig/)  
 
+-------------------------------------------------------------------------------------------------
+
 ### host ### 
 
 host is used for converting domain names to ip addresses and the other way around. 
 
 - Simple & quick  
 - Doesn't have a lot of functions  
+
+> host markpearl.co.za  
+
+-------------------------------------------------------------------------------------------------
 
 ### nslookup ###
 
@@ -108,21 +130,6 @@ nslookup by default returns a-record types, this can be changed by...
 
 There are different types inclusing MX, NS, CNAME, AAAA, etc 
 
-#### subnets ####
-
-#### host files ####
-
-You can overwrite dns by customizing your host file.
-
-The host file is located at...
-
->  
-> C:\Windows\System32\drivers\etc  
->  
-
-Changing the host file will clear the local cache and cause it to be repopulated with the settings in the host file.
-
-Firealls
 
 
 
