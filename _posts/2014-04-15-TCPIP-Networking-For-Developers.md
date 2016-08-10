@@ -54,7 +54,7 @@ Changing the host file will clear the local cache and cause it to be repopulated
 
 -------------------------------------------------------------------------------------------------
 
-### ipconfig ###
+### ipconfig - Windows ###
 
 Display all the cached records on your local machine including the time till that cached record expires.  
 
@@ -62,9 +62,15 @@ Display all the cached records on your local machine including the time till tha
 > ipconfig /displaydns
 >
 
+Clear local DNS cache
+
+>
+> ipconfig /flushdns
+> 
+
 -------------------------------------------------------------------------------------------------
 
-### dig ###
+### dig - Linux ###
 
 Short for Domain Information Groper, dig is a network administration tool for querying DNS name servers.  
 
@@ -87,7 +93,7 @@ Tracing to make iterative queries
 
 -------------------------------------------------------------------------------------------------
 
-### host ### 
+### host - Linux ### 
 
 host is used for converting domain names to ip addresses and the other way around. 
 
@@ -98,7 +104,7 @@ host is used for converting domain names to ip addresses and the other way aroun
 
 -------------------------------------------------------------------------------------------------
 
-### nslookup ###
+### nslookup - Linux & Windows ###
 
 Allows you to get dns responses from the command line.
 
@@ -129,7 +135,4 @@ nslookup by default returns a-record types, this can be changed by...
 >  
 
 There are different types inclusing MX, NS, CNAME, AAAA, etc 
-
-
-
 
