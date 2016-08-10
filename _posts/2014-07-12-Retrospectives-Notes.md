@@ -16,7 +16,7 @@ category: Soft
 
 - Fizz Buzz Group Number Game (also known as Ping Pong)
 - Organize seating based on distance that one was born from the current location  
-- [Tast Cupcake Ideas](http://tastycupcakes.org/)
+- [Tasty Cupcake Ideas](http://tastycupcakes.org/)
 
 #### Assesing where we are ####
 
