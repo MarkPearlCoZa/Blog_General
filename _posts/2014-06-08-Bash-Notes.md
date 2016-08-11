@@ -13,6 +13,8 @@ Edit the file in the following location: ~/.bashrc
 alias doSomething='commands'
 ~~~
 
+-----------------------------------------------------------------------
+
 ## Basic File Management ##
 
 ### Copy a File ###
@@ -419,6 +421,8 @@ sudo -i
 !$
 ~~~
 
+-----------------------------------------------------------------------
+
 ### Processes Running ###
 
 Go to the /proc directory, if you perform a ls it will show you all the processes running currently. Running cat on the file mounts will show you all the drives currently mounted.
@@ -432,6 +436,12 @@ To make this permanent, add to to ~./bash_profile file
 ~~~
 set -o vi  
 ~~~
+
+-----------------------------------------------------------------------
+
+### Git Aware Prompt ###
+
+[Read more here](https://github.com/jimeh/git-aware-prompt)  
 
 -----------------------------------------------------------------------
 
