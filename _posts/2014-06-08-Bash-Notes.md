@@ -423,11 +423,17 @@ sudo -i
 
 Go to the /proc directory, if you perform a ls it will show you all the processes running currently. Running cat on the file mounts will show you all the drives currently mounted.
 
+-----------------------------------------------------------------------
+
 ### Enable vi mode in bash ###
+
+To make this permanent, add to to ~./bash_profile file  
 
 ~~~
 set -o vi  
 ~~~
+
+-----------------------------------------------------------------------
 
 ### Show history of commands ###
 
