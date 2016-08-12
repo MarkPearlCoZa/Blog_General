@@ -83,6 +83,6 @@ You can be a good rebel, be careful not to be a bad rebel.
  
 #### References ####
 
-[Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)
-[Book - Rebels at Work: A Handbook for Leading Change from Within](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953) 
-[Run with the Rebel Wild Pack - Lois Kelley, O’Reilly Software Architecture Conf](https://www.youtube.com/watch?v=WGcrwz7X4B0)  
+[Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)  
+[Book - Rebels at Work: A Handbook for Leading Change from Within](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
+[Run with the Rebel Wild Pack - Lois Kelley, O’Reilly Software Architecture Conf](https://www.youtube.com/watch?v=WGcrwz7X4B0)   
