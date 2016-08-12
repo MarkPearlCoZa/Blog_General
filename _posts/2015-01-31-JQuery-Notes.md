@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JQuery Notes
-tags: JavaScript
+tags: Libraries
 category: Tech
 ---
 ### General ###
