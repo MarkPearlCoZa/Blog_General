@@ -14,6 +14,8 @@ category: Soft
  
 ## Mindset 
 
+While change brings opportunities, for a lot of people it brings a bit of worry, and a lot of unknowns. Most people, including organizations, don't like unknowns - or are at least wary of them. 
+
 ### Biggest challenges in creating change 
  
 1) Afraid I might hurt my reputation/career  
