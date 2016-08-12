@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React Notes
-tags: React
+tags: Web
 category: Tech
 ---
 

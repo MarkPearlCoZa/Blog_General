@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pair Programming Notes
-tags: XP
+tags: Collaboration
 category: Process
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All models are wrong. Some models are useful because they are wrong!
-tags: General
+tags: 
 category: General
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSharp Notes
-tags: Language
+tags: Languages
 category: Tech
 ---
 

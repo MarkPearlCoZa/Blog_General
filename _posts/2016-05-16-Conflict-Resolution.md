@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conflict Resolution
-tags: Conflict
+tags: People
 category: Soft
 ---
 

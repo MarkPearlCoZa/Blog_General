@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hugo Notes
-tags: Hugo
+tags: Web
 category: Tech
 ---
 

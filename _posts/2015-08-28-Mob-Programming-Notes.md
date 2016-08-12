@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mob Programming Notes
-tags: XP
+tags: Collaboration
 category: Process
 ---
 

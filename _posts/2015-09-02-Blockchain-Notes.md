@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockchain Notes
-tags: Internet
+tags: 
 category: Tech
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Craftmanship
-tags: Craft
+tags: 
 category: Misc
 ---
 
