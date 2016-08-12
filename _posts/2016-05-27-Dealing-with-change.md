@@ -65,14 +65,6 @@ category: Soft
 - Friendships – outside of work friends = priceless to sanity, well-being.  
 - Get outside – all adventures are easier when you’re healthy, fit, rested  
  
-### When should you quit?  
-
-- Your values are far from your company’s  
-- There are no opportunities to grow  
-- You’ve burned too many bridges  
-- There is no one at work to support you  
-
- 
 #### References ####
 
 [Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)
