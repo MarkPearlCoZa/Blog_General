@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The one line method
-tags: Misc, Code
+tags: Code
 category: General
 ---
 I recently had a chance for an interesting code discussion. It is something I've been wanting to write about for a while, a practice I've been applying to my code that I find many other developers find strange, and being in a new team I've been reminded of this fact. I call it the "one line method" practice.

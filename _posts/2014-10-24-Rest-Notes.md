@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rest Notes
-tags: Rest
+tags: Web
 category: Tech
 ---
 

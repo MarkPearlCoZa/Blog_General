@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Paradigms
-tags: Polyglot
+tags: 
 category: General
 ---
 I have always been a Windows person. I was there in the early days when the world made the move from Dos to Windows. I was there when the start button was introduced in Windows 95 and I was there during the fail days of Windows Me. I have been with Windows for a while. In essence I am a Windows guy.

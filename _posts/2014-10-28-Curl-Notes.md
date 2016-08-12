@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curl Notes
-tags: Curl
+tags: Web
 category: Tech
 ---
 

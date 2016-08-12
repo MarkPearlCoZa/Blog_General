@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do you radiate vanity metrics?
-tags: Misc
+tags: Agile
 category: General
 ---
 

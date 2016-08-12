@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scrum Notes
-tags: Scrum
+tags: Agile
 category: Process
 ---
 

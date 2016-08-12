@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introverts
-tags: Learning
+tags: People
 category: Soft
 ---
 Introverts have deeper relationships with fewer individuals, extraverts have many relationships with shallower connections

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redux Notes
-tags: html
+tags: Web
 category: Tech
 ---
 

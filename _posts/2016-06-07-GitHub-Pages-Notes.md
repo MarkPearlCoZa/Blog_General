@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Pages Notes
-tags: html
+tags: Web
 category: Tech
 ---
 

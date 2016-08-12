@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MacBook Notes
-tags: Misc
+tags: Mac
 category: Tech
 ---
 

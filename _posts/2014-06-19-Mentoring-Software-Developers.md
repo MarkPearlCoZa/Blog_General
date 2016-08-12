@@ -3,7 +3,7 @@ layout: post
 title: "Mentoring Software Developers"
 description: "Notes on Mentoring Software Developers"
 category: Misc
-tags: [Journeyman, Mentor]
+tags: Career
 ---
 #### Making it intentional ####
 Recently we started a mentoring programme - nothing rigid or too formal, but intentional.  

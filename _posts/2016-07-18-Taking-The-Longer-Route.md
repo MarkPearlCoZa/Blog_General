@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking the longer route
-tags: Misc
+tags: 
 category: General
 ---
 

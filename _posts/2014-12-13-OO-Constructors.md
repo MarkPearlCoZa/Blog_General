@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OO Constructors
-tags: OO
+tags: Design
 category: Programming
 ---
 #### Named Constructors ####

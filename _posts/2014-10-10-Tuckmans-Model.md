@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tuckmans stages of group development
-tags: People
+tags: Team
 category: Soft
 ---
 

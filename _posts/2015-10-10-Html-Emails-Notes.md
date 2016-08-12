@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Html Email Notes
-tags: Html
+tags: Web
 category: Tech
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adkar Model
-tags: Learning
+tags: People
 category: Soft
 ---
 #### Summary ####

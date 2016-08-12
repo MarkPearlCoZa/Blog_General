@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cynefin Framework
-tags: Concept
+tags: 
 category: Process
 ---
 ####  Notes ####

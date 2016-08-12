@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firewall Notes
-tags: Firewall
+tags: Networks
 category: Tech
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Powershell Notes
-tags: Powershell
+tags: Windows Languages
 category: Tech
 ---
 #### Enable running PowerShell Scripts ####

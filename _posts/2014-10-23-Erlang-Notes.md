@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erlang Notes
-tags: Erlang
+tags: Languages
 category: Tech
 ---
 

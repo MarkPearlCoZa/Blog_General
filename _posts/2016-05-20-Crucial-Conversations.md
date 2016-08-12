@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crucial Conversations
-tags: Learning
+tags: People
 category: Soft
 ---
 #### Summary ####

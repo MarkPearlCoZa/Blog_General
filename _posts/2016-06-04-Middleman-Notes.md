@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Middleman Notes
-tags: html
+tags: Web
 category: Tech
 ---
 

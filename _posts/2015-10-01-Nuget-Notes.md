@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuget Notes
-tags: Ubuntu
+tags: Windows
 category: Tech
 ---
 

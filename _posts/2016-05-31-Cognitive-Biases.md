@@ -2,7 +2,7 @@
 ---  
 layout: post  
 title: Cognitive Biases
-tags: Learning  
+tags: People  
 category: Soft  
 ---  
 #### Anchoring ####
