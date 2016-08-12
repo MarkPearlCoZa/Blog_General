@@ -4,7 +4,7 @@ title: Dealing with Change
 tags: Change
 category: Soft
 ---
-> An Optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
+> An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
  
 Biggest challenges in creating change are:
  
