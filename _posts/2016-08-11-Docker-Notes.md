@@ -5,6 +5,8 @@ tags: Useful
 category: Tech
 ---
 
+#### Container Architecture vs Hypervisor Architecture 
+
 <img class="img-responsive" alt="Docker vs VM Architecture" src="{{ site.url }}/assets/images/Docker-Compared-To-Vms.png"/>
 
 #### References ####
