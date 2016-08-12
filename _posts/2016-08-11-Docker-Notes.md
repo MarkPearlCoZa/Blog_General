@@ -9,6 +9,14 @@ category: Tech
 
 <img class="img-responsive" alt="Docker vs VM Architecture" src="{{ site.url }}/assets/images/Docker-Compared-To-Vms.png"/>
 
+#### Open Source on GitHub ####
+
+- Apache License 2.0  
+- Multiple tools in the project  
+- Core components are written in Go or Golang  
+
+[View Repos](https://github.com/docker)  
+
 #### References ####
 
 [Docker & Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture)  
