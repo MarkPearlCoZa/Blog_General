@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bash Notes
-tags: Useful, Linux
+tags: Useful Linux
 category: Tech
 ---
 

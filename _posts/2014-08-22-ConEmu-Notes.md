@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ConEmu Notes
-tags: Useful, Windows
+tags: Useful Windows
 category: Tech
 ---
 #### Shortcut Keys ####

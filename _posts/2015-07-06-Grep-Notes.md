@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grep Notes
-tags: Useful, Linux
+tags: Useful Linux
 category: Tech
 ---
 
