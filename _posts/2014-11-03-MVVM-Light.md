@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MVVM Light Notes
-tags: Xaml
+tags: Frameworks
 category: Tech
 ---
 
