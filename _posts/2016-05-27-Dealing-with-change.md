@@ -44,20 +44,19 @@ category: Soft
  
 ### Good Rebels vs Bad Rebels  
   
-| Bad Rebel 		| Good Rebel 		 |
-|-----------------------|------------------------|
-| Complain 		|  Create      		 | 
-| Me-focussed 		|  Mission focussed      | 
-| Pessimist 		|  Optimist              | 
-| Problems 		|  Possibilities         | 
-| Anger 		|  Attract support       | 
-| Alienate people 	|  Questions             | 
-| Assertions 		|  Pinpoint causes       | 
-| Pinpoint fingers   	|  Listen                | 
-| Lecture 		|  Wonder if             | 
-| Worry that 		|  Reluctant             | 
-| Obsessed 		|                        | 
-
+| Good Rebel 		 | Bad Rebel 		|  
+|------------------------|----------------------|  
+|  Create      		 | Complain 		|  
+|  Mission focussed      | Me-focussed 		|  
+|  Optimist              | Pessimist 		|  
+|  Possibilities         | Problems 		|  
+|  Attract support       | Anger 		|  
+|  Questions             | Alienate people 	|  
+|  Pinpoint causes       | Assertions 		|  
+|  Listen                | Pinpoint fingers   	|  
+|  Wonder if             | Lecture 		|  
+|  Reluctant             | Worry that 		|  
+|                        | Obsessed 		|  
 
 ### Self-Care
 
