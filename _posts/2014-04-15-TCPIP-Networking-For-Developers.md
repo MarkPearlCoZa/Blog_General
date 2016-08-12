@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TCP/IP Networking for Developers
-tags: Useful
+tags: Networks
 category: Tech
 ---
 Great [pluralsight course on networking for developers](http://pluralsight.com/training/courses/TableOfContents?courseName=tcp-ip-networking-for-devs). I always forget this stuff.

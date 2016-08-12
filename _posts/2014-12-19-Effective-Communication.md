@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effective Communication
-tags: Useful
+tags: People
 category: Soft
 ---
 

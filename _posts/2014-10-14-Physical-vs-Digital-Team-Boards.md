@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Team Boards
-tags: Useful
+tags: Agile
 category: Process
 ---
 

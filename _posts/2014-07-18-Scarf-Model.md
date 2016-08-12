@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scarf Model
-tags: Concept
+tags: People
 category: Soft
 ---
 ####  Notes ####

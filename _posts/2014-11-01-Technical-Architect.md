@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technical Architect
-tags: Useful
+tags: Architecture
 category: Soft
 ---
 

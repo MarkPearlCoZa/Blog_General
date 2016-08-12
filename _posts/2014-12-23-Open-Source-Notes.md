@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Source Notes
-tags: Open Source
+tags: 
 category: Meta
 ---
 

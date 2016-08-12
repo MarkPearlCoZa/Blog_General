@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are real hackers
-tags: Useful
+tags: 
 category: Misc
 ---
 #### The Hacker Way ####

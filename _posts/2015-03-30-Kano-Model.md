@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kano Model
-tags: Useful
+tags: Agile
 category: Soft
 ---
 

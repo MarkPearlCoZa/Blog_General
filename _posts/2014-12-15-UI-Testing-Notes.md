@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UI Testing Notes
-tags: UI Testing Notes
+tags: Testing
 category: Tech
 ---
 

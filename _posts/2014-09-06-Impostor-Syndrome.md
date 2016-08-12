@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impostor Syndrome
-tags: Useful
+tags: 
 category: Soft
 ---
 #### General ####

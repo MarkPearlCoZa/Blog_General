@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elephant Capaccio
-tags: Useful
+tags: Agile
 category: Soft
 ---
 [Original Notes](http://alistair.cockburn.us/Elephant+Carpaccio+exercise)

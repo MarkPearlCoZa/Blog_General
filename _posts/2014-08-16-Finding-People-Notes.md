@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding People Notes
-tags: Useful
+tags: Recruiting
 category: Soft
 ---
 #### General ####

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SqlServer Notes
-tags: Notes, Windows
+tags: Windows
 category: Tech
 ---
 #### General Notes ####

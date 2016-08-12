@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neo4J Db Notes
-tags: Open Source
+tags: Databases
 category: Tech
 ---
 

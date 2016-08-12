@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math stuff for Programmers
-tags: Useful
+tags: 
 permalink: Interesting-Math-Algorithms-Notes
 category: Misc
 ---

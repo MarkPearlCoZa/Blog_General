@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Retreat Notes
-tags: Useful
+tags: Learning
 category: Misc
 ---
 

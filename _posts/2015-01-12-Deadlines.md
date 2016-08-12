@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deadlines
-tags: Useful
+tags: Agile
 category: Process
 ---
 

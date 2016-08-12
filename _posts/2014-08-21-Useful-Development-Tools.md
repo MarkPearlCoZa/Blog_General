@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful Develpment Tools
-tags: Useful
+tags: 
 category: Misc
 ---
 Below are a list of tools that are useful for software development. I have categorized them based on the language I saw them being used in - this doesn't exclude them from possibly working in other languages.

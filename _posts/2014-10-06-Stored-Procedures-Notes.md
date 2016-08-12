@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stored Procedures Notes
-tags: Useful
+tags: Databases
 category: Programming
 ---
 

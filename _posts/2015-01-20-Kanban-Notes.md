@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanban
-tags: Kanban
+tags: Agile
 category: Process
 permalink: Kanban-Notes
 ---

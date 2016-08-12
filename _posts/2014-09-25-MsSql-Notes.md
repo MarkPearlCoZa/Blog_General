@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MsSql Notes
-tags: Useful
+tags: Databases
 category: Tech
 ---
 

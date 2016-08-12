@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing Psychology
-tags: Useful
+tags: 
 category: Misc
 ---
 #### Priming ####

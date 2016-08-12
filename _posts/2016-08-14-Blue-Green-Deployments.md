@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Green Deployment Notes
-tags: Useful
+tags: 
 category: Tech
 ---
 

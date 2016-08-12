@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Active Directory Notes
-tags: Useful
+tags: Windows
 category: Tech
 ---
 

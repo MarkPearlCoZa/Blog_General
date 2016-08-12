@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mongo Db Notes
-tags: Open Source
+tags: Databases
 category: Tech
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Learning Activities related to Lean / Agile
-tags: Agile, Kanban
+tags: Agile
 category: Soft
 ---
 #### Summary ####

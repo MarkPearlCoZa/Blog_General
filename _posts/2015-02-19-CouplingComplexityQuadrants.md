@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coupling Complexity Quadrants
-tags: Useful
+tags: Design
 category: Misc
 ---
 ![Coupling Complexity Quadrants]({{ site.url }}/assets/images/CouplingComplexityQuadrants.png)

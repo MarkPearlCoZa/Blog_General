@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Couch Db Notes
-tags: Open Source
+tags: Databases
 category: Tech
 ---
 

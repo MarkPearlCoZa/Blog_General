@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agile Documentation
-tags: Useful
+tags: Agile
 category: Process
 ---
 

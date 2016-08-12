@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful Kata Websites
-tags: Useful
+tags: 
 category: Programming
 ---
 Below are a list of websites that I have found useful in the past for code kata's

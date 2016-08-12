@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KPI in Agile Teams
-tags: Concept
+tags: Measurement
 category: Soft
 ---
 

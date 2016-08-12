@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Notes
-tags: Useful
+tags: Web
 category: Tech
 ---
 

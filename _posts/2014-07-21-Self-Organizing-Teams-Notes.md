@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self Organizing Teams Notes
-tags: Concept
+tags: People
 category: Soft
 ---
 

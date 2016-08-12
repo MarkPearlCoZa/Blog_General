@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cycle Time
-tags: Useful
+tags: Agile
 category: Process
 ---
 #### Definition ####

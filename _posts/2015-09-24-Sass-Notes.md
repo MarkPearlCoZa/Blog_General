@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sass Notes
-tags: Useful
+tags: Web
 category: Tech
 ---
 

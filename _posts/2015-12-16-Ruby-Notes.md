@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby Notes
-tags: Useful
+tags: Languages
 category: Tech
 ---
 #### Updating Ruby in Ubuntu ####
