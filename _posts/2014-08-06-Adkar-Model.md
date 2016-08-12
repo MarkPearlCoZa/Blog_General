@@ -22,5 +22,5 @@ Top 3 work on a push mechanism, the bottom 2 work on a pull mechanism
 
 #### References ####
 
-[Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)
+[Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)  
 [Using a change model like ADKAR](https://frontlinemanagementexperts.wordpress.com/2015/04/17/using-a-change-model-like-adkar/)  
