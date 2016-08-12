@@ -6,11 +6,13 @@ category: Soft
 ---
 > An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
 
-1) Mindset  
-2) Skills  
-3) Self-care  
+1) [Mindset](#mindset)  
+2) [Skills](#skills)  
+3) [Self-care](#self-care)    
  
-## Biggest challenges in creating change 
+## Mindset 
+
+### Biggest challenges in creating change 
  
 1) Afraid I might hurt my reputation/career  
 2) My colleagues are resistant to most new ideas  
@@ -19,7 +21,7 @@ category: Soft
 5) Working through approval processes makes me crazy  
 6) I hate dealing with conflict and controversy  
  
-## Six reasons people say NO to change  
+### Six reasons people say NO to change  
 
 1) It’s just not that important to them  
 2) They can’t understand what the “it” is  
@@ -32,19 +34,6 @@ category: Soft
 
 - Assumptions (hold us back)  
 - Address your colleagues worries (tailor your ideas to make them look less bad)  
- 
-### Skills needed by Change Agents  
-
-- Communicate to effect behaviour (what’s at stake, what could be, show it can work)
-- Prove it can work
-- There can be no change without conflict – become comfortable with conflict (learn to listed, ask people what’s in the way, ask for alternatives…)
-- Learn how to strategically address bullies
-- Frame your idea so people understand what you are talking about
-- Don’t go it alone when creating change
-- 10% minority rule – when you get 10% of a group to believe in an idea, it becomes a real idea and has a much higher likelihood of being approved
-- Understand when decisions are made and how things work and get done
-- Make friends with bureaucratic black belts (legal people, etc.)
-
  
 ### Good Rebels vs Bad Rebels  
 
@@ -66,6 +55,22 @@ You can be a good rebel, be careful not to be a bad rebel.
 | Wonder if             | Worry that           |  
 | Reluctant             | Obsessed 	       |  
 
+## Skills 
+
+### Skills needed by Change Agents  
+
+- Communicate to effect behaviour (what’s at stake, what could be, show it can work)
+- Prove it can work
+- There can be no change without conflict – become comfortable with conflict (learn to listed, ask people what’s in the way, ask for alternatives…)
+- Learn how to strategically address bullies
+- Frame your idea so people understand what you are talking about
+- Don’t go it alone when creating change
+- 10% minority rule – when you get 10% of a group to believe in an idea, it becomes a real idea and has a much higher likelihood of being approved
+- Understand when decisions are made and how things work and get done
+- Make friends with bureaucratic black belts (legal people, etc.)
+
+## Self-Care
+ 
 ### Self-Care for Change Agents
 
 - Gratitude - be grateful   
