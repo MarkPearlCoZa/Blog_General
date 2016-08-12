@@ -11,11 +11,12 @@ category: Soft
 1) Afraid I might hurt my reputation/career  
 2) My colleagues are resistant to most new ideas  
 3) Unclear how decisions really get made  
-4) My ideas go against the culture of my organization
+4) My ideas go against the culture of my organization  
 5) Working through approval processes makes me crazy  
 6) I hate dealing with conflict and controversy  
  
 ## Six reasons people say NO to change  
+
 1) It’s just not that important to them  
 2) They can’t understand what the “it” is  
 3) Bad timing  
@@ -24,6 +25,7 @@ category: Soft
 6) They love the way things are  
 
 ### Bad Rebel  
+
 - Complain  
 - Me-focussed  
 - Pessimist  
@@ -38,6 +40,7 @@ category: Soft
 
  
 ### Good Rebel
+
 - Create  
 - Mission focused  
 - Optimist  
