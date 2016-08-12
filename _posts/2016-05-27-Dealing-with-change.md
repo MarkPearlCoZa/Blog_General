@@ -24,12 +24,13 @@ category: Soft
 5) They don’t like the idea and can’t tell you  
 6) They love the way things are  
 
-### Common Fears
+### Be mindful of  
+
 - Assumptions (hold us back)  
 - Address your colleagues worries (tailor your ideas to make them look less bad)  
-
  
-### Skills needed
+### Skills needed by change agents  
+
 - Communicate to effect behaviour (what’s at stake, what could be, show it can work)
 - Prove it can work
 - There can be no change without conflict – become comfortable with conflict (learn to listed, ask people what’s in the way, ask for alternatives…)
@@ -41,12 +42,6 @@ category: Soft
 - Make friends with bureaucratic black belts (legal people, etc.)
 
  
-### Self-Care  
-- Gratitude  
-- Penalty Boxes – if you end up in penalty box for positive intent, know you’ll recover. Use the time to observe, set new strategy  
-- Friendships – outside of work friends = priceless to sanity, well-being.  
-- Get outside – all adventures are easier when you’re healthy, fit, rested  
-  
 ### Good Rebels vs Bad Rebels  
   
 | Bad Rebel 		| Good Rebel 		|
@@ -64,8 +59,15 @@ category: Soft
 | Obsessed 		|                       | 
 
 
+### Self-Care
+
+- Gratitude  
+- Penalty Boxes – if you end up in penalty box for positive intent, know you’ll recover. Use the time to observe, set new strategy  
+- Friendships – outside of work friends = priceless to sanity, well-being.  
+- Get outside – all adventures are easier when you’re healthy, fit, rested  
  
 ### When should you quit?  
+
 - Your values are far from your company’s  
 - There are no opportunities to grow  
 - You’ve burned too many bridges  
