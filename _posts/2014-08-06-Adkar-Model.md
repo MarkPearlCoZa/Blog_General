@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adkar Model
-tags: People
+tags: People Change
 category: Soft
 ---
 #### Summary ####
