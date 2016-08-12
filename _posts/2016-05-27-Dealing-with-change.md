@@ -6,7 +6,7 @@ category: Soft
 ---
 > An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
  
-Biggest challenges in creating change are:
+## Biggest challenges in creating change are:
  
 1) Afraid I might hurt my reputation/career  
 2) My colleagues are resistant to most new ideas  
@@ -15,7 +15,7 @@ Biggest challenges in creating change are:
 5) Working through approval processes makes me crazy  
 6) I hate dealing with conflict and controversy  
  
-## 6 reasons people say NO to change  
+## Six reasons people say NO to change  
 1) It’s just not that important to them  
 2) They can’t understand what the “it” is  
 3) Bad timing  
