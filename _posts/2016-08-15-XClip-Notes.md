@@ -5,25 +5,21 @@ tags: Linux
 category: Tech
 ---
 
-#### Basic Use ####
+## Basic Use ##
 
-> Some command | xclip 
-
-Copy text to clipboard  
+### Copy text to clipboard  
 
 ~~~
 cat sometextfile.txt | xclip -selection c
 ~~~
 
-Paste text from clipboard
-
-> xclip -o > filetopipe.txt
+### Paste text from clipboard
 
 ~~~
 xclip -o > helloworld.txt
 ~~~
 
-#### Misc ####
+#### Misc 
 
 Add the following to alias to default xclip to normal clipboard
 
@@ -31,7 +27,7 @@ Add the following to alias to default xclip to normal clipboard
 alias xclip='xclip -selection c'
 ~~~
 
-#### References ####
+#### References 
 
 [Man Page for XClip](http://linux.die.net/man/1/xclip)  
 [XClip - Useful from the command line](https://elcasey.wordpress.com/2008/02/12/xclip-use-the-clipboard-from-the-command-line/)  
