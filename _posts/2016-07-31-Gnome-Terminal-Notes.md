@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gnome Terminal Notes
-tags: Ubuntu
+tags: Ubuntu, Linux
 category: Tech
 ---
 #### Enabling vi shortcuts in terminal ####

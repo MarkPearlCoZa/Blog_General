@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing Ubuntu on Virtual Box
-tags: Ubuntu
+tags: Ubuntu, Linux
 category: Tech
 ---
 

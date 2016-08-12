@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sh Script Notes
-tags: Useful
+tags: Useful, Linux
 category: Tech
 ---
 
