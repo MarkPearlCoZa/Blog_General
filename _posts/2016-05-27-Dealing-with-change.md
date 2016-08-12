@@ -9,18 +9,19 @@ category: Soft
 Biggest challenges in creating change are:
  
 1) Afraid I might hurt my reputation/career  
-2) My boss is resistant to most new ideas  
-3) Unclear how decisions really get mane  
-4) My ideas go against the culture of my organization I hate dealing with conflict and controversy  
+2) My colleagues are resistant to most new ideas  
+3) Unclear how decisions really get made  
+4) My ideas go against the culture of my organization
 5) Working through approval processes makes me crazy  
+6) I hate dealing with conflict and controversy  
  
 ## 6 reasons people say NO to change  
-1) It’s just not that important  
-2) I can’t understand what the “it” is  
+1) It’s just not that important to them  
+2) They can’t understand what the “it” is  
 3) Bad timing  
-4) Uncertainty makes me nervous  
-5) I don’t like the idea and can’t tell you  
-6) I love the way things are  
+4) Uncertainty makes them nervous  
+5) They don’t like the idea and can’t tell you  
+6) They love the way things are  
 
 ### Bad Rebel  
 - Complain  
