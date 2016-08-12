@@ -51,12 +51,12 @@ category: Soft
 |  Optimist              | Pessimist 		|  
 |  Possibilities         | Problems 		|  
 |  Attract support       | Anger 		|  
-|  Questions             | Alienate people 	|  
-|  Pinpoint causes       | Assertions 		|  
-|  Listen                | Pinpoint fingers   	|  
-|  Wonder if             | Lecture 		|  
-|  Reluctant             | Worry that 		|  
-|                        | Obsessed 		|  
+|  Questions             | Assertions           |  
+|  Pinpoint causes       | Pinpoint fingers   	|  
+|  Listen                | Lecture 		|  
+|  Wonder if             | Worry that           |  
+|  Reluctant             | Obsessed 		|  
+|                        | Alienate people	|
 
 ### Self-Care
 
