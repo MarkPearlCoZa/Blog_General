@@ -24,12 +24,12 @@ category: Soft
 5) They don’t like the idea and can’t tell you  
 6) They love the way things are  
 
-### Be mindful of  
+### When implementing change mindful of...  
 
 - Assumptions (hold us back)  
 - Address your colleagues worries (tailor your ideas to make them look less bad)  
  
-### Skills needed by change agents  
+### Skills needed by Change Agents  
 
 - Communicate to effect behaviour (what’s at stake, what could be, show it can work)
 - Prove it can work
