@@ -5,6 +5,10 @@ tags: Change
 category: Soft
 ---
 > An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
+
+1) Mindset  
+2) Skills  
+3) Self-care  
  
 ## Biggest challenges in creating change 
  
@@ -43,6 +47,10 @@ category: Soft
 
  
 ### Good Rebels vs Bad Rebels  
+
+What are rebels? Rebels are change agents.  
+Rebels are people who rebel against what no longer works.  
+You can be a good rebel, be careful not to be a bad rebel.   
   
 | Good Rebel 		| Bad Rebel 	       |  
 |-----------------------|----------------------|  
@@ -50,13 +58,13 @@ category: Soft
 | Mission focussed      | Me-focussed 	       |  
 | Optimist              | Pessimist 	       |  
 | Possibilities         | Problems 	       |  
-| Attract support       | Anger 	       |  
+| Passion       	| Anger 	       |  
+| Attract support       | Alienate people      |
 | Questions             | Assertions           |  
 | Pinpoint causes       | Pinpoint fingers     |  
 | Listen                | Lecture 	       |  
 | Wonder if             | Worry that           |  
 | Reluctant             | Obsessed 	       |  
-|                       | Alienate people      |
 
 ### Self-Care for Change Agents
 
