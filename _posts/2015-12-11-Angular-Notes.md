@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Notes
-tags: Useful
+tags: Web
 category: Tech
 ---
 

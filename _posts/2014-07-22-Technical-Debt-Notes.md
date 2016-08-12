@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technical Debt Notes
-tags: Concept
+tags: Concept Quality
 category: Process
 ---
 #### Technical Debt Notes ####

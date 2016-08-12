@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITerm Notes
-tags: Useful
+tags: Mac
 category: Tech
 ---
 Tabs and Windows

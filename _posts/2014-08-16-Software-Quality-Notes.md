@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Quality Notes
-tags: Notes
+tags: Quality
 category: Misc
 ---
  
