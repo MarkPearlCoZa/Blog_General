@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asp.Net MVC Notes
-tags: MVC
+tags: Patterns
 category: Tech
 ---
 

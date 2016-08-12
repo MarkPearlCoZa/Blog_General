@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Notes
-tags: VS, Windows
+tags: Windows
 category: Tech
 ---
 
