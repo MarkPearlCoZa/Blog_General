@@ -67,7 +67,8 @@ You can be a good rebel, be careful not to be a bad rebel.
 - Don’t go it alone when creating change
 - 10% minority rule – when you get 10% of a group to believe in an idea, it becomes a real idea and has a much higher likelihood of being approved
 - Understand when decisions are made and how things work and get done
-- Make friends with bureaucratic black belts (legal people, etc.)
+- Make friends with bureaucratic black belts (legal people, management, etc.)
+- Get to know the people who don't agree with you  
 
 ## Self-Care
  
