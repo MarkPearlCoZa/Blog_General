@@ -58,7 +58,7 @@ category: Soft
 | Anger 		| Attract support       | 
 | Alienate people 	| Questions             | 
 | Assertions 		| Pinpoint causes       | 
-| Pinpoint fingers 	| Listen                | 
+| Pinpoint fingers   	| Listen                | 
 | Lecture 		| Wonder if             | 
 | Worry that 		| Reluctant             | 
 | Obsessed 		|                       | 
