@@ -6,7 +6,7 @@ category: Soft
 ---
 > An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
  
-## Biggest Challenges in Creating Change 
+## Biggest challenges in creating change 
  
 1) Afraid I might hurt my reputation/career  
 2) My colleagues are resistant to most new ideas  
