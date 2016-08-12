@@ -11,3 +11,4 @@ category: Misc
 - There are no opportunities to grow  
 - You’ve burned too many bridges  
 - There is no one at work to support you  
+- You've gotten complacent  
