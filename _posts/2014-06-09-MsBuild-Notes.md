@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MsBuild Notes
-tags: MsBuild
+tags: MsBuild, Windows
 category: Tech
 ---
 MSBuild [msdn reference](http://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Management Studio Notes
-tags: MSSql
+tags: MSSql, Windows
 category: Tech
 ---
 Tech

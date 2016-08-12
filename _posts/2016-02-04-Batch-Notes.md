@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Batch Notes
-tags: Useful
+tags: Useful, Windows
 category: Tech
 ---
 #### Using parameters in Bat files ####

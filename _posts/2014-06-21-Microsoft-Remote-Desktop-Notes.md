@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Remote Desktop Notes
-tags: Useful
+tags: Useful, Windows
 category: Tech
 ---
 #### Connect via the Command Line ####
