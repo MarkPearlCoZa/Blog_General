@@ -46,8 +46,9 @@ category: Soft
 - Penalty Boxes – if you end up in penalty box for positive intent, know you’ll recover. Use the time to observe, set new strategy  
 - Friendships – outside of work friends = priceless to sanity, well-being.  
 - Get outside – all adventures are easier when you’re healthy, fit, rested  
-
- 
+  
+### Good Rebels vs Bad Rebels  
+  
 | Bad Rebel 		| Good Rebel 		|
 |-----------------------|-----------------------|
 | Complain 		| Create 		| 
