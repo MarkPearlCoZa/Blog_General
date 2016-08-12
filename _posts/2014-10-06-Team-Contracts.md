@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Contracts
-tags: Team
+tags: Teams
 category: Soft
 ---
 
