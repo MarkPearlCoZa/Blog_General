@@ -14,6 +14,14 @@ Biggest challenges in creating change are:
 4) My ideas go against the culture of my organization I hate dealing with conflict and controversy  
 5) Working through approval processes makes me crazy  
  
+## 6 reasons people say NO to change  
+1) It’s just not that important  
+2) I can’t understand what the “it” is  
+3) Bad timing  
+4) Uncertainty makes me nervous  
+5) I don’t like the idea and can’t tell you  
+6) I love the way things are  
+
 ### Bad Rebel  
 - Complain  
 - Me-focussed  
@@ -73,14 +81,6 @@ Biggest challenges in creating change are:
 - There is no one at work to support you  
 
  
-## 6 reasons bosses say NO
-1) It’s just not that important  
-2) I can’t understand what the “it” is  
-3) Bad timing  
-4) Uncertainty makes me nervous  
-5) I don’t like the idea and can’t tell you  
-6) I love the way things are  
-
 #### References ####
 
 [Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)
