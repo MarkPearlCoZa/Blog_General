@@ -6,9 +6,11 @@ category: Soft
 ---
 > An optimist is someone who figures that taking a step backward after taking a step forward is not a disaster, it’s more like a cha-cha
 
-1) [Mindset](#mindset)  
-2) [Skills](#skills)  
-3) [Self-care](#self-care)    
+## Overview  
+
+- [Mindset](#mindset)  
+- [Skills](#skills)  
+- [Self-care](#self-care)    
  
 ## Mindset 
 
