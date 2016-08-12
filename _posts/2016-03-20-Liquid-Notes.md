@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liquid Notes
-tags: Useful
+tags: Web
 category: Tech
 ---
 

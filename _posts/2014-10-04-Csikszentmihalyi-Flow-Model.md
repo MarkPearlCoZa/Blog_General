@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Csikszentmihalyi Flow Model
-tags: Useful
+tags: Flow
 category: Soft
 ---
 

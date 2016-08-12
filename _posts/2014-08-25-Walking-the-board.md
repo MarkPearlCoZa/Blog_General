@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Walking the board
-tags: Useful
+tags: Agile
 category: Soft
 ---
 #### General ####

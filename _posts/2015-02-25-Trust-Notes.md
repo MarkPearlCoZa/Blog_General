@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trust Notes
-tags: Useful
+tags: People
 category: Soft
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Littles Law
-tags: Useful
+tags: Agile
 category: Soft
 ---
 

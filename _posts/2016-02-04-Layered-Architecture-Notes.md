@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Layered Architecture Notes
-tags: Useful
+tags: Architecture
 category: Programming
 ---
 

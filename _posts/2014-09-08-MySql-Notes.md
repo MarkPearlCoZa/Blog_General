@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mysql Notes
-tags: Useful
+tags: Databases 
 category: Tech
 ---
 

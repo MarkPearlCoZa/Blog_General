@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User Stories Notes
-tags: Useful
+tags: Agile
 category: Process
 ---
 #### General ####

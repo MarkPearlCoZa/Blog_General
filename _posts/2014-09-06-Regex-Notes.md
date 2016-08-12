@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regex Notes
-tags: Useful
+tags: Languages
 category: Programming
 ---
 ### Two parts of a regex ###

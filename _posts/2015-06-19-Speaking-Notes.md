@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speaking Notes
-tags: Useful
+tags: Conferences
 category: Misc
 ---
 

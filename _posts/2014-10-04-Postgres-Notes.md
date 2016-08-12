@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postgres Notes
-tags: Useful
+tags: Databases
 category: Tech
 ---
 

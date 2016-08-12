@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORS Notes
-tags: Useful
+tags: Web
 category: Tech
 ---
 

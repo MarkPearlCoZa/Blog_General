@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Critical Feedback
-tags: Useful
+tags: People
 category: Soft
 ---
 Caring personally and challenging directly  

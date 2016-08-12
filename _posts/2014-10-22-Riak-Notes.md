@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riak Notes
-tags: Useful
+tags: Databases
 category: Tech
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story Mapping
-tags: Useful
+tags: Agile
 category: Process
 ---
 

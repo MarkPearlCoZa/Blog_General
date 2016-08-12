@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu Notes
-tags: Useful
+tags: Linux
 category: Tech
 ---
 

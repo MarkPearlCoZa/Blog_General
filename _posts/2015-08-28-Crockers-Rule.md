@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crockers Rule
-tags: Useful
+tags: 
 category: Soft
 ---
 #### The Rule ####

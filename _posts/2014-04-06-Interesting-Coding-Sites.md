@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Coding Sites 
-tags: Useful
+tags: Programming
 category: Programming
 ---
 Below are a list of websites related to coding that may be interesting and worth checking out.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flow
-tags: Useful
+tags: Agile
 category: Process
 ---
 
