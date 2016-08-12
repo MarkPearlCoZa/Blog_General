@@ -84,4 +84,4 @@ Biggest challenges in creating change are:
 #### References ####
 
 [Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)
-[Run with the Rebel Wild Pack - Lois Kelley, O’Reilly Software Architecture Conference](https://www.youtube.com/watch?v=WGcrwz7X4B0)  
+[Run with the Rebel Wild Pack - Lois Kelley, O’Reilly Software Architecture Conf](https://www.youtube.com/watch?v=WGcrwz7X4B0)  
