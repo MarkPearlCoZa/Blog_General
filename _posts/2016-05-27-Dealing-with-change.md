@@ -19,37 +19,37 @@ Biggest challenges in creating change are:
  
 Lois Kelley – Create a better future (O’Reilly Software Architecture Conference)
  
-Bad Rebel
--          Complain
--          Me-focussed
--          Pessimist
--          Problems
--          Anger
--          Alienate people
--          Assertions
--          Pinpoint fingers
--          Lecture
--          Worry that
--          Obsessed
+### Bad Rebel  
+-          Complain  
+-          Me-focussed  
+-          Pessimist  
+-          Problems  
+-          Anger  
+-          Alienate people  
+-          Assertions  
+-          Pinpoint fingers  
+-          Lecture  
+-          Worry that  
+-          Obsessed  
 
  
-Good Rebel
--          Create
--          Mission focused
--          Optimist
--          Possibilities
--          Passion
--          Attract support
--          Questions
--          Pinpoint causes
--          Listen
--          Wonder if
--          Reluctant
+### Good Rebel
+-          Create  
+-          Mission focused  
+-          Optimist  
+-          Possibilities  
+-          Passion  
+-          Attract support  
+-          Questions  
+-          Pinpoint causes  
+-          Listen  
+-          Wonder if  
+-          Reluctant  
 
  
-Common Fears
--          Assumptions (hold us back)
--          Address your boss’ worries (tailor your ideas to make them look less bad)
+### Common Fears
+-          Assumptions (hold us back)  
+-          Address your boss’ worries (tailor your ideas to make them look less bad)  
 
  
 Skills needed
