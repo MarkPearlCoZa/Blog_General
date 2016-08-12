@@ -16,5 +16,5 @@ Coupling is important to software design becuase the costs of changing software 
 
 #### References ####
 
-[Normal Accidents: Living with High-Risk Technologies](http://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129)
-
+[Normal Accidents: Living with High-Risk Technologies](http://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129)  
+[Software Design - Why, When & How](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
