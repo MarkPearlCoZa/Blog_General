@@ -24,39 +24,9 @@ category: Soft
 5) They don’t like the idea and can’t tell you  
 6) They love the way things are  
 
-### Bad Rebel  
-
-- Complain  
-- Me-focussed  
-- Pessimist  
-- Problems  
-- Anger  
-- Alienate people  
-- Assertions  
-- Pinpoint fingers  
-- Lecture  
-- Worry that  
-- Obsessed  
-
- 
-### Good Rebel
-
-- Create  
-- Mission focused  
-- Optimist  
-- Possibilities  
-- Passion  
-- Attract support  
-- Questions  
-- Pinpoint causes  
-- Listen  
-- Wonder if  
-- Reluctant  
-
- 
 ### Common Fears
 - Assumptions (hold us back)  
-- Address your boss’ worries (tailor your ideas to make them look less bad)  
+- Address your colleagues worries (tailor your ideas to make them look less bad)  
 
  
 ### Skills needed
@@ -76,6 +46,22 @@ category: Soft
 - Penalty Boxes – if you end up in penalty box for positive intent, know you’ll recover. Use the time to observe, set new strategy  
 - Friendships – outside of work friends = priceless to sanity, well-being.  
 - Get outside – all adventures are easier when you’re healthy, fit, rested  
+
+ 
+| Bad Rebel 		| Good Rebel 		|
+|-----------------------|-----------------------|
+| Complain 		| Create 		| 
+| Me-focussed 		| Mission focussed      | 
+| Pessimist 		| Optimist              | 
+| Problems 		| Possibilities         | 
+| Anger 		| Attract support       | 
+| Alienate people 	| Questions             | 
+| Assertions 		| Pinpoint causes       | 
+| Pinpoint fingers 	| Listen                | 
+| Lecture 		| Wonder if             | 
+| Worry that 		| Reluctant             | 
+| Obsessed 		|                       | 
+
 
  
 ### When should you quit?  
