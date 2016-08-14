@@ -79,7 +79,7 @@ Now that I have been in both worlds I'm able to articulate what the benefits are
 
 #### Get your trial period to be the right length
 
-I'm a proponent of short experiments with quick feedback. I fear I would have given up too quickly on the Kinesis if I had just done a short experiment! I needed an appropriate length experiment!  
+I'm a proponent of the phrase "short experiments with quick feedback". I fear I would have given up too quickly on the Kinesis if I had just done a short experiment! I needed an appropriate length experiment!  
 
 #### Being in a tough place can cause big breakthroughs  
 
