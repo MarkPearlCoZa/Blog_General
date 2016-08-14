@@ -61,7 +61,15 @@ Looking back at the whole journey I'm really grateful I had the experience. It h
 
 #### Change can be painful but worth it 
 
-Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. I would be a very frustrated person going back to my original keyboard because it's flaws are now very very apparent to me.
+Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. 
+
+#### You gain deep insights from doing and experience  
+
+At the beginning of this journey I would have battled to have motivated why the move from a 'normal' keyboard to something like the Kinesis or ErgoDox would be worthwhile. I had a hunch, but because I hadn't really experienced both world I did not really know.
+
+Now that I have been in both worlds I'm able to articulate what the benefits are, and what the challenges one is going to face in detail. I've moved from having a hunch to having some real knowledge.
+
+In my instance I would be a very frustrated person going back to my original keyboard because it's flaws are now very very apparent to me.
 
 #### Get your trial period to be the right length
 
