@@ -234,6 +234,8 @@ gold metal golden wood gold plastic metal stone rubber gold
 /Captain\shook/
 ~~~
 
+-------------------------------------------------------------------------------------
+
 ### Useful Examples ###
 
 Add a word egg after certain letters (bcd) with a word.  
