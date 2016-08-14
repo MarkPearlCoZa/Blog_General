@@ -55,7 +55,7 @@ No, not at all. The ErgoDox & the Kinesis are very similar. In fact, it only too
 
 Looking back at the whole journey I'm really grateful I had the experience. It has also given me a new found appreciation for change. 
 
-### Learning Outcomes one year later
+### Long term learning outcomes on change
 
 #### Change can be painful but worth it 
 
