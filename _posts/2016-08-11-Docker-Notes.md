@@ -28,4 +28,5 @@ There are various tools that ops needs for managing containers in production inc
 
 #### References 
 
+[Docker Hub](https://hub.docker.com)  
 [Docker & Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture)  

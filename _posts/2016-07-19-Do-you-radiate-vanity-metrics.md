@@ -46,3 +46,5 @@ I've also found it extremely useful to have monitors placed in positons where th
 #### Leverage those information radiators
 
 If you are lucky enough to have monitors in your development space mounted to walls, use them for good of the team and avoid the vanity metric information radiator anti-pattern.
+
+<img class="img-responsive" alt="Exmaple of useful metrics" src="{{ site.url }}/assets/images/Vanity_Metrics.png">
