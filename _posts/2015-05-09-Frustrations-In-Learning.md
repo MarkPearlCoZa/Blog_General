@@ -65,7 +65,7 @@ Change can be extremely painful. Some days I really wanted to give up. Had it no
 
 #### Speak to people who are on the same journey  
 
-I spoke to several developers who had the same issues as me before I attempted changing keyboards. Their feedback gave me hope. They had been down the same road and succeeded, I could relate with themand respected their insights. This is why I feel things like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) are so important - they give you hope you could not get on your own.  
+I spoke to several developers who had the same issues as mine before I attempted changing keyboards. I also watched several youtube reviews from developers on various keyboards. Their feedback gave me hope. They had been down the same road and succeeded, I could relate with themand respected their insights. This is why I feel things like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) are so important - they give you hope you could not get on your own.  
 
 #### You gain deep insights from doing
 
