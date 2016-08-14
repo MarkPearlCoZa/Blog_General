@@ -9,6 +9,12 @@ category: Misc
 
 Thinking about context, oracles and heuristics and the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
 
+The Heuristic Test Strategy Model is a set of patterns for designing a test strategy.  
+The immediate purpose of this model is to remind testers of what to think about when they are creating tests. 
+Ultimately, it is intended to be customized and used to facilitate dialog and direct self-learning among professional testers. 
+
+- see detailed description of the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
+
 #### Testing the Teddies 
 
 - <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Personas</a>  
