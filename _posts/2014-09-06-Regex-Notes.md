@@ -19,7 +19,8 @@ category: Misc
 - A Time for Greed, a Time for Laziness.  
 - On the Edges: Really Need Boundaries or Delimiters? Use Them—or Make Your Own!   
 - Don't Give Up what You Can Possess.  
-- Don't Match what Splits Easily, and Don't Split what Matches Nicely.  
+- Don't Match what Splits Easily.   
+- Don't Split what Matches Nicely.  
 - Design to Fail.  
 - Trust the Dot-Star to Get You to the End of the Line  
 
