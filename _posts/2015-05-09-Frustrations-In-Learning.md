@@ -63,7 +63,7 @@ Looking back at the whole journey I'm really grateful I had the experience. It h
 
 Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out for the keyboard I would have given up. 
 
-Now, I cannot imagine a world where I don't have a keyboard like this. It has been totally worth it. Being fully committed to change something is important - if you don't have something to loose you are not going to change.  
+I cannot imagine a world where I don't have a keyboard like the one I have now. It has been totally worth it. Being fully committed to change something is important - if you don't have something to loose you are not going to change.  
 
 #### Speak to people who are on the same journey  
 
