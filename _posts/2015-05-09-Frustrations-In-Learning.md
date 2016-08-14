@@ -77,6 +77,6 @@ I'm a proponent of short experiments with quick feedback. I fear I would have gi
 
 I would never have made the transition had I not had numbness in my hands. It was a potentially career ending situation which forced me to look at something radical. Being in a tough place can cause big breakthroughs. I see companies that are also at places where if they don't adapt they become irrelevant. This can be a strong driver for change.
 
-#### What you think is the end is often just a check point on the journey
+#### What you think is the end is often just a stepping stone
 
 When initially having the issues with my hands I thought the Kinesis would be where I would end up. It wasn't, it was a stepping stone. When we look at problems, we often see a solution and then fixate on that. Once having adopted a solution for an appropriate period of time, it is important that we don't get stuck and can move forward.
