@@ -10,7 +10,7 @@ One of the things I have had to look at changing was my keyboard. Up till a week
 
 Deciding on which ergonomic keyboard to get was tough. There are a lot of choices. After much research and consultation I eventually settled on the [Kinesis Advantage Pro](https://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/). 
 
-It met my 3 main criteria: 
+It met my 3 main criteria:   
 1) I wanted something fully hardware re-programable  
 2) It needed a split key layout   
 3) I had to be able get it now!  
