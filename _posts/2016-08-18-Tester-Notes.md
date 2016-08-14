@@ -35,7 +35,7 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 
 --------------------------------------------------------------------------------------------
 
-### Useful Sites for Tester Exercises
+### Tester Exercises Sites
 
 [Weekend Testing](http://weekendtesting.com/)  
 [Testing Challenges](http://testing-challenges.org/)  
