@@ -11,7 +11,7 @@ One of the things I have had to look at changing was my keyboard. Up till a week
 Deciding on which ergonomic keyboard to get was tough. There are a lot of choices. After much research and consultation I eventually settled on the [Kinesis Advantage Pro](https://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/). It met my 3 main criteria: 
 
 1) I wanted something fully hardware re-programable  
-2) It needed a split key layout - I liked the idea of moving most of the special function keys to my thumbs instead of my pinkies 
+2) It needed a split key layout - I liked the idea of moving most of the special function keys to my thumbs instead of my pinkies   
 3) I had to be able get it now!  
 
 Before placing an order for my new keyboard I read and watched several reviews on it. What eventually swayed me was feedback from a developer who had purchased and tested several keyboards - in particular I liked the fact that he was doing similar work to myself and had probably faced the same challenges. So I took the plunge and placed an order on Amazon. It was exciting.
