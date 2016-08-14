@@ -23,6 +23,8 @@ category: Misc
 - Design to Fail.  
 - Trust the Dot-Star to Get You to the End of the Line  
 
+[Elements of good regex design](http://www.rexegg.com/regex-style.html)  
+
 ### Lookaround Expressions 
 
 Lookarounds often cause confusion. I believe this confusion promptly disappears if one simple point is firmly grasped. It is that at the end of a lookahead or a lookbehind, the regex engine hasn't moved on the string. You can chain three more lookaheads after the first, and the regex engine still won't move. In fact, that's a useful technique. 
@@ -281,7 +283,3 @@ Match any word that isn't rock
 
 [Learn RegEx the Hard Way](http://regex.learncodethehardway.org/book/)  
 [Regular Expression for Javascript](http://eloquentjavascript.net/09_regexp.html)  
-
-### References ###
-
-[Elements of good regex design](http://www.rexegg.com/regex-style.html)  
