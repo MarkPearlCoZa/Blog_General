@@ -39,7 +39,7 @@ It has been over a year since I made the move from my Steel Series to the Kinesi
 - The numbness in my hands has gone away. 
 - I've also not only reached the same typing speed I had previously, but gotten even faster.  
 
-Ironically I'm no longer using the Kinesis but I'm also no longer using my Steel Series keyboard - I've found something better - I'm using an ErgoDox!  
+**Ironically I'm no longer using the Kinesis but I'm also no longer using my Steel Series keyboard - I've found something better - I'm using an ErgoDox!**  
 
 So why am I no longer using the Kinesis? For a breakdown of the flaws of the keyboard read my post on the [Ultimate Developer Keyboard](http://blog.markpearl.co.za/Ultimate-Developer-Keyboard).
 
