@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frustrations in learning something new...
-tags: Meta
+tags: Change
 category: General
 ---
 Over the last three weeks it appears that I have developed either ['carpal tunnel syndrome'](http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome) or somthing similar. It began with occaisonal numbness in one or two of my fingers on my right hand and has rapidly progressed to be almost constant across both my hands. It is frustrating, painful and has resulted in me having to re-look at the physical layout of my workspace. 
