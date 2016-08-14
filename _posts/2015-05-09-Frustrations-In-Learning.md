@@ -67,7 +67,7 @@ Now, I cannot imagine a world where I don't have a keyboard like this. It has be
 
 #### Speak to people who are on the same journey  
 
-I spoke to several developers who had the same issues as mine before I attempted changing keyboards. I also watched several youtube reviews from developers on various keyboards. Their feedback gave me hope. They had been down the same road that I was going through, had similar challenges and had succeeded. I could relate with them and respected their insights. Speak to people you relate to and trust - they can give you hope. For software companies that are trying to change, I feel a practice like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) is very important.
+I spoke to several developers who had the same issues as mine before I attempted changing keyboards. I also watched several youtube reviews from developers on various keyboards. Their feedback gave me hope. They had been down the same road that I was going through, had similar challenges and had succeeded. It is important that you relate to and trust the people you speak to. For software companies that are trying to change, I feel a practice like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) is very important. Try it!  
 
 #### You gain deep insights from doing
 
