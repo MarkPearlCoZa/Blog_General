@@ -11,17 +11,18 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 
 #### One is Testing the Teddies 
 
-Each teddy gets a persona - attached. 
-You need to have real teddies 
-
-
-<a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>
+- Each teddy gets a persona - <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>  
+- You need to have real teddies 
 
 #### Beer testing  
 
-You need to use real beer  
+- You need to use real beer  
+
+<a href="{{ site.url }}/assets/documents/Beer-Testing.pptx">Beer-Testing Slides</a>  
 
 ### Exploratory Testing  
+
+<a href="{{ site.url }}/assets/documents/exploratory-testing-with-playing-cards.pdf">Exploratory testing exercise with playing cards</a>  
 
 [RestMud - Text Adventure Games for Testers](http://compendiumdev.co.uk/)  
 
