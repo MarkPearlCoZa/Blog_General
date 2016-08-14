@@ -30,6 +30,8 @@ It's now almost a week since I have had the keyboard. I'm still not comfortable 
 - Having a high price tag to something and making it hard to exit early can help people move past the J curve.  
 - Experts learning something new may get more frustrated at a change than novices - even if in the long run the change is beneficial.  
 
+--------------------------------------------------------------
+
 #### Update - One Year Later  
 
 It has been over a year since I made the move from my Steel Series to the Kinesis Advantage Pro. 
