@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eskom, Deffered Maintenance and your Technical Debt Negotiations
-tags: Design
+tags: Quality
 category: General
 ---
 ### Deffered Maintenace ###
