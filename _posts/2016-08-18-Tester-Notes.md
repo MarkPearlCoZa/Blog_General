@@ -19,11 +19,15 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 - You need to use real beer  
 - <a href="{{ site.url }}/assets/documents/Beer-Testing.pptx">Beer-Testing Slides</a>  
 
+--------------------------------------------------------------------------------------------
+
 ### Exploratory Testing  
 
 - <a href="{{ site.url }}/assets/documents/exploratory-testing-with-playing-cards.pdf">Exploratory testing exercise with playing cards</a>  
 - [RestMud - Text Adventure Games for Testers](http://compendiumdev.co.uk/)  
 - General testing things like coffee machines, projectors, air conditioners, etc to get people in a different headspace
+
+--------------------------------------------------------------------------------------------
 
 ### Testing for Non-Testers   
 
