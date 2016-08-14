@@ -11,7 +11,7 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 
 #### Testing the Teddies 
 
-- Each teddy gets a persona - <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>  
+- <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>  
 - You need to have real teddies 
 
 #### Beer Testing  
