@@ -11,13 +11,13 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 
 #### Testing the Teddies 
 
-- <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>  
+- <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Personas</a>  
 - You need to have real teddies 
 
 #### Beer Testing  
 
-- You need to use real beer  
 - <a href="{{ site.url }}/assets/documents/Beer-Testing.pptx">Beer-Testing Slides</a>  
+- You need to use real beer  
 
 --------------------------------------------------------------------------------------------
 
