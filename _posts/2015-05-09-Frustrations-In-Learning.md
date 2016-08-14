@@ -79,4 +79,4 @@ I would never have made the transition had I not had numbness in my hands. It wa
 
 #### What you think is the end is often just a stepping stone
 
-When initially having the issues with my hands I thought the Kinesis would be where I would end up. It wasn't, it was a stepping stone. When we look at problems, we often see a solution and then fixate on that. Once having adopted a solution for an appropriate period of time, it is important that we don't get stuck and can move forward.
+When initially having the issues with my hands I thought the Kinesis would be where I would end up. It wasn't, it was a stepping stone. When we look at problems, we often see a solution and then fixate on that. Once having adopted a solution for an appropriate period of time it is important that we don't get stuck and can move forward.
