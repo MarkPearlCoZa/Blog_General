@@ -5,16 +5,16 @@ tags:
 category: Misc
 ---
 
-### Exercises that you could use to illustrate thinking about quality
+### Thinking about quality
 
 Thinking about context, oracles and heuristics and the heuristic test strategy model. 
 
-#### One is Testing the Teddies 
+#### Testing the Teddies 
 
 - Each teddy gets a persona - <a href="{{ site.url }}/assets/documents/Teddy-Tests.zip">Teddy Tests Personas</a>  
 - You need to have real teddies 
 
-#### Beer testing  
+#### Beer Testing  
 
 - You need to use real beer  
 
