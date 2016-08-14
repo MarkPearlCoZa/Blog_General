@@ -9,7 +9,44 @@ category: Misc
 1) Subject string (the text beig parsed)  
 2) Regex (group of characters that represent rules for matching / searching text)  
 
-### Operators ###
+### Elements of good regex 
+
+- Whenever Possible, Anchor.  
+- When You Know what You Want, Say It. When You Know what You Don't Want, Say It Too!  
+- Contrast is Beautiful—Use It.  
+- Want to Be Lazy? Think Twice.  
+- A Time for Greed, a Time for Laziness.  
+- On the Edges: Really Need Boundaries or Delimiters? Use Them—or Make Your Own!   
+- Don't Give Up what You Can Possess.  
+- Don't Match what Splits Easily, and Don't Split what Matches Nicely.  
+- Design to Fail.  
+- Trust the Dot-Star to Get You to the End of the Line  
+
+### Lookaround Expressions 
+
+Lookarounds often cause confusion. I believe this confusion promptly disappears if one simple point is firmly grasped. It is that at the end of a lookahead or a lookbehind, the regex engine hasn't moved on the string. You can chain three more lookaheads after the first, and the regex engine still won't move. In fact, that's a useful technique. 
+
+For a detailed walkthough
+
+#### ?: Match Everything Inclosed Expression ####
+
+?: is used to define a sub expression that is not used for the back reference. 
+
+This construct is similar to (...), but won't create a capture group.
+
+Match everything enclosed.
+
+#### ?= Positive lookahead Expression ####
+
+Starting at the current position in the expression, ensures that the given pattern will match. 
+Does not consume characters.
+
+#### ?! Negative lookahead Expression ####
+
+Starting at the current position in the expression, ensures that the given pattern will not match. 
+Does not consume characters.
+
+### Operators 
 
 #### Or Operator ####
 
@@ -243,3 +280,7 @@ Match any word that isn't rock
 
 [Learn RegEx the Hard Way](http://regex.learncodethehardway.org/book/)  
 [Regular Expression for Javascript](http://eloquentjavascript.net/09_regexp.html)  
+
+### References ###
+
+[Elements of good regex design](http://www.rexegg.com/regex-style.html)  
