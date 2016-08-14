@@ -9,28 +9,6 @@ category: Misc
 1) Subject string (the text beig parsed)  
 2) Regex (group of characters that represent rules for matching / searching text)  
 
-### Check if the first occurance is followed by a pattern ###
-
-For example: check if first occurance of x is followed by 2 x`s
-
-~~~
-^[^x]*xxx
-~~~
-
-#### Matching Any and No Characters ####
-
-This is a bit of a hack because of special characters...   
-
-[\S\s] == any character
-
-#### Negatice Matching ####
-
-Match any word that isn't rock
-
-~~~
-\b(?!rock\b)\S+
-~~~
-
 ### Operators ###
 
 #### Or Operator ####
@@ -62,7 +40,7 @@ The above matches on ar, arr, arrr, arrr... etc.
 ### Anchors ###
 
 $ End of line  
-^ Start of Line
+^ Start of Line  
 \b Word boundary (useful for matching whole words only)   
 
 ### Character Sets ###
@@ -228,6 +206,27 @@ word.replace(/[bcd]/ig, "$&egg")
 [] Ranges  
 {} Multipliers  
 
+### Check if the first occurance is followed by a pattern ###
+
+For example: check if first occurance of x is followed by 2 x`s
+
+~~~
+^[^x]*xxx
+~~~
+
+#### Matching Any and No Characters ####
+
+This is a bit of a hack because of special characters...   
+
+[\S\s] == any character
+
+#### Negative Matching ####
+
+Match any word that isn't rock
+
+~~~
+\b(?!rock\b)\S+
+~~~
 
 ### Tools ###
 
