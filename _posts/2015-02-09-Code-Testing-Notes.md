@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Testing Notes
-tags: Design
+tags: Code
 category: Misc
 ---
 
