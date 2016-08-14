@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recursion
-tags: Recursion
+tags: Design
 category: Programming
 ---
 
