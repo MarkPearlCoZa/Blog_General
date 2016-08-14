@@ -73,7 +73,7 @@ In my instance I would be a very frustrated person going back to my original key
 
 #### Get your trial period to be the right length
 
-I'm a proponent of short experiments with quick feedback. I fear I would have given up too quickly on the Kinesis if I had just done a short experiment?
+I'm a proponent of short experiments with quick feedback. I fear I would have given up too quickly on the Kinesis if I had just done a short experiment! I needed an appropriate length experiment!  
 
 #### Being in a tough place can cause big breakthroughs  
 
