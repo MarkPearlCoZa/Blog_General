@@ -61,7 +61,11 @@ Looking back at the whole journey I'm really grateful I had the experience. It h
 
 #### Change can be painful, make sure you are committed
 
-Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. Being fully committed to change something is important - if you don't have something to loose you are not going to change.  
+Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out for the keyboard I would have given up. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. Being fully committed to change something is important - if you don't have something to loose you are not going to change.  
+
+#### Speak to people who are on the same journey  
+
+I spoke to several developers who had the same issues as me before I attempted changing keyboards. Their feedback gave me hope. They had been down the same road and succeeded, I could relate with themand respected their insights. This is why I feel things like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) are so important - they give you hope you could not get on your own.  
 
 #### You gain deep insights from doing
 
