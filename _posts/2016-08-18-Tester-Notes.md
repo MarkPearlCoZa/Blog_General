@@ -13,6 +13,8 @@ Ultimately, it is intended to be customized and used to facilitate dialog and di
 
 See detailed description of the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
 
+--------------------------------------------------------------------------------------------
+
 ### Thinking about Quality
 
 Thinking about context, oracles and the heuristic test strategy model.  
