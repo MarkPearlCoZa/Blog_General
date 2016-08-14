@@ -22,9 +22,8 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 ### Exploratory Testing  
 
 - <a href="{{ site.url }}/assets/documents/exploratory-testing-with-playing-cards.pdf">Exploratory testing exercise with playing cards</a>  
-- General testing things like coffee machines, projectors, air conditioners, etc to get people in a different headspace
 - [RestMud - Text Adventure Games for Testers](http://compendiumdev.co.uk/)  
-
+- General testing things like coffee machines, projectors, air conditioners, etc to get people in a different headspace
 
 ### Testing for Non-Testers   
 
