@@ -12,7 +12,8 @@ category: Misc
 ### Elements of good regex 
 
 - Whenever Possible, Anchor.  
-- When You Know what You Want, Say It. When You Know what You Don't Want, Say It Too!  
+- When You Know what You Want, Say It.  
+- When You Know what You Don't Want, Say It Too!  
 - Contrast is Beautiful—Use It.  
 - Want to Be Lazy? Think Twice.  
 - A Time for Greed, a Time for Laziness.  
