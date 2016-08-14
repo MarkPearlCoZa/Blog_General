@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Testing Notes
-tags: Testing
-category: Soft
+title: Code Testing Notes
+tags: Design
+category: Misc
 ---
 
 #### Shims ####
