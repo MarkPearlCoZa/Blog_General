@@ -15,7 +15,7 @@ See detailed description of the <a href="{{ site.url }}/assets/documents/heurist
 
 ### Thinking about Quality
 
-Thinking about context, oracles and heuristics and the heuristic test strategy model.  
+Thinking about context, oracles and the heuristic test strategy model.  
 
 #### Testing the Teddies 
 
