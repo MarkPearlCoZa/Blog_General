@@ -17,8 +17,7 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 #### Beer Testing  
 
 - You need to use real beer  
-
-<a href="{{ site.url }}/assets/documents/Beer-Testing.pptx">Beer-Testing Slides</a>  
+- <a href="{{ site.url }}/assets/documents/Beer-Testing.pptx">Beer-Testing Slides</a>  
 
 ### Exploratory Testing  
 
