@@ -47,7 +47,24 @@ So why am I no longer using the Kinesis? Don't get me wrong, the Kinesis was a s
 
 No, not at all. The ErgoDox & the Kinesis are very similar. In fact, it only took me about a week to transition from the Kinesis to the ErgoDox because they shared many like concepts:
 
-- Both fully re-programable  
+- Both fully re-programmable  
 - Both have split layout  
 - Both move frequent keys from pinkies to thumbs  
 
+Looking back at the whole journey I'm really grateful I had the experience. It has also given me a new found appreciation for change. 
+
+#### Change can be painful  
+
+Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have.
+
+#### Get your trial period to be the right length
+
+I'm a proponent of short experiments with quick feedback. I fear I would have given up too quickly on the Kinesis if I had just done a short experiment?
+
+#### Being in a tough place can cause big breakthroughs  
+
+I would never have made the transition had I not had numbness in my hands. It was a potentially career ending situation which forced me to look at something radical. Being in a tough place can cause big breakthroughs. I see companies that are also at places where if they don't adapt they become irrelevant. This can be a strong driver for change.
+
+#### The end is often just a check point on the journey
+
+When initially having the issues with my hands I thought the Kinesis would be where I would end up. It wasn't, it was a stepping stone. When we look at problems, we often see a solution and then fixate on that. Once having adopted a solution for an appropriate period of time, it is important that we don't get stuck and can move forward.
