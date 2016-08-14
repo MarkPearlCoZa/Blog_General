@@ -8,7 +8,13 @@ Over the last three weeks it appears that I have developed either ['carpal tunne
 
 One of the things I have had to look at changing was my keyboard. Up till a week ago I had a [Steel Series Mechanical Keyboard](http://steelseries.com/products/keyboards/steelseries-6gv2). My Steel Series keyboard had served me well - when I started with it I was typing at a rate of about 40 wpm - over time I had improved to 80 wpm. When the numbness started I decided to move from a standard keyboard layout to an ergonomic keyboard. 
 
-Deciding on which ergonomic keyboard to get was tough. There are a lot of choices. After much research and consultation I eventually settled on the [Kinesis Advantage Pro](https://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/). It met my 3 main criteria (I wanted something fully hardware re-programable, it needed a split key layout - I liked the idea of moving most of the special function keys to my thumbs instead of my pinkies - and I had to be able get it now!). Before placing an order for my new keyboard I read and watched several reviews on it. What eventually swayed me was feedback from a developer who had purchased and tested several keyboards - in particular I liked the fact that he was doing similar work to myself and had probably faced the same challenges. So I took the plunge and placed an order on Amazon. It was exciting.
+Deciding on which ergonomic keyboard to get was tough. There are a lot of choices. After much research and consultation I eventually settled on the [Kinesis Advantage Pro](https://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/). It met my 3 main criteria: 
+
+1) I wanted something fully hardware re-programable  
+2) It needed a split key layout - I liked the idea of moving most of the special function keys to my thumbs instead of my pinkies 
+3) I had to be able get it now!  
+
+Before placing an order for my new keyboard I read and watched several reviews on it. What eventually swayed me was feedback from a developer who had purchased and tested several keyboards - in particular I liked the fact that he was doing similar work to myself and had probably faced the same challenges. So I took the plunge and placed an order on Amazon. It was exciting.
 
 Then the keyboard arrived. My whole world was turned upside down. The first day was about as frustrating a day as I have ever had. I moved from being a competent above average typist to someone who couldn't even type my name. It was demoralizing. Many times that day I questioned whether I made the right decision (the keyboard was not cheap). Having read numerous positive reviews before I bought the keyboard I decided to soldier on...
 
