@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tester Resource Notes
+title: Tester Notes
 tags: 
 category: Misc
 ---
