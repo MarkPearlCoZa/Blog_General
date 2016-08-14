@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tester Notes
-tags: 
+tags: Quality
 category: Misc
 ---
 
