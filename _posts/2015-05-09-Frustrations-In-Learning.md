@@ -59,9 +59,9 @@ Looking back at the whole journey I'm really grateful I had the experience. It h
 
 ### Long term learning outcomes on change
 
-#### Change can be painful but worth it 
+#### Change can be painful, make sure you are committed
 
-Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. 
+Change can be extremely painful. Some days I really wanted to give up. Had it not been for the "money" I forked out and the feedback from other people who had been down the road I would have. Now I could never imagine a world where I would not have a keyboard like I do. It has been totally worth it. Being fully committed to change something is important - if you don't have something to loose you are not going to change.  
 
 #### You gain deep insights from doing
 
