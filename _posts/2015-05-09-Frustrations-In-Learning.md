@@ -32,7 +32,7 @@ It's now almost a week since I have had the keyboard. I'm still not comfortable 
 
 --------------------------------------------------------------
 
-#### Update - One Year Later  
+#### *Update - One Year Later  
 
 It has been over a year since I made the move from my Steel Series to the Kinesis Advantage Pro. 
 
