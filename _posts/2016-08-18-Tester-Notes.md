@@ -5,15 +5,17 @@ tags:
 category: Misc
 ---
 
-### Thinking about Quality
-
-Thinking about context, oracles and heuristics and the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
+### Heuristic Test Strategy Model  
 
 The Heuristic Test Strategy Model is a set of patterns for designing a test strategy.  
 The immediate purpose of this model is to remind testers of what to think about when they are creating tests. 
 Ultimately, it is intended to be customized and used to facilitate dialog and direct self-learning among professional testers. 
 
-- see detailed description of the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
+See detailed description of the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
+
+### Thinking about Quality
+
+Thinking about context, oracles and heuristics and the heuristic test strategy model.  
 
 #### Testing the Teddies 
 
