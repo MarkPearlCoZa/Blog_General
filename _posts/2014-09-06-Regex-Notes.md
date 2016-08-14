@@ -2,7 +2,7 @@
 layout: post
 title: Regex Notes
 tags: Languages
-category: Programming
+category: Misc
 ---
 ### Two parts of a regex ###
 
