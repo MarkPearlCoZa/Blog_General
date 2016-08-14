@@ -5,7 +5,7 @@ tags:
 category: Misc
 ---
 
-### Thinking about quality
+### Thinking about Quality
 
 Thinking about context, oracles and heuristics and the heuristic test strategy model. 
 
