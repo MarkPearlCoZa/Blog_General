@@ -65,7 +65,7 @@ Change can be extremely painful. Some days I really wanted to give up. Had it no
 
 #### Speak to people who are on the same journey  
 
-I spoke to several developers who had the same issues as mine before I attempted changing keyboards. I also watched several youtube reviews from developers on various keyboards. Their feedback gave me hope. They had been down the same road and succeeded, I could relate with themand respected their insights. This is why I feel things like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) are so important - they give you hope you could not get on your own.  
+I spoke to several developers who had the same issues as mine before I attempted changing keyboards. I also watched several youtube reviews from developers on various keyboards. Their feedback gave me hope. They had been down the same road that I was going through, had similar challenges and had succeeded. I could relate with them and respected their insights. Speak to people you relate to and trust - they can give you hope. For software companies that are trying to change, I feel a practice like [Team Tourism](http://blog.markpearl.co.za/Team-Tourism) is very important.
 
 #### You gain deep insights from doing
 
