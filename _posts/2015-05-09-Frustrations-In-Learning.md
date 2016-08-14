@@ -36,7 +36,10 @@ It's now almost a week since I have had the keyboard. I'm still not comfortable 
 
 It has been over a year since I made the move from my Steel Series to the Kinesis Advantage Pro. 
 
-It took me about 2 months after transitioning to the Kinesis to feel comfortable. I had many dark days, and then one day it all just clicked. Making the transition was hard, but it was totally worth it. The numbness in my hands has gone away. I've also not only reached the same typing speed I had previously, but gotten even faster - on a good day I can be in the 90 wpm bracket which I would have never imagined. 
+It took me about 2 months after transitioning to the Kinesis to feel comfortable. I had many dark days, and then one day it all just clicked. Making the transition was hard, but it was totally worth it. 
+
+- The numbness in my hands has gone away. 
+- I've also not only reached the same typing speed I had previously, but gotten even faster.  
 
 Ironically I'm no longer using the Kinesis but I'm also no longer using my Steel Series keyboard - I've found something better - I'm using an ErgoDox!  
 
