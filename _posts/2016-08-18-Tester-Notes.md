@@ -33,6 +33,7 @@ Thinking about context, oracles and heuristics and the heuristic test strategy m
 
 [Testing for Non-Testers Pathway](http://katrinatester.blogspot.co.nz/2015/11/testing-for-non-testers-pathway.html)  
 
+--------------------------------------------------------------------------------------------
 
 ### Useful Sites for Tester Exercises
 
