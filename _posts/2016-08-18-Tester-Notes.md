@@ -15,7 +15,7 @@ Each teddy gets a persona - attached.
 You need to have real teddies 
 
 
-<a href="{{ site.url }}/assets/files/documents/Teddy-Tests.zip">Teddy Tests</a>
+<a href="{{ site.url }}/assets/files/documents/Teddy-Tests.zip">Teddy Tests Personas</a>
 
 #### Beer testing  
 
@@ -30,7 +30,7 @@ You need to use real beer
 [Testing for Non-Testers Pathway](http://katrinatester.blogspot.co.nz/2015/11/testing-for-non-testers-pathway.html)  
 
 
-#### Useful Sites for Tester Exercises
+### Useful Sites for Tester Exercises
 
 [Weekend Testing](http://weekendtesting.com/)  
 [Testing Challenges](http://testing-challenges.org/)  
