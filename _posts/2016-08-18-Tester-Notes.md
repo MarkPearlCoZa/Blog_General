@@ -7,7 +7,7 @@ category: Misc
 
 ### Thinking about Quality
 
-Thinking about context, oracles and heuristics and the heuristic test strategy model. 
+Thinking about context, oracles and heuristics and the <a href="{{ site.url }}/assets/documents/heuristic-test-strategy-model.pdf">heuristic test strategy model</a>.  
 
 #### Testing the Teddies 
 
