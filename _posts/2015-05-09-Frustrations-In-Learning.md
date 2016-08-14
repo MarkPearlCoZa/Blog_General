@@ -41,7 +41,7 @@ It has been over a year since I made the move from my Steel Series to the Kinesi
 
 **Ironically I'm no longer using the Kinesis but I'm also no longer using my Steel Series keyboard - I've found something better - I'm using an ErgoDox!**  
 
-So why am I no longer using the Kinesis? For a breakdown of the flaws of the keyboard read my post on the [Ultimate Developer Keyboard](http://blog.markpearl.co.za/Ultimate-Developer-Keyboard).
+So why am I no longer using the Kinesis? Don't get me wrong, the Kinesis was a step forward from the Steel Series however there were a few itches it didn't scratch. For why I moved to the ErgoDox and a run down of both keyboards read my post on the [Ultimate Developer Keyboard](http://blog.markpearl.co.za/Ultimate-Developer-Keyboard).
 
 #### Was the transition from the Steel Series to the Kinesis a waste?
 
