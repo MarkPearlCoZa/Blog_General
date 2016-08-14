@@ -12,7 +12,7 @@ Deciding on which ergonomic keyboard to get was tough. There are a lot of choice
 
 It met my 3 main criteria: 
 1) I wanted something fully hardware re-programable  
-2) It needed a split key layout 
+2) It needed a split key layout   
 3) I had to be able get it now!  
 
 Before placing an order for my new keyboard I read and watched several reviews on it. What eventually swayed me was feedback from a developer who had purchased and tested several keyboards - in particular I liked the fact that he was doing similar work to myself and had probably faced the same challenges. So I took the plunge and placed an order on Amazon. It was exciting.
