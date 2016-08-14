@@ -23,7 +23,7 @@ Day two wasn't much better. I could now type my name in, but it took a really re
 
 It's now almost a week since I have had the keyboard. I'm still not comfortable with the new layout, but I am making headway. I've used [TypingMaster](http://www.typingmaster.com/) to help get me up to speed with the normal keys - I still have the special keys to conquer. While the numbness in my hands has not gone away, it doesn't feel like it is getting worse. Looking back at this week it has given me a new found appreciation for people who are good at what they do, who then have to learn a new a new way. For instance, my heart goes out to those people who did good work using waterfall methodologies who then have agile methodologies pushed on them. I can appreciate how frustrating it could be - even though in the long run it might be the right thing to do. 
 
-#### Learning Outcomes 
+### Learning Outcomes 
 
 - When going through difficult change, having people who you respect who have been there and can testify to the benefits helps.  
 - Understanding at a principle level first why the change is beneficial can help you stay the course.  
@@ -32,7 +32,7 @@ It's now almost a week since I have had the keyboard. I'm still not comfortable 
 
 --------------------------------------------------------------
 
-#### *Update - One Year Later!  
+### *Update - One Year Later!  
 
 It has been over a year since I made the move from my Steel Series to the Kinesis Advantage Pro. It took me about 2 months after transitioning to the Kinesis to feel comfortable. I had many dark days, and then one day it all just clicked. Making the transition was hard, but it was totally worth it:  
 
@@ -43,7 +43,7 @@ It has been over a year since I made the move from my Steel Series to the Kinesi
 
 So why am I no longer using the Kinesis? For a breakdown of the flaws of the keyboard read my post on the [Ultimate Developer Keyboard](http://blog.markpearl.co.za/Ultimate-Developer-Keyboard).
 
-Does this mean the transition to the Kinesis was a waste?
+#### Was the transition from the Steel Series to the Kinesis a waste?
 
 No, not at all. The ErgoDox & the Kinesis are very similar. In fact, it only took me about a week to transition from the Kinesis to the ErgoDox because they shared many like concepts:
 
