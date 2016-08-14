@@ -6,7 +6,7 @@ category: General
 ---
 Over the last three weeks it appears that I have developed either ['carpal tunnel syndrome'](http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome) or somthing similar. It began with occaisonal numbness in one or two of my fingers on my right hand and has rapidly progressed to be almost constant across both my hands. It is frustrating, painful and has resulted in me having to re-look at the physical layout of my workspace. 
 
-One of the things I have had to look at changing was my keyboard. Up till a week ago I had a [Steel Series Mechanical Keyboard](http://steelseries.com/products/keyboards/steelseries-6gv2). My Steel Series keyboard had served me well - when I started with it I was typing at a rate of about 40 wpm - over time I had improved to 80 wpm. When the numbness started I decided to move from a standard keyboard layout to an ergonomic keyboard. 
+One of the things I have had to look at changing was my keyboard. Up till a week ago I had a [Steel Series Mechanical Keyboard](http://steelseries.com/products/keyboards/steelseries-6gv2). My Steel Series keyboard has served me well - when I started with it I was typing at a rate of about 40 wpm - over time I had improved to 80 wpm. I'm a real fan of the Steel Series keyboard. Unfortunately when the numbness started I decided to move from a standard keyboard layout to an ergonomic keyboard - my Steel Series keyboard just won't do.  
 
 Deciding on which ergonomic keyboard to get was tough. There are a lot of choices. After much research and consultation I eventually settled on the [Kinesis Advantage Pro](https://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/). It met my 3 main criteria: 
 
