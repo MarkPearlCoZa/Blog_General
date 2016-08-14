@@ -9,7 +9,7 @@ category: Misc
 1) Subject string (the text beig parsed)  
 2) Regex (group of characters that represent rules for matching / searching text)  
 
-### Elements of good RegEx 
+### Elements of good RegEx Design
 
 - Whenever Possible, Anchor.  
 - When You Know what You Want, Say It.  
