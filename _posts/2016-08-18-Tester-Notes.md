@@ -15,7 +15,7 @@ Each teddy gets a persona - attached.
 You need to have real teddies 
 
 
-<a href="{{ site.url }}/assets/files/Teddy-Tests.zip">Teddy Tests</a>
+<a href="{{ site.url }}/assets/files/documents/Teddy-Tests.zip">Teddy Tests</a>
 
 #### Beer testing  
 
