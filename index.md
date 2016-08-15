@@ -52,6 +52,15 @@ tagline: my thoughts and comments
 		  {% endfor %}
 		</ul>
 	</div>
+	<div class="tab-pane" id="books">
+		<ul>
+		  {% for post in site.posts %}
+			{% if post.category == 'Book' %}
+			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		  {% endfor %}
+		</ul>
+	</div>
 	<div class="tab-pane" id="misc">
 		<ul>
 		  {% for post in site.posts %}
