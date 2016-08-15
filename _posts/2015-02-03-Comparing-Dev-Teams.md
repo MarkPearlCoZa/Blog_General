@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing Developer Teams
-tags: Comparing
+tags: Teams
 category: Soft
 ---
 Team tourism is a process of visiting a team to "make" notes.
