@@ -2,8 +2,8 @@
 layout: post
 title: "The Dance of Intimacy, H Lerner"
 description: "A Women's Guide to Courageous Acts of Change in Key Relationships"
-category: Psychology
-tags: [Read, Borrow]
+category: Media
+tags: [Read, Borrow, Book]
 ---
 Having read and enjoyed a few 'self help' books like [A Road Less Travelled](http://www.amazon.com/Road-Less-Traveled-Timeless-Traditional/dp/0743243153) and [Steve Biddulphs book Manhood](http://www.amazon.com/Manhood-Steve-Biddulph/dp/0091894816) - My Mother-in-Law lent me this book to read. Being a man, I guess I am not the 'targeted' audience and I found it a fairly long read. That said, it was a useful read that had a few gems in it.
 
