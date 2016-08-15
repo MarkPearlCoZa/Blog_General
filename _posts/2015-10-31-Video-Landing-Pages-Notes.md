@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Landing Pages Notes
-tags: Video
+tags: Media
 category: Tech
 ---
 

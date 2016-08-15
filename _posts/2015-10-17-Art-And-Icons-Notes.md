@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Art & Icon Notes
-tags: Slides
+tags: Media
 category: Tech
 ---
 
