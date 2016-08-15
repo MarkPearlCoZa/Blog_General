@@ -53,7 +53,7 @@ tagline: my thoughts and comments
 		  {% endfor %}
 		</ul>
 	</div>
-	<div class="tab-pane" id="books">
+	<div class="tab-pane" id="media">
 		<ul>
 		  {% for post in site.posts %}
 			{% if post.category == 'Media' %}
