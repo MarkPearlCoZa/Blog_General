@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ninject Notes
-tags: IOC
+tags: 
 category: Tech
 ---
 
