@@ -2,8 +2,8 @@
 layout: post
 title: "The Software Craftsman, Prentice Hall"
 description: "Professionalism, Pragmatism, Pride"
-category: Requirements
-tags: [Buy, Read]
+category: Media
+tags: [Book]
 ---
 There have been a few books in my professional career that have had a major impact on my work and the way I see this world. They include [Clean Code](http://bookreviews.markpearl.co.za/Clean-Code/), [The Pragmatic Programmer](http://bookreviews.markpearl.co.za/The-Pragmatic-Programmer/) and a few others. I'm pleased to add "The Software Craftsman" to that category.
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Asp.Net MVC 4 in Action, Manning"
 description: "Asp.Net MVC 4 in Action"
-category: MVC
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 
 Don't trust the other poor reviews on this book. This is a great book for a particular type of reader. 

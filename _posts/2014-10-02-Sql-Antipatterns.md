@@ -3,7 +3,7 @@ layout: post
 title: "SQL Antipatterns by Bill Karwin, The Pragmatic Bookshelf"
 description: "SQL Antipatterns - Avoiding the Pitfalls of Database Programming"
 category: Media
-tags: [Read, Buy, Design, Book]
+tags: [Book]
 ---
 I have worked with relational databases for a number of years, but have never bothered to really 'get' in to relational databases best practices. This year I decided it was the year I would put some effort in.
 

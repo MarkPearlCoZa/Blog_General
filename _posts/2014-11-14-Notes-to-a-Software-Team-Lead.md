@@ -2,8 +2,8 @@
 layout: post
 title: "Notes to a Software Team Lead by Roy Osherove, Team Agile Publishing"
 description: "Growing Self Organizing Teams"
-category: Design
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 I was initially skeptical about the book - I was a fan of Roy's Art of Unit Testing book, but wasn't sure if his writing would translate to soft skills space. I was pleasantly surprised. I really enjoyed it! 
 

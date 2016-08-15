@@ -2,8 +2,8 @@
 layout: post
 title: "The Cathedral and the Bazaar by Eric Raymond"
 description: "Musings on Linux and Open Source by an Accidental Revolutionary"
-category: Design
-tags: [Read, Free]
+category: Media
+tags: [Book]
 ---
 I don't originate from an open source world. The concept of open source software is foreign although it is becoming more and more appealing with time. 
 

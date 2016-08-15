@@ -2,8 +2,8 @@
 layout: post
 title: "The Art of UNIX Programming by S. Raymond, Addison-Wesley"
 description: "The Art of UNIX Programming"
-category: Programming
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 The Art of UNIX Programming is another one for the bookshelf. It is jam-packed with insights into the philosophy, mindset and approach a Unix developer has when tackling software design the Unix way. While I have been involved with software development for a number of years, nearly all the systems I have worked on have been focussed towards the Microsoft stack. After finishing this book I now appreciate how the "other" side thinks - and I wished I had known about their philosophies and mindset years ago. Many of the things I have only recently learned to embrace in the Microsoft world appear to have been common practice in the Unix world for decades.
 

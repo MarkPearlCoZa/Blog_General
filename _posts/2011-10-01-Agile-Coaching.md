@@ -2,8 +2,8 @@
 layout: post
 title: "Agile Coaching by Davies and Sedley, Pragmatic Bookshelf"
 description: "Agile Coaching"
-category: Programmer
-tags: [Agile, Read]
+category: Media
+tags: [Book]
 ---
 When I initially got this book I thought I had wasted my money and put it on my bookshelf. Then after a few weeks I decided to give it a read. If you are starting out as an agile coach this book is a must read! I could related to nearly everything they had to say. The book is an easy read, it isn't to long but covers a lot of topics at a high level with practical advice. Thank you ladies!
 

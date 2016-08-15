@@ -2,8 +2,8 @@
 layout: post
 title: "Creating Great Teams, The Pragmatic Bookshelf"
 description: "How Self-Selection Lets People Excel"
-category: Teams
-tags: [Buy, Read]
+category: Media
+tags: [Book, Teams]
 ---
 
 Creating great teams is one of those books that before reading you expect to learn one thing, and then while and after reading the book it actually handles something different. 

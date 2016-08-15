@@ -2,8 +2,8 @@
 layout: post
 title: "The Software Paradox - Stephen O'Grady"
 description: "The Rise and Fall of the Commercial Software Market"
-category: Sales
-tags: [Read]
+category: Media
+tags: [Book]
 ---
 I found this article extremely useful. It gives the histroy on pricing software and why old models are no longer working.
 

@@ -2,8 +2,8 @@
 layout: post
 title: "The Pragmatic Programmer by Hunt and Thomas, Addison-Wesley"
 description: "The Pragmatic Programmer - From Journeyman to Master"
-category: Programmer
-tags: [Read, Buy, Practices]
+category: Media
+tags: [Book]
 ---
 This is a great book with practical advice for programmers. I wished I had read it earlier... much earlier.
 

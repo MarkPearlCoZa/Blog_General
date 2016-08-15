@@ -2,8 +2,8 @@
 layout: post
 title: "Agile Software Architecture, Barbar, Brown and Mistrik "
 description: "Aligning Agile Processes and Software Architectures"
-category: Architecture
-tags: [Dont Read, Dont Buy]
+category: Media 
+tags: [Book]
 ---
 
 I have attempted to read this book several times. Each time I make it about 10 minutes in and then loose any will to live. From what I can tell, it is a collection of academic papers compiled as a book. I found the title to the book very misleading. I find the book itself lacks the inspiration I look for in technical books or the continuity in thought. All the chapters I have read so far seem to have a massive context switch. I worry that somewhere in this book is something that can radically change my life and view on software architecture - but alas - I have not found it yet and it isn't worth the effort.

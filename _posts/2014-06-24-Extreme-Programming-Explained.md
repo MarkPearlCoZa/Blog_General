@@ -2,8 +2,8 @@
 layout: post
 title: "Extreme Programming Explained: Embrace Change, Addison-Wesley"
 description: "Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series)"
-category: Management
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 I have read many software development books, but there are only a handful that had such an impact on my life that they fundamentally made me look at software development differently. Today I have to add Kent Beck's Extreme Programming Explained 2nd Edition to that elite group.
 

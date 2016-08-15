@@ -2,8 +2,8 @@
 layout: post
 title: "Practical Vim by Drew Neil, The Pragmatic Bookshelf"
 description: "Practical Vim - Edit Text at the Speed of Thought"
-category: Vim
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 Great book!
 

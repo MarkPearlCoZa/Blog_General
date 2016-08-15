@@ -2,8 +2,8 @@
 layout: post
 title: "User Story Mapping by Jeff Patton, O'Reilly"
 description: "User Story Mapping - Building better products using Agile Software Design"
-category: Design
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 I've been involved in agile development for a few years but was only recently
 introduced to the process of story mapping - after reading Jeff's book I'm feeling more and more like story mapping has been a big missing link.

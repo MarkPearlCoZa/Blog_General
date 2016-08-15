@@ -2,8 +2,8 @@
 layout: post
 title: "Clean Code by Robert Martin, Prentice Hall"
 description: "A Handbook of Agile Software Craftsmanship"
-category: Programming
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 If Code Complete is the textbook of software construction, then Clean Code is the poetry of it. This book had a number of concepts that struck true to me - self documenting code, structure, design - it is all there in Clean Code.
 

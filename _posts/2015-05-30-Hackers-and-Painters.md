@@ -2,8 +2,8 @@
 layout: post
 title: "Hackers and Painters, P Graham - O'Reilly Media"
 description: "Big Ideas from the Computer Age"
-category: Computer Science
-tags: [Read]
+category: Media
+tags: [Book]
 ---
 After reading Hackers and Painters I can honestly say it wasn't what I was expecting. While I didn't find every page of the book riveting, I still found value in reading it and would recommend it to others.
 

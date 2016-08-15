@@ -2,8 +2,8 @@
 layout: post
 title: "Managing Humans, Apress"
 description: "Biting and Humorous Tales of a Software Engineering Manager"
-category: Teams, Managment
-tags: [Buy, Read]
+category: Media
+tags: [Book, Teams]
 ---
 Managing Humans is the upgrade to ["Behind Closed Doors"](http://bookreviews.markpearl.co.za/Behind-Closed-Doors). It has some brilliant perspectives and concepts that I think would be relevant to anyone involved in the management aspects of software development. While I feel on the whole the book is brilliant, it also has a few rough edges that felt like they were a bad fit. In particular, I struggled to get value from two sections "A Nerd in a Cave" and "NADD" which were probably better off being left out. With that said, it is a wealth of knowledge written in an easy to congest format. This type of book you read once cover to cover, and then periodically come back to as a reference manual every few months.
 

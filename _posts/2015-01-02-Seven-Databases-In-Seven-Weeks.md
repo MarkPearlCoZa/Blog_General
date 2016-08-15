@@ -2,8 +2,8 @@
 layout: post
 title: "Seven Databases in Seven Weeks by Eric Redmond, The Pragmatic Bookshelf"
 description: "A Guide to Modern Databases and the NoSQL Movement"
-category: DB
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 I have been avoiding the NoSQL movement for years. Partly because I felt I didn't really understand SQL Db's yet and partly because NoSQL DB's seemed to live in the scary world of *nix's operating systems. Five months ago I decided I needed to change my attitude and get a proper understanding of NoSQL Db's. It was time to get my feet wet.
 

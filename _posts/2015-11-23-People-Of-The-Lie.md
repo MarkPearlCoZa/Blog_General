@@ -2,8 +2,8 @@
 layout: post
 title: "People of the Lie by M. Scott Peck, Simon and Schuster"
 description: "The hope for healing human evil"
-category: Psychology
-tags: [Read, Borrow]
+category: Media
+tags: [Book, People]
 ---
 
 People of the Lie is an interesting read. It tackles the concept of "Evil" or what consitutes evil in the eyes of the author. How the world of science has chosen to not recognize evil and how this has impacted psychotherapy.

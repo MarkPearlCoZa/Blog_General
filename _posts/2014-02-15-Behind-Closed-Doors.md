@@ -2,8 +2,8 @@
 layout: post
 title: "Behind Closed Doors by Rothman and Derby, The Pragmatic Bookshelf"
 description: "Behind Closed Boors - Secrets of Great Management"
-category: Management
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 Every once in a while when I start reading a new book I have this suspicion that it is going to suck, and then somehow during the process of reading it - it wins me over. This is how I felt about "Behind Closed Doors". 
 

@@ -2,8 +2,8 @@
 layout: post
 title: "JavaScript: The Good Parts by Douglas Crockford, OReilly"
 description: "Unearthing the Excellence in JavaScript"
-category: JavaScript
-tags: [Read, Buy]
+category: Media
+tags: [Book]
 ---
 I was initially surprised about how thin this book is, but then again, it is the good parts of JavaScript ;-)
 

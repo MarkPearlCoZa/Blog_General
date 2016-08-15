@@ -2,8 +2,8 @@
 layout: post
 title: "The Principles of Product Development Flow by Reinertsen, Celeritas"
 description: "The Principles of Product Development Flow"
-category: Product Development
-tags: [Read, Buy]
+category: Media
+tags: [Flow, Book]
 ---
 This book outlines at a principle level how one should tackle product development. I come from a Agile background and I found this book close a lot of loops for me. What I like about this book is that it elevates the discussion about product development to a higher level - the principle level. In addition, it gives concrete examples on why these principles work. 
 

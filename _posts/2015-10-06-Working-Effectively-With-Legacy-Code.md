@@ -2,8 +2,8 @@
 layout: post
 title: "Working Effectively with Legacy Code by Michael Feathers, Prentice Hall"
 description: ""
-category: Programming
-tags: [Read, Refactor, Design]
+category: Media
+tags: [Book]
 ---
 A must read.
 
