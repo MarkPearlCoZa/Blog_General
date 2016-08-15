@@ -10,6 +10,7 @@ tagline: my thoughts and comments
 <li><a href="#tech" data-toggle="tab">Tools & Technology</a></li>
 <li><a href="#soft" data-toggle="tab">Teams & People</a></li>
 <li><a href="#process" data-toggle="tab">Processes & Techniques</a></li>
+<li><a href="#media" data-toggle="tab">Media</a></li>
 <li><a href="#misc" data-toggle="tab">Misc</a></li>
 </ul>
 <div id="my-tab-content" class="tab-content">
@@ -55,7 +56,7 @@ tagline: my thoughts and comments
 	<div class="tab-pane" id="books">
 		<ul>
 		  {% for post in site.posts %}
-			{% if post.category == 'Book' %}
+			{% if post.category == 'Media' %}
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 			{% endif %}
 		  {% endfor %}
