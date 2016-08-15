@@ -84,3 +84,18 @@ const cheapestQuote = newspapers => {
 };
 ~~~
 
+#### Using Regex format numbers as follows
+
+addCommas("$123",regex) should return "$123"
+addCommas("$1234",regex) should return "$1,234"
+addCommas("$12345",regex) should return "$12,345"
+addCommas("$1234567",regex) should return "$1,234,567"
+addCommas("$123456789",regex) should return "$123,456,789"
+
+~~~
+var regex=/\d(?=(\d{3})+$)/g
+
+const addCommas = (money,reg) => {
+  return money.replace(reg,x=>x+",")  //like this
+}
+~~~
