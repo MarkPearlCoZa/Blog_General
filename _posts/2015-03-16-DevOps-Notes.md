@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DevOps Notes
-tags: DevOps
+tags: Automation
 category: Process
 ---
 
