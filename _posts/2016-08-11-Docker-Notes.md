@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker Notes
-tags: 
+tags: Automation
 category: Tech
 ---
 
