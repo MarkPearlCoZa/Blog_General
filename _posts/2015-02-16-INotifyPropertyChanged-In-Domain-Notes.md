@@ -1,7 +1,7 @@
 ---
 layout: post
 title: INotifyPropertyChanged in the Domain
-tags: Style
+tags: Code
 category: Programming
 ---
 #### The Post that triggered this response from Janco ####
