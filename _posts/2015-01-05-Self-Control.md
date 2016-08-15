@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Addiction Notes
-tags: Character
+tags: People
 category: Misc
 ---
 
