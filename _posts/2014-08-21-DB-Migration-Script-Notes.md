@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DB Migration Script Notes
-tags: Db
+tags: Automation
 category: Tech
 ---
 #### General Notes ####

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vagrant Notes
-tags: VMs
+tags: Automation
 category: Tech
 ---
 

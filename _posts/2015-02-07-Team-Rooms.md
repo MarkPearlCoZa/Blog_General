@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Rooms
-tags: Comparing
+tags: Teams
 category: Soft
 ---
 

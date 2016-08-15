@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TeamCity Notes
-tags: CI
+tags: Automation
 category: Tech
 ---
 #### Setting a TeamCity Build Number from Console ####

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Octopus Deploy  Notes
-tags: Deployment
+tags: Automation
 category: Tech
 ---
 

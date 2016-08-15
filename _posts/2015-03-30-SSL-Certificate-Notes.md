@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSL Certificate Notes
-tags: SSL
+tags: Web
 category: Tech
 ---
 #### Different types of classes ####

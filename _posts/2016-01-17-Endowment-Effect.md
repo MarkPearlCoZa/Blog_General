@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Endowment Effect
-tags: Cognitive
+tags: People
 category: Soft 
 ---
 
