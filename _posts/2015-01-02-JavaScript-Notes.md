@@ -244,6 +244,29 @@ Using RegExp
 
 -------------------------------------------------------------------------------------------
 
+### Object Oriented JavaScript ###
+
+#### Class Declarations ####o
+
+~~~
+class ExampleCalss {
+  constructor(param1, param2) {
+   this.someValue = param1;
+   // ... do something
+  }
+
+  get propertyX() {
+    return this.someValue;
+  }  
+
+  set propertyX(val) {
+    this.someValue = val; 
+  }
+}
+~~~
+
+-------------------------------------------------------------------------------------------
+
 ### Json Objects ###
 
 #### Check if key is in Json Object ####
