@@ -5,6 +5,8 @@ tags: Agile
 category: Process
 ---
 
+With my recent move to a new team and organization, I have the opportunity of contrasting my old teams processes with a new teams processes. Something that is always a 'touchy' conversation is the one regarding how to represent work in the team - the ever heated discussion on whether a physical board or a digital board is the best way to go always surfaces. In my old team we used a physical board, the current team was using a digital board. This provided a great opportunity to contrast both processes adn highlight the advantages / disadvantages of each approach. Below are some of my observations.
+
 <img class="img-responsive" alt="Picture of Phsyical & Digital Boards" src="{{ site.url }}/assets/images/Digital_vs_Physical_Boards.jpg">
 
 ### Physical Boards  
