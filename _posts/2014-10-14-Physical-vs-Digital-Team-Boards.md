@@ -13,6 +13,9 @@ category: Process
 - Large  
 - Encourage verbal communication
 - Creates a focal point for standups
+- Physical restriction on space can help restrict over committing to work and provide visiblity on capacity  
+- When doing daily standup, person walking the board faces the group which leads to an engaged conversation  
+- Encourages team ownership as generally nobody externally is looking at the board  
 
 #### Disadvantages of Physical Boards ####
 
@@ -21,19 +24,35 @@ category: Process
 - In some environments it is hard to find a suitable place to put it  
 - Does not work well in distributed teams
 - No history
-- Policies for placing things on the board can be broken
+- Policies for placing things on the board can be broken or lost
 
-#### Advantages of Digital Boards ####
+----------------------------------------------------------------------------------  
+
+#### Advantages of Digital Boards 
 
 - Metric gathering is typically easy  
 - Works well in a distributed environment  
-- Records a detailed history  
+- Records a detailed history and meta data  
 - Can enforce certain policies for moving items into a lane  
 
+#### Disadvantages of Digital Boards 
 
-#### Some discussions ####
+- When doing daily standup, everyone faces the screen, even the person walking the board which detracts from conversation  
+- Stand has less flow as people use a 'mouse' to move items on the board
+- Infinite 'digital' space can lead to poor visiblity on capacity  
 
-A collegue of mine shared the following comments regarding digital team boards installed at a client.
+----------------------------------------------------------------------------------  
+
+### Contract Negotiation vs Collaboration Tool
+
+Digital boards provide a useful mechanism for contract negotiation with external teams. As a collaborative tool for a co-located team they are not ideal.
+Physical boards are poor contract negotiatiors, but a far superior collaborating tool for a team.  
+
+----------------------------------------------------------------------------------  
+
+### Opinions 
+
+A colleague of mine shared the following comments regarding digital team boards installed at a client.
 
 ~~~
 I've reserved judgement until I see it running - it's not something I would have done, but I haven't seen one in action before.
