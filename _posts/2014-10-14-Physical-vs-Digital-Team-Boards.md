@@ -11,6 +11,23 @@ Something that is always a 'touchy' conversation is the one regarding how to rep
 
 In my old team we used a physical board. My new team was using a digital board which I used for about a month. In the new team we are now experimenting with a physical board. This provided a great opportunity to contrast both processes adn highlight the advantages / disadvantages of each approach. Below are some of my observations.
 
+----------------------------------------------------------------------------------  
+
+### Check boxes vs. an Enhanced Experience  
+
+In discussions about digital vs physical boards one can argue that a digital board can, if set up correctly, do everything a physical board does. While this may be true, it is not about check boxes, it is about experiences. 
+
+On paper two things can look like the same thing when comparing check boxes - but when using them you get a totally different experience. This is what I have found with digital and physical boards.  
+
+----------------------------------------------------------------------------------  
+
+### Contract Negotiation vs Collaboration Tool
+
+Digital boards provide a useful mechanism for contract negotiation with external teams. As a collaborative tool for a co-located team they are not ideal.
+Physical boards are poor contract negotiatiors, but a far superior collaborating tool for a team.  
+
+----------------------------------------------------------------------------------  
+
 <img class="img-responsive" alt="Picture of Phsyical & Digital Boards" src="{{ site.url }}/assets/images/Digital_vs_Physical_Boards.jpg">
 
 ### Physical Boards  
@@ -52,23 +69,6 @@ In my old team we used a physical board. My new team was using a digital board w
 - When doing daily standup, everyone faces the screen, even the person walking the board which detracts from conversation  
 - Stand has less flow as people use a 'mouse' to move items on the board
 - Infinite 'digital' space can lead to poor visiblity on capacity  
-
-----------------------------------------------------------------------------------  
-
-### Check boxes vs. an Enhanced Experience  
-
-In discussions about digital vs physical boards one can argue that a digital board can, if set up correctly, do everything a physical board does. While this may be true, it is not about check boxes, it is about experiences. 
-
-On paper two things can look like the same thing when comparing check boxes - but when using them you get a totally different experience. This is what I have found with digital and physical boards.  
-
-----------------------------------------------------------------------------------  
-
-### Contract Negotiation vs Collaboration Tool
-
-Digital boards provide a useful mechanism for contract negotiation with external teams. As a collaborative tool for a co-located team they are not ideal.
-Physical boards are poor contract negotiatiors, but a far superior collaborating tool for a team.  
-
-----------------------------------------------------------------------------------  
 
 ### Opinions 
 
