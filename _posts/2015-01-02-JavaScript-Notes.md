@@ -121,13 +121,16 @@ let value = "Blah";
 console.log(`Hello ${value}!`);
 ~~~
 
-#### Checking for empty strings ####
+#### Checking for null, empty strings ####
 
-Remember, an empty string is falsey - so you can do something like this...
+Remember, an empty string is falsey.  
+Remember, !undefined is truthy.
+
+So you can do something like this...
 
 ~~~
 if (!a) {
-  // is emtpy
+  // is emtpy & not null
 }
 ~~~
 

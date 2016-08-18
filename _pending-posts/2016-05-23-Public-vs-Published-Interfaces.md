@@ -1,16 +1,16 @@
 ---  
 layout: post  
 title: Public vs Published Interfaces
-tags: Refactoring  
-category: General  
+tags: Code Refactoring 
+category: Misc  
 ---  
-Public vs published interface
+#### Public vs published interface
 
-There are no issues refactoring public methods/class names/ etc, provided you know all of the consumers of them. 
+There are no issues refactoring public methods/class names/ etc, provided you know all of the consumers of refactored items. 
 
-Don't refactor published ones when you do not know all the consumers of the name.
+Don't refactor published interfaces (often we call these apis) when you do not know all the consumers of that functionality.
 
-With published ones, you never know all the consumers
+**With published interfaces, you never know all the consumers**  
 
 #### References ####
 
