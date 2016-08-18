@@ -21,7 +21,7 @@ NET STOP MSSQLSERVER
 
 #### Formatting SQL ####
 
-Attributes of SQL : 
+Attributes of SQL  
 - Designed to have an unambiguous grammar  
 - Allow for multi word keywords, eg. 'INSERT INTO' or 'GROUP BY'  
 - Allow unary operators in math  
