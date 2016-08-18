@@ -5,6 +5,10 @@ tags: Agile
 category: Process
 ---
 
+<img class="img-responsive" alt="Picture of Phsyical & Digital Boards" src="{{ site.url }}/assets/images/Digital_vs_Physical_Boards.jpg">
+
+### Physical Boards  
+
 #### Advantages of Physical Boards ####
 
 - Extremely flexible, easy to change  
@@ -27,6 +31,8 @@ category: Process
 - Policies for placing things on the board can be broken or lost
 
 ----------------------------------------------------------------------------------  
+
+### Digital Boards  
 
 #### Advantages of Digital Boards 
 
