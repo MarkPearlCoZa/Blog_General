@@ -70,7 +70,9 @@ Physical boards are poor contract negotiatiors, but a far superior collaborating
 - Stand has less flow as people use a 'mouse' to move items on the board
 - Infinite 'digital' space can lead to poor visiblity on capacity  
 
-### Opinions 
+----------------------------------------------------------------------------------  
+
+### Other Opinions 
 
 A colleague of mine shared the following comments regarding digital team boards installed at a client.
 
