@@ -27,5 +27,14 @@ Building trust comes down to:
 - Not gossiping or saying hurtful things  
 - Being respectful of others (getting to meetings on time, meeting deadlines, answering time sensitive email promptly)  
 
+#### Don't forget about the people
+
+> Organizations are made up of people. 
+> All change affects people. 
+> You may have a strategy that could double sales, cut costs by a third, and win industry admiration. 
+> Nonetheless, it still affects people. 
+> To be successful, figure out how people feel and what anxieties or fears your idea might provoke, and then factor that into how you frame, socialize, and implement your idea.
+> Organizations don’t change; people do. “Leadership” doesn’t say yay or nay to an idea; people do.
+
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957
