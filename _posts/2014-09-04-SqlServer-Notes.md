@@ -17,6 +17,8 @@ NET START MSSQLSERVER
 NET STOP MSSQLSERVER
 ~~~
 
+---------------------------------------------------------------------------
+
 #### Formatting SQL ####
 
 Attributes of SQL : 
