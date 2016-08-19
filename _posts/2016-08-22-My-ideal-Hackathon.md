@@ -19,8 +19,8 @@ I've broken my hackathon into 4 stages:
 
 1. [Ideation as a separate flow based activity](#ideation-as-a-separate-flow-based-activity)  
 2. [Pitching your idea to the hackers](#pitching-your-idea-to-the-hackers)  
-3. [The actual hackathon](#the-actual-hackathon)  
-4. [Hacker selection](#hacker-selection)   
+3. [Hacker selection](#hacker-selection)   
+4. [The actual hackathon](#the-actual-hackathon)  
 5. [Feedback after the hackathon](#feedback-after-the-hackathon)  
 
 ### 1. Ideation as a separate flow based activity
