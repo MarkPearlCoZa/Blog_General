@@ -21,7 +21,7 @@ I've broken my hackathon into 4 stages:
 
 #### 1. Ideation as a separate flow based activity
 
-I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing. 
+I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing with flow in mind.
 
 **Who should be involved?**  
 
