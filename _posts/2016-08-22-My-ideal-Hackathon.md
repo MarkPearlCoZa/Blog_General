@@ -22,6 +22,7 @@ I've broken my hackathon into 4 stages:
 3. [Hacker selection](#hacker-selection)   
 4. [The actual hackathon](#the-actual-hackathon)  
 5. [Feedback after the hackathon](#feedback-after-the-hackathon)  
+6. [Where to from here](#where-to-from-here)  
 
 ### 1. Ideation as a separate flow based activity
 
@@ -101,7 +102,7 @@ If you think there is a really good idea, give it a token. If you think it is a 
 
 At the end of the bazaar a prizes are handed out and the token tally is done. Prizes are not linked to token allocation. Everyone should get some sort of prize if they contributed, but it should not be linked to the number of tokens they gained. 
 
-### 5. Where to from there
+### 5. Where to from here
 
 At the end of the day, the purpose of the hackathon was to **support solving problems for the business that do not have a clear commercial value or that have a lot of uncertainty?**.
 
