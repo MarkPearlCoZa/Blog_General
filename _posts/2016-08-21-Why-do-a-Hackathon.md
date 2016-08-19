@@ -122,7 +122,11 @@ The goal of the pitch is to show a really good idea and get an idea of who would
 
 #### 3. Hacker selection  
 
-Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
+Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in that team get to interview the applicant and choose if they want that person or not. 
+
+- If they get picked, they then are involved in selecting the remainder of the team. 
+- If not they move to their second selected project and repeat the process. 
+- If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.  
 
 #### 3. The actual hackathon  
 
