@@ -83,7 +83,7 @@ Firstly, ideation does not have to have all the people involved as you will have
 
 I think ideation should be given more airtime. I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
-One and a half days you say. That seems like a really long time just for the idea?
+One and a half days you say - that seems like a really long time just for the idea?
 
 Yes it is, let me explain why I motivate this length. 
 
