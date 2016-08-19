@@ -9,7 +9,9 @@ After blogging about my [past insights at hackathons](http://blog.markpearl.co.z
 
 My ideal purpose of a hackathon is to **support solving problems for the business that do not have a clear commercial value or that have a lot of uncertainty?**  
 
-Personally I think collaboration across teams and developer happiness can be handled in other forums. And I have never worked for companies that suffer from FOMO so I'm not motivated by that.  
+Personally I think collaboration across teams and developer happiness can be handled in other forums. And I have never worked for companies that suffer from FOMO so I'm not motivated by that. I also think that learning new technologies should be part of your normal day job, so dedicating a hackathon to this seems a little pointless.
+
+As a side note, developers who get to work on well thought our ideas that push boundaries are generally happy developers - so if you get your hackathon right you may be solving developer happiness indirectly. That said, for me it is not the primary goal of the hackathon, it's a side effect.  
 
 I've broken my hackathon into 4 stages:  
 
