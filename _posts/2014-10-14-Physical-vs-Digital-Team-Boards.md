@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Team Boards
+title: Digital vs. Physical Team Boards
 tags: Agile
 category: Process
 ---
@@ -9,15 +9,17 @@ With my recent move to a new team and organization, I have the opportunity of co
 
 Something that is always a 'touchy' conversation is the one regarding how to represent work in the team - the ever heated discussion on whether a physical board or a digital board is the best way to go always surfaces. 
 
-In my old team we used a physical board. My new team was using a digital board which I used for about a month. In the new team we are now experimenting with a physical board. This provided a great opportunity to contrast both processes adn highlight the advantages / disadvantages of each approach. Below are some of my observations.
+In my old team we used a physical board. My new team was using a digital board which I used for about a month. In the new team we are now experimenting with a physical board. This provided a great opportunity to contrast both processes adn highlight the advantages / disadvantages of each approach. 
+
+Below are some of my observations, if you have some insights please add you comments...  
 
 ----------------------------------------------------------------------------------  
 
-### Check boxes vs. an Enhanced Experience  
+### Features vs. an Enhanced Experience  
 
-In discussions about digital vs physical boards one can argue that a digital board can, if set up correctly, do everything a physical board does. While this may be true, it is not about check boxes, it is about experiences. 
+In discussions about digital vs physical boards one can argue that a digital board can, if set up correctly, do everything a physical board does. While this may be true, it is not about whether it is theoretically possible to do it, it's also about the experience you have while doing it. Let me try explain...  
 
-On paper two things can look like the same thing when comparing check boxes - but when using them you get a totally different experience. This is what I have found with digital and physical boards.  
+On paper two things can look like the same thing when comparing features - but when using them you get a totally different experience. This is what I have found with digital and physical boards. While they can have the same 'features' the experience can be totally different.  
 
 ----------------------------------------------------------------------------------  
 
@@ -36,7 +38,7 @@ Physical boards are poor contract negotiatiors, but a far superior collaborating
 
 - Extremely flexible, easy to change  
 - Tactile  
-- Visible  
+- Visible all the time 
 - Large  
 - Encourage verbal communication
 - Creates a focal point for standups
