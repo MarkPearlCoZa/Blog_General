@@ -22,13 +22,17 @@ The answer of course depends on the company, looking at it from a very high gene
 
 ### Insights from my experiences  
 
-Below are a few insights that I have gained from my experiences...  
+Below are a few insights that I have gained from my experiences of hackathons...  
 
-#### Beware of Tuckman
+#### Beware of Tuckman Stages of Group Development
 
 If you don't know [tuckmans stages of group development](http://blog.markpearl.co.za/Tuckmans-Model) - it's worth a read. In essence whenever forming a team or a group, you see forming, storming, norming, performing stages.  
 
-If you are trying to encourage collaboration across people that do not normally work together, you are going to see these stages manifest themselves. Because hackathons are generally time boxed events in my experience you don't have enough time to get to the performing stage. My means if you are aiming to 'produce' something, rather keep teams that are small and do it with people that you have worked with before.
+If in your hackathons you are going to form groups of people that do not normally work together, you are going to see these stages manifest themselves during the hackathon.
+
+Because hackathons are generally time boxed events in my experience you don't have enough time to get to the performing stage. What this means is if you are aiming to 'produce' something, by forming new teams you are hindering the ability for the team to make something useful.
+
+I would suggest keep teams small, ideally people in the teams should have worked together before the day.
 
 On the counter to this, if your objective is to get people to form relationships with people they have never or infrequently worked with before quickly, giving them a 'hard' or 'impossible' time frame to work under is a great way to accelerate people bonding. Nothing better than being in an impossible task with other people to accelerate progression through tuckmans four stages.  
 
