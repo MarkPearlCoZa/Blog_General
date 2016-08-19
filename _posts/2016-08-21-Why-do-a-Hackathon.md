@@ -118,11 +118,11 @@ The second day is important, because ideas need to settle. Going home and sleepi
 
 Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
 
-The goal of the pitch is to show a really good idea and get an idea of who would like to be involved in making it. Once you have pitched, we move on to selection.
+Different hackers might want to be involved for different reasons. Some may like the idea, others may think it will expose them to a technology stack they want to try. Regardless, the purpose of the pitch is to attract people who want to be involved. Just because someone wants to be involved doesn't mean they have to be. This is where selection kicks in.
 
 #### 3. Hacker selection  
 
-Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in that team get to interview the applicant and choose if they want that person or not. 
+Selection on who is actually going to make the thing is done as follows. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in that team get to interview the applicant and choose if they want that person or not. 
 
 - If they get picked, they then are involved in selecting the remainder of the team. 
 - If not they move to their second selected project and repeat the process. 
