@@ -75,5 +75,5 @@ Ideation as a set of context switched brainstorming activities does not flow eno
 
 ### I'm sure there is more...  
 
-So, these are the things I have learn't from attending past hackathons. I'm sure there are a bunch of learnings that you have had if you have attended a hackathon before. If so, I would apprecaite yor insights in the comments section. Happy hacking!  
+So, these are the things I have learnt from attending past hackathons. I'm sure there are a bunch of learnings that you have had if you have attended a hackathon before. If so, I would appreciate your insights in the comments section. Happy hacking!  
 
