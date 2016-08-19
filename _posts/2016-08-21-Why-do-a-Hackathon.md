@@ -71,7 +71,7 @@ So, you have decided to separate the hackathon from the ideation. Great idea. Yo
 
 Ideation is hard. Having one hour sessions to come up with a really good idea doesn't feel like the best way to tackle things. It's like trying to cook a really good meal but you can only add a new ingredient to the mix once a week. 
 
-Ideation as brainstorming activities does not flow enough for my liking.  
+Ideation as a set of context switched brainstorming activities does not flow enough for my liking.  
 
 #### How should ideation work?  
 
