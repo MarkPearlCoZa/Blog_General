@@ -35,9 +35,9 @@ Firstly, ideation does not have to have all the people involved that you will ha
 
 I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
-One and a half days you say - that seems like a really long time just for the idea?
+> One and a half days you say - that seems like a really long time just for the idea?
 
-Yes it is, let me explain why I motivate this length. 
+Let me explain why I motivate this length. 
 
 Day one you form your ideation group. That means you have to go through tuckmans stages, present different ideas, fight, disagree, fork, branch and reform groups etc. That's going to take you a while.
 
