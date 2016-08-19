@@ -65,7 +65,7 @@ Having ideation as part of the hackathon has not been a good idea. There is a lo
 
 > Avoid ideation as part of the hackathon  
 
-#### Ideation as brainstorming sessions  
+#### Ideation as a set of brainstorming sessions  
 
 So, you have decided to separate the hackathon from the ideation. Great idea. You set up a series of one hour meetings for a month or so before the hackathon for 'ideation'. Chaos ensues...  
 
