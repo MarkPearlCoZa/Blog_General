@@ -69,6 +69,25 @@ Having ideation as part of the hackathon has not been a good idea. There is a lo
 
 So, you have decided to separate the hackathon from the ideation. Great idea. You set up a series of one hour meetings for a month or so before the hackathon for 'ideation'. Chaos ensues...  
 
-Ideation is hard. Having one hour sessions to come up with a really good idea doesn't feel like the best way to tackle things. 
+Ideation is hard. Having one hour sessions to come up with a really good idea doesn't feel like the best way to tackle things. It's like trying to cook a really good meal but you can only add a new ingredient to the mix once a week. 
+
+Ideation as brainstorming activities does not flow enough for my liking.  
+
+#### How should ideation work?  
+
+I think ideation should be given more airtime. I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
+
+One and a half days? That seems like a really long time just for the idea?
+
+Yes it is, let me explain why I motivate this length. 
+
+Day one you form your ideation group. That means you have to go through tuckmans stages, present different ideas, fight, disagree, reform groups etc. That's going to take you a while.
+
+The aim is by the end of day one you should have put together some sort of idea on what the thing is going to look like. 
+Have some sort of high level pitch on what you are going to solve, how it will kind of work and why. No coding!
+
+Day two is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled is going to give you some more insights.
+
+
 
 I think ideation should be
