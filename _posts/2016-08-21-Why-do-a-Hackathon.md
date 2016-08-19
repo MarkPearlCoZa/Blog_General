@@ -4,7 +4,9 @@ title: Why do a Hackathon?
 tags: 
 category: General
 ---
-In the last two years I have attended 2 hackathons from two different companies. Both have been great experiences that I have been grateful to attend. While personally I have walked away from these events with what I wanted to achieve, I've noticed a common question that often isn't clear to those attending...  
+In the last two years I have attended 2 hackathons from two different companies. Both have been great experiences that I have been grateful to attend. 
+
+While I have walked away from these events with what I personall wanted to achieve, I've also come away with a question on why we are there in the first place. The question is...   
 
 > Why is the company doing this? What are they wanting to get out of this?
 
