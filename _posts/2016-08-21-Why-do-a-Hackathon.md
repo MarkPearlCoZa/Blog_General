@@ -73,7 +73,7 @@ Ideation is hard. Having one hour sessions to come up with a really good idea do
 
 Ideation as a set of context switched brainstorming activities does not flow enough for my liking.  
 
-#### How should ideation work?  
+#### How I think ideation work
 
 Firstly, ideation does not have to have all the people involved as you will have in a hackathon. Ideation is just for the people that want to come up with a new idea. Some people like doing this, other people just want to make things and don't care what. If you like ideation be there, if you just want to make something it's best you wait till the actual hackathon.
 
