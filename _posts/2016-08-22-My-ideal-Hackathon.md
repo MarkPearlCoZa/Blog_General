@@ -19,15 +19,15 @@ I've broken my hackathon into 4 stages:
 4. [Hacker selection](#hacker-selection)   
 5. [Feedback after the hackathon](#feedback-after-the-hackathon)  
 
-#### 1. Ideation as a separate flow based activity
+### 1. Ideation as a separate flow based activity
 
 I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing with flow in mind.
 
-**Who should be involved?**  
+#### Who should be involved?
 
 Firstly, ideation does not have to have all the people involved that you will have involved at the actual hackathon. Ideation is just for the people that want to come up with a new idea. Some people like doing this, other people just want to make things and don't care what. If you like ideation be there, if you just want to make something it's best you wait till the actual hackathon.
 
-**So how long should ideation take?**
+#### So how long should ideation take?  
 
 I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
@@ -42,13 +42,13 @@ Have some sort of high level pitch on what you are going to solve, how it will k
 
 The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some critical insights you did not have the day before. It also gives you a bit of time to tweak your idea and your pitch.
  
-#### 2. Pitching your idea to the hackers  
+### 2. Pitching your idea to the hackers  
 
 Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
 
 Different hackers might want to be involved for different reasons. Some may like the idea, others may think it will expose them to a technology stack they want to try. Regardless, the purpose of the pitch is to attract people who want to be involved. Just because someone wants to be involved doesn't mean they have to be. This is where selection kicks in.
 
-#### 3. Hacker selection  
+### 3. Hacker selection  
 
 Selection on who is actually going to make the thing is done as follows. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in that team get to interview the applicant and choose if they want that person or not. 
 
@@ -56,13 +56,13 @@ Selection on who is actually going to make the thing is done as follows. Each ha
 - If not they move to their second selected project and repeat the process. 
 - If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.  
 
-#### 3. The actual hackathon  
+### 3. The actual hackathon  
 
 The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
 
 On the day or days, it's about making the thing. You have only x hours to finish your POC.
 
-#### 4. Feedback after the hackathon  
+### 4. Feedback after the hackathon  
 
 To close the loop, when the hackathon ends there needs to be some feedback. 
 
