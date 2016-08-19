@@ -81,7 +81,7 @@ One and a half days you say. That seems like a really long time just for the ide
 
 Yes it is, let me explain why I motivate this length. 
 
-Day one you form your ideation group. That means you have to go through tuckmans stages, present different ideas, fight, disagree, reform groups etc. That's going to take you a while.
+Day one you form your ideation group. That means you have to go through tuckmans stages, present different ideas, fight, disagree, fork, branch and reform groups etc. That's going to take you a while.
 
 The aim is by the end of day one you should have put together some sort of idea on what the thing is going to look like. 
 Have some sort of high level pitch on what you are going to solve, how it will kind of work and why. No coding!
