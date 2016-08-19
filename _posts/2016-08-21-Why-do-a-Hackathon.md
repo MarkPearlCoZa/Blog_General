@@ -83,7 +83,14 @@ My ideal purpose of a hackathon is to **support solving problems for the busines
 
 Personally I think collaboration across teams and developer happiness can be handled in other forums. And I have never worked for companies that suffer from FOMO so I'm not motivated by that.  
 
-#### Ideation as a separate flow based activity
+I've broken my hackathon into 4 stages:  
+
+1. [Ideation as a separate flow based activity](#ideation-as-a-separate-flow-based-activity)  
+2. [Pitching your idea to the hackers](pitching-your-idea-to-the-hackers)
+4. Feedback after the hackathon   
+3. Making the proof of concept (the actual hackathon) 
+
+#### 1. Ideation as a separate flow based activity
 
 I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing. 
 
@@ -106,7 +113,7 @@ Have some sort of high level pitch on what you are going to solve, how it will k
 
 The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some critical insights you did not have the day before. It also gives you a bit of time to tweak your idea and your pitch.
  
-#### Pitching your idea to the hackers  
+#### 2. Pitching your idea to the hackers  
 
 Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
 
@@ -116,13 +123,13 @@ The goal of the pitch is to show a really good idea and get an idea of who would
 
 Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
 
-#### Making the proof of concept - the actual hackathon
+#### 3. Making the proof of concept (the actual hackathon)
 
 The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
 
 On the day or days, it's about making the thing. You have only x hours to finish your POC.
 
-#### Feedback and where to next
+#### 4. Feedback after the hackathon  
 
 To close the loop, when the hackathon ends there needs to be some feedback. 
 
