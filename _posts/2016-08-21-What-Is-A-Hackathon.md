@@ -1,7 +1,6 @@
 ---
 layout: post
-title: What is a Hackathon?
-description: "Why are we doing this"
+title: Why do a Hackathon?
 tags: 
 category: General
 ---
