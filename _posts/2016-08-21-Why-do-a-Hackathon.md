@@ -33,7 +33,7 @@ If in your hackathons you are going to form groups of people that do not normall
 
 Because hackathons are generally time boxed events of a day or two you don't have enough time to get to the performing stage if you are in a newly formed team. This means is if you are aiming to 'produce' something, by forming new teams that have not worked together before you are hindering the ability for the team to make something useful.
 
-> I would suggest keep teams small, ideally people in the teams should have worked together before the day.
+> I would suggest keep teams small, ideally people in the teams should have worked together before the day in some way.  
 
 On the counter to this, if your objective is to get people to form relationships with people they have never or infrequently worked with before quickly, giving them a 'hard' or 'impossible' time frame to work under is a great way to accelerate people bonding. Nothing better than being in an impossible task with other people to accelerate progression through tuckmans four stages.  
 
