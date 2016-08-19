@@ -81,13 +81,15 @@ After think about my experiences I've come up with my own ideal hackathon. I'm s
 
 #### Ideation as a separate flow based activity
 
+I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing. 
+
 **Who should be involved?**  
 
 Firstly, ideation does not have to have all the people involved as you will have in a hackathon. Ideation is just for the people that want to come up with a new idea. Some people like doing this, other people just want to make things and don't care what. If you like ideation be there, if you just want to make something it's best you wait till the actual hackathon.
 
 **So how long should ideation take?**
 
-I think ideation should be given more airtime. I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
+I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
 One and a half days you say - that seems like a really long time just for the idea?
 
