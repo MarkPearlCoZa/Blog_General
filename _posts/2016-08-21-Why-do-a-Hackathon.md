@@ -50,10 +50,10 @@ If I'm at a hackathon and **everyone** in the group is learning a totally new te
 > Make sure you have the fundamentals covered before the hackathon, or stay with a tech stack that most people are comfortable with.  
 
 ### Separate ideation days from hackathons
+j
+Getting everyone on the same page for a great idea is hard. Coming up with a great idea is extremely hard. You face all the challenges during the ideation stage that you face during the make it stage.
 
-Getting everyone on the same page is hard for a great idea is hard. Coming up with a great idea is extremely hard. You face all the challenges during an ideation stage that you face during a coding stage.
-
-In the hackathons that I have been to, I've seen ideation been done badly. It's either been tackled as part of the hackathon, or it has been handled in a set of brainstorming sessions before the hackathon.
+In the hackathons that I have been to, I've seen ideation been done badly. It's either been tackled as part of the hackathon, or it has been handled in a set of brainstorming sessions before the hackathon. Neither has felt ideal.  
 
 #### Ideation as part of the hackathon
 
