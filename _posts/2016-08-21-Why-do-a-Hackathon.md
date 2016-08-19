@@ -19,7 +19,7 @@ The answer of course depends on the company, it could be any of the following...
 - We are trying to foster better ideation processes.   
 - We are doing this because other companies do this but for no other reason.  
 
-### What I have learn't so far... 
+### What I have learnt so far... 
 
 Below are a few insights that I have gained from my experiences of hackathons...  
 
@@ -35,14 +35,14 @@ Because hackathons are generally time boxed events of a day or two you don't hav
 
 On the counter to this, if your objective is to get people to form relationships with people they have never or infrequently worked with before quickly, giving them a 'hard' or 'impossible' time frame to work under is a great way to accelerate people bonding. Nothing better than being in an impossible task with other people to accelerate progression through tuckmans four stages.  
 
-#### Be mindulf of the technology stack  
+#### Be mindful of the technology stack  
 
 You are on a really tight timeline. You have got 12, 24 or 48 hours to produce something. Do you really think you can code something in that time frame while learning a totally new technology stack at the same time?
 
 My experience is you are going to be able to do one of the two, but not both.
 
-From a learning perspective, I learn the fundamentals best on my own. This gives me time to google, do tutorials, and let the knowlege seep in. Once I have passed the fundamentals, my learning is accelerated by learning in groups.
+From a learning perspective, I learn the fundamentals best on my own. This gives me time to google, do tutorials, and let the knowledge seep in. Once I have passed the fundamentals, my learning is accelerated by learning in groups.
 
 If I'm at a hackathon and am learning a totally new technology stack, I actually want to do it on my own however there is this pressure to do it as a team. Learning something totally new as a team has not worked well for me.
 
-> Make sure you have the fundamentals covered if you are going to use a different tech stack as a team  
+> Make sure you have the fundamentals covered before the hackday, or stay to a tech stack you are comfortable with  
