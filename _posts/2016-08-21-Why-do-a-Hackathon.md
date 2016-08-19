@@ -57,7 +57,9 @@ In the hackathons that I have been to, I've seen ideation been done badly. It's 
 
 #### Ideation as part of the hackathon
 
-You take a bunch of people, all with different skills and expertise, give them a fixed short period of time in a newly formed team and then say **go**. Well, guess what happens, the coders want to code, the analysts want to analyze and the testers (if they are traditional testers) don't know what to do.
+You take a bunch of people, all with different skills and expertise, give them a fixed short period of time in a newly formed team and then say **GO**.  
+
+Well, guess what happens, the coders want to code, the analysts want to analyze and the testers (if they are traditional testers) don't know what to do.
 
 Having ideation as part of the hackathon has not been a good idea. There is a lot of storming. My observation is you end up with low impact ideas.
 
