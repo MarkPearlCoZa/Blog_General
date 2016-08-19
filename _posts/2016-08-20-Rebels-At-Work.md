@@ -54,7 +54,7 @@ The more you know how things—and people—tend to work, the better the relatio
 
 ### Chapter 5 - Communicating Your Ideas
 
-Key points to remember when communicating your idea
+#### Key points to remember when communicating your idea
 
 1. Show what’s at stake - To get people’s attention, frame your idea in terms of what people care about. Show how the idea relates to what they want.    
 2. Paint a picture of what could be - Emotions get people to consider an idea and influence decisions. Paint a picture of how your idea creates a better situation. Expose the gap between how things work today and how they could work. Make the status quo unappealing. 
