@@ -44,9 +44,17 @@ The second day is important, because ideas need to settle. Going home and sleepi
  
 ### 2. Pitching your idea to the hackers  
 
-Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
+Once ideation is finished you pitch your idea. 
+
+#### Who do you pitch to? 
+
+The hackers.
 
 Different hackers might want to be involved for different reasons. Some may like the idea, others may think it will expose them to a technology stack they want to try. Regardless, the purpose of the pitch is to attract people who want to be involved. Just because someone wants to be involved doesn't mean they have to be. This is where selection kicks in.
+
+#### How long is a picth?
+
+Picthes should be time capped. 5 minutes a pitch with 5 minutes of questions afterwards.
 
 ### 3. Hacker selection  
 
