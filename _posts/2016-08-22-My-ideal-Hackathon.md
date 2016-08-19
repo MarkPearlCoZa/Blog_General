@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My ideal Hackathon
+title: My Ideal Hackathon
 tags: 
 category: General
 ---
