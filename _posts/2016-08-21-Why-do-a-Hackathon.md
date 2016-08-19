@@ -4,14 +4,14 @@ title: Why do a Hackathon?
 tags: 
 category: General
 ---
-In the last two years I have attended 2 hackathons from two different companies. Both have been great experiences that I have been grateful for. While personally I have walked away from these events with what I wanted to achieve, I've noticed a common question that often isn't clear to those attending...  
+In the last two years I have attended 2 hackathons from two different companies. Both have been great experiences that I have been grateful to attend. While personally I have walked away from these events with what I wanted to achieve, I've noticed a common question that often isn't clear to those attending...  
 
 > Why is the company doing this? What are they wanting to get out of this?
 
 The answer of course depends on the company, looking at it from a very high generalized level it could be any of the following:  
 
 - We are trying to encourage collaboration across people that do not normally work together.  
-- We are trying to support disruptive innovation, ideas that would not get the day of light in our normal prioritizations.  
+- We are trying to support disruptive innovation.  
 - We are trying to support solving problems that support the business that do not have a clear commercial value.  
 - We are trying to increase developer moral.  
 - We are trying to get people to look at technologies they would not normally play with.  
