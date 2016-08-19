@@ -77,7 +77,7 @@ Ideation as brainstorming activities does not flow enough for my liking.
 
 I think ideation should be given more airtime. I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
-One and a half days? That seems like a really long time just for the idea?
+One and a half days you say. That seems like a really long time just for the idea?
 
 Yes it is, let me explain why I motivate this length. 
 
