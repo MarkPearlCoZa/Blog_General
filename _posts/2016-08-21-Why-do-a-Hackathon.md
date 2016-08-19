@@ -10,7 +10,7 @@ While I have walked away from these events with what I personally wanted to achi
 
 > Why is the company doing this? What are they wanting to get out of this?
 
-The answer of course depends on the company, looking at it from a very high generalized level it could be any of the following:  
+The answer of course depends on the company, it could be any of the following...  
 
 - We are trying to increase developer moral.  
 - We are trying to encourage collaboration across people that do not normally work together.  
