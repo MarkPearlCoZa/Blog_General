@@ -45,7 +45,7 @@ My experience is you are going to be able to do one of the two, but not both.
 
 From a learning perspective, I learn the fundamentals best on my own. This gives me time to google, do tutorials, and let the knowledge seep in. Once I have passed the fundamentals, my learning is accelerated by learning in groups.
 
-If I'm at a hackathon and everyone in the group is learning a totally new technology stack it's a smell. I want at least one person there to have a good understanding of the tech stack before we start. What I've found is if nobody has a good understanding of the tech stack there is quite a strong social pressure to learn together as a team. Learning something totally new as a team has not worked well for me.
+If I'm at a hackathon and **everyone** in the group is learning a totally new technology stack it's a smell. I want at least one person there to have a good understanding of the tech stack before we start. What I've found is if nobody has a good understanding of the tech stack there is quite a strong social pressure to learn together as a team. Learning something totally new as a team has not worked well for me.
 
 > Make sure you have the fundamentals covered before the hackathon, or stay to a tech stack you are comfortable with  
 
