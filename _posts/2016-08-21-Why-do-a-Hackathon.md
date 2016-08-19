@@ -47,7 +47,7 @@ From a learning perspective, I learn the fundamentals best on my own. This gives
 
 If I'm at a hackathon and **everyone** in the group is learning a totally new technology stack it's a smell. I want at least one person there to have a good understanding of the tech stack before we start. What I've found is if nobody has a good understanding of the tech stack there is quite a strong social pressure to learn together as a team. Learning something totally new as a team has not worked well for me.
 
-> Make sure you have the fundamentals covered before the hackathon, or stay to a tech stack you are comfortable with  
+> Make sure you have the fundamentals covered before the hackathon, or stay with a tech stack that most people are comfortable with.  
 
 ### Separate ideation days from hackathons
 
