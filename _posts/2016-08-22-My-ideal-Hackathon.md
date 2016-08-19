@@ -108,6 +108,6 @@ At the end of the day, the purpose of the hackathon was to **support solving pro
 
 If there is a great idea that surfaces from a hackathon it will get picked up. I would not make any promises to any team on the top idea being given airtime down the road - because the top idea may still really suck.
 
-> Good ideas with a solid demonstration will get picked up naturally - no need to promise this before.  
+> Good ideas with a solid demonstration will get picked up naturally - no need to promise this before the event just in case the ideas suck
 
 At the end of the feedback thanks should be given to all those that participated and then call it a day.
