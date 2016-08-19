@@ -86,14 +86,25 @@ Everyone is given tokens. Different people are given different amounts of tokens
 
 People go from team to team to get a demonstration of their project. If someone thinks their project is a good idea they give some of their tokens to that team.
 
-For me it's important that the payment of tokens is done concealed so that the team doesn't know who is giving them the tokens or who has given them the tokens. I've seen a token based voting system before, but it was done in front of the team, which kicked in all sorts of social pressures on when tokens were given - you got to work with these people tomorrow in your day job or one of the members was your line manager and you felt compelled to be nice.
-
 > Token's should be anonymous  
 
-For me the ideal should be that  you can lie if you want and say, hey nice idea - I'm going to give yo a token, and then not actually have to give them one if you don't really want to.
+For me it's important that the payment of tokens is done concealed so that the team doesn't know who is giving them the tokens or who has given them the tokens. I've seen a token based voting system before, but it was done in front of the team which kicked in all sorts of social pressures on when tokens were given - you got to work with these people tomorrow in your day job or one of the members was your line manager and you felt compelled to be nice.
 
-I would recommend not lying, but you want to door open for people who do lie to be able to.
+
+For me the ideal should be that  you can lie if you want and say, hey nice idea - I'm going to give yo a token, and then not actually have to give them one if you don't really want to. I would recommend not lying, but you want to door open for people who do lie to be able to.
 
 The question people should be answering when paying tokens is, 
 
 > Would you like to see this project given more airtime to further explored
+
+If you think there is a really good idea, give it a token. If you think it is a brilliant idea, give it all your tokens.
+
+At the end of the bazaar a prizes are handed out and the token tally is done. Prizes are not linked to token allocation. Everyone should get some sort of prize if they contributed, but it should not be linked to the number of tokens they gained. 
+
+### 5. Where to from there
+
+At the end of the day, the purpose of the hackathon was to **support solving problems for the business that do not have a clear commercial value or that have a lot of uncertainty?**.
+
+If there is a great idea that surfaces from a hackathon it will get picked up. I would not make any promises to any team on the top idea being given airtime down the road - because the top idea may still really suck.
+
+> Good ideas with a solid demonstration will get picked up naturally - no need to promise this before.  
