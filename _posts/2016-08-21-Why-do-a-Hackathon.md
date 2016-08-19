@@ -75,6 +75,10 @@ Ideation as brainstorming activities does not flow enough for my liking.
 
 #### How should ideation work?  
 
+Firstly, ideation does not have to have all the people involved as you will have in a hackathon. Ideation is just for the people that want to come up with a new idea. Some people like doing this, other people just want to make things and don't care what. If you like ideation be there, if you just want to make something it's best you wait till the actual hackathon.
+
+**So how long should ideation take?**
+
 I think ideation should be given more airtime. I propose ideation over a one and a half day period. That means one and a half days to come up with a really good idea.
 
 One and a half days you say. That seems like a really long time just for the idea?
@@ -86,8 +90,8 @@ Day one you form your ideation group. That means you have to go through tuckmans
 The aim is by the end of day one you should have put together some sort of idea on what the thing is going to look like. 
 Have some sort of high level pitch on what you are going to solve, how it will kind of work and why. No coding!
 
-Day two is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled is going to give you some more insights.
+The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some more insights. It also gives you a bit of time to tweak your idea and your pitch.
+ 
+You then pitch you idea to a group. The group is 
 
 
-
-I think ideation should be
