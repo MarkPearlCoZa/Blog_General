@@ -142,7 +142,7 @@ Everyone is given tokens. Different people are given different amounts of tokens
 
 People go from team to team to get a demonstration of their project. If someone thinks their project is a good idea they give some of their tokens to that team.
 
-For me it's important that the payment of tokens is done concealed so that the team doesn't know who is giving them the tokens or who has given them the tokens. I've seen a token based voting system before, but it was done in front of the team, which kicked in all sorts of social pressures on when tokens were given - you got to work with these people tomorrow in your day job, sometimes you just want to keep them happy. 
+For me it's important that the payment of tokens is done concealed so that the team doesn't know who is giving them the tokens or who has given them the tokens. I've seen a token based voting system before, but it was done in front of the team, which kicked in all sorts of social pressures on when tokens were given - you got to work with these people tomorrow in your day job or one of the members was your line manager and you felt compelled to be nice.
 
 For me the ideal should be that  you can lie if you want and say, hey nice idea - I'm going to give yo a token, and then not actually have to give them one if you don't really want to.
 
