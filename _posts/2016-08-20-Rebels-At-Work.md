@@ -52,5 +52,31 @@ The more you know how things—and people—tend to work, the better the relatio
 > To be successful, figure out how people feel and what anxieties or fears your idea might provoke, and then factor that into how you frame, socialize, and implement your idea.
 > Organizations don’t change; people do. “Leadership” doesn’t say yay or nay to an idea; people do.
 
+### Chapter 5 - Communicating Your Ideas
+
+Key points to remember when communicating your idea
+
+1. Show what’s at stake - To get people’s attention, frame your idea in terms of what people care about. Show how the idea relates to what they want.    
+2. Paint a picture of what could be - Emotions get people to consider an idea and influence decisions. Paint a picture of how your idea creates a better situation. Expose the gap between how things work today and how they could work. Make the status quo unappealing. 
+3. Show that the idea can work, Highlight what it will take to be successful and where the greatest risks lie. Show the milestones along the way. This demonstrates that you’ve done your homework and thought through the risks, uncertainties, and practicalities. People support ideas that they think can work.  
+4. Be positive and pithy - Show enthusiasm, but don’t get so carried away talking that you fail to listen for others’ thoughts and ideas. Keep it short.  
+
+#### Understand what the organization really values
+
+Make it hard to argue against an idea that the organization deeply values.   
+This is why finding out what the organization really values is so important before you start communicating your ideas.  
+
+#### The Ten Percent Rule  
+
+Once the first followers get behind the idea, work together to influence 10 percent of thepeople in your organization.  
+
+> Why 10 percent? Scientists at Rensselaer Polytechnic Institute have found that when 10 percent of the people in a group believe in an idea, the majority of the people will adopt their belief.  
+
+#### Remember when pitching an idea
+
+We’re sure you’ve been in the meeting where someone tries to explain exactly how his idea will work. Once they go there, you begin losing momentum and they get stuck trying to explain how the sausage will be made—a sausage that no one has ever tasted, a sausage, in fact, that you’ve never even cooked before. Don't get stuck on how the sausage is made, keep things at a conceptual level.  
+
+
+
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957
