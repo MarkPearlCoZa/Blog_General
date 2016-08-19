@@ -112,7 +112,7 @@ The goal of the pitch is to show a really good idea and get an idea of who would
 
 Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
 
-#### Making the POC - the hackathon
+#### Making the proof of concept - the actual hackathon
 
 The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
 
