@@ -27,7 +27,7 @@ Below are a few insights that I have gained from my experiences of hackathons...
 
 If you don't know [tuckmans stages of group development](http://blog.markpearl.co.za/Tuckmans-Model) - it's worth a read. In essence whenever forming a team or a group, you see forming, storming, norming, performing stages.  
 
-If in your hackathons you are going to form groups of people that do not normally work together, you are going to see these stages manifest themselves during the hackathon.
+If in your hackathons you are going to form groups of people that do not normally work together, you are going to see these stages manifest themselves during the hackathon. If the objective of the hackathon is to produce something, you may want to adjust how you form your teams. Let me explain.  
 
 Because hackathons are generally time boxed events in my experience you don't have enough time to get to the performing stage. What this means is if you are aiming to 'produce' something, by forming new teams you are hindering the ability for the team to make something useful.
 
