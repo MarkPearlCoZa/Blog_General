@@ -77,6 +77,8 @@ Ideation as a set of context switched brainstorming activities does not flow eno
 
 ### My ideal hackathon
 
+After think about my experiences I've come up with my own ideal hackathon. I'm sure it has flaws, but here is how it stands right now...  
+
 #### Ideation as a separate flow based activity
 
 **Who should be involved?**  
