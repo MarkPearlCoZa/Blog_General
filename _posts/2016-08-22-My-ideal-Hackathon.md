@@ -73,7 +73,9 @@ Selection on who is actually going to make the thing is done as follows. Each ha
 
 The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
 
-On the actual hackathon day(s) it's about making the thing. You have only x hours to finish your POC.
+On the actual hackathon day(s) it's about making the thing. You have only x hours to finish your proof of concept. Hack hack hack.
+
+It's important to remind people that you want a working proof of concept. They should focus on the core unique feature - the problem their thing solves. Settings screen, etc can be done later. Those we know we can solve. Focus on the unique thing you are trying to demonstrate.
 
 ### 4. Feedback after the hackathon  
 
