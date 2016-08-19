@@ -79,6 +79,10 @@ Ideation as a set of context switched brainstorming activities does not flow eno
 
 After thinking about my past experiences I've come up with my own ideal hackathon. I'm sure it has flaws, but here is how it stands right now...  
 
+My ideal purpose of a hackathon is to **support solving problems for the business that do not have a clear commercial value or that have a lot of uncertainty?**  
+
+Personally I think collaboration across teams, developer happiness can be handled in other forums. And I have never worked for companies that suffer from FOMO so I'm not motivated by that.  
+
 #### Ideation as a separate flow based activity
 
 I think ideation should be given more airtime and potentially done by a smaller group than the people who make the thing. 
