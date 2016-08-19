@@ -88,7 +88,7 @@ I've broken my hackathon into 4 stages:
 1. [Ideation as a separate flow based activity](#ideation-as-a-separate-flow-based-activity)  
 2. [Pitching your idea to the hackers](#pitching-your-idea-to-the-hackers)  
 3. [The actual hackathon](#the-actual-hackathon)  
-4. [Team selection](#team-selection)   
+4. [Hacker selection](#hacker-selection)   
 5. [Feedback after the hackathon](#feedback-after-the-hackathon)  
 
 #### 1. Ideation as a separate flow based activity
@@ -120,7 +120,7 @@ Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
 
 The goal of the pitch is to show a really good idea and get an idea of who would like to be involved in making it. Once you have pitched, we move on to selection.
 
-#### 3. Team selection  
+#### 3. Hacker selection  
 
 Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
 
