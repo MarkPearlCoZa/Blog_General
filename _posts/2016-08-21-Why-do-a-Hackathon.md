@@ -73,6 +73,8 @@ Ideation is hard. Having one hour sessions to come up with a really good idea do
 
 Ideation as a set of context switched brainstorming activities does not flow enough for my liking. I want a block of continuous time to come up with a really good idea.
 
+-------------------------------------------------------------------
+
 ### My ideal hackathon
 
 #### Ideation 
