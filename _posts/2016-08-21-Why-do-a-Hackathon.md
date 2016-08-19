@@ -92,8 +92,22 @@ Day one you form your ideation group. That means you have to go through tuckmans
 The aim is by the end of day one you should have put together some sort of idea on what the thing is going to look like. 
 Have some sort of high level pitch on what you are going to solve, how it will kind of work and why. No coding!
 
-The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some more insights. It also gives you a bit of time to tweak your idea and your pitch.
+The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some critical insights you did not have the day before. It also gives you a bit of time to tweak your idea and your pitch.
  
-You then pitch you idea to a group. The group is 
+**Pitching your idea**
 
+Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
+
+The goal of the pitch is to show a really good idea and get an idea of who would like to be involved in making it. Once you have pitched, we move on to selection.
+
+**Selecting hackers for an idea**
+
+Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
+
+
+**When does the hackathon begin**
+
+The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
+
+On the day or days, it's about making the thing. You have only x hours to produce a POC.
 
