@@ -25,7 +25,7 @@ The answer of course depends on the company, it could be any of the following...
 
 Below are a few insights that I have gained from my experiences of hackathons...  
 
-### Beware of Tuckman Stages of Group Development
+### Beware of tuckman stages of group development
 
 If you don't know [tuckmans stages of group development](http://blog.markpearl.co.za/Tuckmans-Model) - it's worth a read. In essence whenever forming a team or a group, you see forming, storming, norming, performing stages.  
 
