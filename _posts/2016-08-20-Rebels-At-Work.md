@@ -72,7 +72,7 @@ Once the first followers get behind the idea, work together to influence 10 perc
 
 > Why 10 percent? Scientists at Rensselaer Polytechnic Institute have found that when 10 percent of the people in a group believe in an idea, the majority of the people will adopt their belief.  
 
-#### Remember when pitching an idea
+#### Don't get into the specific of how the sausage is made  
 
 We’re sure you’ve been in the meeting where someone tries to explain exactly how his idea will work. Once they go there, you begin losing momentum and they get stuck trying to explain how the sausage will be made—a sausage that no one has ever tasted, a sausage, in fact, that you’ve never even cooked before. Don't get stuck on how the sausage is made, keep things at a conceptual level.  
 
