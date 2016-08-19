@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My ideal hackathon
+title: My ideal Hackathon
 tags: 
 category: General
 ---
 
-After bloggin about my [past insights at hackathons](http://blog.markpearl.co.za/Why-do-a-Hackathon) I've come up with my own ideal hackathon. I'm sure it has flaws, but here is how it stands right now...  
+After blogging about my [past insights at hackathons](http://blog.markpearl.co.za/Why-do-a-Hackathon) I've come up with my own ideal hackathon. I'm sure it has flaws, but here is how it stands right now...  
 
 My ideal purpose of a hackathon is to **support solving problems for the business that do not have a clear commercial value or that have a lot of uncertainty?**  
 
