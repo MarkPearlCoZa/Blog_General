@@ -124,7 +124,9 @@ To close the loop, when the hackathon ends there needs to be some feedback.
 
 I've seen feedback best done in a bazaar style where people walk from table to table to see demonstrations.
 
-Everyone is given token. Different people are given different amounts of tokens based on their role in an organization. Normal people are given two or three token, top execs given ten or fifteen, or some sort of ratio - the tokens need to look identical so that you don't know who gave you a token after the fact.
+> A bazaar style session with token voting system  
+
+Everyone is given tokens. Different people are given different amounts of tokens based on their role in an organization. Normal people are given two or three token, top execs given ten or fifteen, or some sort of ratio - the tokens need to look identical so that you don't know who gave you a token after the fact.
 
 People go from team to team to get a demonstration of their project. If someone thinks their project is a good idea they give some of their tokens to that team.
 
