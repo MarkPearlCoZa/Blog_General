@@ -96,11 +96,11 @@ For me the ideal should be that  you can lie if you want and say, hey nice idea 
 
 The question people should be answering when paying tokens is, 
 
-> Would you like to see this project given more airtime to further explored
+> Would you like to see this project given more airtime to be further explored
 
 If you think there is a really good idea, give it a token. If you think it is a brilliant idea, give it all your tokens.
 
-At the end of the bazaar a prizes are handed out and the token tally is done. Prizes are not linked to token allocation. Everyone should get some sort of prize if they contributed, but it should not be linked to the number of tokens they gained. 
+At the end of the bazaar a prizes are handed out and the token tally is done. Prizes are **not** linked to token allocation. Everyone should get some sort of prize if they contributed, but it should not be linked to the number of tokens they gained. 
 
 ### 5. Where to from here
 
