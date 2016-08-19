@@ -75,6 +75,8 @@ Ideation as a set of context switched brainstorming activities does not flow eno
 
 ### My ideal hackathon
 
+#### Ideation 
+
 **Who should be involved?**  
 
 Firstly, ideation does not have to have all the people involved as you will have in a hackathon. Ideation is just for the people that want to come up with a new idea. Some people like doing this, other people just want to make things and don't care what. If you like ideation be there, if you just want to make something it's best you wait till the actual hackathon.
@@ -94,7 +96,7 @@ Have some sort of high level pitch on what you are going to solve, how it will k
 
 The second day is important, because ideas need to settle. Going home and sleeping on it and them coming back the next day once the idea has settled but still taking your attention is going to give you some critical insights you did not have the day before. It also gives you a bit of time to tweak your idea and your pitch.
  
-**Pitching your idea**
+#### Pitching your idea
 
 Once ideation is finished you pitch your idea. Who do you pitch to? The hackers.
 
@@ -104,10 +106,13 @@ The goal of the pitch is to show a really good idea and get an idea of who would
 
 Selection on who is actually going to make the thing is done slightly differently. Each hacker selects three ideas they would like to spend their hackathon on. They interview at their top project - those already in the ideation team get to choose if they want that hacker in the team or not. If they get picked, they then are involved in selecting the remainder of the team. If not they move to their second selected project and repeat the process. If they don't get selected for anything, they can choose to do their own thing on the day or just do normal work.
 
-
-**When does the hackathon begin**
+#### Making the POC - when does the hackathon begin**
 
 The actual hackathon should be a little down the road. Good hackers need time to think about tech stack, learn fundamentals, etc. I would do a hackathon a month or so after ideation and team selection is completed. This gives time for people to tinker, play around with ideas etc.
 
-On the day or days, it's about making the thing. You have only x hours to produce a POC.
+On the day or days, it's about making the thing. You have only x hours to finish your POC.
+
+#### Feedback and where to next
+
+
 
