@@ -10,9 +10,9 @@ When any company makes any major transformation mindsets and approaches need to 
 
 Since I'm involved in how we make it, I'm going to share some of the experiences and learnings we have gained in making this transition.
 
-### The Manifesto
+### The Playform Manifesto
 
-To help change our mindset in how we make software we adopted a platform manifesto. It goes as follows:
+To help change our mindset in how we make software as a development organization we adopted a platform manifesto. The platform manifesto goes as follows:
 
 ~~~
 - Medium term thinking over short term thinking  
@@ -25,6 +25,8 @@ To help change our mindset in how we make software we adopted a platform manifes
 - Stable technologies over the unproven  
 - The greater good over individual objectives
 ~~~
+
+
 
 ### Our Goal
 
