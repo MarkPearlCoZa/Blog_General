@@ -32,6 +32,7 @@ While the manifesto has been a great start, we've also noticed some interesting 
 
 Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles. Right now it goes as follows...
 
+~~~
 - Always build functionality as independent re-usable services, accessible via an API
 - Always re-use or consume services via their API's  
 - Always design services to support asynchronous interactions  
@@ -40,6 +41,7 @@ Having a platform manifesto was a step in the right direction. It helped highlig
 - Everything must be tested  
 - Everything is built to be centrally monitored and audited  
 - Everything is logged to a central service  
+~~~
 
 #### What's changed?
 
