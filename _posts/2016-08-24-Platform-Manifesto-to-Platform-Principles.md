@@ -6,15 +6,6 @@ category: NA
 ---
 We are in the process of moving from a product centered development approach to a platform centered development approach. This not only changes how we make things, it also means we need to change our mindset.
 
-### Our Goal
-
-- Provide reusable functionality to other consuming products and services (Be unique, independent & resilient of others)  
-- Accessible via a consistent manner by our products, services & clients 
-- Built to be secure, to scale and to be easily operated by ourselves  
-- Built for today's use, however designed for future evolutionary needs  
-- Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
-- Supported by base core platform services and third-party supplier products  
-
 To help us along this transition, as an organization we have adopted a 'platform manifesto' - it's something we have on pretty much every wall in our development space - it's in our face all the time. It goes as follows:  
 
 ### The Platform Manifesto
@@ -39,12 +30,7 @@ While the manifesto has been a great start, we've also noticed some interesting 
 
 ### Platform Principles
 
-Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles.
-
-
-
-
-### Principles 
+Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles. Right now it goes as follows...
 
 - Always build functionality as independent re-usable services, accessible via an API
 - Always re-use or consume services via their API's  
@@ -55,4 +41,8 @@ Having a platform manifesto was a step in the right direction. It helped highlig
 - Everything is built to be centrally monitored and audited  
 - Everything is logged to a central service  
 
+#### What's changed?
 
+You will notice that we have moved from fairly open and neutral wording to quite strong wording - **Always** & **Everything** are very strong words indeed. From a perspective change we don't just see value in doing things a certain way, this is the defactor way we do it.
+
+### Where to from here?
