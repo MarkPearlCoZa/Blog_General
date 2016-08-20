@@ -50,3 +50,5 @@ Having a platform manifesto was a step in the right direction. It helped highlig
 You will notice that we have moved from fairly open and neutral wording to quite strong wording - **Always** & **Everything** are very strong words indeed. From a perspective change we don't just see value in doing things a certain way, this is the defactor way we do it.
 
 ### Where to from here?
+
+It's still early days. As the Platform Principles begin to become adopted we will gain further insights into it's strengths and weaknesses.
