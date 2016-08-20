@@ -24,7 +24,7 @@ To help us along this transition we have adopted a 'platform manifesto' - it's s
 
 #### What we have learnt from the manifesto so far...
 
-The great thing about a manifesto is that it is a public declaration to the rest of the organization about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. This is a good thing and why we adopted the manifesto in the first place.
+The great thing about a manifesto is that it is a public declaration to the rest rest of the world and ourselves about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. This is a good thing and why we adopted the manifesto in the first place.
 
 While the manifesto has been a great start, we've also noticed some interesting side effects with how it is phrased. It's worded in such a way that it leaves the door open for people to 'not change' while thinking they have. 
 
