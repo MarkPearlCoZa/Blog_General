@@ -78,8 +78,92 @@ We’re sure you’ve been in the meeting where someone tries to explain exactly
 
 ### Chapter 6 - Managing Conflict  
 
+**Best chapter of the book - worth reading in detail**  
+
 There can be no change without conflict.
 
+#### Three Stages of Conflict
+
+We break conflict into three stages: disagreement, controversy, and conflict itself.
+
+It’s important to know where you are—disagreement, controversy, or conflict—because there are different tactics and considerations for each stage.  
+
+1. Disagreement, talking about ideas - differing views and approaches surface    
+2. Controversy, considering new ideas - moment of opportunity    
+3. Conflict, fighting about new ideas - moment of truth  
+
+#### Disagreement  
+
+How can we disagree without being disagreeable?
+
+- Listen before jumping in.  
+- Remember that it’s not about winning.  
+- Take out the emotion.  
+- Speak last.  
+
+**When you’re leading a meeting:**
+
+- To assess importance or urgency, ask them to rate it  
+
+*How important do you think this issue is on a scale of 1 to 10? Or how valuable do you think that direction would be on a scale of 1 to 10? Asking for a rating helps surface importance. If no one thinks it’s all that important, don’t waste your energy and reputation capital disagreeing about it.*
+
+- To keep the conversation positive, frame it in terms of appreciation  
+
+*Where has this approach worked well before? What are the upsides of going in this direction? What would success look like to you? What would be the very best outcomes for you? When you engage people with a positive mind-set, they become less defensive and more open-minded.* 
+
+- To focus on possibilities and collaboration, ask, “How might we?”
+
+*To move a conversation away from problems associated with your idea, ask a “How Might We” question. How implies there’s a solution. Might makes it safe to suggest ideas that may or may not work. We means that we’re in this together and are trying to collaborate for the good of the organization.*
+
+- To keep people from feeling defensive, avoid why questions.  
+
+*Asking why questions during disagreements can make people defensive. Why can be seen as interrogating a person, whereas what asks about the situation.*  
+
+**Disagreement is essential to learning what people think, feel, and want to see happen (or not happen). It can clarify thinking and create shared understanding. Often when there’s a difference of opinion, people don’t know whether they really disagree, whether they have different information or different values, or whether cognitive bias is coloring their perspective. It’s incumbent upon the rebel at work to clarify this for everyone at the meeting. Try to gently surface the reasons behind the disagreement.**
+
+#### Controversy  
+
+There are ways to manage controversy, but there are no ways to avoid it  
+
+**CONTROVERSY IS NECESSARY FOR CHANGE**
+
+Change often entails controversy. If an idea doesn’t generate controversy, it might not be as strong as it could be
+
+> Remember, consensus is not a decision-making strategy. In fact, it is the opposite. It’s a technique to avoid making difficult choices  
+
+#### Conflict 
+
+Often we have a hard time with conflict. 
+
+**The more skilled we are with conflict, the less afraid of it and the more powerful—or, better yet, influential—we become**  
+
+Types of conflict: 
+
+- Interpersonal, some people just don’t get along. They rub each other the wrong way.  
+- Structural, goals of different organizations or departments. People disagree on the direction. Conflict over tactics, strategic direction, or tactical approach.  
+- Values-based, most serious form of conflict and almost impossible to resolve.  
+
+> Understand your organization to be able to make change. Create change but don’t try to change your organization. 
+
+If your values are far removed from those of your boss or organization, you have a stark choice—suffer at work or leave.  
+If people in your organization hold values that you find intolerable, you won’t be able to change them. Trying to do so will wear you out, hurt your reputation, and quite possibly affect important things like friendships and your sense of optimism.  
+
+
+#### Interpersonal Conflict 
+
+- Best default is empathy  
+- Arguments based on logic lead to an impasse or even more ill feelings  
+
+#### Conflic Tactics in Meetings  
+
+If in a meeting there is high tension disarm the situation by acknowledging that tensions are high and disagreements are real. 
+
+Here are some tactics:
+
+- We’re all feeling frustrated and on edge. Let’s go around the room and share what we’re feeling in a sentence or a couple of words.  
+- We’re not making progress because emotions are running high. Should we adjourn and cool off?  
+- Are there data points that might help us see more clearly?  
+- Should we get someone outside our group to facilitate so that we can resolve this?  
 
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
