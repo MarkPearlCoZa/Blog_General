@@ -22,10 +22,9 @@ To help in a change of mindset, we have had a platform manifesto - it's somethin
 - The greater good over individual objectives
 ~~~
 
-#### What's great about a manifesto
+#### Whats we have learnt from the manifesto
 
-The great thing about a manifesto is that it is a public declaration about our how we do things as software engineers. 
-It was a step in the right direction.
+The great thing about a manifesto is that it is a public declaration about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto. 
 
 #### The problems 
 
@@ -33,10 +32,10 @@ Having a platform manifesto was a step forward in the right direction. It helped
 
 ### Our Goal
 
-- Provide resuable functionality to other consuming products and services (Be unique, independent & resilient of others)  
+- Provide reusable functionality to other consuming products and services (Be unique, independent & resilient of others)  
 - Accessible via a consistent manner by our products, services & clients 
 - Built to be secure, to scale and to be easily operated by ourselves  
-- Built for todays use, however designed for future evolutionary needs  
+- Built for today's use, however designed for future evolutionary needs  
 - Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
 - Supported by base core platform services and third-party supplier products  
 
