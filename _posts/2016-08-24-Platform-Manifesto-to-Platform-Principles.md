@@ -2,8 +2,14 @@
 layout: post
 title: Platform Manifesto vs Platform Principles  
 tags: Design
-category: General
+category: NA
 ---
+At my current company we dominated our industry for decades with our desktop software. We were the leaders, offering great products with great support. When the web emerged we missed it. This opened the door for other companies who solved the same problems we were, but leveraged the web and got all the benefits associated with it. We had to adapt
+
+a transformation from a desktop product based company to a online platform company. nd at some point we missed out on power of the web which opened the door for new players. To stay relevant we are transitioning from a product company to a platform company.
+
+When any company makes any major transformation mindsets and approaches need to change. Running a desktop product company is very different from running a online platform company. Not only do we have to change what we make, we also need to change how we make it, how we sell and market it and how we support it.
+
 
 - Provide resuable functionality to other consuming products and services (Be unique, independent & resilient of others)  
 - Accessible via a consistent manner by our products, services & clients 
