@@ -37,8 +37,6 @@ To get to that thought you have progressed through the ladder of inference.
 
 [Read more about ladder of inference](https://pivotalthinking.wordpress.com/tag/ladder-of-inference/)  
 
-### Assumptions
-
 - I see the world as it is; those who disagree don't  
 - I am right; those who disagree are wrong  
 - I have pure motives; those who disagree have questionable motives  
