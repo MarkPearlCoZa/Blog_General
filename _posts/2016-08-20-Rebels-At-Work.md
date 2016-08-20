@@ -165,6 +165,45 @@ Here are some tactics:
 - Are there data points that might help us see more clearly?  
 - Should we get someone outside our group to facilitate so that we can resolve this?  
 
+### Chapter 7 - Dealing with Fear, Uncertainty & Doubt
+
+> The greater your existing reputation capital, such as a history of creating successful programs or managing projects, the less you have to fear about your big rebel idea hurting your reputation.
+
+#### Know where your boss is comming from  
+
+- Make sure you support the bottom line, or whatever results “count.”  
+- Understand your boss’s red lines and don’t cross them.  
+- Invest in learning how your boss likes to receive ideas and feedback.  
+
+#### Fear about reputation
+
+Ask yourself, “On a scale of 1 to 10, 10 being the best, how much would the organization benefit if my idea is successful?” 
+- If you answer 8–10, it’s likely worth the risk.   
+- If it’s 4–7, take time to consider it more before charging ahead.   
+- if it’s 1–3, it may not be worth it.  
+
+#### Fear about senior management  
+
+Senior leaders will want you to cut to the chase and address some important questions:
+
+- How does this help us achieve one of our important goals?  
+- Is it feasible?  
+- What do you know for sure about the situation and what needs to be learned?  
+- What are the risks?  
+- What kind of resources (financial and people) will it take?  
+- Is the investment worth the likely outcome?  
+- How long will it take to implement your idea?   
+- How do you plan to measure progress and success?  
+
+[See Immunity to Change Model](http://www.extension.harvard.edu/inside-extension/why-we-struggle-change-how-overcome-it) 
+
+#### Thoughts to ponder  
+
+-What are the top two fears that hold you back from leading change at work? What can you do to reduce the risks associated with each of these fears?  
+- What’s your give-up line? What is happening around you when you start using it? Now that you know what it is, what can you do differently when you hear yourself start to say it?  
+- What hidden assumptions might be blocking you from achieving what’s especially important at work? How can you test those assumptions to see if they’re really true?  
+- What is your dominant strength? How might you use that strength to increase your confidence?  
+
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957

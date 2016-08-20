@@ -26,9 +26,12 @@ To help change our mindset in how we made software as a development organization
 - The greater good over individual objectives
 ~~~
 
-#### The great things about a manifesto
+#### What's great about a manifesto
 
-The great thing about a manifesto is that it is a public declaration about our how we do things.
+The great thing about a manifesto is that it is a public declaration about our how we do things as software engineers. 
+It was a step in the right direction.
+
+#### The problems 
 
 Having a platform manifesto was a step forward in the right direction. It helped highlight what mindsets and approaches we needed to change.
 
