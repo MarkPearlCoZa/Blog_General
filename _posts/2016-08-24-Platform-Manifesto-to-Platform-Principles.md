@@ -10,7 +10,7 @@ When any company makes any major transformation mindsets and approaches need to 
 
 Since I'm involved in how we make it, I'm going to share some of the experiences and learnings we have gained in making this transition.
 
-### The Playform Manifesto
+### The Platform Manifesto
 
 To help change our mindset in how we made software as a development organization we adopted a platform manifesto. The platform manifesto went as follows:
 
