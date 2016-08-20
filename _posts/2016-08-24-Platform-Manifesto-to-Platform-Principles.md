@@ -32,7 +32,7 @@ One way to explain it is by using the model of **Espoused Theory vs Theory in Us
 
 ### From Platform Manifesto to Platform Principles
 
-Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles. Right now it goes as follows...
+Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly positioned document called our platform principles. Right now it goes as follows...
 
 ~~~
 - Always build functionality as independent re-usable services, accessible via an API
@@ -45,10 +45,10 @@ Having a platform manifesto was a step in the right direction. It helped highlig
 - Everything is logged to a central service  
 ~~~
 
-#### What's changed?
+### What's changed?
 
-You will notice that we have moved from fairly open and neutral wording to quite strong wording - **Always** & **Everything** are very strong words indeed. From a perspective change we don't just see value in doing things a certain way, this is the defactor way we do it.
+You will notice that we have moved from fairly open and neutral wording to quite strong wording - **Always** & **Everything** are very strong words indeed. From a perspective change we don't just see value in doing things a certain way, this is the de facto way we do it.
 
 ### Where to from here?
 
-It's still early days. As the Platform Principles begin to become adopted we will gain further insights into it's strengths and weaknesses.
+It's still early days. As the Platform Principles begin to become adopted we will gain further insights into it's strengths and weaknesses. In general I've already seen the benefits of us having the Platform Manifesto. Keeping things at an abstract and principled level allows us to interpret the implementation to our specific problem domain.
