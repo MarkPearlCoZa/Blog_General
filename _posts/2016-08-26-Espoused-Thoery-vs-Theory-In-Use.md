@@ -10,9 +10,9 @@ The problem isn't what we espouse, the problem is our theory in use.
 
 #### Example
 
-> Do people value good decisions or do they value having their own way?
-
-Most people would say they value good decisions. What do you observe most people doing?
+Do people value good decisions or do they value having their own way?  
+Most people would say they value good decisions.   
+What do you observe most people doing?  
 
 #### References
 
