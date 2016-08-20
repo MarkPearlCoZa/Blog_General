@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Platform Manifesto vs Platform Principles  
+title: Platform Manifesto to Platform Principles  
 tags: Design
 category: NA
 ---
-At my current company we dominated our industry for decades with our desktop software. We were the leaders, offering great products with great support. When the web emerged we missed it. This opened the door for other companies who solved the same problems we were, but leveraged the web and got all the benefits associated with it. We had to adapt
+At my current company we dominated our industry for decades with our desktop software. We were the leaders, offering great products with great support. When the web emerged we missed it. This opened the door for other companies who solved the same problems we were, but who leveraged the web and got all the benefits associated with it. We had to adapt
 
 a transformation from a desktop product based company to a online platform company. nd at some point we missed out on power of the web which opened the door for new players. To stay relevant we are transitioning from a product company to a platform company.
 
