@@ -15,7 +15,9 @@ These notes are based on [Jeffery Fredrick's](https://twitter.com/jtf) talk on "
 
 Whenever you learn something new, it replaces your previous view - that means that up to the point you learn't the thing, you were wrong.  
 
-### The uncanny valley of a functional organization
+### The Uncanny Valley of a Functional Organization
+
+*The uncanny valley is a hypothesis in the field of human aesthetics which holds that when human features look and move almost, but not perfectly, like natural human beings, it causes a response of revulsion among human observers.*  
 
 <img class="img-responsive" alt="Uncanny valley of a functional valley" src="{{ site.url }}/assets/images/Uncanny-valley-of-a-functional-organization.jpg">
 
