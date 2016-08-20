@@ -28,7 +28,7 @@ The great thing about a manifesto is that it is a public declaration to the rest
 
 While the manifesto has been a great start, we've also noticed some interesting side effects with how it is phrased. It's worded in such a way that it leaves the door open for people to 'not change' while thinking they have. One way to explain it is by using the model of **Espoused Theory vs Theory in Use**. Nobody in our development space would say at a particular moment that they have 'short term thinking' - we all espouse to have medium or long term thinking however the reality is that in many situations our theory in use is definitely short term. In that sense the platform manifesto while a great start, still leaves the door open for behaviors and approaches we should not be taking.
 
-### Platform Principles
+### From Platform Manifesto to Platform Principles
 
 Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles. Right now it goes as follows...
 
