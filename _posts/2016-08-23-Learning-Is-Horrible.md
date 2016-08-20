@@ -21,3 +21,5 @@ Whenever you learn something new, it replaces your previous view - that means th
 
 > Anything that is almost perfect, but not quite, is actually worse than something that is good enough
 
+[Read more about this concept here](https://stratechery.com/2013/the-uncanny-valley-of-a-functional-organization/)  
+
