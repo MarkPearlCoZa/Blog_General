@@ -52,3 +52,7 @@ You will notice that we have moved from fairly open and neutral wording to quite
 ### Where to from here?
 
 It's still early days. As the Platform Principles begin to become adopted we will gain further insights into it's strengths and weaknesses. In general I've already seen the benefits of us having the Platform Manifesto. Keeping things at an abstract and principled level allows us to interpret the implementation to our specific problem domain.
+
+### What does your organization do?
+
+I'm interested in finding out how your organization does it? Do you have something similar. Are your overarching principles clear as an engineering team? What have you tried? Please add your comments below.
