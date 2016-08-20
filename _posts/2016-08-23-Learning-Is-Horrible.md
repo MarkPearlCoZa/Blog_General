@@ -58,3 +58,13 @@ To get to that thought you have progressed through the ladder of inference.
 
 [Read more about eight behaviors](https://www.csu.edu.au/__data/assets/pdf_file/0008/917018/Eight-Behaviors-for-Smarter-Teams-2.pdf)  
 
+### Espoused Theory vs Theory in Use
+
+Knowing how something works and being able to work it are two different things.
+
+> The way a piano works is you press a key, this triggers a hammer which in return hits the appropriate string. Are you now able to make music?
+
+- Espoused Theory would be knowing how a piano works  
+- Theory in use is making music  
+
+
