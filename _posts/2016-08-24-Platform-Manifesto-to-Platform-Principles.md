@@ -6,6 +6,15 @@ category: NA
 ---
 We are in the process of moving from a product centered development approach to a platform centered development approach. This not only changes how we make things, it also means we need to change our mindset.
 
+### Our Goal
+
+- Provide reusable functionality to other consuming products and services (Be unique, independent & resilient of others)  
+- Accessible via a consistent manner by our products, services & clients 
+- Built to be secure, to scale and to be easily operated by ourselves  
+- Built for today's use, however designed for future evolutionary needs  
+- Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
+- Supported by base core platform services and third-party supplier products  
+
 To help us along this transition, as an organization we have adopted a 'platform manifesto' - it's something we have on pretty much every wall in our development space - it's in our face all the time. It goes as follows:  
 
 ### The Platform Manifesto
@@ -22,22 +31,16 @@ To help us along this transition, as an organization we have adopted a 'platform
 - The greater good over individual objectives
 ~~~
 
-### What we have learnt from the Platform Manifesto so far...
+#### What we have learnt from the Platform Manifesto so far...
 
 The great thing about a manifesto is that it is a public declaration to the rest of the organization about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. 
 
-#### The problems 
+While the manifesto has been a great start, we've also noticed some interesting side effects with how it is phrased. It's worded in such a way that it leaves the door open for people to 'not change' while thinking they have. One way to explain it is by using the model of **Espoused Theory vs Theory in Use**. Nobody in our development space would say at a particular moment that they have 'short term thinking' - we all espouse to have medium or long term thinking however the reality is that in many situations our theory in use is definitely short term. In that sense the platform manifesto while a great start, still leaves the door open for behaviors and approaches we should not be taking.
 
-Having a platform manifesto was a step forward in the right direction. It helped highlight what mindsets and approaches we needed to change.
+### Platform Principles
 
-### Our Goal
+Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly stanced document called our platform principles.
 
-- Provide reusable functionality to other consuming products and services (Be unique, independent & resilient of others)  
-- Accessible via a consistent manner by our products, services & clients 
-- Built to be secure, to scale and to be easily operated by ourselves  
-- Built for today's use, however designed for future evolutionary needs  
-- Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
-- Supported by base core platform services and third-party supplier products  
 
 
 
