@@ -57,4 +57,4 @@ It's still early days. As the Platform Principles begin to become adopted we wil
 
 ### What does your organization do?
 
-I'm interested in finding out how your organization does it? Do you have something similar. Are your overarching principles clear as an engineering team? What have you tried? Please add your comments below.
+I'm interested in finding out how your organization does it? Do you have something similar. Are your overarching principles clear as an engineering team? What have you tried? Please add your comments / insights below.
