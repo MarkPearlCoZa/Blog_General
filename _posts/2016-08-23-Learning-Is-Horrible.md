@@ -67,4 +67,11 @@ Knowing how something works and being able to work it are two different things.
 - Espoused Theory would be knowing how a piano works  
 - Theory in use is making music  
 
+### Emotional Agility  
 
+1. Recognize your patterns  
+2. Label your thoughts and emotions
+3. Accept them
+4. Act on your values  
+
+[Read more about emotional agility](https://hbr.org/2013/11/emotional-agility)  
