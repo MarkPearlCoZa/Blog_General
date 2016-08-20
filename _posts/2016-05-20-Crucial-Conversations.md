@@ -2,7 +2,7 @@
 layout: post
 title: Crucial Conversations
 tags: People Conflict
-category: Media
+category: Soft
 ---
 #### Summary ####
 
