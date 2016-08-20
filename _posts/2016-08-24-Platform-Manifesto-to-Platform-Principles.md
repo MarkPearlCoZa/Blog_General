@@ -32,7 +32,9 @@ One way to explain it is by using the model of **Espoused Theory vs Theory in Us
 
 ### From Platform Manifesto to Platform Principles
 
-Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly positioned document called our platform principles. Right now it goes as follows...
+Having a platform manifesto was a step in the right direction. It helped highlight what mindsets and approaches we needed to change. We are however moving on to a more strongly positioned document called our platform principles. 
+
+Right now it goes as follows...
 
 ~~~
 - Always build functionality as independent re-usable services, accessible via an API
