@@ -58,12 +58,23 @@ To get to that thought you have progressed through the ladder of inference.
 
 ### Espoused Theory vs Theory in Use
 
-Knowing how something works and being able to work it are two different things.
+> Do people value good decisions or do they value having their own way
+
+Most people would say they value good decisions. What do you observe most people doing?
+
+The problem isn't what we espouse, the problem is our theory in us.
+
+[View video on Espoused Theory vs Theory in Use](https://www.youtube.com/watch?v=maAyBcVw5LU)  
+
+### Deliberate Practice
 
 > The way a piano works is you press a key, this triggers a hammer which in return hits the appropriate string. Are you now able to make music?
 
-- Espoused Theory would be knowing how a piano works  
-- Theory in use is making music  
+Knowing how a piano works and playing music are two different things!
+
+> Knowing how something works and being able to work it are two different things.  
+
+It takes deliberate practice to get something right. To collaborate you need deliberate practice in collaborating.  
 
 ### Emotional Agility  
 
