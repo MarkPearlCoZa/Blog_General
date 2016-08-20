@@ -5,7 +5,7 @@ tags: Agile
 category: Media
 ---
 
-These notes are based on Jeffery Fredrick's talk on "[#LearningIsHorrible, and Other Harsh Realities](https://www.infoq.com/presentations/psychology-agile-adoption)" done at QCon in April 2016
+These notes are based on [Jeffery Fredrick's](https://twitter.com/jtf) talk on "[#LearningIsHorrible, and Other Harsh Realities](https://www.infoq.com/presentations/psychology-agile-adoption)" done at QCon in April 2016
 
 ------------------------------------------------------------------------
 
