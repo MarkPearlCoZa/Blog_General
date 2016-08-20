@@ -6,7 +6,7 @@ category: NA
 ---
 We are in the process of moving from a product centered development approach to a platform centered development approach. This not only changes how we make things, it also means we need to change our mindset.
 
-To help us along this transition, as an organization we have adopted a 'platform manifesto' - it's something we have on pretty much every wall in our development space - it's in our face all the time. It goes as follows:  
+To help us along this transition we have adopted a 'platform manifesto' - it's something we have on pretty much every wall in our development space - it's in our face all the time. It goes as follows:  
 
 ### The Platform Manifesto
 
