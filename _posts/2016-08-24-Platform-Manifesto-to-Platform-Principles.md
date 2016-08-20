@@ -8,6 +8,9 @@ At my current company we dominated our industry for decades with our desktop sof
 
 When any company makes any major transformation mindsets and approaches need to change. Running a desktop product company is very different from running a online platform company. Not only do we have to change what we make, we also need to change how we make it, how we sell it, how we market it and how we support it.
 
+Since I'm involved in how we make it, I'm going to share some of the experiences and learnings we have gained in making this transition.
+
+### Our Goal
 
 - Provide resuable functionality to other consuming products and services (Be unique, independent & resilient of others)  
 - Accessible via a consistent manner by our products, services & clients 
