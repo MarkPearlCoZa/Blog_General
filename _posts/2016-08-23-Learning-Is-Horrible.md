@@ -21,7 +21,7 @@ Whenever you learn something new, it replaces your previous view - that means th
 
 > Anything that is almost perfect, but not quite, is actually worse than something that is good enough
 
-[Read more about this concept here](https://stratechery.com/2013/the-uncanny-valley-of-a-functional-organization/)  
+[Read more about uncanny valley of a functional organization](https://stratechery.com/2013/the-uncanny-valley-of-a-functional-organization/)  
 
 ### Ladder of Inference 
 
@@ -34,3 +34,5 @@ You are making a proposal in meeting and the main stakeholder you are trying to 
 To get to that thought you have progressed through the ladder of inference.  
 
 <img class="img-responsive" alt="Ladder of inference" src="{{ site.url }}/assets/images/Ladder-of-inference.png">
+
+[Read more about ladder of inference](https://pivotalthinking.wordpress.com/tag/ladder-of-inference/)  
