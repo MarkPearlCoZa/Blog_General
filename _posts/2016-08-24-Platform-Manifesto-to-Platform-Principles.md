@@ -24,7 +24,7 @@ To help us along this transition, as an organization we have adopted a 'platform
 
 #### What we have learnt from the manifesto so far...
 
-The great thing about a manifesto is that it is a public declaration about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto. 
+The great thing about a manifesto is that it is a public declaration to the rest of the organization about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. 
 
 #### The problems 
 
