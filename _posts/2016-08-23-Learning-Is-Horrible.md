@@ -31,4 +31,6 @@ You are making a proposal in meeting and the main stakeholder you are trying to 
 - he's not interested  
 - he needs to be in another meeting  
 
+To get to that thought you have progressed through the ladder of inference.  
+
 <img class="img-responsive" alt="Ladder of inference" src="{{ site.url }}/assets/images/Ladder-of-inference.png">
