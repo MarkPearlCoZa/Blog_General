@@ -24,7 +24,7 @@ To help us along this transition, as an organization we have adopted a 'platform
 
 #### What we have learnt from the manifesto so far...
 
-The great thing about a manifesto is that it is a public declaration to the rest of the organization about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. 
+The great thing about a manifesto is that it is a public declaration to the rest of the organization about our how we do things as engineers. Several times in design discussions a colleague has challenged a particular approach, quoting a section of the manifesto to motivate why we should or should not do something. This is a good thing and why we adopted the manifesto in the first place.
 
 While the manifesto has been a great start, we've also noticed some interesting side effects with how it is phrased. It's worded in such a way that it leaves the door open for people to 'not change' while thinking they have. One way to explain it is by using the model of **Espoused Theory vs Theory in Use**. Nobody in our development space would say at a particular moment that they have 'short term thinking' - we all espouse to have medium or long term thinking however the reality is that in many situations our theory in use is definitely short term. In that sense the platform manifesto while a great start, still leaves the door open for behaviors and approaches we should not be taking.
 
