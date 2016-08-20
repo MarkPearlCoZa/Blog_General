@@ -10,17 +10,11 @@ When any company makes any major transformation mindsets and approaches need to 
 
 Since I'm involved in how we make it, I'm going to share some of the experiences and learnings we have gained in making this transition.
 
-### Our Goal
+### The Manifesto
 
-- Provide resuable functionality to other consuming products and services (Be unique, independent & resilient of others)  
-- Accessible via a consistent manner by our products, services & clients 
-- Built to be secure, to scale and to be easily operated by ourselves  
-- Built for todays use, however designed for future evolutionary needs  
-- Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
-- Supported by base core platform services and third-party supplier products  
+To help change our mindset in how we make software we adopted a platform manifesto. It goes as follows:
 
-### Manifesto
-
+~~~
 - Medium term thinking over short term thinking  
 - Existing experiences over different variations  
 - Capabilities as services over monolith extensions  
@@ -30,6 +24,18 @@ Since I'm involved in how we make it, I'm going to share some of the experiences
 - Asynchronous interactions over synchronous coupling  
 - Stable technologies over the unproven  
 - The greater good over individual objectives
+~~~
+
+### Our Goal
+
+- Provide resuable functionality to other consuming products and services (Be unique, independent & resilient of others)  
+- Accessible via a consistent manner by our products, services & clients 
+- Built to be secure, to scale and to be easily operated by ourselves  
+- Built for todays use, however designed for future evolutionary needs  
+- Be proliferated though our products and services via reuse, rarely rebuilt or duplicated
+- Supported by base core platform services and third-party supplier products  
+
+
 
 ### Principles 
 
