@@ -2,8 +2,8 @@
 layout: post
 title: "Rebels at Work by L. Kelly & C. Medina"
 description: "A handbook for leading change from within"
+tags: Book Conflict
 category: Media
-tags: [Book]
 ---
 
 ### Chapter 3 - Gaining Credibility

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Crucial Conversations
-tags: People
-category: Soft
+tags: People Conflict
+category: Media
 ---
 #### Summary ####
 
