@@ -17,7 +17,7 @@ Whenever you learn something new, it replaces your previous view - that means th
 
 ### The Uncanny Valley of a Functional Organization
 
-*The uncanny valley is a hypothesis in the field of human aesthetics which holds that when human features look and move almost, but not perfectly, like natural human beings, it causes a response of revulsion among human observers.*  
+*The uncanny valley is a hypothesis in the field of human aesthetics which holds that when human features look and move almost, but not perfectly, like natural human beings, it causes a response of revulsion among human observers. The concept can be extended to other areas as well...*  
 
 <img class="img-responsive" alt="Uncanny valley of a functional valley" src="{{ site.url }}/assets/images/Uncanny-valley-of-a-functional-organization.jpg">
 
