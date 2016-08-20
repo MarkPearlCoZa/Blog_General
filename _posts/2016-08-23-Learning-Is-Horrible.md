@@ -78,9 +78,13 @@ It takes deliberate practice to get something right. To collaborate you need del
 
 ### Emotional Agility  
 
+What does agility mean? Agility is the ability to choose something that is appropriate for the context.
+
 1. Recognize your patterns  
 2. Label your thoughts and emotions
 3. Accept them
 4. Act on your values  
+
+If you really value collaboration, you need to put the work in to asking questions, listening and caring about the responses.  
 
 [Read more about emotional agility](https://hbr.org/2013/11/emotional-agility)  
