@@ -110,6 +110,11 @@ ls --color=auto
 ~~~
 diplays listing with color
 
+~~~
+ls -lah
+~~~
+displays file in hum readable list style with size  
+
 ### Finding Files ###
 
 ~~~

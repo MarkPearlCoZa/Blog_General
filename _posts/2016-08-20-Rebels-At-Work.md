@@ -76,6 +76,10 @@ Once the first followers get behind the idea, work together to influence 10 perc
 
 We’re sure you’ve been in the meeting where someone tries to explain exactly how his idea will work. Once they go there, you begin losing momentum and they get stuck trying to explain how the sausage will be made—a sausage that no one has ever tasted, a sausage, in fact, that you’ve never even cooked before. Don't get stuck on how the sausage is made, keep things at a conceptual level.  
 
+### Chapter 6 - Managing Conflict  
+
+There can be no change without conflict.
+
 
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
