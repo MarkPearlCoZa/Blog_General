@@ -23,3 +23,12 @@ Whenever you learn something new, it replaces your previous view - that means th
 
 [Read more about this concept here](https://stratechery.com/2013/the-uncanny-valley-of-a-functional-organization/)  
 
+### Ladder of Inference 
+
+You are making a proposal in meeting and the main stakeholder you are trying to convince glances down and checks their watch. What do you think?
+
+- he's bored  
+- he's not interested  
+- he needs to be in another meeting  
+
+<img class="img-responsive" alt="Ladder of inference" src="{{ site.url }}/assets/images/Ladder-of-inference.png">
