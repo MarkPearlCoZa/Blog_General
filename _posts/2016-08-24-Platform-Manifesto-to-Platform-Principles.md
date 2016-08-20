@@ -4,15 +4,11 @@ title: From Platform Manifesto to Platform Principles
 tags: Design
 category: NA
 ---
-At my current company we have dominated our industry for decades with our desktop software. We were the leaders, offering great products with great support. When the web emerged we missed it. This opened the door for other companies who solved the same problems we were, but who leveraged the web and got all the benefits associated with it. We had to adapt to stay relevant.
+We are in the process of moving from a product centered development approach to a platform centered development approach. This not only changes how we make things, it also means we need to change our mindset.
 
-When any company makes any major transformation mindsets and approaches need to change. Running a desktop product company is very different from running a online platform company. Not only do we have to change what we make, we also need to change how we make it, how we sell it, how we market it and how we support it.
-
-Since I'm involved in how we make it, I'm going to share some of the experiences and learnings we have gained in making this transition.
+To help in a change of mindset, we have had a platform manifesto - it's something we have on pretty much every wall in our development space. It goes as follows:  
 
 ### The Platform Manifesto
-
-To help change our mindset in how we made software as a development organization we adopted a platform manifesto. The platform manifesto went as follows:
 
 ~~~
 - Medium term thinking over short term thinking  
