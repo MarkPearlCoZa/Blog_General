@@ -5,7 +5,7 @@ tags: Design
 category: Misc
 ---
 
-These notes are based on Kent Beck's talk on "[Software Design: Why, When & How](https://vimeo.com/105771493)" done at JavaZone in September 2014.
+These notes are based on [Kent Beck's](https://twitter.com/KentBeck) talk on "[Software Design: Why, When & How](https://vimeo.com/105771493)" done at JavaZone in September 2014.
 
 ------------------------------------------------------------------------
 
