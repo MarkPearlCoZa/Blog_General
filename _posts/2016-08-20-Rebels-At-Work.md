@@ -204,6 +204,8 @@ Senior leaders will want you to cut to the chase and address some important ques
 - What hidden assumptions might be blocking you from achieving what’s especially important at work? How can you test those assumptions to see if they’re really true?  
 - What is your dominant strength? How might you use that strength to increase your confidence?  
 
+### Chapter 8 - A guide to rebel self-care  
+
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957
