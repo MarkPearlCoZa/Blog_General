@@ -39,7 +39,7 @@ Having a platform manifesto was a step in the right direction. It helped highlig
 - Always re-use or consume services via their API's  
 - Always design services to support asynchronous interactions  
 - Everything that is repeated is automated  
-- Everything must be build secure  
+- Everything must be built secure  
 - Everything must be tested  
 - Everything is built to be centrally monitored and audited  
 - Everything is logged to a central service  
