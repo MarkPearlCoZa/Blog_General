@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Platform Manifesto to Platform Principles  
+title: From Platform Manifesto to Platform Principles  
 tags: Design
 category: NA
 ---
