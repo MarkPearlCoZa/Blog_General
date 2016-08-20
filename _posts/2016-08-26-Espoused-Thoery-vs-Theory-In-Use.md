@@ -4,8 +4,9 @@ title: Espoused Theory vs Theory in Use
 tags: People 
 category: Soft
 ---
-What we 'think' we do, and what we actually do can be disconnected
+#### General Concept
 
+What we 'think' we do, and what we actually do can be disconnected
 The problem isn't what we espouse, the problem is our theory in use.
 
 #### Example
