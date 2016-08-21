@@ -9,7 +9,9 @@ Whenever advocating change, it helps to understand the mindset of all the people
 
 I recently was reminded that software is not just created by programmers - there are other people that add just as much value to the process that are looking at the problem from a totally different perspective. 
 
-Suggesting a particular approach without keeping in mind these other perspectives is short sighted. One such perspective to keep in mind is that of the Business Analyst. I recently got an opportunity to chat with a business analyst on some of the concerns she had regarding moving the team to a physical board. Here are some of the insights I gained from the experience.  
+Suggesting a particular approach without keeping in mind these other perspectives is short sighted. One such perspective to keep in mind is that of the Business Analyst. 
+
+I recently got an opportunity to chat with a business analyst on some of the concerns she had regarding moving the team to a physical board. Here are some of the insights I gained from the experience.  
 
 ### Traceability 
 
