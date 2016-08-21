@@ -47,9 +47,11 @@ She might be concerned that won’t have anything to show if someone asks what t
 She might also be concerned that is losing her place to store documentation. 
 Which also says to me that she is possibly producing too much – you can’t stick 20 pages attached to a user story up on a board that easily… 
 
-This is something you could explore (delicately) with her. She may be producing a lot of “working documents”. These are models (process models, concept diagrams, etc.) that a BA might complete in order to understand the problem, or help her break down the epics into smaller stories. These are not usually shared with the team as they are “working papers”. Many BA’s would not want to lose those models – just in case they need to go back to it later (not sure how mature the team is – in less mature teams, BA’s want to keep it for CYA scenarios). If she can’t put it in the tool, there won’t be any traceability back to her working papers – which is the “proof” that she analysed something well.
+#### Team documentation vs analyst documentation
 
-### Reduced analysis upfront  
+She may be producing a lot of “working documents”. These are models (process models, concept diagrams, etc.) that a BA might complete in order to understand the problem, or help her break down the epics into smaller stories. These are not usually shared with the team as they are “working papers”. Many BA’s would not want to lose those models – just in case they need to go back to it later (not sure how mature the team is – in less mature teams, BA’s want to keep it for CYA scenarios). If she can’t put it in the tool, there won’t be any traceability back to her working papers – which is the “proof” that she analysed something well.
+
+### Reduced analysis upfront could lead to failure
 
 Yes – BA’s are very worried that lack of analysis will be the reason that an Agile project fail – and that they will take the blame. Are their any approaches or tools we can leverage to minimise this? Figure out where she can still store her “working documents” as well as the acceptance criteria (although if you are still using a digital tool, you could just keep it in there). How do you feel about physical vs digital boards? I often work with mixed physical/ digital boards. The product backlog is usually in a tool (I like excelJ, I like other tools a lot less), while the sprint backlog is shown on the physical board (with the detailed acceptance criteria, etc. stored in the tool). The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
  
