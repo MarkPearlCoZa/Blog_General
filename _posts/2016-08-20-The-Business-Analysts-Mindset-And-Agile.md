@@ -11,7 +11,9 @@ I recently was reminded that software is not just created by programmers - there
 
 Suggesting a particular approach without keeping in mind these perspectives is one dimensional. One such perspective to keep in mind is that of the Business Analyst. 
 
-I recently got an opportunity to chat with my friend [Angie Doyle](https://twitter.com/doyle_angie) who shared some of her insights on the perspectives a business analyst has regarding agile in general and moving a team to a physical board. The conversatin started as follows:  
+I recently got an opportunity to email with my friend [Angie Doyle](https://twitter.com/doyle_angie) who shared some of her insights on the perspectives a business analyst has regarding agile in general and moving a team to a physical board. 
+
+The email started from my side as follows:  
 
 ~~~
 Yesterday I had a long discussion with our team about considering moving from a digital board to a mixed physical / digital board. I feel that doing so will change the face to face communication during stand-ups, make capacity of the team clearer and may make flow more visible. I could see during the discussion that one person in the team seemed concerned - it was the BA. 
