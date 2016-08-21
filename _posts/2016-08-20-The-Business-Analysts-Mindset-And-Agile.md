@@ -7,7 +7,7 @@ category: NA
 
 Whenever advocating change, it helps to understand the mindset of all the people who will be affected by it. At its essence, agile software development is about change. Because I have been a software developer all my life, I have always looked at agile and the change it effects from a 'programmers' mindset.
 
-I recently was reminded that software is not just created by programmers - there are other people that add just as much value to the process that are looking at the problem from a totally different perspective. 
+I recently was reminded that software is not just created by programmers - there are other people that add just as much value to the process that are looking at it from a totally different perspective. 
 
 Suggesting a particular approach without keeping in mind these other perspectives is short sighted. One such perspective to keep in mind is that of the Business Analyst. 
 
