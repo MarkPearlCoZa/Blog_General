@@ -9,7 +9,7 @@ Whenever advocating change, it helps to understand the mindset of all the people
 
 I recently was reminded that software is not just created by programmers, there are other people that add just as much value to the process that are looking at the problem from a totally different perspective. 
 
-Suggesting a particular approach without keeping in mind these other perspectives is short sighted and inconsiderate. One such perspective to keep in mind is that of the Business Analyst.
+Suggesting a particular approach without keeping in mind these other perspectives is short sighted. One such perspective to keep in mind is that of the Business Analyst.
 
 What are some of the questions a BA has when involved in an agile project:
 
