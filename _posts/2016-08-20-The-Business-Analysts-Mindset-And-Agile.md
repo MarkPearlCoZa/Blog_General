@@ -65,9 +65,7 @@ The physical cards correspond to the same story in the digital tool – i.e. the
  
 I usually also show (on a physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
  
-### Where do I store my CYA scenarios?
-
 ### References
 
 [BA Times](https://www.batimes.com/)  
-
+[Angie Doyle on Twitter](https://twitter.com/doyle_angie)  
