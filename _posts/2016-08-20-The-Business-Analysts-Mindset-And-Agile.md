@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: Transitioning to Agile BA
+title: The Business Analysts Mindset and Agile
 tags: Agile  
 category: NA
 ---  
