@@ -206,6 +206,12 @@ Senior leaders will want you to cut to the chase and address some important ques
 
 ### Chapter 8 - A guide to rebel self-care  
 
+In other words, love your work and live a full life that provides meaning and contributes to your identity. 
+
+Should things not go well at work, as can happen, you will have better coping skills to bounce back.
+
+Work is not more important than people
+
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957
