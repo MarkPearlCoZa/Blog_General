@@ -59,9 +59,9 @@ Figure out where she can still store her “working documents” as well as the 
 
 #### Digital and physical board combo's 
 
-I often work with mixed physical/digital boards. The product backlog is usually in a tool (I like excel, I like other tools a lot less). 
+I often work with mixed physical/digital boards. The product backlog is usually in a tool (I like excel, I like other tools a lot less). While the sprint backlog is shown on the physical board (with the detailed acceptance criteria, etc. stored in the tool). 
 
-While the sprint backlog is shown on the physical board (with the detailed acceptance criteria, etc. stored in the tool). The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
+The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
  
 I usually also show (on a physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
  
