@@ -21,6 +21,8 @@ Yesterday I had a long discussion with our team about considering moving from a 
 On probing what was concerning her she was worried that in moving to cards we would loose the ability to track outcomes and agreements that the team made with itself or with other teams to user stories. The digital board was serving as a repository to this up to now.
 ~~~
 
+Below are some of Angie's insights on this question...  
+
 ### Traceability 
 
 Traceability is a big concern for BA’s. They are worried that they won’t remember where a requirement came from and who they should chat to when the requirement changes.
