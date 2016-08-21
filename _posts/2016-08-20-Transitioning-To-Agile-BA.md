@@ -5,7 +5,9 @@ tags: Agile
 category: NA
 ---  
 
-Whenever advocating change, it helps to understand the mindset of all the people who will be affected by that change. Because I have progressed to a software developer from a coding perspective, I often look at the creating of software from a programmers mindset. The challenge is, software is not just created by programmers, there are other people that add just as much value that are looking at the problem from a totally different angle. One of those is the Business Analyst.
+Whenever advocating change, it helps to understand the mindset of all the people who will be affected by that change. When it comes to looking at agile software development, because I have been a software developer all my life I have always looked at agile from a 'programmers' mindset.
+
+Because I have progressed to a software developer from a coding perspective, I often look at the creating of software from a programmers mindset. The challenge is, software is not just created by programmers, there are other people that add just as much value that are looking at the problem from a totally different angle. One of those is the Business Analyst.
 
 What are some of the questions a BA has when involved in an agile project:
 
