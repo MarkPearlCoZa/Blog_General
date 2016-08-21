@@ -2,7 +2,7 @@
 layout: post
 title: From Platform Manifesto to Platform Principles  
 tags: Design
-category: NA
+category: General
 ---
 We are in the process of moving from a product centered development approach to a platform centered development approach. This not only changes how we make things, it also means we need to change our mindset.
 
