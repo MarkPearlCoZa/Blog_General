@@ -31,7 +31,11 @@ Traceability is a big concern for BA’s. They are worried that they won’t rem
 
 #### Loss of information  
 
-Losing valuable information is also a concern for them. When you only work on physical boards, BA’s seem to assume that the team will no longer be using acceptance criteria, screen mock-ups’ etc. I have worked with teams where we only worked on physical boards – I would write the acceptance criteria on the back of the cards and staple screen mock-up’s/ models that we had drawn together to the back of the card. I am not going to lie… it made the cards really heavy and they fell off a lot. That being said, the team loved it that way because everything was instantly available. The only challenge was when they took the card off the board – it made collaboration between developers a little bit harder and a little bit better, because then they had to sit next to each other. I also kept track of all the acceptance criteria in an excel spreadsheet and attached pics of the mock-ups/ models. 
+Losing valuable information is also a concern for them. When you only work on physical boards, BA’s seem to assume that the team will no longer be using acceptance criteria, screen mock-ups’ etc. I have worked with teams where we only worked on physical boards – I would write the acceptance criteria on the back of the cards and staple screen mock-up’s/ models that we had drawn together to the back of the card. I am not going to lie… it made the cards really heavy and they fell off a lot. That being said, the team loved it that way because everything was instantly available. 
+
+#### Making Collaboration Better  
+
+The only challenge was when they took the card off the board – it made collaboration between developers a little bit harder and a little bit better, because then they had to sit next to each other. I also kept track of all the acceptance criteria in an excel spreadsheet and attached pics of the mock-ups/ models. 
 
 #### Passing Audits
 
