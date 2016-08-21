@@ -11,7 +11,7 @@ I recently was reminded that software is not just created by programmers - there
 
 Suggesting a particular approach without keeping in mind these perspectives is one dimensional. One such perspective to keep in mind is that of the Business Analyst. 
 
-I recently got an opportunity to chat with my friend [Angie Doyle](https://twitter.com/doyle_angie) who shared some of her insights on the perspectives a business analyst has regarding moving the team to a physical board. 
+I recently got an opportunity to chat with my friend [Angie Doyle](https://twitter.com/doyle_angie) who shared some of her insights on the perspectives a business analyst has regarding agile in general and moving a team to a physical board. 
 
 ### Traceability 
 
