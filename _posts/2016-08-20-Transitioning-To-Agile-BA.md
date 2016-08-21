@@ -5,7 +5,7 @@ tags: Agile
 category: NA
 ---  
 
-Whenever advocating change, it helps to understand the mindset of all the people who will be affected by that change. When it comes to looking at agile software development, because I have been a software developer all my life I have always looked at agile from a 'programmers' mindset.
+Whenever advocating change, it helps to understand the mindset of all the people who will be affected by that change. When it comes to looking at agile software development, because I have been a software developer all my life, I have always looked at agile from a 'programmers' mindset.
 
 I recently was reminded that software is not just created by programmers, there are other people that add just as much value to the process that are looking at the problem from a totally different perspective. Suggesting a particular approach without keeping in mind these other perspectives is short sighted and inconsiderate. One such perspective to keep in mind is that of the Business Analyst.
 
