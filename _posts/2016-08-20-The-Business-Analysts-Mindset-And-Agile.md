@@ -53,7 +53,15 @@ She may be producing a lot of “working documents”. These are models (process
 
 #### Worried about being blamed  
 
-Yes – BA’s are very worried that lack of analysis will be the reason that an Agile project fail – and that they will take the blame. Are their any approaches or tools we can leverage to minimise this? Figure out where she can still store her “working documents” as well as the acceptance criteria (although if you are still using a digital tool, you could just keep it in there). How do you feel about physical vs digital boards? I often work with mixed physical/ digital boards. The product backlog is usually in a tool (I like excelJ, I like other tools a lot less), while the sprint backlog is shown on the physical board (with the detailed acceptance criteria, etc. stored in the tool). The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
+Yes – BA’s are very worried that lack of analysis will be the reason that an Agile project fail – and that they will take the blame. 
+
+Figure out where she can still store her “working documents” as well as the acceptance criteria (although if you are still using a digital tool along with the physical board you could just keep it in there). 
+
+#### Digital and physical board combo's 
+
+I often work with mixed physical/ digital boards. The product backlog is usually in a tool (I like excel, I like other tools a lot less). 
+
+While the sprint backlog is shown on the physical board (with the detailed acceptance criteria, etc. stored in the tool). The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
  
 I usually also show (on a physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
  
