@@ -40,19 +40,9 @@ Yes – BA’s are very worried that lack of analysis will be the reason that an
  
 I usually also show (on a physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
  
+### Where do I store my CYA scenarios?
 
-### Moving from a Digital System to Cards and a Physical Wall
-
-#### Do we loose traceability when using a physical board?
-
-#### Do we loose valuable information?  
-
-#### Where do I store my CYA scenarios?
-
-#### Do we do less analysis?  
-
-
-#### References
+### References
 
 [BA Times](https://www.batimes.com/)  
 
