@@ -39,11 +39,15 @@ The only challenge was when they took the card off the board – it made collabo
 
 #### Passing Audits
 
-If I was asked for “documentation” on what was being released, I would send out the detailed excel spreadsheet. I also hung onto every single card (I didn’t worry too much about tasks) and kept them all in a box. I passed all my project audits this way – and that was at Investec! She might be concerned that won’t have anything to show if someone asks what the acceptance criteria for a particular story was.
+If I was asked for “documentation” on what was being released, I would send out the detailed excel spreadsheet. I also hung onto every single card (I didn’t worry too much about tasks) and kept them all in a box. I passed all my project audits this way – and that was at Investec! 
 
-### Document Store
+#### Producing Just Enough  
 
-She might also be concerned that is losing her place to store documentation. Which also says to me that she is possibly producing too much – you can’t stick 20 pages attached to a user story up on a board that easily… This is something you could explore (delicately) with her. She may be producing a lot of “working documents”. These are models (process models, concept diagrams, etc.) that a BA might complete in order to understand the problem, or help her break down the epics into smaller stories. These are not usually shared with the team as they are “working papers”. Many BA’s would not want to lose those models – just in case they need to go back to it later (not sure how mature the team is – in less mature teams, BA’s want to keep it for CYA scenarios). If she can’t put it in the tool, there won’t be any traceability back to her working papers – which is the “proof” that she analysed something well.
+She might be concerned that won’t have anything to show if someone asks what the acceptance criteria for a particular story was.
+She might also be concerned that is losing her place to store documentation. 
+Which also says to me that she is possibly producing too much – you can’t stick 20 pages attached to a user story up on a board that easily… 
+
+This is something you could explore (delicately) with her. She may be producing a lot of “working documents”. These are models (process models, concept diagrams, etc.) that a BA might complete in order to understand the problem, or help her break down the epics into smaller stories. These are not usually shared with the team as they are “working papers”. Many BA’s would not want to lose those models – just in case they need to go back to it later (not sure how mature the team is – in less mature teams, BA’s want to keep it for CYA scenarios). If she can’t put it in the tool, there won’t be any traceability back to her working papers – which is the “proof” that she analysed something well.
 
 ### Reduced Analysis Upfront  
 
