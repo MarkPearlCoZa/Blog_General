@@ -31,20 +31,20 @@ Traceability is a big concern for BA’s. They are worried that they won’t rem
 
 #### Loss of information  
 
-Losing valuable information is also a concern for them. When you only work on physical boards, BA’s seem to assume that the team will no longer be using acceptance criteria, screen mock-ups’ etc. I have worked with teams where we only worked on physical boards – I would write the acceptance criteria on the back of the cards and staple screen mock-up’s/ models that we had drawn together to the back of the card. I am not going to lie… it made the cards really heavy and they fell off a lot. That being said, the team loved it that way because everything was instantly available. 
+Losing valuable information is also a concern for them. When you only work on physical boards, BA’s seem to assume that the team will no longer be using acceptance criteria, screen mock-ups’ etc. because there is nowhere to keep all the paperwork. I have worked with teams where we only worked on physical boards – I would write the acceptance criteria on the back of the cards and staple screen mock-up’s/ models that we had drawn together to the back of the card. I am not going to lie… it made the cards really heavy and they fell off a lot. That being said, the team loved it that way because everything was instantly available. 
 
 #### Making collaboration harder and better  
 
-The only challenge was when they took the card off the board – it made collaboration between developers a little bit harder and a little bit better, because then they had to sit next to each other. I also kept track of all the acceptance criteria in an excel spreadsheet and attached pics of the mock-ups/ models. 
+The only challenge was when the team took the card off the board – it made collaboration between developers a little bit harder and a little bit better, because then they had to sit next to each other. I also kept track of all the acceptance criteria in an excel spreadsheet and attached pics of the mock-ups/models, just in case anything went missing.
 
 #### Passing audits
 
-If I was asked for “documentation” on what was being released, I would send out the detailed excel spreadsheet. I also hung onto every single card (I didn’t worry too much about tasks) and kept them all in a box. I passed all my project audits this way – and that was at Investec! 
+If I was asked for “documentation” on what was being released, I would send out the detailed excel spreadsheet. I also hung onto every single card (I didn’t worry too much about tasks) and kept them all in a box. I passed all my project audits this way.
 
 #### Producing just enough  
 
-She might be concerned that won’t have anything to show if someone asks what the acceptance criteria for a particular story was.
-She might also be concerned that is losing her place to store documentation. 
+She might be concerned that she won’t have anything to show if someone asks what the acceptance criteria for a particular story was.
+She might also be concerned that she is losing her place to store documentation. 
 Which also says to me that she is possibly producing too much – you can’t stick 20 pages attached to a user story up on a board that easily… 
 
 #### Team documentation vs analyst documentation
@@ -63,7 +63,7 @@ I often work with mixed physical/digital boards. The product backlog is usually 
 
 The physical cards correspond to the same story in the digital tool – i.e. the physical card will have the same user story title, the user story and the story number from the tool. When the team starts working on the card, they will refer to the tool for the detailed acceptance criteria, etc.
  
-I usually also show (on a physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
+I usually also show (on a separate physical board) the stories I have in mind for the next 2 sprints or so. This ties in with the roadmap and release plan (which are also hopefully on a physical board somewhere). If anyone needs the detail associated with the card (e.g. screen mock-up, business rules, etc.), they can refer to the tool.
  
 ### References
 
