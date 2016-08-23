@@ -6,6 +6,18 @@ tags: Book Conflict
 category: Media
 ---
 
+### Overview  
+
+The first two chapters didn't resonate with me. The authors have a very 'boss' centric view. In the organizations I work in, we don't have that boss centric hierarchy. That said, the book has a few gems and is definitely worth a read. If you are interested in changing an organization, Rebels at Work gives you a good all round approach on how to 'safely' tackle change. See my notes on each chapter below.
+
+### Chapter 1 - Good Rebels, Great Work
+
+Didn't resonate to much with me...  
+
+### Chapter 2 - What makes me a rebel at work
+
+Didn't resonate to much with me...  
+
 ### Chapter 3 - Gaining Credibility
 
 #### Risk vs Uncertainty 
@@ -232,6 +244,10 @@ Rather than slowly rolling out his change initiatives by building relationships 
 4. Don’t Play the Hero
 
 > Forces of organizational inertia - further explore
+
+### Chapter 10 - Give this chapter to your boss
+
+Didn't resonate to much with me...  
 
 ### More info on book 
 
