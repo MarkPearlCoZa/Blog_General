@@ -2,7 +2,7 @@
 layout: post  
 title: The Business Analysts Mindset and Agile
 tags: Agile  
-category: NA
+category: General
 ---  
 
 Whenever advocating change, it helps to understand the mindset of all the people who will be affected by it. At its essence, agile software development is about change. Because I have been a software developer all my life, I have always looked at agile and the change it effects from a 'programmers' mindset.
