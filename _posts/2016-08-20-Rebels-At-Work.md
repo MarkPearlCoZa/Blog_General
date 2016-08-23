@@ -212,6 +212,28 @@ Should things not go well at work, as can happen, you will have better coping sk
 
 Work is not more important than people
 
+### Chapter 9 - Am I becomming a bad rebel?
+
+#### Sometimes bad rebels do "good".
+
+> Is there a place for the “bad” rebel—the person who storms into an organization and bulldozes his change agenda? Usually, no. But there are exceptions. 
+
+Read the section on commentry of when a bad rebel can be motivated...
+
+~~~
+Rather than slowly rolling out his change initiatives by building relationships and developing coalitions of support, this rebel introduced a dizzying number of reforms and practices in a very short time in what some would say was an autocratic way.
+~~~
+
+#### 4 Rules to avoid being a bad rebel  
+
+1. Play Within the Rules
+2. Keep Your Sense of Humor
+3. Be an Idea Carrier, Not an Idea Warrior
+4. Don’t Play the Hero
+
+> Forces of organizational inertia - further explore
+
+### More info on book 
 
 [Buy from Amazon](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  
 ISBN-13: 978-1491903957
