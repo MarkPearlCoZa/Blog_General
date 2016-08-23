@@ -8,7 +8,7 @@ category: Media
 
 ### Overview  
 
-The first two chapters didn't resonate with me. The authors have a very 'boss' centric view. In the organizations I work in, we don't have that boss centric hierarchy. That said, the book has a few gems and is definitely worth a read. If you are interested in changing an organization, Rebels at Work gives you a good all round approach on how to 'safely' tackle change. See my notes on each chapter below.
+The book started off badly for me, and as I progressed through it, it got better. The first two chapters didn't resonate with me. The authors have a very 'boss' centric view. In the organizations I work in, we don't have that boss centric hierarchy. That said, the book has a few gems and is definitely worth a read. If you are interested in changing an organization, Rebels at Work gives you a good all round approach on how to 'safely' tackle change. See my notes on each chapter below.
 
 ### Chapter 1 - Good Rebels, Great Work
 
