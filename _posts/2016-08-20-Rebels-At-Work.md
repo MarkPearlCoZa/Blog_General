@@ -12,11 +12,11 @@ The book started off badly for me, and as I progressed through it, it got better
 
 ### Chapter 1 - Good Rebels, Great Work
 
-Didn't resonate to much with me...  
+Didn't resonate to much with me  
 
 ### Chapter 2 - What makes me a rebel at work
 
-Didn't resonate to much with me...  
+Didn't resonate to much with me
 
 ### Chapter 3 - Gaining Credibility
 
@@ -247,7 +247,7 @@ Rather than slowly rolling out his change initiatives by building relationships 
 
 ### Chapter 10 - Give this chapter to your boss
 
-Didn't resonate to much with me...  
+Didn't resonate to much with me
 
 ### More info on book 
 
