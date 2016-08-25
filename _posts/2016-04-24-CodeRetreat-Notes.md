@@ -21,7 +21,7 @@ category: Misc
 5. Evil coder 
 6. No Constrains / Pair up with original partner  
 
-#### Timings
+#### Timings for Company Internal Code Retreat  
 
 9:30 - 9:45 	- People Arrive, Setup, Name Tags, Find a partner  
 9:45 - 10:30 	- First Session  
@@ -57,23 +57,24 @@ Write test first, get the test to pass, refactor safely
 ### No primites across method boundaries
 
 
-### No if's
+### No if's  
 
 - No if statments  
 - No switch statements  
 
-### Safe Refactorings
+### Safe Refactorings  
 
 ### Vanilla (plain old)  
 
-### 1969 (compile twice)
-### Ping Pong  
+### 1969 (compile twice)  
+
+### Ping Pong    
+
 - No primitives across method boundaries  
 - Tests for customers first  
 - No conditional branching  
 
 (One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
-
 
 #### References ####
 
