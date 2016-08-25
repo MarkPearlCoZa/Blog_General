@@ -8,11 +8,8 @@ category: Media
 
 ### Chapter 3 - Handling CORS Requests
 
-
-Client origin
-
 |         Server        | Origin                 | Same-origin request  |
-|:---------------------:|------------------------|----------------------|
+|-----------------------|------------------------|----------------------|
 | http://127.0.0.1:9999 | http://127.0.0.1:9999  | Yes                  |
 | http://127.0.0.1:9999 | https://127.0.0.1:9999 | No, different schema |
 | http://localhost:1111 | http://localhost:9999  | No, different ports  |
