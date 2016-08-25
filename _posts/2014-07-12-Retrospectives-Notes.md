@@ -23,7 +23,7 @@ When a team is not in a good place socially, I see the primary purpose of retros
 
 ---------------------------------------------------------------------------------------------------
 
-### General Format 
+### General Format of Normal Retrospective  
 
 - Ice Breaker / Change Mindset   
 - Review of Previous Retrospective Goals  
