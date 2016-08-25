@@ -38,7 +38,7 @@ There is no 'right' or 'wrong' format for a retrospective. That said, I generall
 
 ---------------------------------------------------------------------------------------------------
 
-### Ice Breaker 
+### Step 1 - The Ice Breaker 
 
 I use the ice breaker to help the team make a mental shift from immediate work to taking a step back and looking at how we are working together.
 
@@ -57,7 +57,7 @@ Don't just do an ice breaker for the sake of an ice breaker. Be strategic about 
 
 ---------------------------------------------------------------------------------------------------
 
-### Review of Previous Retrospective Goals  
+### Step 2 - Review of Previous Retrospective Goals  
 
 Review of previous retrospective goals is critical if you want to incrementally improve. There is little point setting new goals if you do not gauge how successful you were with your previous goals.
 
@@ -80,7 +80,7 @@ I've found going through each goal individually is useful. Do not rush through t
 
 ---------------------------------------------------------------------------------------------------
 
-### Main Acitivity
+### Step 3 - Main Acitivity
 
 #### Assesing where we are 
 
@@ -99,7 +99,7 @@ Things learns from the exercise:
 
 ---------------------------------------------------------------------------------------------------
 
-### Confirm goals to be achieved by next retro
+### Step 4 - Confirm goals to be achieved by next retro
 
 ---------------------------------------------------------------------------------------------------
 
