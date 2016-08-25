@@ -14,6 +14,8 @@ When a team is in a good place socially, I see the primary purpose of the retros
 - Review the success or value of the improvements they set out from the previous retro 
 - Identify the one or two small improvements (or experiments) that they can do in the next period  
 
+**To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
+
 When a team is not in a good place socially, I see the primary purpose of retrospective to:  
 
 - Vent, discuss, bring up issues in a safe environment
