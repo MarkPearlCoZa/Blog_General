@@ -76,7 +76,7 @@ Typically, I like to go through each goal we had in the previous retro and ask t
 		- If to busy, do we still see value in it, do we want to carry the goal over for the next period?
 		- If not really valuable, how do we avoid making unvaluable goals like this going forward?
 
-I've found going through each goal individually is useful. Do not rush through this process, if the conversation starts getting to deep and you feel you might not be able to review the other goals, ask if you can park the topic till after the review of the other goals. Don't forget to come back to it afterwards. If you don't, you loose trust as a facilitator.  
+I've found going through each goal individually is useful. Do not rush through this process, if the conversation starts getting to deep on a specific goal and you feel you are running out of time to review the other goals, ask if you can park the topic till after the review of the other goals. Don't forget to come back to it afterwards. If you don't, you loose trust as a facilitator.  
 
 ---------------------------------------------------------------------------------------------------
 
