@@ -21,8 +21,6 @@ category: Misc
 5. Evil coder (One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
 6. No Constrains / Pair up with original partner  
 
-Closing Retro
-
 #### Timings
 
 9:30 - 9:45 	- People Arrive, Setup, Name Tags, Find a partner  
