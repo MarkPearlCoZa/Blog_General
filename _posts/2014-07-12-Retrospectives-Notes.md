@@ -29,6 +29,8 @@ When a team is NOT in a good place socially, I see the primary purpose of retros
 
 ### General Format of Normal Retrospective  
 
+There is no 'right' or 'wrong' format for a retrospective. That said, I generally use the following format:  
+
 - Ice Breaker / Change Mindset   
 - Review of Previous Retrospective Goals  
 - Main Activity  
@@ -56,6 +58,15 @@ Don't just do an ice breaker for the sake of an ice breaker. Be strategic about 
 ---------------------------------------------------------------------------------------------------
 
 ### Review of Previous Retrospective Goals  
+
+Review of previous retrospective goals is critical if you want to incrementally improve. There is little point setting new goals if you do not gauge how successful you were with your previous goals.
+
+Typically, I like to go through each goal we had in the previous retro and ask the following:
+
+- Did we achieve this?
+	- If Yes, did we see value in it?
+		- If Yes, do we want to do something to enhance it
+	- If No, why did we not achieve it? Was it to vague, unmeasurable, to large, we were to busy?
 
 
 ---------------------------------------------------------------------------------------------------
