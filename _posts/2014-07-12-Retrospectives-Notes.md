@@ -64,8 +64,10 @@ Review of previous retrospective goals is critical if you want to incrementally 
 Typically, I like to go through each goal we had in the previous retro and ask the following:
 
 - Did we achieve this?
+
 	- If Yes, did we see value in it?
 		- If Yes, do we want to do something to enhance it
+
 	- If No, why did we not achieve it? Was it to vague, unmeasurable, to large, we were to busy, not really valuable?
 		- If to vague, what should we be careful of going forward so that we don't make goals like this again?
 		- If it was unmeasurable, how could we have measured this (generally the goal was not specific enough)  
