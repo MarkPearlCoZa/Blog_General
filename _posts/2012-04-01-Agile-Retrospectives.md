@@ -2,7 +2,7 @@
 layout: post
 title: "Agile Retrospectives by Derby, Larsen and Schwaber, Pragmatic Bookshelf"
 description: "Making Good Teams Great"
-category: Media
+category: Media Retrospectives
 tags: [Book]
 ---
 When I originally read this book I did a review saying it was a light weight read and that it was good for an introduction of the purpose of Agile Retrospectives. 
