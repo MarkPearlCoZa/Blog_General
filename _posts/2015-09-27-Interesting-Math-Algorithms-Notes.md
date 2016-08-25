@@ -309,7 +309,9 @@ Total Cubes are 125
 
 ------------------------------------------------------------------------------------------------
 
-### Calculate Square Root ###
+### Square Root 
+
+#### Calculate Square Root
 
 Using Newton's Formula - [see more](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number)  
 
@@ -336,6 +338,22 @@ Another approach...
 
 ~~~
 const squareRoot = x => +((Math.cos(Math.asin((((x+1)/2)-1)/((x+1)/2)))*((x+1)/2)).toFixed(5))
+~~~
+
+#### Square Root using Exponents
+
+To get the root of a number - for instance the square root can be calculated as follows  
+
+~~~
+// square root of 9 
+let result = Math.pow(9, 1/2);
+~~~
+
+You can apply the same approach to any root, the cubed root can be calculated as follows  
+
+~~~
+// cubed root of 9 
+let result = Math.pow(9, 1/3);
 ~~~
 
 ------------------------------------------------------------------------------------------------
