@@ -5,14 +5,16 @@ tags: Teams
 category: Soft
 ---
 
-#### General Format ####
+### General Format 
 
 - Ice Breaker / Change Mindset   
 - Review of Previous Retrospective Goals  
 - Main Activity  
-- Confirm goals for next iteration  
+- Confirm goals to be achieved by next retro  
 
-#### Ice Breaker ####
+---------------------------------------------------------------------------------------------------
+
+### Ice Breaker 
 
 I use the ice breaker to help the team make a mental shift from immediate work to taking a step back and looking at how we are working together.
 
@@ -21,14 +23,26 @@ Don't just do an ice breaker for the sake of an ice breaker. Be strategic about 
 - Are there any long term objectives that the team is trying to develop?  
 - Are there activities we can do that help team members know other team members better?  
 
+#### Example Ice Breaker Activities  
 
 - Fizz Buzz Group Number Game (also known as Ping Pong)
 - Organize seating based on distance that one was born from the current location  
 - [Tasty Cupcake Ideas](http://tastycupcakes.org/)
 
-#### Assesing where we are ####
+---------------------------------------------------------------------------------------------------
 
-##### Future Backwards Exercise #####
+### Review of Previous Retrospective Goals  
+
+
+---------------------------------------------------------------------------------------------------
+
+### Main Acitivity
+
+#### Assesing where we are 
+
+##### Example Main Activities 
+
+- Future Backwards Exercise
 
 Things learns from the exercise:  
 
@@ -38,6 +52,12 @@ Things learns from the exercise:
 
 [Future Backwards Adjusted PDF]({{ site.url }}/assets/documents/Future-Backwards-Retrospective-SSUG-version-orig.pdf)  
 [Future Backwards Original PDF]({{ site.url }}/assets/documents/Future-Backwards-Retrospective-SSUG-version.pdf)  
+
+---------------------------------------------------------------------------------------------------
+
+### Confirm goals to be achieved by next retro
+
+---------------------------------------------------------------------------------------------------
 
 #### Resource Sites ####
 
