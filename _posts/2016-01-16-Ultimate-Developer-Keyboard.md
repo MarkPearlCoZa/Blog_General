@@ -10,7 +10,7 @@ category: General
 
 I have been programming for over a decade now. As I've become a more experienced programmer, I have found that there has been a toll on my body. Let's just say, humans are not built for sitting long hours in front of a computer year after year. 
 
-While I have managed to maintain a reasonable level of health, I have noticed the usual challenges - a deterioation in my eyesight, posture problems and most worrying of all issues with my hands. Having a keyboard designed for being in front of a computer day after day for years is vital for longevity as a software developer.
+While I have managed to maintain a reasonable level of health, I have noticed the usual challenges - a deterioration in my eyesight, posture problems and most worrying of all issues with my hands. Having a keyboard designed for being in front of a computer day after day for years is vital for longevity as a software developer.
 
 ### Speed is important ###
 
@@ -30,7 +30,7 @@ At the end of this post is a list of keyboards I would keep my eye on, while not
 
 Having worked with the Kinesis, Ergodox and Ultimate Hacking Keyboard (UHK), I often dream of designing my own keyboard and combining the strengths of all three of these keyboards into one single keyboard - what I would consider the ultimate developer keyboard! All three keyboards have gotten things right, and all three keyboards have gotten things wrong - put the right things together and you have something special.
 
-Having a wife who is good with photoshop, I (with her significant help) was able to put what has up to now been only in my mind as the ultimate developer keyboard into a picture for all to behold. At first glance it looks like the Kinesis, on closer examination you begin to see the Ergodox and UHK shine through - with some special additions.
+Having a wife who is good with Photoshop, I (with her significant help) was able to put what has up to now been only in my mind as the ultimate developer keyboard into a picture for all to behold. At first glance it looks like the Kinesis, on closer examination you begin to see the Ergodox and UHK shine through - with some special additions.
 
 -----------------------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ I understand that key switches are interchangeable, but by default I would use t
 
 #### Led section to show current layer ####
 
-One of my irratances of the ErgoDox is guessing what layer you are currently on.
+One of my irritations of the ErgoDox is guessing what layer you are currently on.
 
 I would add additional LED display to the top left of the keyboard which would graphically display what layer the keyboard is currently on.#
 
@@ -100,13 +100,13 @@ The touchpad is also useful for having on operating systems where you have multi
 
 #### USB Hub / Ports ####
 
-I would keep the USB hub where the Kinesis already has it underneath the keyboard. I would add an additional usb port on either side of the Kinesis box. This could be used for plugging in flash sticks, etc.
+I would keep the USB hub where the Kinesis already has it underneath the keyboard. I would add an additional USB port on either side of the Kinesis box. This could be used for plugging in flash sticks, etc.
 
 You can never have enough USB ports!
 
 #### Bluetooth Connectivity ####
 
-In addition, if possible I would add a bluetooth module that would allow for the device to be connected to a PC via bluetooth. I'm not sure on how easy this would be, but hey, this is my imaginary developer keyboard.
+In addition, if possible I would add a Bluetooth module that would allow for the device to be connected to a PC via Bluetooth. I'm not sure on how easy this would be, but hey, this is my imaginary developer keyboard.
 
 -----------------------------------------------------------------------------------------
 
@@ -118,23 +118,23 @@ In addition, if possible I would add a bluetooth module that would allow for the
 
 ### What I like about the Kinesis ###
 
-I like to call my Kinesis my Silver Lamborghini. It's a great conversation starter. When I originally purchased it, it took me 3-4 months to re-learn how to type. The first two weeks were extremely tough, at one point I considered returning it. The big learning curve is that space, return, backspace, delete, ctrl and alt are moved to the thumbs instead of the pinky fingers. The reasoning behind this is that the thumb is the strongest of the fingers while the pinky fingers are the weakest. Thus it makes sense to move keys that are reguarly pressed to the thumbs.
+I like to call my Kinesis my Silver Lamborghini. It's a great conversation starter. When I originally purchased it, it took me 3-4 months to re-learn how to type. The first two weeks were extremely tough, at one point I considered returning it. The big learning curve is that space, return, backspace, delete, ctrl and alt are moved to the thumbs instead of the pinky fingers. The reasoning behind this is that the thumb is the strongest of the fingers while the pinky fingers are the weakest. Thus it makes sense to move keys that are regularly pressed to the thumbs.
 
-The keyboard is fully re-programable. Since I do a lot of pair programming and I like to use capslock as my escape key for vim mode - being able to re-map this on the hardware of the keyboard was money well spent.
+The keyboard is fully re-programmable. Since I do a lot of pair programming and I like to use caps lock as my escape key for vim mode - being able to re-map this on the hardware of the keyboard was money well spent.
 
 The keyboard has a curved in shape which means that the keys are at a curved angle to your hands. This means that normal keys are very close to your fingers which reduces the strain when pressing normal keys.
 
-The keyboard has a on-board usb hub which is very useful for plugging a mouse dongle into it - I use logitech. Whenever I plug my keyboard into someone else's computer I don't need to worry about plugging in a mouse as well.
+The keyboard has a on-board USB hub which is very useful for plugging a mouse dongle into it - I use Logitech. Whenever I plug my keyboard into someone else's computer I don't need to worry about plugging in a mouse as well.
 
 The keyboard comes with a foot pedal. Yes, you heard me right. I have never managed to use the pedal, but it is simply a real geek out telling people you have one.
 
 ### What I don't like about the Kinesis ###
 
-The keyboard comes with a macro recording feature - before buying the keyboard I thought this would be a killer feature. Turns out I don't use nearly as much as I thought. Recording macro's it a pain, and then remembering what marco is mapped to what key combination always becomes a challenge.
+The keyboard comes with a macro recording feature - before buying the keyboard I thought this would be a killer feature. Turns out I don't use nearly as much as I thought. Recording macro's it a pain, and then remembering what macro is mapped to what key combination always becomes a challenge.
 
-The function keys are gimicky. For such an expensive keyboard, you get these little soft touch function keys that are half the size of the normal keys. They are rendered nearly useless. As a developer that works in Visual Studio a lot - having function keys that are easily accesible is important. This is one of my biggest irritations with the keyboard.
+The function keys are gimmicky. For such an expensive keyboard, you get these little soft touch function keys that are half the size of the normal keys. They are rendered nearly useless. As a developer that works in Visual Studio a lot - having function keys that are easily accessible is important. This is one of my biggest irritations with the keyboard.
 
-The keyboard is 'missing' a few keys. For a normal typist I could see this not being an issue, for a software developer I typically use key combinations frequently, most notably ctrl, alt, etc. The default configuration of the kinesis puts only one alt on the thumb pad for the left hand. Where the alt should be on the right hand they have a windows or function key. While you can replace the windows/function key with another alt key and remap it - you are then missing a windows key. I eventually had to map ctrl+alt to act as a windows key, which then disables any options with ctrl+alt. If we the keyboard had an additonal key below shift on each side that could be mapped as a function key this would solve the problem. Alas it doesn't.
+The keyboard is 'missing' a few keys. For a normal typist I could see this not being an issue, for a software developer I typically use key combinations frequently, most notably ctrl, alt, etc. The default configuration of the kinesis puts only one alt on the thumb pad for the left hand. Where the alt should be on the right hand they have a windows or function key. While you can replace the windows/function key with another alt key and remap it - you are then missing a windows key. I eventually had to map ctrl+alt to act as a windows key, which then disables any options with ctrl+alt. If we the keyboard had an additional key below shift on each side that could be mapped as a function key this would solve the problem. Alas it doesn't.
 
 Remapping keys is done manually. While you don't remap keys often, every now and then I come up with a better combination of a map. Remembering how to manually get into remap mode and then how to trigger a remap is always pot luck. If only it had an onscreen mapping tool like the Ergodox.
 
@@ -148,13 +148,13 @@ The keyboard does not work properly on certain Windows 7 machines. As stated by 
 
 ### What I like about the Ergodox EZ ###
 
-I have had my Ergodox EZ for two months now. I like to call it my Stealth Bomber. It's black, I ordered it with blank keycaps and brown gaetron switches. It's also a great conversation starter as well as an awesome keyboard.
+I have had my Ergodox EZ for two months now. I like to call it my Stealth Bomber. It's black, I ordered it with blank key caps and brown gaetron switches. It's also a great conversation starter as well as an awesome keyboard.
 
 When I got my Ergodox, I ordered it with the additional hand rests and tilt legs. I highly recommend this, especially when you have worked with an Kinesis before. While you cannot get the down hand position like you can with the Kinesis, you can still get a comfortable angle that is adjustable.
 
-The Ergodox comes with a graphical keymapper. This has made the world of difference when changing keymaps. Like the kinesis you can remap any key to do anything, and it is substantially easier to do because you don't need to remember the mappings - you can simply load them on screen.
+The Ergodox comes with a graphical key mapper. This has made the world of difference when changing key maps. Like the kinesis you can remap any key to do anything, and it is substantially easier to do because you don't need to remember the mappings - you can simply load them on screen.
 
-The Ergodox also comes with layer keys. Without getting into the specific of how layers work, in essence at the press of one button you can switch from one layer to another. Each layer can have a totally unique keymapping. This has been essential in getting over the missing function keys (one of my gripes about the ergodox). Instead of having function keys, you flip a layer and then the number keys are remapped to function keys.
+The Ergodox also comes with layer keys. Without getting into the specific of how layers work, in essence at the press of one button you can switch from one layer to another. Each layer can have a totally unique key mapping. This has been essential in getting over the missing function keys (one of my gripes about the ergodox). Instead of having function keys, you flip a layer and then the number keys are remapped to function keys.
 
 Transporting the Ergodox is really easy. Because it comes in two parts, you can comfortably fit the ergodox in a backpack, which makes travel really easy. Both the Kinesis and Ergodox require you to have a flat surface in front of you to be able to use them. It's pretty much impossible to sit and type with the ergodox on your lap.
 
@@ -162,13 +162,23 @@ The Ergodox has the additional windows/function keys below shift. This is a step
 
 ### What I don't like about the Ergodox EZ ###
 
-Unfortunately it doesn't have a USB hub built in. This means whenever I plug my keyboard into a terminal I have to plug my mouse dongle in as well. I miss the usb hub that the Kinesis has.
+#### Missing the USB hub
+
+Unfortunately it doesn't have a USB hub built in. This means whenever I plug my keyboard into a terminal I have to plug my mouse dongle in as well. I miss the USB hub that the Kinesis has.
 
 The Ergodox doesn't have function keys. While the Kinesis has puny function keys, the Ergodox does not even attempt that. I have found this not to be as bad as the Kinesis, as toggling layers is really easy and so I have function keys mapped to layer one. That said, I wish it had function keys.
 
-The Ergodox comes in two parts. This is useful for travel, but when moving desks - and I move desks often - it means there is an art to getting the alignment right. I wish it had a detacable bar that you could connect where the tilt legs were that would give you the rigidty of the Kinesis, but keep the mobility of the Ergodox.
+#### Impossible to use without a desk
 
-I really miss the curved design for the hands of the Kinesis. The keys on the Kinesis are definately closer because of this, which makes it more comfortable to type. 
+The Ergodox comes in two parts. This is useful for travel, but when moving desks - and I move desks often - it means there is an art to getting the alignment right. I wish it had a detachable bar that you could connect where the tilt legs were that would give you the rigidity of the Kinesis, but keep the mobility of the Ergodox.
+
+#### No dedicated function key row
+
+See my comments about the UHK - the same applies to the ErgoDox
+
+#### Missing the curved design of the Kinesis
+
+I really miss the curved design for the hands of the Kinesis. The keys on the Kinesis are definitely closer because of this, which makes it more comfortable to type. 
 
 -----------------------------------------------------------------------------------------
 
@@ -176,9 +186,46 @@ I really miss the curved design for the hands of the Kinesis. The keys on the Ki
 
 <img class="img-responsive" alt="Ultimate Hacking Keyboard" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-UHK.jpg">
 
+**Note the UHK is not officially out yet, I got to see an early prototype in May 2016 however the final product could be vastly different from the prototype I got to use**
+
 ### What I like about the UHK ###
 
+#### Key Cap Size 
+
+The prototype UHK has really nice sized key caps. They felt slightly larger than key caps I have seen on other keyboards, and moulded. It had a really comfortable feel.
+
+#### Weight & Feel
+
+The prototype had a nice solid heavy feel to it. It wasn't overly heavy, but if you took it and hit someone on the head with it you could probably knock them out.
+
+#### Easy Transition
+
+Because the UHK does not have any major changes with regards to the thumb keys vs. pinky keys, someone used to a traditional keyboard layout who transitions to the UHK will have a much quicker and easier transition than what I had with the ErgoDox or the Kinesis (I wrote a post about the [pain I had transitioning to the Kinesis](http://blog.markpearl.co.za/Frustrations-In-Learning)) - this is really great for 99% of developers. For me however it is the biggest concern - once you have gone through the pain of learning the Kinesis / ErgoDox layout and are reaping the benefits, you don't really want to go back.  
+
+#### Can be used split or joined
+
+The UHK has a really neat clip in process so that it can be effectively used as a 'split' 2 piece keyboard, or as a single keyboard. Having a split keyboard is critical to leverage an ergonomic layout. Having a single piece keyboard is really useful if you are traveling and don't have a desk to work at. The UHK offers the best of both worlds.  
+
+#### Easy to travel with
+
+Because the UHK can be split, it can be made extremely compact when travelling. I have travelled on airplanes with other keyboards and when they are a single piece keyboard they tend to get in the way. The UHK doesn't have this challenge.  
+
+#### Visual Display on Layers
+
+For a developer getting used to the concept of keyboard layers, having a visual display to indicate what layer you are currently on is really useful. The UHK makes it very clear.
+
 ### What I don't like UHK ###
+
+#### Thumb / Keypad Layout
+
+As mentioned above, this for me is one of the UHK strengths, and also one of it's biggest downers for me. I really like having the thumb wells like the ErgoDox or Kinesis has. That said, this will not be an issue for most developers.
+
+#### No dedicated function key row
+
+I'm being nit-picky because the ErgoDox doesn't have a dedicated function key row either. The UHK belongs to the class of 60% keyboards which means it contains about 60% of the keys of regular keyboards - in essence the 60% it retains is the alphanumeric block. This is a deliberate design decision as the user is expected to use layers to access all the keys that are not physically available.
+
+Once you get used to layers they are extremely useful. Many software developers that live in the 'Windows' world use a ton on function keys and having an 'extra' row for function keys would be great. I believe this would be the case if the UHK was a 80% keyboard.
+
 
 -----------------------------------------------------------------------------------------
 
