@@ -103,7 +103,7 @@ Try identify quick wins first. Don't assume something is a quick win because you
 
 With deep discussions you are only going to be able to cover 1 or 2 topics in an hour retro. Find a mechanism for the team to identify what they feel is the most important topic. Facilitate discussion, but if it is going nowhere don't feel shy to suggest the topic is parked. Talking about something without generating goals / outcomes can be frustrating. A good indication if a deep discussion is still worth pursuing is:
 
-> You don't have to cover everything  
+> You don't have to cover everything, focus on where the heat is...  
 
 - Gauging how involved the team is in the discussion (if only one or two people are engaged, it should be parked)  
 - Are proposed goals emerging (if they are not, push the team to find a small improvement, if they can't suggest it get's parked and move on)  
