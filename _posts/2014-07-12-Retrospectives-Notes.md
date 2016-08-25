@@ -66,7 +66,7 @@ Typically, I like to go through each goal we had in the previous retro and ask t
 - Did we achieve this?
 	- If Yes, did we see value in it?
 		- If Yes, do we want to do something to enhance it
-	- Why did we not achieve it? Was it to vague, unmeasurable, to large, we were to busy, not really valuable?
+	- If No, why did we not achieve it? Was it to vague, unmeasurable, to large, we were to busy, not really valuable?
 		- If to vague, what should we be careful of going forward so that we don't make goals like this again?
 		- If it was unmeasurable, how could we have measured this (generally the goal was not specific enough)  
 		- If to large, how could we make it smaller?
@@ -74,10 +74,7 @@ Typically, I like to go through each goal we had in the previous retro and ask t
 		- If to busy, do we still see value in it, do we want to carry the goal over for the next period?
 		- If not really valuable, how do we avoid making unvaluable goals like this going forward?
 
-
-
-
-
+I've found going through each goal individually is useful. Do not rush through this process, if the conversation starts getting to deep and you feel you might not be able to review the other goals, ask if you can park the topic till after the review of the other goals. Don't forget to come back to it afterwards. If you don't, you loose trust as a facilitator.  
 
 ---------------------------------------------------------------------------------------------------
 
