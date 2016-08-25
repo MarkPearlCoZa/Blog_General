@@ -117,9 +117,13 @@ With deep discussions you are only going to be able to cover 1 or 2 topics in an
 
 ---------------------------------------------------------------------------------------------------
 
-### Step 4 - Confirm goals to be achieved by next retro
+### Step 4 - Confirm Goals for Next Period
 
+This is probably the second most important step in a retro, with Review of Previous Goals being the most important.
 
+**Make sure you have enough time at the closing of a retro to do this - do not rush this step**
+
+By this stage you should have a number of 'proposed' goals for the next period (until the next retro). Remember, retrospectives are aimed at incremental improvement. The more improvements or experiments you introduce, the more chaos. Typically I have found small teams can only really achieve 2-4 'improvements' in a 2 week period. If a team has a lot of proposed improvements you want to get some sort of priority on where they feel the most value will be added.
 
 ---------------------------------------------------------------------------------------------------
 
