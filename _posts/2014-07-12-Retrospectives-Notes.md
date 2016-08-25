@@ -1,4 +1,4 @@
--http://blog.markpearl.co.za/Future-Backwards--
+---
 layout: post
 title: Retrospective Notes
 tags: Teams Retrospectives
@@ -97,6 +97,7 @@ Use techniques that allow you to identify what the hottest topics are. Generally
 2. Deep discussions 
 
 Try identify quick wins first. Don't assume something is a quick win because you think it is. Get consensus from the team that a topic is a quick win. If everyone in the team agrees it is a quick win and they want to adopt it, adopt it - make it a retro goal outcome. If only some of the members of the team think it is a quick win, but others do not - then it is not a quick win - move it to the deep discussions section.
+
 
 With deep discussions you are only going to be able to cover 1 or 2 topics in an hour retro. Find a mechanism for the team to identify what they feel is the most important topic. Facilitate discussion, but if it is going nowhere don't feel shy to suggest the topic is parked. Talking about something without generating goals / outcomes can be frustrating. A good indication if a deep discussion is still worth pursuing is:
 
