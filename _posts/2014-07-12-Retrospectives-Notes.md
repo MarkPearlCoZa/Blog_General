@@ -86,6 +86,8 @@ Plan a main activity, but don't be tied to it. Forcing a team to do your activit
 
 Usually giving the team an opportunity to propose items to dicuss as part of the main activity is a good thing. Most of the time it makes sense to go through their proposed topics. Sometimes it is more useful to take a bigger step backwards to look at the bigger picture. 
 
+> Be careful not to let the main activity take up all your time, you need enough time for confirming goals for next period  
+
 #### Lean Coffee Style Retro 
 
 In the teams I've been with we typically have a retro topics wall in our team area. During the iteration before the reto we put topics up we would like to discuss. These become useful if you run your main activity in a [lean coffee style retro](https://www.retrium.com/resources/techniques/lean-coffee).  
