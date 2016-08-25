@@ -7,7 +7,7 @@ category: Soft
 
 ### What are we trying to achieve from a retrospective?
 
-A retrospective is a great way to implement interative and incremental improvement. 
+#### Implement interative and incremental improvement.  
 
 When a team is in a good place socially, I see the primary purpose of the retrospective to:  
 
@@ -16,10 +16,14 @@ When a team is in a good place socially, I see the primary purpose of the retros
 
 **To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
 
+#### Recognize we are humans  
+
 When a team is not in a good place socially, I see the primary purpose of retrospective to:  
 
-- Vent, discuss, bring up issues in a safe environment
+- Vent, discuss, bring up issues in a safe environment 
+- Blow off some steam  
 - Draw closer together as people  
+- Laugh   
 
 ---------------------------------------------------------------------------------------------------
 
