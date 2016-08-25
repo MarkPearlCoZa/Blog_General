@@ -92,7 +92,9 @@ In the teams I've been with we typically have a retro topics wall in our team ar
 
 #### You don't have to cover everything - Quick Wins vs Deep Discussions
 
-Use techniques that allow you to identify what the hottest topics are. Generally I find two types of topics that come out - quick wins, and deep discussions.
+Use techniques that allow you to identify what the hottest topics are. Generally I find two types of topics that come out:
+1. Quick wins 
+2. Deep discussions 
 
 Try identify quick wins first. Don't assume something is a quick win because you think it is. Get consensus from the team that a topic is a quick win. If everyone in the team agrees it is a quick win and they want to adopt it, adopt it - make it a retro goal outcome. If only some of the members of the team think it is a quick win, but others do not - then it is not a quick win - move it to the deep discussions section.
 
