@@ -90,7 +90,7 @@ Usually giving the team an opportunity to propose items to dicuss as part of the
 
 In the teams I've been with we typically have a retro topics wall in our team area. During the iteration before the reto we put topics up we would like to discuss. These become useful if you run your main activity in a [lean coffee style retro](https://www.retrium.com/resources/techniques/lean-coffee).  
 
-#### You don't have to cover everything - Quick Wins vs Deep Discussions
+#### Quick Wins vs Deep Discussions
 
 Use techniques that allow you to identify what the hottest topics are. Generally I find two types of topics that come out:
 1. Quick wins 
@@ -100,8 +100,11 @@ Try identify quick wins first. Don't assume something is a quick win because you
 
 With deep discussions you are only going to be able to cover 1 or 2 topics in an hour retro. Find a mechanism for the team to identify what they feel is the most important topic. Facilitate discussion, but if it is going nowhere don't feel shy to suggest the topic is parked. Talking about something without generating goals / outcomes can be frustrating. A good indication if a deep discussion is still worth pursuing is:
 
+> You don't have to cover everything  
+
 - Gauging how involved the team is in the discussion (if only one or two people are engaged, it should be parked)  
 - Are proposed goals emerging (if they are not, push the team to find a small improvement, if they can't suggest it get's parked and move on)  
+
 
 ##### Ideas for Main Activities 
 
