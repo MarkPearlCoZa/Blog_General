@@ -16,9 +16,9 @@ category: Misc
 
 1. No Constraints / Understand the problem (Solve Conway's Game of Life)  
 2. No method longer than 4 lines   
-3. No primitives across method boundaries & no switch logic / if statements  
-4. Pure TDD with Safe Refactoring (Write test first, get the test to pass, refactor safely)    
-5. Evil coder (One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
+3. No primitives across method boundaries & no if's
+4. Ping Pong with Safe Refactoring 
+5. Evil coder 
 6. No Constrains / Pair up with original partner  
 
 #### Timings
@@ -46,14 +46,33 @@ For the first session, delete code before retro, for all other sessions delete c
 Print conways law on a4 paper to hand out  
 Posters with 4 rules of simple design, 4 stages of naming, game of life examples  
 
-#### Session Ideas ####
+## Session Explanations
 
-- Vanilla (plain old)  
-- 1969 (compile twice)
-- Ping Pong  
+### Ping Pong  
+
+Write test first, get the test to pass, refactor safely  
+
+### No method longer than 4 lines
+
+### No primites across method boundaries
+
+
+### No if's
+
+- No if statments  
+- No switch statements  
+
+### Safe Refactorings
+
+### Vanilla (plain old)  
+
+### 1969 (compile twice)
+### Ping Pong  
 - No primitives across method boundaries  
 - Tests for customers first  
 - No conditional branching  
+
+(One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
 
 
 #### References ####
