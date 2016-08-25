@@ -210,7 +210,7 @@ The UHK has a really neat clip in process so that it can be effectively used as 
 
 Because the UHK can be split, it can be made extremely compact when travelling. I have travelled on airplanes with other keyboards and when they are a single piece keyboard they tend to get in the way. The UHK doesn't have this challenge.  
 
-#### Visual Display on Layers
+#### Visual display on layers
 
 For a developer getting used to the concept of keyboard layers, having a visual display to indicate what layer you are currently on is really useful. The UHK makes it very clear.
 
