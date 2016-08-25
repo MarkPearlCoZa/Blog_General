@@ -17,34 +17,6 @@ This chapter provided an overview of how CORS works from the server’s perspect
 | http://localhost:1111 | http://localhost:9999  | No, different ports  |
 | http://localhost:9999 | http://127.0.0.1:9999  | No, different hosts  |
 
-<table class="tg">
-  <tr>
-    <th class="tg-baqh">Server</th>
-    <th class="tg-yw4l">Origin</th>
-    <th class="tg-yw4l">Same-origin request</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">http://127.0.0.1:9999</td>
-    <td class="tg-yw4l">http://127.0.0.1:9999</td>
-    <td class="tg-yw4l">Yes</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">http://127.0.0.1:9999</td>
-    <td class="tg-yw4l">https://127.0.0.1:9999</td>
-    <td class="tg-yw4l">No, different schema</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">http://localhost:1111</td>
-    <td class="tg-yw4l">http://localhost:9999</td>
-    <td class="tg-yw4l">No, different ports</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">http://localhost:9999</td>
-    <td class="tg-yw4l">http://127.0.0.1:9999</td>
-    <td class="tg-yw4l">No, different hosts</td>
-  </tr>
-</table>
-
 
 #### 3 key players 
 
