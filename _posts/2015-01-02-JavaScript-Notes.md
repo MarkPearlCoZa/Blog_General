@@ -4,9 +4,9 @@ title: JavaScript Notes
 tags: Web
 category: Tech
 ---
-### Array's ###
+### Array's 
 
-#### Creating an array of a size with a certain value ####
+#### Creating an array of a size with a certain value 
 
 ~~~
 let size = 10;
@@ -40,14 +40,14 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
-#### Creating Array removing duplicate values ####
+#### Creating Array removing duplicate values 
 
 ~~~
 let a = [1, 2, 3, 2, 2, 1, 3];
 let uniqueA = [...new Set(a)];
 ~~~
 
-#### Creating Arrays from Strings ####
+#### Creating Arrays from Strings 
 
 Using split operator...
 
@@ -136,9 +136,9 @@ if (!a) {
 
 -------------------------------------------------------------------------------------------
 
-### Numbers ###
+### Numbers 
 
-#### Check if a number is a whole number / integer  ####
+#### Check if a number is a whole number / integer  
 
 ~~~
 function isWholeNumber(n){
@@ -152,7 +152,7 @@ function isWholeNumber(n){
 isFinite(testValue);
 ~~~
 
-#### Squaring Number Syntax ####
+#### Squaring Number Syntax
 
 The below code square c to the power of 2
 
@@ -160,7 +160,7 @@ The below code square c to the power of 2
 c ** 2
 ~~~
 
-#### Performant way to check if number is odd ####
+#### Performant way to check if number is odd
 
 ~~~
 let number = 123;
@@ -169,7 +169,7 @@ let number = 123;
 
 [Read more](http://stackoverflow.com/questions/6572670/other-ways-of-performing-modulo-operation)  
 
-#### Fast Math.Floor ####
+#### Fast Math.Floor
 
 That ~~ is a double NOT bitwise operator.
 
@@ -183,7 +183,7 @@ function isANumber(value) {
 }
 ~~~
 
-#### Recognizing Integers #### 
+#### Recognizing Integers 
 
 ~~~
 Number.isInteger(n)
@@ -195,7 +195,7 @@ or
 if (data === parseInt(data, 10)) { ... }
 ~~~
 
-#### Rounding ####
+#### Rounding 
 
 Rounding to certain decimal places  
 
@@ -205,11 +205,13 @@ const roundTo = (n, decimal) => (Math.round(n * Math.pow(10,decimal)) * Math.pow
 
 -------------------------------------------------------------------------------------------
 
-### Map & Reduce ###
+### Map & Reduce 
 
 [Explanation of Map/Reduce](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)  
 
-### Closures ###
+-------------------------------------------------------------------------------------------
+
+### Closures 
 
 Closures are functions that refer to independent (free) variables. In other words, the function defined in the closure 'remembers' the environment in which it was created.
 
@@ -233,7 +235,9 @@ function buildFun(n){
 
 [Read more](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)  
 
-### RegEx ###
+-------------------------------------------------------------------------------------------
+
+### RegEx 
 
 
 Using RegExp
@@ -267,9 +271,9 @@ class ExampleCalss {
 
 -------------------------------------------------------------------------------------------
 
-### Json Objects ###
+### Json Objects
 
-#### Check if key is in Json Object ####
+#### Check if key is in Json Object 
 
 ~~~
 let person = { name : "Mark", surname : "Pearl"}
@@ -277,7 +281,7 @@ let person = { name : "Mark", surname : "Pearl"}
 If ('propertyName' in person) ...
 ~~~
 
-#### Parse through each key in Json Object ####
+#### Parse through each key in Json Object 
 
 ~~~
 for (let key in object) {
@@ -288,7 +292,20 @@ for (let key in object) {
 
 -------------------------------------------------------------------------------------------
 
-### Misc ###
+### Scope 
+
+- Global Scope  
+- Local Scope  
+- Function Scope  
+- Lexical Scope  
+- Scope Chain  
+- Closures  
+
+[Everything you wanted to know about javascript scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)  
+
+-------------------------------------------------------------------------------------------
+
+### Misc 
 
 #### Easy way to Run JavaScript ####
 
