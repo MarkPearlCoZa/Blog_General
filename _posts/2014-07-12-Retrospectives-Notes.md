@@ -5,6 +5,14 @@ tags: Teams
 category: Soft
 ---
 
+### What are we trying to achieve from a retrospective?
+
+A retrospective is a great way to implement interative and incremental improvement. When a team is in a good place socially, I see the primary purpose of a retrospective to identify the one or two small improvements (or experiments) that they can do in the next period.
+
+
+
+---------------------------------------------------------------------------------------------------
+
 ### General Format 
 
 - Ice Breaker / Change Mindset   
@@ -25,7 +33,7 @@ Don't just do an ice breaker for the sake of an ice breaker. Be strategic about 
 - Are there any long term objectives that the team is trying to develop?  
 - Are there activities we can do that help team members know other team members better?  
 
-#### Example Ice Breaker Activities  
+#### Example ice breaker activities  
 
 - Fizz Buzz Group Number Game (also known as Ping Pong)
 - Organize seating based on distance that one was born from the current location  
