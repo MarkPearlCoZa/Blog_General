@@ -82,7 +82,24 @@ I've found going through each goal individually is useful. Do not rush through t
 
 ### Step 3 - Main Acitivity
 
-#### Assesing where we are 
+Plan a main activity, but don't be tied to it. Forcing a team to do your activity because you planned it when there may be something else the team want's to discuss is selfish. Go where the heat is.
+
+Usually giving the team an opportunity to propose items to dicuss as part of the main activity is a good thing. Most of the time it makes sense to go through their proposed topics. Sometimes it is more useful to take a bigger step backwards to look at the bigger picture. 
+
+#### Lean Coffee Style Retro 
+
+In the teams I've been with we typically have a retro topics wall in our team area. During the iteration before the reto we put topics up we would like to discuss. These become useful if you run your main activity in a [lean coffee style retro](https://www.retrium.com/resources/techniques/lean-coffee).  
+
+#### You don't have to cover everything - Quick Wins vs Deep Discussions
+
+Use techniques that allow you to identify what the hottest topics are. Generally I find two types of topics that come out - quick wins, and deep discussions.
+
+Try identify quick wins first. Don't assume something is a quick win because you think it is. Get consensus from the team that a topic is a quick win. If everyone in the team agrees it is a quick win and they want to adopt it, adopt it - make it a retro goal outcome. If only some of the members of the team think it is a quick win, but others do not - then it is not a quick win - move it to the deep discussions section.
+
+With deep discussions you are only going to be able to cover 1 or 2 topics in an hour retro. Find a mechanism for the team to identify what they feel is the most important topic. Facilitate discussion, but if it is going nowhere don't feel shy to suggest the topic is parked. Talking about something without generating goals / outcomes can be frustrating. A good indication if a deep discussion is still worth pursuing is:
+
+- Gauging how involved the team is in the discussion (if only one or two people are engaged, it should be parked)  
+- Are proposed goals emerging (if they are not, push the team to find a small improvement, if they can't suggest it get's parked and move on)  
 
 ##### Example Main Activities 
 
@@ -100,6 +117,8 @@ Things learns from the exercise:
 ---------------------------------------------------------------------------------------------------
 
 ### Step 4 - Confirm goals to be achieved by next retro
+
+
 
 ---------------------------------------------------------------------------------------------------
 
