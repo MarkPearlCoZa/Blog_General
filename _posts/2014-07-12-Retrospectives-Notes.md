@@ -18,6 +18,8 @@ category: Soft
 
 I use the ice breaker to help the team make a mental shift from immediate work to taking a step back and looking at how we are working together.
 
+#### Be strategic about your ice breaker  
+
 Don't just do an ice breaker for the sake of an ice breaker. Be strategic about what your ice breaker is. An ice breaker is a great way to get people to get to know each other better. 
 
 - Are there any long term objectives that the team is trying to develop?  
