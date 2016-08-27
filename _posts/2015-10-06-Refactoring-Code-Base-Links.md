@@ -21,6 +21,7 @@ category: Misc
 
 [Martin Fowlers Catalog of Refactorings](http://refactoring.com/catalog/)  
 [How to conque legacy code](https://medium.freecodecamp.com/conquer-legacy-code-f9e23a6ab758#.pyn3q1fet)  
+[Shims, Jigs, and other woodworking concepts to conquer technical debt](http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/)  
 
 ### Refactoring Code Base Links ###
 
