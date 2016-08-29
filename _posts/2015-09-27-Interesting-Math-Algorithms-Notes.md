@@ -90,6 +90,10 @@ Formula for calculating the running average (useful if you don't know the total 
 
 For example : Multiplying the average of the first 10 by 10 and then adding the 11th (creating a weighted sum) and then dividing by 11  
 
+~~~
+const average = (arr) => arr.reduce((t,c,i) => ((t * i) + c) / (i + 1),0);
+~~~
+
 ------------------------------------------------------------------------------------------------
 
 ### Pronic Numbers ###
