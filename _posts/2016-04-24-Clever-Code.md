@@ -99,3 +99,9 @@ const addCommas = (money,reg) => {
   return money.replace(reg,x=>x+",")  //like this
 }
 ~~~
+
+#### Check to see if a string is a natural number
+
+~~~
+const isInteger = (txt) => (/^-?\d+$/).test(txt);
+~~~
