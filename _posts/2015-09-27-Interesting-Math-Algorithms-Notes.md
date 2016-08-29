@@ -72,6 +72,26 @@ Assume Foo grew by 15% every year. Foo would be experiencing exponential growth.
 
 ------------------------------------------------------------------------------------------------
 
+### Averages ###
+
+Simple formula for calculating averages if you know the total length
+
+~~~
+sum of vals / number of vals
+~~~
+
+Formula for calculating the running average (useful if you don't know the total length)
+
+- Multiply the current average by the current number of values in your collection 
+- Add the new number (creating a weighted sum)
+- Divide by the new number of values in the collection
+
+[Read more about this](http://www.bennadel.com/blog/1627-create-a-running-average-without-storing-individual-values.htm)  
+
+For example : Multiplying the average of the first 10 by 10 and then adding the 11th (creating a weighted sum) and then dividing by 11  
+
+------------------------------------------------------------------------------------------------
+
 ### Pronic Numbers ###
 
 A pronic number, oblong number, rectangular number or heteromecic number, is a number which is the product of two consecutive integers, that is, n(n + 1).
