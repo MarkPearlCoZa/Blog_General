@@ -168,7 +168,7 @@ What to bring on the day…
 - Open mind, willingness to learn & share  
 ~~~
 
-#### Room Layout
+### Room Layout
 
 - Desk layout where two people can sit comfortably with keyboards next to each other
 - Electrical extensions at each desk to plug computer / laptop in  
