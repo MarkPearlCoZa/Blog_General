@@ -103,7 +103,30 @@ Write test first, get the test to pass, refactor safely
 
 #### Marketing / Communication
 
-Examples of emails sent out to promote code retreat  
+Examples of email sent out the day before the event...  
+
+~~~
+Hi, you are getting this because you are lucky enough to be registered for the Code Retreat tomorrow.
+ 
+Just some things to remember
+- We start in Purple 1 & 2 at 9:30 (please don’t be late)
+- We will finish by 16:30
+
+Bring an external keyboard if you have one (this makes pairing easier)
+- Bring your laptop set up with you IDE, refactoring tool of choice as well as a test framework (C# or JavaScript)
+- No need to bring lunch, we will be providing it
+ 
+We have limited attendance to 20 people, currently we have 16 confirmed – if you have a colleague who would like to attend who isn’t on this mail let us know – we will work on a first come first serve basis.
+ 
+See you tomorrow!
+ 
+Kind Regards
+Mark
+ 
+If anything is unclear don’t hesitate to email me!~~
+~~~
+
+Examples of emails sent out to promote the event...
 
 ~~~
 “A Code Retreat is a day-long practice event focused at becoming a better programmer.”
