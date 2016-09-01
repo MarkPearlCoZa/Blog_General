@@ -46,7 +46,7 @@ category: Misc
 
 #### Things to prepare for Code Retreat
 
-On the Day Must Have:  
+On the day must have:  
 
 - Print Conways Game of Life Rules on a4 paper for hand out (at least 1 per person) 
 - Print Conways Game of Life Poster (2 or 3 for the wall) 
