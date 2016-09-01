@@ -115,7 +115,7 @@ Write test first, get the test to pass, refactor safely
 
 #### Marketing / Communication
 
-Examples of email sent out the day before the event...  
+**Examples of email sent out the day before the event...**  
 
 ~~~
 Hi, you are getting this because you are lucky enough to be registered for the Code Retreat tomorrow.
@@ -138,7 +138,7 @@ Mark
 If anything is unclear don’t hesitate to email me!~~
 ~~~
 
-Examples of emails sent out to promote the event...
+**Examples of emails sent out to promote the event...**  
 
 ~~~
 “A Code Retreat is a day-long practice event focused at becoming a better programmer.”
