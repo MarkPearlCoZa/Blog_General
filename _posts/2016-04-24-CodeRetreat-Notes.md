@@ -44,36 +44,6 @@ category: Misc
 4:10 - 4:20	- Retro of the Day  
 4:20 - 4:30	- Closing Retro (Big Circle)  
 
-#### Things to prepare for Code Retreat
-
-On the day must have:  
-
-- Print Conways Game of Life Rules on a4 paper for hand out (at least 1 per person) 
-- Print Conways Game of Life Poster (2 or 3 for the wall) 
-- Make sure screen / projector that can show a timer that everyone can see
-- Buy name labels / name tags + Sharpies to write names
-- Timer for sessions that can be put on screen
-
-Nice to have:  
-
-- Print posters with "4 rules of simple design"
-- Print posters wth "4 stages of naming"
-
-#### Room Layout
-
-- Desk layout where two people can sit comfortably with keyboards next to each other
-- Electrical extensions at each desk to plug computer / laptop in  
-- No water/fluids on desks, separate table in the room that has glasses & water
-
-<img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
-
-#### Food Suggestions
-
-- Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
-- Have fruit or slow energy release bars in the morning  
-- Light lunch  
-- Chcolates etc can be made available last hour of the day  
-
 -------------------------------------------------------------------------------------------------------------
 
 ## Session Explanations
@@ -105,6 +75,40 @@ Write test first, get the test to pass, refactor safely
 - No conditional branching  
 
 (One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
+
+-------------------------------------------------------------------------------------------------------------
+
+### Preparing for a Code Retreat
+
+#### Must have on the day
+
+- Print Conways Game of Life Rules on a4 paper for hand out (at least 1 per person)  
+- Print Conways Game of Life Poster (2 or 3 for the wall)   
+- Make sure screen / projector that can show a timer that everyone can see  
+- Buy name labels / name tags + Sharpies to write names  
+- Timer for sessions that can be put on screen  
+
+#### Nice to have on the day
+
+- Print posters with "4 rules of simple design"  
+- Print posters wth "4 stages of naming"  
+- Prizes for give aways at end of day  
+
+#### Room Layout
+
+- Desk layout where two people can sit comfortably with keyboards next to each other
+- Electrical extensions at each desk to plug computer / laptop in  
+- No water/fluids on desks, separate table in the room that has glasses & water
+
+<img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
+
+#### Food Suggestions
+
+- Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
+- Have fruit or slow energy release bars in the morning  
+- Light lunch  
+- Chcolates etc can be made available last hour of the day  
+
 
 #### References ####
 
