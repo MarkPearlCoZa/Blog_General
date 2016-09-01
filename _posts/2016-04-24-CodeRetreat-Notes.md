@@ -64,6 +64,8 @@ Nice to have:
 - Island style layouts preferable where at least two people can sit comfortably with keyboards next to each other  
 - No water/fluids on desks, separate table in the room that has glasses & water
 
+<img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
+
 #### Food Suggestions
 
 - Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
