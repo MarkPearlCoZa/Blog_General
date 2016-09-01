@@ -83,10 +83,14 @@ Write test first, get the test to pass, refactor safely
 #### Must do well in advance  
 
 - Advertise event & get registrations  
-- Book room
+- Book room and confirm room layout (see below)  
 - Confirm dietary requirements  
-- 
+- Organize giveaway prizes (if any)  
 
+#### Must do day before event
+
+- Send out reminder email
+- Confirm materials for on the day are ready
 
 #### Must have on the day
 
