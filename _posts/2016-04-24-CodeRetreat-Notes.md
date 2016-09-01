@@ -78,3 +78,4 @@ Write test first, get the test to pass, refactor safely
 
 #### References ####
 
+- <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conways Game of Life for Projector</a>  
