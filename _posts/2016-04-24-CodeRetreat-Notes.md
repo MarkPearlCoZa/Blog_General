@@ -4,7 +4,12 @@ title: Code Retreat Notes
 tags: Learning
 category: Misc
 ---
-## Purposes
+## Purposes / Outcomes of Code Retreats
+
+- Emergent Design  
+- Pair Programming & TDD
+- Learn different languages
+- Legacy code
 
 ### Emergent Design Outline
 
