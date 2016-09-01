@@ -52,12 +52,24 @@ On the Day Must Have:
 - Print Conways Game of Life Poster (2 or 3 for the wall) 
 - Make sure screen / projector that can show a timer that everyone can see
 - Buy name labels / name tags + Sharpies to write names
-- Bring timer for sessions
+- Timer for sessions that can be put on screen
 
 Nice to have:  
 
 - Print posters with "4 rules of simple design"
-- Print posters wth 4 stages of naming
+- Print posters wth "4 stages of naming"
+
+#### Room Layout
+
+- Island style layouts preferable where at least two people can sit comfortably with keyboards next to each other  
+- No water/fluids on desks, separate table in the room that has glasses & water
+
+#### Food Suggestions
+
+- Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
+- Have fruit or slow energy release bars in the morning  
+- Light lunch  
+- Chcolates etc can be made available last hour of the day  
 
 -------------------------------------------------------------------------------------------------------------
 
