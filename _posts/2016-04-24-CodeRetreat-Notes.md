@@ -54,15 +54,15 @@ Write test first, get the test to pass, refactor safely
 
 ### No method longer than 4 lines
 
-### No primites across method boundaries
+### No primitives across method boundaries
 
 
 ### No if's  
 
-- No if statments  
+- No if statements  
 - No switch statements  
 
-### Safe Refactorings  
+### Safe Refactoring  
 
 ### Vanilla (plain old)  
 
@@ -80,10 +80,18 @@ Write test first, get the test to pass, refactor safely
 
 ### Preparing for a Code Retreat
 
+#### Must do well in advance  
+
+- Advertise event & get registrations  
+- Book room
+- Confirm dietary requirements  
+- 
+
+
 #### Must have on the day
 
-- Print Conways Game of Life Rules on a4 paper for hand out (at least 1 per person)  
-- Print Conways Game of Life Poster (2 or 3 for the wall)   
+- Print Conway's Game of Life Rules on A4 paper for hand out (at least 1 per person)  
+- Print Conway's Game of Life Poster (2 or 3 for the wall)   
 - Make sure screen / projector that can show a timer that everyone can see  
 - Buy name labels / name tags + Sharpies to write names  
 - Timer for sessions that can be put on screen  
@@ -91,15 +99,15 @@ Write test first, get the test to pass, refactor safely
 #### Nice to have on the day
 
 - Print posters with "4 rules of simple design"  
-- Print posters wth "4 stages of naming"  
-- Prizes for give aways at end of day  
+- Print posters with "4 stages of naming"  
+- Prizes for giveaways at end of day  
 
 #### Food Suggestions
 
 - Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
 - Have fruit or slow energy release bars in the morning  
 - Light lunch  
-- Chcolates etc can be made available last hour of the day  
+- Chocolates etc can be made available last hour of the day  
 
 #### Marketing / Communication
 
@@ -116,7 +124,7 @@ Bring an external keyboard if you have one (this makes pairing easier)
 - Bring your laptop set up with you IDE, refactoring tool of choice as well as a test framework (C# or JavaScript)
 - No need to bring lunch, we will be providing it
  
-We have limited attendance to 20 people, currently we have 16 confirmed – if you have a colleague who would like to attend who isn’t on this mail let us know – we will work on a first come first serve basis.
+We have limited attendance to 20 people, currently we have 16 confirmed – if you have a colleague who would like to attend who isn't on this mail let us know – we will work on a first come first serve basis.
  
 See you tomorrow!
  
@@ -164,4 +172,4 @@ What to bring on the day…
 
 #### References ####
 
-- <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conways Game of Life for Projector</a>  
+- <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conway's Game of Life for Projector</a>  
