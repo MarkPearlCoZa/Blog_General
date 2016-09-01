@@ -61,7 +61,8 @@ Nice to have:
 
 #### Room Layout
 
-- Island style layouts preferable where at least two people can sit comfortably with keyboards next to each other  
+- Desk layout where two people can sit comfortably with keyboards next to each other
+- Electrical extensions at each desk to plug computer / laptop in  
 - No water/fluids on desks, separate table in the room that has glasses & water
 
 <img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
