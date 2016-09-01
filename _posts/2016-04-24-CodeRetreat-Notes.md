@@ -78,7 +78,9 @@ Write test first, get the test to pass, refactor safely
 
 -------------------------------------------------------------------------------------------------------------
 
-### Preparing for a Code Retreat
+## Preparing for a Code Retreat
+
+### Things to do
 
 #### Must do well in advance  
 
@@ -106,16 +108,16 @@ Write test first, get the test to pass, refactor safely
 - Print posters with "4 stages of naming"  
 - Prizes for giveaways at end of day  
 
-#### Food Suggestions
+### Food Suggestions
 
 - Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
 - Have fruit or slow energy release bars in the morning  
 - Light lunch  
 - Chocolates etc can be made available last hour of the day  
 
-#### Marketing / Communication
+### Marketing / Communication
 
-**Examples of email sent out the day before the event...**  
+#### Examples of email sent out the day before the event...
 
 ~~~
 Hi, you are getting this because you are lucky enough to be registered for the Code Retreat tomorrow.
@@ -138,7 +140,7 @@ Mark
 If anything is unclear don’t hesitate to email me!~~
 ~~~
 
-**Examples of emails sent out to promote the event...**  
+#### Examples of emails sent out to promote the event...  
 
 ~~~
 “A Code Retreat is a day-long practice event focused at becoming a better programmer.”
