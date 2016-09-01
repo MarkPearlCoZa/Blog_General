@@ -39,11 +39,6 @@ category: Misc
 4:10 - 4:20	- Retro of the Day  
 4:20 - 4:30	- Closing Retro (Big Circle)  
 
-#### Notes 
-
-- For the first session, delete code before retro, for all other sessions delete code after retro 
-- 6 Sessions  
-
 #### Things to prepare for Code Retreat
 
 On the Day Must Have:  
