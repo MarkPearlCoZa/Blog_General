@@ -44,23 +44,20 @@ category: Misc
 - For the first session, delete code before retro, for all other sessions delete code after retro 
 - 6 Sessions  
 
-#### Things to prepare before the Code Retreat 
+#### Things to prepare for Code Retreat
 
-Must have:  
+On the Day Must Have:  
 
 - Print Conways Game of Life Rules on a4 paper for hand out (at least 1 per person) 
 - Print Conways Game of Life Poster (2 or 3 for the wall) 
 - Make sure screen / projector that can show a timer that everyone can see
+- Buy name labels / name tags + Sharpies to write names
+- Bring timer for sessions
 
 Nice to have:  
 
 - Print posters with "4 rules of simple design"
 - Print posters wth 4 stages of naming
-
-#### Things to bring on the day
-
-- Bring hand out and posters printed above
-- Bring timer for sessions
 
 -------------------------------------------------------------------------------------------------------------
 
