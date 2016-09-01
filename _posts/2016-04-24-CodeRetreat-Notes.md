@@ -94,14 +94,6 @@ Write test first, get the test to pass, refactor safely
 - Print posters wth "4 stages of naming"  
 - Prizes for give aways at end of day  
 
-#### Room Layout
-
-- Desk layout where two people can sit comfortably with keyboards next to each other
-- Electrical extensions at each desk to plug computer / laptop in  
-- No water/fluids on desks, separate table in the room that has glasses & water
-
-<img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
-
 #### Food Suggestions
 
 - Avoid food that spikes energy levels and then drops you afterwards (sweets, chocolates, pizza)  
@@ -109,6 +101,43 @@ Write test first, get the test to pass, refactor safely
 - Light lunch  
 - Chcolates etc can be made available last hour of the day  
 
+#### Marketing / Communication
+
+Examples of emails sent out to promote code retreat  
+
+~~~
+“A Code Retreat is a day-long practice event focused at becoming a better programmer.”
+ 
+We will be having our first day long Code Retreat next Friday (2nd September) with a specific focus on orientated emergent design and pair programming.
+The event is limited to 20 people on a first register basis.
+To register put your name on the Code Retreat list by the “What’s happening in engineering Experience Auckland board”
+ 
+Who should attend?
+The event is open to anyone regardless of official role (BA / QA / etc.). 
+You should have basic knowledge of JavaScript or C# (you should know at a minimum what a class is, how to declare variables, how to do a loop without having to google it)  
+ 
+What will you learn?  
+You can expect by the end of the event to have a deeper understanding of object oriented emergent design and pair programming.
+ 
+How long will it be?
+- The event starts at 9:30 and will end by 16:30  
+- Lunch will be provided.  
+ 
+What to bring on the day…
+- External Keyboard  
+- Laptop (if you have one)  
+- C# or JavaScript IDE Setup with test framework installed and running (NUnit, MSTest, etc)  
+- Refactoring tool of choice (e.g. Resharper)  
+- Open mind, willingness to learn & share  
+~~~
+
+#### Room Layout
+
+- Desk layout where two people can sit comfortably with keyboards next to each other
+- Electrical extensions at each desk to plug computer / laptop in  
+- No water/fluids on desks, separate table in the room that has glasses & water
+
+<img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
 
 #### References ####
 
