@@ -4,7 +4,7 @@ title: Four Steps to Incremental Improvements using Team Retro's
 tags: Teams Retrospectives
 category: General 
 ---
-Over the years having been involved with, and having observed, a number of development teams, one of the most vital activities I have found a team should do is retrospect **regular cadence**.  
+Over the years having been involved with, and having observed, a number of development teams, one of the most vital activities I have found a team should do is retrospect **at a regular cadence**.  
 
 A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget to intentionally retrospect**. In many instances it becomes the forgotten meeting.
 
