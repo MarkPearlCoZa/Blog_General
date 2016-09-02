@@ -44,7 +44,7 @@ category: Misc
 - Know how to declare an 'object' in that area
 - Has an interest in deepening their 'developer' skill set (you don't need to be a dev, but you should be interested in being able to grow your 'developer' skills  
 
-### Timings for Company Internal Code Retreat  
+### Timings for the day  
 
 9:30 - 9:45 	- People Arrive, Setup, Name Tags, Find a partner  
 9:45 - 10:30 	- First Session  
@@ -61,8 +61,6 @@ category: Misc
 3:25 - 4:10	- Sixth Session  
 4:10 - 4:20	- Retro of the Day  
 4:20 - 4:30	- Closing Retro (Big Circle)  
-
-
 
 -------------------------------------------------------------------------------------------------------------
 
