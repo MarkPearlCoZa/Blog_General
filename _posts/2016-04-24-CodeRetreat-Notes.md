@@ -30,6 +30,8 @@ category: Misc
 
 ## Company Internal Code Retreats
 
+<img class="img-responsive" alt="People in a Code Retreat" src="{{ site.url }}/assets/images/CodeRetreatStarting.jpg">
+
 ### General suggestions
 
 - Company teams that have an element of 'support' that they provide should make sure that not all 'technical' members of the team attend the Code Retreat on the day. If not there is a high probability that someone in the team will be 'called' out during the day for support calls which is disruptive.  
