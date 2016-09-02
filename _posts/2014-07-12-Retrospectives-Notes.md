@@ -29,7 +29,7 @@ I see two types of things we generally get from a retrospective:
 
 Let me explain...  
 
-#### Recognize we are humans  
+#### Recognizing that we are all humans  
 
 When a team is NOT in a good place socially, I see the primary purpose of retrospective to:  
 
