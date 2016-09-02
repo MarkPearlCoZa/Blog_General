@@ -197,3 +197,5 @@ What to bring on the day…
 #### References ####
 
 - <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conway's Game of Life for Projector</a>  
+- <a href="{{ site.url }}/assets/documents/CodeRetreat-ConwaysGOLRules.pdf">Conway's Game of Life A4 Printout PDF</a>  
+- <a href="{{ site.url }}/assets/documents/CodeRetreat-ConwaysGOLRules.odt">Conway's Game of Life A4 Printout Open Office Format</a>  
