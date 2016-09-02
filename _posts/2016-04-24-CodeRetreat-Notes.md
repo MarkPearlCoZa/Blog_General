@@ -42,7 +42,7 @@ category: Misc
 
 - Know what object orientation is  
 - Know how to declare an 'object' in the language of choice  
-- Has an interest in deepening their 'developer' skill set (you don't need to be a dev, but you should be interested in being able to grow your 'developer' skills  
+- Has an interest in deepening their 'developer' skill set (you don't need to be a dev, but you should be interested in being able to grow your 'developer' skills and already have a technical ability. For example if it is a challenge to solve FizzBuzz then a code retreat may be to big a step forward.  
 
 ### Timings for the day  
 
