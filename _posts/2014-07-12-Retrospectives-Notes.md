@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Retrospective Notes
+title: 4 Steps to Incremental Improvements using Team Retro's
 tags: Teams Retrospectives
-category: Soft
+category: General 
 ---
+Over the years having been involved with and having observed a number of development teams, one of the most vital activities I have found a team should do is retrospect **reguarly**.  A pattern I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget** the retrospective. 
+
+Why this is I'm not sure? I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
 
 ### What are we trying to achieve from a retrospective?
 
-#### Implement interative and incremental improvement
+#### Implement iterative and incremental improvement
 
 When a team is in a good place socially, I see the primary purpose of the retrospective to:  
 
@@ -49,7 +52,7 @@ Don't just do an ice breaker for the sake of an ice breaker. Be strategic about 
 - Are there any long term objectives that the team is trying to develop?  
 - Are there activities we can do that help team members know other team members better?  
 
-#### Example ice breaker activities  
+#### Examples Ice Breaker Activities  
 
 - Fizz Buzz Group Number Game (also known as Ping Pong)
 - Organize seating based on distance that one was born from the current location  
@@ -80,17 +83,17 @@ I've found going through each goal individually is useful. Do not rush through t
 
 ---------------------------------------------------------------------------------------------------
 
-### Step 3 - Main Acitivity
+### Step 3 - Main Activity
 
 Plan a main activity, but don't be tied to it. Forcing a team to do your activity because you planned it when there may be something else the team want's to discuss is selfish. Go where the heat is.
 
-Usually giving the team an opportunity to propose items to dicuss as part of the main activity is a good thing. Most of the time it makes sense to go through their proposed topics. Sometimes it is more useful to take a bigger step backwards to look at the bigger picture. 
+Usually giving the team an opportunity to propose items to discuss as part of the main activity is a good thing. Most of the time it makes sense to go through their proposed topics. Sometimes it is more useful to take a bigger step backwards to look at the bigger picture. 
 
 > Be careful not to let the main activity take up all your time, you need enough time for confirming goals for next period  
 
 #### Lean Coffee Style Retro 
 
-In the teams I've been with we typically have a retro topics wall in our team area. During the iteration before the reto we put topics up we would like to discuss. These become useful if you run your main activity in a [lean coffee style retro](https://www.retrium.com/resources/techniques/lean-coffee).  
+In the teams I've been with we typically have a retro topics wall in our team area. During the iteration before the retro we put topics up we would like to discuss. These become useful if you run your main activity in a [lean coffee style retro](https://www.retrium.com/resources/techniques/lean-coffee).  
 
 #### Quick Wins vs Deep Discussions
 
