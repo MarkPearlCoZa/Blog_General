@@ -60,6 +60,8 @@ There is no 'right' or 'wrong' format for a retrospective. That said, I generall
 - Main Activity  
 - Confirm goals to be achieved by next retro  
 
+In general, for a team of about 8 people, you need about an hour and a half to cover this format properly. 
+
 ---------------------------------------------------------------------------------------------------
 
 ### Step 1 - The Ice Breaker 
