@@ -68,17 +68,24 @@ category: Misc
 
 ### Ping Pong  
 
-Write test first, get the test to pass, refactor safely  
+- Write test first, get the test to pass, refactor safely  
 
 ### No method longer than 4 lines
 
+- Helps understand the principle of keeping things small (four rules of simple design)  
+- Restriction does not apply for tests  
+- Restriction does not include method signature, only method body  
+
 ### No primitives across method boundaries
 
+- Helps understand encapsulation  
 
 ### No if's  
 
+- Helps people look at alternate approaches for branching logic  
 - No if statements  
 - No switch statements  
+- No conditional branching  
 
 ### Safe Refactoring  
 
@@ -88,11 +95,11 @@ Write test first, get the test to pass, refactor safely
 
 ### Ping Pong    
 
-- No primitives across method boundaries  
-- Tests for customers first  
-- No conditional branching  
+### Evil Coder
 
-(One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem)   
+One person writes the test, the other person gets the test to pass while trying to intentionally not solve the problem  
+
+- Helps people write explicit clearly defined tests  
 
 -------------------------------------------------------------------------------------------------------------
 
