@@ -41,7 +41,7 @@ category: Misc
 ### Minimum skills to attend
 
 - Know what object orientation is  
-- Know how to declare an 'object' in that area
+- Know how to declare an 'object' in the language of choice  
 - Has an interest in deepening their 'developer' skill set (you don't need to be a dev, but you should be interested in being able to grow your 'developer' skills  
 
 ### Timings for the day  
