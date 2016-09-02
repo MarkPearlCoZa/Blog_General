@@ -12,13 +12,13 @@ A concerning pattern that I have observed in organizations and teams that are mo
 
 Why this is I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
 
+<img class="img-responsive" alt="Team Retrospectives" src="{{ site.url }}/assets/images/Team-Retrospectives.jpg">
+
 Another pattern that I have observed from teams is that when they get to what they think is an acceptably good place they become comfortable in how they work. At this point they move the retro from a regular cadence meeting to something they do on demand. This worries me allot.  
 
 **To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
 
 > Don't make the retro an on-demand meeting  
-
-<img class="img-responsive" alt="Team Retrospectives" src="{{ site.url }}/assets/images/Team-Retrospectives.jpg">
 
 ### What are we trying to achieve from a retrospective?
 
