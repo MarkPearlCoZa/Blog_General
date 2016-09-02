@@ -6,11 +6,15 @@ category: General
 ---
 Over the years having been involved with and having observed a number of development teams, one of the most vital activities I have found a team should do is retrospect **reguarly**.  
 
-A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget** to intentionally retrospect. It often becomes the 'forgotten' meeting.
+A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget to intentionally retrospect**. In many instances it becomes the forgotten meeting.
 
 > Retrospectives often become the forgotten meeting...
 
 Why this is I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
+
+Another pattern that I have observed from teams is that when they get to what they think is an acceptably good place they become comfortable in how they work. At this point they move the retro from a regular cadence meeting to something they do on demand. This worries me allot.  
+
+**To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
 
 <img class="img-responsive" alt="Team Retrospectives" src="{{ site.url }}/assets/images/Team-Retrospectives.jpg">
 
@@ -23,7 +27,6 @@ When a team is in a good place socially, I see the primary purpose of the retros
 - Review the success or value of the improvements they set out from the previous retro 
 - Identify the one or two small improvements (or experiments) that they can do in the next period  
 
-**To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
 
 #### Recognize we are humans  
 
