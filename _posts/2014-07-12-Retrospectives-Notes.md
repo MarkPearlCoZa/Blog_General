@@ -47,6 +47,8 @@ When a team is in a good place socially, I see the primary purpose of the retros
 - Review the success or value of the improvements they set out from the previous retro 
 - Identify the one or two small improvements (or experiments) that they can do in the next period  
 
+When a team embraces the fact that they can try something and if they see value then enhance it, the team starts to move towards being a [self organizing team](http://blog.markpearl.co.za/Self-Organizing-Teams-Notes). Team's that are self organizing are generally happier and more effective.  
+
 ---------------------------------------------------------------------------------------------------
 
 ### My Four Step Incremental Improvement Retro
