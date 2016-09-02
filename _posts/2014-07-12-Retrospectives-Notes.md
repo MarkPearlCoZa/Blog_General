@@ -16,9 +16,9 @@ Why this is I'm not sure - I suspect it is because stand-up's and so forth can b
 
 Another pattern that I have observed from teams is that when they get to what they think is an acceptably good place they become comfortable in how they work. At this point they move the retro from a regular cadence meeting to something they do on demand. This worries me allot.  
 
-**To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
-
 > Don't make the retro an on-demand meeting  
+
+To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement
 
 ### What are we trying to achieve from a retrospective?
 
