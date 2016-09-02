@@ -28,7 +28,7 @@ category: Misc
 
 -------------------------------------------------------------------------------------------------------------
 
-## Internal Code Retreats
+## Company Internal Code Retreats
 
 ### General suggestions
 
