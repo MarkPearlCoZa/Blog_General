@@ -40,7 +40,7 @@ When a team is NOT in a good place socially, I see the primary purpose of retros
 
 Team's that are still struggling to emotionally connect really struggle to incrementally improve.
 
-#### Implement iterative and incremental improvement
+#### Implementing iterative and incremental improvement
 
 When a team is in a good place socially, I see the primary purpose of the retrospective to:  
 
