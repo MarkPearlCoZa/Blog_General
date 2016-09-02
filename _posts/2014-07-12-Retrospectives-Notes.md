@@ -27,7 +27,7 @@ I see two types of retrospectives:
 1. Recognize we are human
 2. Implement iterative and incremental improvement
 
-Let me explain.  
+Let me explain...  
 
 #### Recognize we are humans  
 
