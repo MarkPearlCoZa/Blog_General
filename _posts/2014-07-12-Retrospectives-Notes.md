@@ -16,6 +16,8 @@ Another pattern that I have observed from teams is that when they get to what th
 
 **To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement**  
 
+> Don't make the retro an on-demand meeting  
+
 <img class="img-responsive" alt="Team Retrospectives" src="{{ site.url }}/assets/images/Team-Retrospectives.jpg">
 
 ### What are we trying to achieve from a retrospective?
