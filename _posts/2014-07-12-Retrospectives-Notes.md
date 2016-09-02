@@ -8,7 +8,7 @@ Over the years having been involved with and having observed a number of develop
 
 A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget** the retrospective. 
 
-Why this is I'm not sure? I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
+Why this is I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
 
 ### What are we trying to achieve from a retrospective?
 
