@@ -6,7 +6,9 @@ category: General
 ---
 Over the years having been involved with and having observed a number of development teams, one of the most vital activities I have found a team should do is retrospect **reguarly**.  
 
-A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget** the retrospective. 
+A concerning pattern that I have observed in organizations and teams that are moving from a hierarchical or 'traditional' structure to a more collaborative structure is they **forget** to intentionally retrospect. It often becomes the 'forgotten' meeting.
+
+> Retrospectives, the forgotten meeting...
 
 Why this is I'm not sure - I suspect it is because stand-up's and so forth can be mapped closely to more traditional meetings whereas retrospectives are a totally new type of meeting.
 
