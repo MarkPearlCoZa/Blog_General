@@ -176,7 +176,10 @@ To register put your name on the Code Retreat list by the “What’s happening 
  
 Who should attend?
 The event is open to anyone regardless of official role (BA / QA / etc.). 
-You should have basic knowledge of JavaScript or C# (you should know at a minimum what a class is, how to declare variables, how to do a loop without having to google it)  
+You should have basic knowledge of JavaScript or C# and want to further develop your 'programming' skills.   
+You should know at a minimum what a class is, how to declare variables, how to do a loop without having to google it.  
+You should be 'comfortable' writing code.  
+A good indication if you are at the right level is that solving something like FizzBuzz should be trivial.  
  
 What will you learn?  
 You can expect by the end of the event to have a deeper understanding of object oriented emergent design and pair programming.
