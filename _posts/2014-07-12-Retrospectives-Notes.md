@@ -22,7 +22,7 @@ To implement incremental iterative improvement you need to meet at a regular cad
 
 ### What are we trying to achieve from a retrospective?
 
-I see two types of retrospectives:
+I see two types of things we generally get from a retrospective:
 
 1. Recognize we are human
 2. Implement iterative and incremental improvement
