@@ -53,7 +53,7 @@ When a team embraces the fact that they can try something and if they see value 
 
 ## My Four Step Incremental Improvement Retro
 
-There is no 'right' or 'wrong' format for a retrospective. That said, I generally use the following format:  
+There is no always 'right' or always 'wrong' format for a team retrospective - context and time matters. That said, I generally use the following structure:  
 
 - Ice Breaker / Change Mindset   
 - Review of Previous Retrospective Goals  

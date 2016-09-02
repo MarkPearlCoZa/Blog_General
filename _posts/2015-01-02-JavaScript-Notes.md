@@ -250,7 +250,7 @@ Using RegExp
 
 ### Object Oriented JavaScript ###
 
-#### Class Declarations ####o
+#### Class Declarations
 
 ~~~
 class ExampleCalss {
@@ -268,6 +268,24 @@ class ExampleCalss {
   }
 }
 ~~~
+
+#### Duck Typing
+
+Checking that an object has the following function methods on it...
+
+- sayHoHoHo
+- distributeGifts  
+- goDownTheChimney  
+
+~~~
+function isSantaClausable(obj) {
+  return ['sayHoHoHo', 'distributeGifts', 'goDownTheChimney'].every(function(methodName) {
+    return typeof obj[methodName] == 'function';
+  });
+}
+~~~
+
+[Read more on Duck Typing in JavaScript](https://en.wikipedia.org/wiki/Duck_typing#In_JavaScript)  
 
 -------------------------------------------------------------------------------------------
 
