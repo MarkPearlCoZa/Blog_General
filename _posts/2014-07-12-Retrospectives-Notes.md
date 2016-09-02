@@ -18,17 +18,16 @@ Another pattern that I have observed from teams is that when they get to what th
 
 > Don't make the retro an on-demand meeting  
 
-To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement
+To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement.
 
 ### What are we trying to achieve from a retrospective?
 
-#### Implement iterative and incremental improvement
+I see two types of retrospectives:
 
-When a team is in a good place socially, I see the primary purpose of the retrospective to:  
+1. Recognize we are human
+2. Implement iterative and incremental improvement
 
-- Review the success or value of the improvements they set out from the previous retro 
-- Identify the one or two small improvements (or experiments) that they can do in the next period  
-
+Let me explain.  
 
 #### Recognize we are humans  
 
@@ -38,6 +37,15 @@ When a team is NOT in a good place socially, I see the primary purpose of retros
 - Blow off some steam  
 - Draw closer together as people  
 - Laugh   
+
+#### Implement iterative and incremental improvement
+
+When a team is in a good place socially, I see the primary purpose of the retrospective to:  
+
+- Review the success or value of the improvements they set out from the previous retro 
+- Identify the one or two small improvements (or experiments) that they can do in the next period  
+
+
 
 ---------------------------------------------------------------------------------------------------
 
