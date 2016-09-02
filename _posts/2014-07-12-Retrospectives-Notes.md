@@ -20,7 +20,7 @@ Another pattern that I have observed from teams is that when they get to what th
 
 To implement incremental iterative improvement you need to meet at a regular cadence. Meeting sporadically defeats the purpose of incremental improvement.
 
-### What are we trying to achieve from a retrospective?
+## What are we trying to achieve from a retrospective?
 
 I see two types of things we generally get from a retrospective:
 
@@ -51,7 +51,7 @@ When a team embraces the fact that they can try something and if they see value 
 
 ---------------------------------------------------------------------------------------------------
 
-### My Four Step Incremental Improvement Retro
+## My Four Step Incremental Improvement Retro
 
 There is no 'right' or 'wrong' format for a retrospective. That said, I generally use the following format:  
 
@@ -151,7 +151,7 @@ This is probably the second most important step in a retro, with Review of Previ
 
 By this stage you should have a number of 'proposed' goals for the next period (until the next retro). Remember, retrospectives are aimed at incremental improvement. The more improvements or experiments you introduce, the more chaos. Typically I have found small teams can only really achieve 2-4 'improvements' in a 2 week period. If a team has a lot of proposed improvements you want to get some sort of priority on where they feel the most value will be added.
 
-### Final thoughts
+## Final thoughts
 
 Having a retrospective at a regular cadence is vital for incremental improvements. For a team to create trust they need to have regular touch points to evaluate if they are doing what they said they were going to do. Retrospectives are one of those touch points. 
 
