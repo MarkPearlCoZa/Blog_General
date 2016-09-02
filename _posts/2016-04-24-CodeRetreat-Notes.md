@@ -32,11 +32,17 @@ category: Misc
 
 ### General suggestions
 
-- Company teams that have an element of 'support' that they provide should make sure that not all 'technical' members of the team attend the Code Retreat on the day. If not there is a high probability that someone in the team will be 'called' out during the day which is disruptive.  
+- Company teams that have an element of 'support' that they provide should make sure that not all 'technical' members of the team attend the Code Retreat on the day. If not there is a high probability that someone in the team will be 'called' out during the day for support calls which is disruptive.  
 
-- Having a financial cost per person to attend the Code Retreat increases the chances of people staying the whole day  
+- Having a financial cost per person to attend the Code Retreat increases the chances of people staying the whole day.  
 
 - Being specific on what the minimum skill level of attendees should be increases the general experience. We had QA's & BA's attend a Code Retreat, we were not specific enough on the level of skill's needed to get value from the day which ended up in a skills mismatch on the day.  
+
+### Minimum skills to attend
+
+- Know what object orientation is  
+- Know how to declare an 'object' in that area
+- Has an interest in deepening their 'developer' skill set (you don't need to be a dev, but you should be interested in being able to grow your 'developer' skills  
 
 ### Timings for Company Internal Code Retreat  
 
