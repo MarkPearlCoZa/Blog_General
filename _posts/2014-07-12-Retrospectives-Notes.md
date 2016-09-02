@@ -60,7 +60,7 @@ There is no 'right' or 'wrong' format for a retrospective. That said, I generall
 - Main Activity  
 - Confirm goals to be achieved by next retro  
 
-In general, for a team of about 8 people, you need about an hour and a half to cover this format properly. 
+In general, for a team of about 8 people that retrospects once every two weeks you need about an hour and a half to cover this format properly. If your cadence for retrospectives is on a more frequent interval retrospectives can be shorter. That said, you need to give some time between retrospectives for people to do things otherwise it becomes a futile meeting. 
 
 ---------------------------------------------------------------------------------------------------
 
