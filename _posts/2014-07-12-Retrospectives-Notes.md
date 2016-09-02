@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Steps to Incremental Improvements using Team Retro's
+title: Four Steps to Incremental Improvements using Team Retro's
 tags: Teams Retrospectives
 category: General 
 ---
