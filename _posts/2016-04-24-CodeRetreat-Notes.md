@@ -26,7 +26,19 @@ category: Misc
 5. Evil coder 
 6. No Constrains / Pair up with original partner  
 
-#### Timings for Company Internal Code Retreat  
+-------------------------------------------------------------------------------------------------------------
+
+## Internal Code Retreats
+
+### General suggestions
+
+- Company teams that have an element of 'support' that they provide should make sure that not all 'technical' members of the team attend the Code Retreat on the day. If not there is a high probability that someone in the team will be 'called' out during the day which is disruptive.  
+
+- Having a financial cost per person to attend the Code Retreat increases the chances of people staying the whole day  
+
+- Being specific on what the minimum skill level of attendees should be increases the general experience. We had QA's & BA's attend a Code Retreat, we were not specific enough on the level of skill's needed to get value from the day which ended up in a skills mismatch on the day.  
+
+### Timings for Company Internal Code Retreat  
 
 9:30 - 9:45 	- People Arrive, Setup, Name Tags, Find a partner  
 9:45 - 10:30 	- First Session  
@@ -43,6 +55,8 @@ category: Misc
 3:25 - 4:10	- Sixth Session  
 4:10 - 4:20	- Retro of the Day  
 4:20 - 4:30	- Closing Retro (Big Circle)  
+
+
 
 -------------------------------------------------------------------------------------------------------------
 
