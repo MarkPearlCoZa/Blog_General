@@ -45,11 +45,9 @@ When a team is in a good place socially, I see the primary purpose of the retros
 - Review the success or value of the improvements they set out from the previous retro 
 - Identify the one or two small improvements (or experiments) that they can do in the next period  
 
-
-
 ---------------------------------------------------------------------------------------------------
 
-### General Format of Normal Retrospective  
+### My Four Step Incremental Improvement Retro
 
 There is no 'right' or 'wrong' format for a retrospective. That said, I generally use the following format:  
 
