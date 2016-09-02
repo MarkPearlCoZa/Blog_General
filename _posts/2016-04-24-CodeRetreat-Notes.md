@@ -121,7 +121,7 @@ One person writes the test, the other person gets the test to pass while trying 
 
 #### Must have on the day
 
-- Print Conway's Game of Life Rules on A4 paper for hand out (at least 1 per person)  
+- Print [Conway's Game of Life Rules on A4 paper](#References) for hand out (at least 1 per person)  
 - Print Conway's Game of Life Poster (2 or 3 for the wall)   
 - Make sure screen / projector that can show a timer that everyone can see  
 - Buy name labels / name tags + Sharpies to write names  
