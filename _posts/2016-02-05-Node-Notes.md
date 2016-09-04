@@ -5,15 +5,23 @@ tags:
 category: Tech
 ---
 
-#### General ####
+### Installing 
+
+~~~
+sudo apt-get install npm nodejs
+~~~
+
+npm - /usr/share/npm
+
+#### General
 
 Also called NTier Pattern
 
-#### Node References ####
+#### Node References 
 
-### Express ###
+### Express 
 
-#### Express References ####
+#### Express References 
 
 [Express 4.x API](http://expressjs.com/4x/api.html)  
 [Express source code](https://github.com/strongloop/express)  
