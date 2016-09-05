@@ -206,6 +206,17 @@ What to bring on the day…
 
 <img class="img-responsive" alt="Suggested Room Layout" src="{{ site.url }}/assets/images/CodeRetreat-SuggestedRoomLayout.jpg">
 
+#### Feedback  
+
+- Well structured  
+- Suggest more in other languages (Delphi / Ruby)  
+- Show times & rules on same screen  
+- On email invite, show link to problem with similar exmaples of problem that will be used for sessions so devs can practice / see if the coding level is good enough  
+- Explain upfront that there is no need to expose Conways GOL on a UI  
+- Great session, just one thing I thought it will be more basic but this was a bit complex  
+- Have a better explanation of the problem we are solving upfront  
+- I feel that 45 min is not enough. Hard to feel progress.  
+
 #### References ####
 
 - <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conway's Game of Life for Projector</a>  
