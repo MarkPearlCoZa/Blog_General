@@ -216,6 +216,8 @@ What to bring on the day…
 - Great session, just one thing I thought it will be more basic but this was a bit complex  
 - Have a better explanation of the problem we are solving upfront  
 - I feel that 45 min is not enough. Hard to feel progress.  
+- Have some discussion period on each topic.  
+- Look at some way of reducing drop off of praticipants  
 
 #### References ####
 
