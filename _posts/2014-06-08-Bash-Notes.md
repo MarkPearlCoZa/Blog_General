@@ -5,6 +5,12 @@ tags: Linux
 category: Tech
 ---
 
+## Outline
+
+- [Alias](#aliass)
+- [Manipulating Files](#manipulating-files)
+- [File Management](#aliass)
+
 ## Alias's ##
 
 Edit the file in the following location: ~/.bashrc
@@ -13,9 +19,9 @@ Edit the file in the following location: ~/.bashrc
 alias doSomething='commands'
 ~~~
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-## Basic File Management ##
+## Manipulating Files ##
 
 ### Copy a File ###
 
@@ -93,6 +99,8 @@ Navigate to home directory
 cd
 ~~~
 
+------------------------------------------------------------------------------------------------
+
 ### Listing Files ###
 
 ~~~
@@ -163,7 +171,9 @@ vim $(find -name somefile.txt)
 find -name somefile.txt -exec vim {} \;
 ~~~
 
-### Manipulating Directories ###
+------------------------------------------------------------------------------------------------
+
+### Directory Management ###
 
 Remove directory and all sub directories
 
