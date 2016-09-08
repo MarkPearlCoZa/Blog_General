@@ -18,6 +18,8 @@ category: Tech
 - [Scope](#scope)  
 - [Misc](#misc)  
 
+## Collections 
+
 ### Array's 
 
 #### Creating an array of a size with a certain value 
