@@ -7,21 +7,11 @@ category: Tech
 
 ## Outline
 
-- [Alias](#aliass)
 - [Manipulating Files](#manipulating-files)  
 - [Navigating Directories](#navigating-directories)  
 - [File Management](#aliass)  
+- [Customization](#customization)  
 - [Other](#other)  
-
-------------------------------------------------------------------------------------------------
-
-## Alias's ##
-
-Edit the file in the following location: ~/.bashrc
-
-~~~
-alias doSomething='commands'
-~~~
 
 ------------------------------------------------------------------------------------------------
 
@@ -443,7 +433,19 @@ sort -u
 
 shows only unique results.
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+## Customization 
+
+### Alias's ##
+
+Edit the file in the following location: ~/.bashrc
+
+~~~
+alias doSomething='commands'
+~~~
+
+------------------------------------------------------------------------------------------------
 
 ## Other ##
 
@@ -524,6 +526,8 @@ complete -F _kbcommands kbc
 5.     OR
 
 6.     kbc Ack[TAB] è kbc AcknowledgeConsoleFailures
+
+------------------------------------------------------------------------------------------------
 
 ### References ###
 
