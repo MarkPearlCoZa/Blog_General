@@ -4,6 +4,11 @@ title: JavaScript Notes
 tags: Web
 category: Tech
 ---
+## Collections 
+
+- [Arrays](#arrays)  
+- [Sets](#sets)  
+
 ### Array's 
 
 #### Creating an array of a size with a certain value 
@@ -89,9 +94,25 @@ Checks if all elements are numbers
   if (arr.some(x => typeof x != "number")) return "Not all numbers";
 ~~~
 
+### Sets
+
+The Set object lets you store unique values of any type.
+
+~~~
+let unique = new Set(['a','a','b','b','c','c']); // a, b, c
+~~~
+
+Getting values from a set...
+
+~~~
+console.log(set.Values());
+~~~
+
+[More info on Sets](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Set)  
+
 -------------------------------------------------------------------------------------------
 
-### Nulls ###
+### Nulls 
 
 #### Checking for Null Values ####
 
