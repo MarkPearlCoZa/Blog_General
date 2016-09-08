@@ -220,7 +220,32 @@ grep
 ~~~
 -----------------------------------------------------------------------
 
-## Process Management ##
+## Manipulating Output
+
+### Translate / Delete 
+
+~~~
+tr [OPTION] SET1 [SET2] 
+~~~
+
+~~~
+$ tr abcde ABCDE somestuf
+somEstuf
+~~~
+
+~~~
+$ echo 'hello' | tr abcde ABCDE  
+hEllo
+~~~
+
+~~~
+$ echo 'hello' | tr -d 'e'
+hllo
+~~~
+
+-----------------------------------------------------------------------
+
+## Process Management 
 
 ~~~
 bg
