@@ -8,6 +8,15 @@ category: Tech
 
 - [Arrays](#arrays)  
 - [Sets](#sets)  
+- [Nulls](#nulls)  
+- [Strings](#strings)  
+- [Numbers](#numbers)  
+- [Closures](#closures)  
+- [Regex](#regex)  
+- [Object Oriented JavaScript](#object-oriented-javascript)  
+- [Json Objects](#json-objects)  
+- [Scope](#scope)  
+- [Misc](#misc)  
 
 ### Array's 
 
