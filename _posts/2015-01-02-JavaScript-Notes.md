@@ -4,7 +4,7 @@ title: JavaScript Notes
 tags: Web
 category: Tech
 ---
-## Collections 
+## Contents  
 
 - [Arrays](#arrays)  
 - [Sets](#sets)  
