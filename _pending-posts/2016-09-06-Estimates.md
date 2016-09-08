@@ -4,9 +4,8 @@ title: Estimates Notes
 tags: Idea
 category: Misc
 ---
-Assume that the people we are giving metrics to are not prics...
+Assumption is that the timing is EFFORT not ELAPSED days
 
 Event Line -> Milestones
 Estimates -> Predicatbility  
-
 
