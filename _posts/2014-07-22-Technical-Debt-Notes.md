@@ -12,6 +12,26 @@ Encode your standards into a linter or other static analyzer. Start with an almo
 
 Label it, creating a rating system and building code in a modular way
 
+### What is the definition of technical debt
+
+...
+
+Sometimes technical debt can be a clumsy metaphor, a better metaphor may be technical wealth
+
+### Everything is a feature except for maintainability  
+
+Maintainability is the only thing you "don't" put on the box - security, scalability, etc. are all features.
+
+### Bugs are not technical debt
+
+The key feature of technical debt is that its something we incur by choice. We choose to make architectural, design or implementation decisions that we expect will cause us issues later in order to achieve specific objectives sooner. A bug is not something we choose to have in our code - so de-facto its not technical debt
+
+### How do you calculate the cost of technical debt - can you quantify it?
+
+### Sayings to illustrate why you should avoid technical debt
+
+- When you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected.  
+
 ### Framework Shifts
 
 For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   
@@ -46,3 +66,4 @@ Examples of Jigs:
 #### References ####
 
 [Shims, Jigs and Other Woodworking Concepts to Conquer Technical Debt](http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/)  
+[Are bugs technical debt](http://programmers.stackexchange.com/questions/207060/are-bugs-part-of-technical-debt)  
