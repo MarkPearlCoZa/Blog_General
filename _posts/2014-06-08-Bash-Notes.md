@@ -8,8 +8,12 @@ category: Tech
 ## Outline
 
 - [Alias](#aliass)
-- [Manipulating Files](#manipulating-files)
-- [File Management](#aliass)
+- [Manipulating Files](#manipulating-files)  
+- [Navigating Directories](#navigating-directories)  
+- [File Management](#aliass)  
+- [Other](#other)  
+
+------------------------------------------------------------------------------------------------
 
 ## Alias's ##
 
@@ -23,7 +27,7 @@ alias doSomething='commands'
 
 ## Manipulating Files ##
 
-### Copy a File ###
+### Copying Files
 
 ~~~
 cp temp.sh file5.sh
@@ -47,7 +51,7 @@ cp -a file1.txt file2.txt
 ~~~
 copy files in archive mode, which maintains original ownership
 
-### Deleting Files & Directories ###
+### Deleting Files & Directories 
 
 ~~~
 rmdir
@@ -59,13 +63,13 @@ rm -rf directoryName
 ~~~
 recursively deletes directory and all of its content
 
-### Move or Rename File ###
+### Moving/Renaming Files
 
 ~~~
 mv temp.sp new.sh
 ~~~
 
-### Compress a File ###
+### Compress a File 
 
 tar stands for tape archive
 
@@ -79,7 +83,9 @@ tar -c -z -v -f directoryName
 ~~~
 -z means to zip it up
 
-### Navigating Directories ###
+------------------------------------------------------------------------------------------------
+
+## Navigating Directories 
 
 Navigate to previous directory
 
@@ -101,7 +107,9 @@ cd
 
 ------------------------------------------------------------------------------------------------
 
-### Listing Files ###
+## Searching Files 
+
+### List
 
 ~~~
 ls -l
@@ -123,7 +131,7 @@ ls -lah
 ~~~
 displays file in hum readable list style with size  
 
-### Finding Files ###
+### Find
 
 ~~~
 find . -newer file1
@@ -149,7 +157,7 @@ find . -iname "*stuff*"
 
 finds all files in the current and children directory that match the FileNameToMatch  
 
-#### Finding Files using Regex ####
+Finding Files using Regex
 
 Find any files with 'stuff' in them
 
