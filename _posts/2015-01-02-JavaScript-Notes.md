@@ -177,6 +177,20 @@ if (!a) {
 
 ### Numbers 
 
+#### Check is number is odd
+
+Using modula...  
+
+~~~
+let isOdd = !(n % 2);
+~~~
+
+or using bitwise checking...  
+
+~~~
+let isOdd = (n & 1);
+~~~
+
 #### Check if a number is a whole number / integer  
 
 ~~~
