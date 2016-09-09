@@ -22,7 +22,9 @@ category: Tech
 
 ### Array's 
 
-#### Creating an array of a size with a certain value 
+#### Creating Arrays
+
+**Creating an array of a size with a certain value**
 
 ~~~
 let size = 10;
@@ -56,14 +58,7 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
-#### Creating Array removing duplicate values 
-
-~~~
-let a = [1, 2, 3, 2, 2, 1, 3];
-let uniqueA = [...new Set(a)];
-~~~
-
-#### Creating Arrays from Strings 
+**Creating Arrays from Strings**  
 
 Using split operator...
 
@@ -78,6 +73,14 @@ Using spread operator...
 let a = 'this is a string';
 [...a].map(c => console.log(c));
 ~~~
+
+#### Unique Value Arrays
+
+~~~
+let a = [1, 2, 3, 2, 2, 1, 3];
+let uniqueA = [...new Set(a)];
+~~~
+
 
 #### Putting and taking off an array ####
 
