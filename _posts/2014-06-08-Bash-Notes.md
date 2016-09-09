@@ -473,9 +473,26 @@ sudo -i
 
 -----------------------------------------------------------------------
 
-### Processes Running ###
+### Processes Running
 
 Go to the /proc directory, if you perform a ls it will show you all the processes running currently. Running cat on the file mounts will show you all the drives currently mounted.
+
+#### Starting / Stopping Jobs
+
+&	- start a job in the background  
+
+~~~
+google-chrome &
+~~~
+
+fg,bg	- put a job in the foreground / background  
+
+~~~
+fg %2	# send job with id 2 to the foreground
+fg %vi	# send job with process name 'vi' to foreground  
+~~~
+
+
 
 -----------------------------------------------------------------------
 
