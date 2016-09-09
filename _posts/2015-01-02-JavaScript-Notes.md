@@ -75,20 +75,19 @@ let a = 'this is a string';
 [...a].map(c => console.log(c));
 ~~~
 
-#### Unique Value Arrays
+**Creating Unique Arrays**
 
 ~~~
 let a = [1, 2, 3, 2, 2, 1, 3];
 let uniqueA = [...new Set(a)];
 ~~~
 
-
-#### Putting and taking off an array ####
+#### Maniuplating Arrays
 
  unshift -> array <- push
    shift <- array -> pop
 
-#### Sorting ####
+#### Sorting Arrays
 
 An example of sorting values/numbers in an array
 
@@ -101,13 +100,17 @@ function isTriangle(a,b,c)
 }
 ~~~
 
-#### Checking if all elements in an array match a criteria ####
+#### Validating Arrays
+
+**Checking if all elements in an array match a criteria**
 
 Checks if all elements are numbers  
 
 ~~~
   if (arr.some(x => typeof x != "number")) return "Not all numbers";
 ~~~
+
+-------------------------------------------------------------------------------------------
 
 ### Sets
 
