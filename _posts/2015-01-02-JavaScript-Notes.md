@@ -25,7 +25,7 @@ category: Tech
 
 #### Creating Arrays
 
-**Creating an array of a size with a certain value**
+**Creating an Array Seeded with a Value**
 
 ~~~
 let size = 10;
