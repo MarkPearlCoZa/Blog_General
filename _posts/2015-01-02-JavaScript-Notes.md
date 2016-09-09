@@ -59,7 +59,7 @@ let pipeFix = nums => Array.from({ length: nums.pop() - nums[0] + 1 }, (v, i) =>
 ((min,max) => Array.from(Array(max-min+1),(_,i) => min + i))(Math.min(...nums), Math.max(...nums))
 ~~~
 
-**Creating Arrays from Strings**  
+**Creating Arrays from strings**  
 
 Using split operator...
 
@@ -75,7 +75,7 @@ let a = 'this is a string';
 [...a].map(c => console.log(c));
 ~~~
 
-**Creating Unique Arrays**
+**Creating Array with unique values**
 
 ~~~
 let a = [1, 2, 3, 2, 2, 1, 3];
