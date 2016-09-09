@@ -84,8 +84,8 @@ let uniqueA = [...new Set(a)];
 
 #### Maniuplating Arrays
 
- unshift -> array <- push
-   shift <- array -> pop
+ unshift -> array <- push  
+   shift <- array -> pop  
 
 #### Sorting Arrays
 
