@@ -6,8 +6,9 @@ category: Tech
 ---
 ## Contents  
 
-- [Arrays](#arrays)  
-- [Sets](#sets)  
+- [Collections](#collections)  
+  - [Arrays](#arrays)  
+  - [Sets](#sets)  
 - [Nulls](#nulls)  
 - [Strings](#strings)  
 - [Numbers](#numbers)  
