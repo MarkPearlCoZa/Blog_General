@@ -11,6 +11,7 @@ category: Tech
 - [Navigating Directories](#navigating-directories)  
 - [File Management](#aliass)  
 - [Customization](#customization)  
+- [Analyze-Text-Files](analyze-text-files)  
 - [Manage Processes](managing-processes)  
 - [Other](#other)  
 
@@ -340,7 +341,7 @@ grep -E 'regex'
 
 -----------------------------------------------------------------------
 
-## Analyze Text Files ##
+## Analyze Text Files
 
 **Please note we use test.sh as a placeholder for the file you are performing the action on.**  
 
