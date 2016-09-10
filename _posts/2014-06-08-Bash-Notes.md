@@ -61,7 +61,7 @@ recursively deletes directory and all of its content
 mv temp.sp new.sh
 ~~~
 
-### Compress a File 
+### Compressing a File 
 
 tar stands for tape archive
 
