@@ -381,59 +381,6 @@ chmod 777 test.sh
 dos2unix test.sh
 ~~~
 
-### Head and Tails ###
-
-Head shows the first ten lines of a file.  
-Tail shows the last ten lines of a file.  
-
-~~~
-head -n 3 test.sh
-~~~
-
-The above shows the first 3 lines of test.sh
-
-~~~
-tail -f
-~~~
-The above follows the end of a file. Ctrl+C stops the following.
-
-### More and Less ###
-
-More allows us to page forward through a file.  
-Less allows us to page forward, backward and to a specific location in a file.  
-
-### Cut ###
-
-Cut can be used to display only certain fields within a file.  
-
-~~~
-cut -f1,3 -d";" !$
-~~~
-
-Displays field 1 and field 3 of a delimitered file using ; as the delimiter where !$ was the last argument used (in this case cat test.sh).  
-
-### Sort ###
-
-Sort can be used to order the columns as desired. Sort without defining a column sorts on the first column.
-
-~~~
-sort -r test.sh
-~~~
-
-Reverses the sort
-
-~~~
-sort -k4 -t"," !$
-~~~
-
-sort the fourth column using , as the delimiter on the last command run.
-
-~~~
-sort -u
-~~~
-
-shows only unique results.
-
 ------------------------------------------------------------------------------------------------
 
 ## Customization 
@@ -493,6 +440,63 @@ pkill		   # kill process by matching filenames
 ps -ef		   # list all processes in long format
 top		   # list and manage top processes  
 ~~~
+
+------------------------------------------------------------------------------------------------
+
+### Manipulating Output
+
+### Head and Tails
+
+Head shows the first ten lines of a file.  
+Tail shows the last ten lines of a file.  
+
+~~~
+head -n 3 test.sh
+~~~
+
+The above shows the first 3 lines of test.sh
+
+~~~
+tail -f
+~~~
+The above follows the end of a file. Ctrl+C stops the following.
+
+### More and Less 
+
+More allows us to page forward through a file.  
+Less allows us to page forward, backward and to a specific location in a file.  
+
+### Cut
+
+Cut can be used to display only certain fields within a file.  
+
+~~~
+cut -f1,3 -d";" !$
+~~~
+
+Displays field 1 and field 3 of a delimitered file using ; as the delimiter where !$ was the last argument used (in this case cat test.sh).  
+
+### Sort
+
+Sort can be used to order the columns as desired. Sort without defining a column sorts on the first column.
+
+~~~
+sort -r test.sh
+~~~
+
+Reverses the sort
+
+~~~
+sort -k4 -t"," !$
+~~~
+
+sort the fourth column using , as the delimiter on the last command run.
+
+~~~
+sort -u
+~~~
+
+shows only unique results.
 
 ------------------------------------------------------------------------------------------------
 
