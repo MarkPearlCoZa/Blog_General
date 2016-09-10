@@ -438,7 +438,7 @@ shows only unique results.
 
 ## Customization 
 
-### Alias's ##
+### Setup Alias's
 
 Edit the file in the following location: ~/.bashrc
 
@@ -446,33 +446,15 @@ Edit the file in the following location: ~/.bashrc
 alias doSomething='commands'
 ~~~
 
+### Enable vi mode in bash 
+
+To make this permanent, add to to ~./bash_profile file  
+
+~~~
+set -o vi  
+~~~
+
 ------------------------------------------------------------------------------------------------
-
-## Other ##
-
-### List disks ###
-
-~~~
-fdisk -l
-~~~
-
-### Clear the screen ###
-
-Ctrl+L - clears the console
-
-### Run with root privelages ###
-
-~~~ 
-sudo -i 
-~~~
-
-### Run the last command again ###
-
-~~~
-!$
-~~~
-
------------------------------------------------------------------------
 
 ### Managing Processes
 
@@ -512,31 +494,43 @@ ps -ef		   # list all processes in long format
 top		   # list and manage top processes  
 ~~~
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-### Enable vi mode in bash ###
+## Other ##
 
-To make this permanent, add to to ~./bash_profile file  
+### List Disks
 
 ~~~
-set -o vi  
+fdisk -l
 ~~~
 
------------------------------------------------------------------------
+### Clear the Screen
 
-### Git Aware Prompt ###
+Ctrl+L - clears the console
+
+### Run with Root Privelages
+
+~~~ 
+sudo -i 
+~~~
+
+### Run the Last Command Again
+
+~~~
+!$
+~~~
+
+### Git Aware Prompt
 
 [Read more here](https://github.com/jimeh/git-aware-prompt)  
 
------------------------------------------------------------------------
-
-### Show history of commands ###
+### Show History of Commands
 
 ~~~
 history  
 ~~~
 
-### Add custom autocomplete commands to bash ###
+### Add custom autocomplete commands to bash
 
 1.     Download the attached commands.txt file to your git bash home folder
 
@@ -562,15 +556,13 @@ complete -F _kbcommands kbc
 
 6.     kbc Ack[TAB] è kbc AcknowledgeConsoleFailures
 
-------------------------------------------------------------------------------------------------
-
 ### Viewing PDF's
 
 Use okular
 
 ------------------------------------------------------------------------------------------------
 
-### References ###
+### References 
 
 [Bash stuff from Coderwall](https://coderwall.com/p/kubxjq)
 [Bash History](http://blog.pluralsight.com/how-to-use-bash-command-line-history?utm_campaign=newsletter_2014_0716&utm_source=newsletter&utm_medium=email&utm_term=blog)
