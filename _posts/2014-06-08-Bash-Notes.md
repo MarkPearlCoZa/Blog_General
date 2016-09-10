@@ -10,7 +10,10 @@ category: Tech
 - [Manipulating Files](#manipulating-files)  
 - [Navigating Directories](#navigating-directories)  
 - [Searching](#searching)  
-- [File Management](#aliass)  
+- [Manipulating Output](manipulating-output)  
+- [Process Management](process-management)  
+- [Searching Text](searching-text)  
+- [Analyze Text Files](analyze-text-files)  
 - [Customization](#customization)  
 - [Analyze-Text-Files](analyze-text-files)  
 - [Manage Processes](managing-processes)  
@@ -18,7 +21,7 @@ category: Tech
 
 ------------------------------------------------------------------------------------------------
 
-## Manipulating Files ##
+## Manipulating Files 
 
 ### Copying Files
 
@@ -162,7 +165,7 @@ find . -iregex ".*stuff.*"
 
 By default regex checks the entire path. There is an implicit ^..$ implied which means "stuff" is actually "^stuff$"
 
-#### Open First found file in Vim ####
+#### Open First found file in Vim 
 
 ~~~
 vim $(find -name somefile.txt)
@@ -174,7 +177,7 @@ find -name somefile.txt -exec vim {} \;
 
 ------------------------------------------------------------------------------------------------
 
-### Directory Management ###
+### Directory Management 
 
 Remove directory and all sub directories
 
@@ -194,7 +197,7 @@ Make directory
 mkdir dir
 ~~~
 
-### Imaging Tasks ###
+### Imaging Tasks 
 
 ~~~
 rsync -av directoryName locationOfBackup
@@ -206,7 +209,7 @@ rsync -av --delete directoryName locationOfBackup
 ~~~
 syncrhonizes deletions
 
-### Search tool ###
+### Search tool 
 
 Search is case sensitive unless otherwise specified
 
@@ -499,7 +502,7 @@ shows only unique results.
 
 ------------------------------------------------------------------------------------------------
 
-## Other ##
+## Other
 
 ### List Disks
 
