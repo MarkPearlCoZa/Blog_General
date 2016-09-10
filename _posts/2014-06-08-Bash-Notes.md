@@ -208,9 +208,37 @@ syncrhonizes deletions
 
 ### Search tool ###
 
+Search is case sensitive unless otherwise specified
+
 ~~~
-grep
+grep Server /etc/ntp.conf
 ~~~
+
+Search without case
+~~~
+grep -i
+~~~
+
+Removes commented lines ^# and empty lines ^$  
+The -ve means an additional expression.  
+
+~~~
+grep -ve '^#' -ve '^$' /etc/ntp.conf
+~~~
+
+The stream editor, edits the inline stream
+-i stands for the inplace update  
+
+~~~
+sed -i '^#/d;^$/d' /etc/ntp.conf
+~~~
+
+-E stands for a full regex expression
+
+~~~
+grep -E 'regex'
+~~~
+
 -----------------------------------------------------------------------
 
 ## Manipulating Output
@@ -306,39 +334,8 @@ The swiss army knife of processes
 
 -----------------------------------------------------------------------
 
-## Searching Text Files using Regex ##
+## Searching Text 
 
-~~~
-grep Server /etc/ntp.conf
-~~~
-
-Search is case sensitive unless otherwise specified
-
-~~~
-grep -i
-~~~
-
-Search without case
-
-~~~
-grep -ve '^#' -ve '^$' /etc/ntp.conf
-~~~
-
-Removes commented lines ^# and empty lines ^$  
-The -ve means an additional expression.  
-
-~~~
-sed -i '^#/d;^$/d' /etc/ntp.conf
-~~~
-
-The stream editor, edits the inline stream
--i stands for the inplace update  
-
-~~~
-grep -E 'regex'
-~~~
-
--E stands for a full regex expression
 
 -----------------------------------------------------------------------
 
