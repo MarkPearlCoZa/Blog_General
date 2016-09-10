@@ -12,7 +12,6 @@ category: Tech
 - [Searching](#searching)  
 - [Manipulating Output](manipulating-output)  
 - [Process Management](process-management)  
-- [Searching Text](searching-text)  
 - [Analyze Text Files](analyze-text-files)  
 - [Customization](#customization)  
 - [Analyze-Text-Files](analyze-text-files)  
@@ -334,11 +333,6 @@ top -n 1
 ~~~
 
 The swiss army knife of processes
-
------------------------------------------------------------------------
-
-## Searching Text 
-
 
 -----------------------------------------------------------------------
 
