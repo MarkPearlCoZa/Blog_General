@@ -553,6 +553,50 @@ PATH="$PATH:~/bin"
 
 ## Other
 
+### Piping & Redirection
+
+#### Output Redirection
+
+Save Output to File, Overwrite if file already exists
+
+>
+
+~~~
+ls > file.txt
+~~~
+
+Save Output to File, Append to file already exists
+
+>>
+
+~~~
+ls >> file.txt
+~~~
+
+### Input Redirection
+
+Get input from file and direct it to command
+
+< 
+
+~~~
+grep x < file
+~~~
+
+### Pipe  
+
+Redirect output from one program to input of another program
+
+~~~
+ls | grep hello
+~~~
+
+### Command Substitution
+
+~~~
+cat $($ls -rt | tail -n1)
+~~~
+
 ### List Disks
 
 ~~~
