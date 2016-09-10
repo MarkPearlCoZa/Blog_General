@@ -9,6 +9,7 @@ category: Tech
 
 - [Manipulating Files](#manipulating-files)  
 - [Navigating Directories](#navigating-directories)  
+- [Searching](#searching)  
 - [File Management](#aliass)  
 - [Customization](#customization)  
 - [Analyze-Text-Files](analyze-text-files)  
@@ -99,7 +100,7 @@ cd
 
 ------------------------------------------------------------------------------------------------
 
-## Searching Files 
+## Searching 
 
 ### List
 
