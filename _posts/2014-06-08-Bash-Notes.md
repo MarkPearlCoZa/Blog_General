@@ -665,4 +665,6 @@ Use okular
 
 [Bash stuff from Coderwall](https://coderwall.com/p/kubxjq)  
 [Bash History](http://blog.pluralsight.com/how-to-use-bash-command-line-history?utm_campaign=newsletter_2014_0716&utm_source=newsletter&utm_medium=email&utm_term=blog)  
+[Introduction to Bash on PluralSight](https://app.pluralsight.com/library/courses/introduction-bash-shell-linux-mac-os)  
 <a href="{{ site.url }}/assets/documents/bash-cheatsheet.pdf">Bash Cheat Sheet</a>   
+
