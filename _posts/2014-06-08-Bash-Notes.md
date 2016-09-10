@@ -11,6 +11,7 @@ category: Tech
 - [Navigating Directories](#navigating-directories)  
 - [File Management](#aliass)  
 - [Customization](#customization)  
+- [Manage Processes](managing-processes)  
 - [Other](#other)  
 
 ------------------------------------------------------------------------------------------------
@@ -473,7 +474,7 @@ sudo -i
 
 -----------------------------------------------------------------------
 
-### Processes Running
+### Managing Processes
 
 Go to the /proc directory, if you perform a ls it will show you all the processes running currently. Running cat on the file mounts will show you all the drives currently mounted.
 
@@ -485,6 +486,8 @@ Go to the /proc directory, if you perform a ls it will show you all the processe
 google-chrome &
 ~~~
 
+#### Foreground / Background  
+
 fg,bg	- put a job in the foreground / background  
 
 ~~~
@@ -492,7 +495,22 @@ fg %2	# send job with id 2 to the foreground
 fg %vi	# send job with process name 'vi' to foreground  
 ~~~
 
+#### Kill
 
+~~~
+kill %1            # kill by job id 1  
+kill 12345         # kill by process id  
+kill -KILL 12345   # hard kill  
+xkill 		   # kill by clicking its window
+pkill		   # kill process by matching filenames  
+~~~
+
+#### List Processes
+
+~~~
+ps -ef		   # list all processes in long format
+top		   # list and manage top processes  
+~~~
 
 -----------------------------------------------------------------------
 
