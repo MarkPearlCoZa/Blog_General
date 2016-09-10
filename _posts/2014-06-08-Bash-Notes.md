@@ -16,6 +16,7 @@ category: Tech
 - [Customization](#customization)  
 - [Analyze-Text-Files](analyze-text-files)  
 - [Manage Processes](managing-processes)  
+- [Environment Variables](useful-environment-variables)  
 - [Other](#other)  
 
 ------------------------------------------------------------------------------------------------
@@ -266,6 +267,18 @@ $ echo 'hello' | tr -d 'e'
 hllo
 ~~~
 
+### Unique Values
+
+~~~
+uniq
+~~~
+
+### Word Count
+
+~~~
+wc
+~~~
+
 -----------------------------------------------------------------------
 
 ## Process Management 
@@ -480,19 +493,61 @@ Sort can be used to order the columns as desired. Sort without defining a column
 sort -r test.sh
 ~~~
 
-Reverses the sort
+Sort numerically 
+
+~~~
+sort -n 
+~~~
+
+Reverse sort  
+
+~~~
+sort -r 
+~~~
+
+Sort the fourth column using , as the delimiter on the last command run.
 
 ~~~
 sort -k4 -t"," !$
 ~~~
 
-sort the fourth column using , as the delimiter on the last command run.
+Sort and shows only unique results.
 
 ~~~
 sort -u
 ~~~
 
-shows only unique results.
+------------------------------------------------------------------------------------------------
+
+## Environment Variables
+
+### Show Currently Defined Variables
+
+~~~
+env
+~~~
+
+### Favorite Environment Variables
+
+~~~
+PATH 	# where bash looks for executables  
+PS1	# the prompt
+EDITOR  # your preferred editor
+~~~
+
+### Working with Environment Variables  
+
+Printing a variable to the screen
+
+~~~
+echo $PATH
+~~~
+
+Temporarily changing a variable value  
+
+~~~
+PATH="$PATH:~/bin"
+~~~
 
 ------------------------------------------------------------------------------------------------
 
