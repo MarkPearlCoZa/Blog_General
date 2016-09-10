@@ -344,42 +344,52 @@ grep -E 'regex'
 
 **Please note we use test.sh as a placeholder for the file you are performing the action on.**  
 
-### Piping output ###
+### Piping Output to a File  
 
 ~~~
 >
 ~~~
 e.g. ls > test.sh
 
-### Pipe to vim to check syntax ##
+### Pipe to vim to check syntax
 
 ~~~
 11 | gvim --  
 ~~~
 
-### Show contents of file ###
+### Show contents of file
 
 ~~~
 cat test.sh
 ~~~
 
-### Making Files Exectuable ###
+### Making Files Exectuable 
 
 ~~~
 chmod +x test.sh
 ~~~
 
-### Making Files Writeable ###
+### Making Files Writeable
 
 ~~~
 chmod 777 test.sh
 ~~~
 
-### Removing unrecognized dos characters ###
+### Removing unrecognized dos characters
 
 ~~~
 dos2unix test.sh
 ~~~
+
+### Cut
+
+Cut can be used to display only certain fields within a file.  
+
+~~~
+cut -f1,3 -d";" !$
+~~~
+
+Displays field 1 and field 3 of a delimitered file using ; as the delimiter where !$ was the last argument used (in this case cat test.sh).  
 
 ------------------------------------------------------------------------------------------------
 
@@ -465,16 +475,6 @@ The above follows the end of a file. Ctrl+C stops the following.
 
 More allows us to page forward through a file.  
 Less allows us to page forward, backward and to a specific location in a file.  
-
-### Cut
-
-Cut can be used to display only certain fields within a file.  
-
-~~~
-cut -f1,3 -d";" !$
-~~~
-
-Displays field 1 and field 3 of a delimitered file using ; as the delimiter where !$ was the last argument used (in this case cat test.sh).  
 
 ### Sort
 
