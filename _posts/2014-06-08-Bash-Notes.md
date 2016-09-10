@@ -55,7 +55,7 @@ rm -rf directoryName
 ~~~
 recursively deletes directory and all of its content
 
-### Moving/Renaming Files
+### Moving or Renaming Files
 
 ~~~
 mv temp.sp new.sh
