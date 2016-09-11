@@ -5,6 +5,9 @@ tags: Learning
 category: General  
 ---  
 
+The art of software prose...
+
+
 2 useful questions to ask when naming things…
  
 1) What it is  
