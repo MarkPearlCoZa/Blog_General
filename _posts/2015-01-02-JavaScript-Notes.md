@@ -340,6 +340,23 @@ function isSantaClausable(obj) {
 
 [Read more on Duck Typing in JavaScript](https://en.wikipedia.org/wiki/Duck_typing#In_JavaScript)  
 
+#### Functions of Objects / Properties
+
+Checking if a function is attached to an object
+
+~~~
+var megalomaniac = {
+	mastermind: "James Wood",
+	henchman: "Adam West",
+	birthYear: 1970,
+        theBomb: true
+};
+
+
+var functionThatExists = "theBomb" in megalomaniac; 		// Returns True
+var functionThatDoesNotExist = "notTheBomb" in megalomaniac; 	// Returns False
+~~~
+
 -------------------------------------------------------------------------------------------
 
 ### Json Objects
