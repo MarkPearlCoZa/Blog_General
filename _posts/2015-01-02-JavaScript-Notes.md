@@ -377,6 +377,23 @@ delete megalomaniac.mastermind;
 expect("mastermind" in megalomaniac).toBe(false);
 ~~~
 
+#### Inheritance
+
+~~~
+function Circle(radius)
+{
+	this.radius = radius;
+}
+
+var simpleCircle = new Circle(10);
+var colouredCircle = new Circle(5);
+
+
+Circle.prototype.describe = function () {
+	return "This circle has a radius of: " + this.radius;
+};
+~~~
+
 -------------------------------------------------------------------------------------------
 
 ### Json Objects
