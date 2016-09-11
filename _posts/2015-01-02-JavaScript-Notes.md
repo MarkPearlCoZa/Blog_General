@@ -357,6 +357,26 @@ var functionThatExists = "theBomb" in megalomaniac; 		// Returns True
 var functionThatDoesNotExist = "notTheBomb" in megalomaniac; 	// Returns False
 ~~~
 
+Attaching a function to an existing object...  
+
+~~~
+var megalomaniac = { mastermind : "Agent Smith", henchman: "Agent Smith" };
+expect("secretary" in megalomaniac).toBe(false);
+
+megalomaniac.secretary = "Agent Smith";
+expect("secretary" in megalomaniac).toBe(true);
+~~~
+
+Deleting a function from an object...  
+
+~~~
+var megalomaniac = { mastermind : "Agent Smith", henchman: "Agent Smith" };
+expect("mastermind" in megalomaniac).toBe(true);
+
+delete megalomaniac.mastermind;
+expect("mastermind" in megalomaniac).toBe(false);
+~~~
+
 -------------------------------------------------------------------------------------------
 
 ### Json Objects
