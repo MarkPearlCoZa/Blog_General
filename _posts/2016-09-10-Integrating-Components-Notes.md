@@ -2,7 +2,7 @@
 layout: post
 title: Integrating Components Notes
 tags: Code
-category: General
+category: Misc
 ---
 
 #### Late integration of components

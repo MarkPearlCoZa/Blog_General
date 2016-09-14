@@ -2,7 +2,7 @@
 layout: post
 title: Object Orientation Notes
 tags: Code
-category: General
+category: Misc
 ---
 
 #### Inheritance

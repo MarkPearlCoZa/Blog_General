@@ -55,3 +55,46 @@ ROI vs Performance
 Should
 Event Lines? 
 -  Goals
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Establishing Pulse of team
+
+- Social Connection
+- Brand & Company Reputation  
+- Rewards & benefits  
+- Career opportunities  
+- Values  
+- Service & Quality  
+- Feedback & recognition
+
+#### Enablement
+
+- I have access to the things i need to do my job well  
+-  The process for managing performance here enables me ot perform at my best  
+
+#### Feedback & recognition  
+
+- I receive appropriate recognition when I do good work, beyond my pay  
+
+#### Leadership  
+
+- The leaders have communicated a vision that motivates me  
+- The leaders demonstrate that people are important to the company's success  
+- I have confidence in the leaders  
+
+#### Learning & Development 
+
+- I have access ot the learning & development i need to do my job well  
+
+#### Management  
+
+- My manager gives me useful feedback on how well I am performing  
+
+#### Values 
+
+- I know what our company values are...
+
+#### Service & Quality  
+
+- I believe we learn from client feedback and make improvements accordingly  
