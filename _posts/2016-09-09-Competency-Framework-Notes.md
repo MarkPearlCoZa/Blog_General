@@ -2,7 +2,7 @@
 layout: post
 title: Competancy Framework
 tags: 
-category: General
+category: Misc
 ---
 Gives us a shared language to describe the knowledge skills and abilities needed to perform work  
 Provides a baseline for career development conversations  
