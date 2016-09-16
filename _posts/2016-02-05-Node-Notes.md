@@ -7,11 +7,72 @@ category: Tech
 
 ### Installing 
 
+#### Installing in Ubuntu 
+
+[Installing Node via Package Manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)  
+
 ~~~
-sudo apt-get install npm nodejs
+sudo apt-get install nodejs
+sudo apt-get install npm
 ~~~
 
+#### Install Locations
+
 npm - /usr/share/npm
+
+### First Steps  
+
+#### Creating an Empty Project
+
+~~~
+npm init
+~~~
+
+npm init create an empty node project, which is a package.json file. The file will look something like this...  
+
+~~~
+{
+  "name": "projectName",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+~~~
+
+#### Adding Test Framework
+
+We use mocha with chai. 
+
+- Mocha is a test framework for JavaScript.  
+- Chai is a BDD / TDD assertion library for node  
+
+[Mocha](https://mochajs.org/)  
+[Chai](http://chaijs.com/)  
+
+By default the package.json file does not have any test framework setup. To leverage mocha, adjust the "test" attribute to look as follows...  
+
+~~~	
+  ...
+
+  "scripts": {
+    "test": "mocha sourceDir testDir --watch"
+  },
+
+  ...
+~~~
+
+> sourceDir & testDir are directories where your source and test code are located
+
+To start your test framework enter the following...
+
+~~~
+npm test  
+~~~
 
 #### General
 
