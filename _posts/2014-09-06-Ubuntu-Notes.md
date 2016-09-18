@@ -29,7 +29,11 @@ Toggle between terminal tabs
 ALT+[NUM+OF+WINDOW]
 ~~~
 
-#### Mounting a drive in Ubuntu ####
+-------------------------------------------------------------------------------------------------------
+
+### Working with Drives 
+
+#### Mounting a Drive
 
 Something that took me a while to figure out was if you have a secondary or external drive, you need to mount it if you want it to be accessible in Ubuntu. This is what worked for me...
 
@@ -37,9 +41,14 @@ Something that took me a while to figure out was if you have a secondary or exte
 sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 ~~~
 
-#### Sharing the clipboard between memory registers ####
+### Customizing for VIM
+
+#### Sharing the clipboard between memory registers
 
 [How can I copy text to the system clipboard from vim](http://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim)  
+
+
+-------------------------------------------------------------------------------------------------------
 
 #### Open up graphical equivalent to Windows Explorer from CLI ####
 
@@ -47,21 +56,27 @@ sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 xdg-open .
 ~~~
 
+-------------------------------------------------------------------------------------------------------
+
 ### User Management ###
 
-#### Change current users password ####
+#### Change current users password
 
 ~~~
 passwd
 ~~~
 
-#### Add Users ####
+#### Add Users
 
 ~~~
 adduser username
 ~~~
 
-### Directory Meanings ###
+-------------------------------------------------------------------------------------------------------
+
+### Directories 
+
+#### Directory Meanings
 
 bin = binary = binary files (executableS)  
 boot = boot = stuff the system needs to boot  
@@ -77,11 +92,13 @@ tmp = temporary = storage for temporary files
 var = variable = storage for variable data i.e. logs  
 usr = user files  
 
-#### Init.D Directory ####
+#### Init.D Directory
 
 This directory contains start / stop scripts for managing common processes that you don't normally want to just kill.
 
 [More info](http://www.ghacks.net/2009/04/04/get-to-know-linux-the-etcinitd-directory/)
+
+-------------------------------------------------------------------------------------------------------
 
 ### Network Settings ###
 
@@ -96,6 +113,8 @@ Restart a network interface
 ~~~
 sudo ifdown eth0 && sudo ifup eth0
 ~~~
+
+-------------------------------------------------------------------------------------------------------
 
 ### Misc ###
 
