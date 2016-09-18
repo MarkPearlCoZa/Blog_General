@@ -7,12 +7,17 @@ category: Misc
 
 ## Principles for Team Metrics
 
-- Assume that the people we are giving metrics to are not prics - metrics do not give you context or allow you to do comparisons between teams. It does however give you indicators on whether a team may need help, etc.  
+- Assume that the people we are looking at the metrics are not prics - metrics do not give you context or allow you to do comparisons between teams. It does however give you indicators on whether a team may need help, etc.  
 - Prefer leading metrics to lagging metrics - metrics that show things before the fact are more useful than metrics that show things after the fact.   
 - Keep things simple - metrics that are simple to collect and understand are preferred to metrics that are complex to collect and/or understand.   
 - Keep things convenient - metrics that offer slightly less value but require no major team process adjustments are preferred to metrics that require major team process adjustments.   
 
 ## Proposed metrics for the team
+
+### How are metrics collected
+
+- Because we value human interactions we currently prefer physical team boards to digital team boards. This means that collecting metrics will require more effort than for teams who use digital boards.
+- Most metrics will be taken from artifacts that the team uses (board, cards, etc) HOWEVER, we understand that people make software and so understanding how the people that make our software are feeling is also extremely important.
 
 ### Questions asked per team member each week on a Friday 
 
