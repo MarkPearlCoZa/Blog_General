@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Metrics Notes
-tags:  Team
+tags: Team
 category: Misc
 ---
 
