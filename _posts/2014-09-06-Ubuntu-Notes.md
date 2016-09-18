@@ -31,9 +31,7 @@ ALT+[NUM+OF+WINDOW]
 
 -------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------
-
-### User Management ###
+### User Management 
 
 #### Who is the current user
 
@@ -94,6 +92,28 @@ usr = user files
 This directory contains start / stop scripts for managing common processes that you don't normally want to just kill.
 
 [More info](http://www.ghacks.net/2009/04/04/get-to-know-linux-the-etcinitd-directory/)
+
+-------------------------------------------------------------------------------------------------------
+
+### Applicaiton Management
+
+To find a package that was previously installed on your system using apt-get go to...
+
+~~~
+/var/cache/apt/archives
+~~~
+
+#### Installing a new package
+
+~~~
+sudo apt-get install PACKAGE_NAME
+~~~
+
+#### Removing a package
+
+~~~
+sudo apt-get remove PACKAGE_NAME
+~~~
 
 -------------------------------------------------------------------------------------------------------
 
