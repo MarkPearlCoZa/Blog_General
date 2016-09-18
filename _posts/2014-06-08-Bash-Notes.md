@@ -107,25 +107,35 @@ cd
 
 ### List
 
-~~~
-ls -l
-~~~
 displays a listing with full format  
 
 ~~~
-ls -F
+ls -l
 ~~~
-displays the file or directory type in the listing  
 
-~~~
-ls --color=auto
-~~~
-diplays listing with color
+displays the file size in megabytes ####
 
 ~~~
 ls -lah
 ~~~
+
+displays the file or directory type in the listing  
+
+~~~
+ls -F
+~~~
+
+diplays listing with color
+
+~~~
+ls --color=auto
+~~~
+
 displays file in hum readable list style with size  
+
+~~~
+ls -lah
+~~~
 
 ### Find
 

@@ -155,16 +155,40 @@ ifconfig -a
 
 -------------------------------------------------------------------------------------------------------
 
+### Screen Management
+
+Make window full-screen F11
+
+-------------------------------------------------------------------------------------------------------
+
+#### Session Management
+
+~~~
+sudo poweroff
+~~~
+
+~~~
+sudo reboot
+~~~
+
+-------------------------------------------------------------------------------------------------------
+
 ### Customizing for VIM
 
 #### Sharing the clipboard between memory registers
 
 [How can I copy text to the system clipboard from vim](http://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim)  
 
+
+#### Map Capslock to trigger Escape
+
+~~~
+dconf write /org/gnome/desktop/input-sources/xkb-options "['caps:escape']"
+~~~
+
 -------------------------------------------------------------------------------------------------------
 
-### Misc ###
-
+### Misc
 
 #### Multiple Ttys over Putty
 
@@ -184,7 +208,7 @@ ctrl+A + Command
 lsb_release -a
 ~~~
 
-#### Network share via cli ####
+#### Network share via cli
 
 ~~~
 net usershare add Documents /home/michael/Documents "Michael documents" everyone:F guest_ok=
@@ -192,40 +216,11 @@ net usershare add Documents /home/michael/Documents "Michael documents" everyone
 
 [More details](http://www.leewardassociates.com/481-sharing-folders-in-ubuntu-12-04-via-command-line)
 
-#### Installation ####
+#### Installation
 
 [Great article](http://www.codecoffee.com/tipsforlinux/articles/27.html) on make process and what it means.
 
-#### Show the file size in megabytes ####
-
-~~~
-ls -lah
-~~~
-
-### Screen Management
-
-Make window full-screen F11
-
-### Shutting Down
-
-~~~
-sudo poweroff
-~~~
-
-~~~
-sudo reboot
-~~~
-
-### Misc
-
-#### Map Capslock as escape ####
-
-~~~
-dconf write /org/gnome/desktop/input-sources/xkb-options "['caps:escape']"
-~~~
-
-
-### References ###
+### References
 
 [Keyboard Shortcuts](https://help.ubuntu.com/community/KeyboardShortcuts)  
 [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
