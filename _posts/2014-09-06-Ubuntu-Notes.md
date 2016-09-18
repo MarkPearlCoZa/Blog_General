@@ -5,7 +5,7 @@ tags: Linux
 category: Tech
 ---
 
-### Terminals 
+### Terminal Management
 
 #### Opening a Terminal
 
@@ -31,7 +31,7 @@ ALT+[NUM+OF+WINDOW]
 
 -------------------------------------------------------------------------------------------------------
 
-### Working with Drives 
+### Drive Management  
 
 #### Mounting a Drive
 
