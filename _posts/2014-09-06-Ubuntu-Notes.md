@@ -5,7 +5,9 @@ tags: Linux
 category: Tech
 ---
 
-#### Working with a terminal 
+### Terminals 
+
+#### Opening a Terminal
 
 Open a new terminal from outside of a terminal
 
@@ -16,13 +18,15 @@ CTRL+ALT+T
 Open a new tab in the current terminal
 
 ~~~
-ctrl+shift+t
+CTRL+SHIFT+T
 ~~~
+
+#### Moving Between Terminals
 
 Toggle between terminal tabs
 
 ~~~
-alt+[num+of+window]
+ALT+[NUM+OF+WINDOW]
 ~~~
 
 #### Mounting a drive in Ubuntu ####
