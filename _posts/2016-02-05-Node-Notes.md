@@ -66,7 +66,7 @@ By default the package.json file does not have any test framework setup. To leve
   ...
 ~~~
 
-> sourceDir & testDir are directories where your source and test code are located
+> sourceDir & testDir are directories where your source and test code are located. Using the --watch means that mocha will rerun everytime there is a source code change.  
 
 To start your test framework enter the following...
 

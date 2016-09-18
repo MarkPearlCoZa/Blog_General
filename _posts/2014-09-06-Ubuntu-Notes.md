@@ -8,8 +8,9 @@ category: Tech
 #### Working with a terminal ####
 
 Open a new terminal from outside of a terminal
+
 ~~~
-CTRL+ALT+T
+CTRL+ALT+T  
 ~~~
 
 Open a new tab in the current terminal
