@@ -31,12 +31,6 @@ ALT+[NUM+OF+WINDOW]
 
 -------------------------------------------------------------------------------------------------------
 
-#### Open up graphical equivalent to Windows Explorer from CLI ####
-
-~~~
-xdg-open .
-~~~
-
 -------------------------------------------------------------------------------------------------------
 
 ### User Management ###
@@ -47,7 +41,7 @@ xdg-open .
 whoami
 ~~~
 
-#### Add User
+#### Add new user
 
 ~~~
 adduser username
@@ -69,13 +63,11 @@ passwd
 sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 ~~~
 
--------------------------------------------------------------------------------------------------------
+#### Equivalent to Windows Explorer
 
-### Customizing for VIM
-
-#### Sharing the clipboard between memory registers
-
-[How can I copy text to the system clipboard from vim](http://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim)  
+~~~
+xdg-open .
+~~~
 
 -------------------------------------------------------------------------------------------------------
 
@@ -105,7 +97,7 @@ This directory contains start / stop scripts for managing common processes that 
 
 -------------------------------------------------------------------------------------------------------
 
-### Network Settings ###
+### Network Management
 
 Check the following file
 
@@ -127,9 +119,18 @@ ifconfig -a
 
 -------------------------------------------------------------------------------------------------------
 
+### Customizing for VIM
+
+#### Sharing the clipboard between memory registers
+
+[How can I copy text to the system clipboard from vim](http://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim)  
+
+-------------------------------------------------------------------------------------------------------
+
 ### Misc ###
 
-#### Multiple Ttys over Putty ####
+
+#### Multiple Ttys over Putty
 
 ~~~
 screen
@@ -141,13 +142,7 @@ In screen mode this get's you to screens menu
 ctrl+A + Command
 ~~~
 
-#### Command Line Browsing ####
-
-Elinks
-
-[More Options](http://askubuntu.com/questions/29540/browsing-the-internet-from-the-command-line)
-
-#### Get Ubuntu Version ####
+#### Get Ubuntu Version
 
 ~~~
 lsb_release -a
