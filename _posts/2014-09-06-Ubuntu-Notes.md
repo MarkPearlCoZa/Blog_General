@@ -43,16 +43,6 @@ sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 xdg-open .
 ~~~
 
-#### Shutdown from CLI ####
-
-~~~
-sudo poweroff
-~~~
-
-~~~
-sudo reboot
-~~~
-
 ### User Management ###
 
 #### Change current users password ####
@@ -152,15 +142,28 @@ net usershare add Documents /home/michael/Documents "Michael documents" everyone
 ls -lah
 ~~~
 
+### Screen Management
+
+Make window full-screen F11
+
+### Shutting Down
+
+~~~
+sudo poweroff
+~~~
+
+~~~
+sudo reboot
+~~~
+
+### Misc
+
 #### Map Capslock as escape ####
 
 ~~~
 dconf write /org/gnome/desktop/input-sources/xkb-options "['caps:escape']"
 ~~~
 
-#### Screen ####
-
-Make window full-screen F11
 
 ### References ###
 
