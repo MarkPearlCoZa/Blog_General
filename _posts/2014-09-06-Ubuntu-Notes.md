@@ -61,7 +61,7 @@ passwd
 sudo mount /dev/sdb1 /media/Storage -t ntfs -o nls=utf8,umask=0222
 ~~~
 
-#### Equivalent to Windows Explorer
+#### Windows Explorer Equivalent  
 
 ~~~
 xdg-open .
