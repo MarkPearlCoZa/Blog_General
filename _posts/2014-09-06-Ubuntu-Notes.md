@@ -5,7 +5,7 @@ tags: Linux
 category: Tech
 ---
 
-#### Working with a terminal ####
+#### Working with a terminal 
 
 Open a new terminal from outside of a terminal
 
@@ -14,11 +14,13 @@ CTRL+ALT+T
 ~~~
 
 Open a new tab in the current terminal
+
 ~~~
 ctrl+shift+t
 ~~~
 
 Toggle between terminal tabs
+
 ~~~
 alt+[num+of+window]
 ~~~
