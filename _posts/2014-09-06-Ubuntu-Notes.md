@@ -93,6 +93,16 @@ This directory contains start / stop scripts for managing common processes that 
 
 [More info](http://www.ghacks.net/2009/04/04/get-to-know-linux-the-etcinitd-directory/)
 
+#### Dowloaded Application Installation Location
+
+Always use the package manager when you are installing applications as this will allow for automatic updates etc.  
+
+However, if you have downloaded an application and need a location to install it, use the /opt directory.  
+
+~~~
+/opt/appname
+~~~
+
 -------------------------------------------------------------------------------------------------------
 
 ### Applicaiton Management
@@ -113,6 +123,12 @@ sudo apt-get install PACKAGE_NAME
 
 ~~~
 sudo apt-get remove PACKAGE_NAME
+~~~
+
+#### Installing a Tarball
+
+~~~
+tar -xvzf PACKAGE_NAME.tar.gz
 ~~~
 
 -------------------------------------------------------------------------------------------------------
