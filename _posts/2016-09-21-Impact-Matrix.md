@@ -5,4 +5,4 @@ tags:
 category: Process
 ---
 
-<img class="img-responsive" alt="Impact Matrix" src="{{ site.url }}/assets/images/Impact-Matrix.png">
+<img class="img-responsive" alt="Impact Matrix" src="{{ site.url }}/assets/images/ImpactMatrix.png">
