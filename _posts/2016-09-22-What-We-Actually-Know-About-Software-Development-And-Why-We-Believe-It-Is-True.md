@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: What we actually know about software development and why we believe it's true
 tags: Measurement
@@ -9,4 +9,5 @@ These notes are based on [Greg Wilsons](https://twitter.com/gvwilson) talk on "[
 
 #### References
 
-[Slides](http://www.slideshare.net/gvwilson/bits-of-evidence-2338367)  
+[Slides of talk](http://www.slideshare.net/gvwilson/bits-of-evidence-2338367)  
+[Vidoe of talk](https://vimeo.com/9270320)
