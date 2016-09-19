@@ -5,6 +5,10 @@ tags: Mac
 category: Tech
 ---
 
+#### Graphical Symbols
+
+<img class="img-responsive" alt="Macbook Keyboard Symbols" src="{{ site.url }}/assets/images/mac-keyboard-symbols.jpg">
+
 #### Keyboard Windows to Mac Shortcuts ####
 
 Control - Ctrl  
