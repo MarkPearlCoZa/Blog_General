@@ -32,6 +32,22 @@ Originated from Sackman, Erikson & Grant (1968): Exploratory experimental studie
 
 > Do you think this is a strong proof?
 
+#### Conways Law
+
+"A system reflects the organizational structure that built it."
+
+- Originally meant as a joke
+- In 1999 it was found to actually be true  
+
+#### Physical Distance Effects Post-Release fault rates
+
+Nagappan et al (2007) & Bird et al (2009)  
+
+It was found that...
+
+- Physical distance doesn't affect post-release fault rates  
+- Distance in organizaitonal chart does
+
 #### References
 
 [Slides of talk](http://www.slideshare.net/gvwilson/bits-of-evidence-2338367)  
