@@ -18,6 +18,7 @@ category: Misc
 
 - Because we value human interactions we currently prefer physical team boards to digital team boards. This means that collecting metrics will require more effort than for teams who use digital boards.
 - Most metrics will be taken from artifacts that the team uses (board, cards, etc) HOWEVER, we understand that people make software and so understanding how the people that make our software are feeling is also extremely important.
+- Because we work 
 
 ### Questions asked per team member each week on a Friday 
 
