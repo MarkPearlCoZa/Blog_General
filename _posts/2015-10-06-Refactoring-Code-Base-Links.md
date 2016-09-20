@@ -17,6 +17,10 @@ category: Misc
 6. When adding new features, try to “go with the flow.”  
 7. If you need to take the code in a new direction, isolate your changes and use the Adapter Pattern to integrate.  
 
+#### Characterisation Tests
+
+These are useful for nailing down the behavior of the existing code. They are different from test driven tests - revealing intent is not necessarily a primary objective.
+
 ### Refactoring Articles ###
 
 [Martin Fowlers Catalog of Refactorings](http://refactoring.com/catalog/)  
