@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sh Script Notes
+title: Shell Scripting Notes
 tags: Linux
 category: Tech
 ---
