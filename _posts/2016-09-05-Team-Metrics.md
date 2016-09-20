@@ -36,7 +36,6 @@ Progress is what ultimately motivates us all and makes us happy—working on a t
 
 - Do you feel as a team we are meeting external expectations on <list external expectations>... 
 
-
 ### Metrics gathered each week 
 
 - Cycle time on Red, Yellow, Orange & Green Cards
@@ -54,6 +53,24 @@ Progress is what ultimately motivates us all and makes us happy—working on a t
 	- We are looking to focus on this area going forward and at some point measuring actual time to release, for now we are just going an a rough estimate.
 
  
+### Probing Questions
+
+- I would recommend this aas a great place to work  
+- I am proud to work in my team  
+- We have a good level of collaboration within our group  
+- We are reducing technical debt  
+- We deliver customer value often  
+- I have all the tools necessary to do my job  
+- I receive appropriate recognition from leaders  
+- I have a development plan that supports my career objectives  
+- I understand the purpose of the work my team is doing  
+- I have access to the learning & development I need to do my job  
+- My leader has created a great working environment  
+- I believe there are good career opportunities for me  
+- I have fun at work  
+- We have an embeded culture of innovation  
+
+### Other
 
 Quantitative data on how the team is improving
 Progress tracking on delivery to give us a feel for when we will be done and how we can project future work
