@@ -17,11 +17,11 @@ To share responsibilities across a group so that nobody does excessively more wo
  
 ### Example 
 
-|   Name   	| A 	| B 	| C 	| D 	| E 	| F 	| G 	|
-|:--------:	|---	|---	|---	|---	|---	|---	|---	|
-| Person 1 	|   	|   	|   	|   	|   	|   	|   	|
-| Person 2 	|   	|   	|   	|   	|   	|   	|   	|
-| Person 3 	|   	|   	|   	|   	|   	|   	|   	|
-| Person 4 	|   	|   	|   	|   	|   	|   	|   	|
+   Name   	| A 	| B 	| C 	| D 	| E 	| F 	| G 	
+----------------|-------|-------|-------|-------|-------|-------|-------
+ Person 1 	|   	|   	|   	|   	|   	|   	|   	
+ Person 2 	|   	|   	|   	|   	|   	|   	|   	
+ Person 3 	|   	|   	|   	|   	|   	|   	|   	
+ Person 4 	|   	|   	|   	|   	|   	|   	|   	
 
 
