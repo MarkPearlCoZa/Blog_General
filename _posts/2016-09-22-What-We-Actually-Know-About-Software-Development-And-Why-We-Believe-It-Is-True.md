@@ -8,6 +8,10 @@ category: Media
 
 These notes are based on [Greg Wilsons](https://twitter.com/gvwilson) talk on "[What we actually know about software development and why we believe it's true](https://vimeo.com/9270320)" done at CUSEC in 2010.  
 
+#### What is engineering
+
+Real engineering is the combination of science and economics.
+
 #### We have low Standards of Proof
 
 - A lot of what current leaders of our industry are saying have no substantial proof - they are just opinions.  
