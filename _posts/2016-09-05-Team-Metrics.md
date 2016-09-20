@@ -69,6 +69,7 @@ Progress is what ultimately motivates us all and makes us happy—working on a t
 - I believe there are good career opportunities for me  
 - I have fun at work  
 - We have an embeded culture of innovation  
+- How long does it take you to deploy one line of code to production.  
 
 ### Other
 
