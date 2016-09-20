@@ -23,6 +23,7 @@ To share responsibilities across a group so that nobody does excessively more wo
 
 <img class="img-responsive" alt="Example of Balanced Rotation Roster" src="{{ site.url }}/assets/images/Balanced-Rotation-Roster-Template-Filled.png">
 
+Using the above roster, it would be Person 2 turn next. This is because Person 2 & Person 4 have the 'least' number of dots next to their name. Alphabetically Person 2 comes before Person 4.
 
 ### Another Example
 
