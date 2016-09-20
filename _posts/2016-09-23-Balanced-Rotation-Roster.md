@@ -17,13 +17,7 @@ To share responsibilities across a group so that nobody does excessively more wo
  
 ### Table Layout
 
-   Name   	| A 	| B 	| C 	| D 	| E 	| F 	| G 	
-----------------|-------|-------|-------|-------|-------|-------|-------
- Person 1 	| 1  	| 5  	| 9  	| 13  	| 17  	| 21  	| 25  	
- Person 2 	| 2  	| 6  	| 10  	| 14  	| 18  	| 22  	| 26  	
- Person 3 	| 3  	| 7  	| 11  	| 15  	| 19  	| 23  	| 27  	
- Person 4 	| 4  	| 8  	| 12  	| 16  	| 20  	| 24  	| 28  	
-
+<img class="img-responsive" alt="Example of Balanced Rotation Roster" src="{{ site.url }}/assets/images/Balanced-Rotation-Roster-Template.png">
 
 ### Example 
 
