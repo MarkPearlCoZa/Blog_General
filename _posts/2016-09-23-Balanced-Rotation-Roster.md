@@ -24,7 +24,6 @@ To share responsibilities across a group so that nobody does excessively more wo
 <img class="img-responsive" alt="Example of Balanced Rotation Roster" src="{{ site.url }}/assets/images/Balanced-Rotation-Roster-Template-Filled.png">
 
 
-
 ### Another Example
 
 <img class="img-responsive" alt="Example of Balanced Rotation Roster" src="{{ site.url }}/assets/images/Balanced-Rotation-Roster.png">
