@@ -7,6 +7,11 @@ category: General
 
 The art of software prose...
 
+#### Why Name things well
+
+“There’s an important point to emphasize in this definition — code readability depends on who’s reading it, which means it’s subjective. It’s not an objective measure or score you can use to evaluate code.”
+
+#### Useful questions
 
 2 useful questions to ask when naming things…
  
@@ -63,5 +68,6 @@ Patterns provide a base for names. For technical level solutions use well known 
 
 #### References ####
 
-[15 Words you need to eliminate from your Vocabulary](http://time.com/3851004/bad-vocabulary-eliminate/)  
-[Good naming is a progress not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step)  
+- [15 Words you need to eliminate from your Vocabulary](http://time.com/3851004/bad-vocabulary-eliminate/)  
+- [Good naming is a progress not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step)  
+- Excerpt From: The Pragmatic Bookshelf. “PragPub 2016-09: Issue #87.” The Pragmatic Bookshelf, LLC, 2016-09-01. iBooks.  
