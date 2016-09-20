@@ -9,7 +9,6 @@ category: Misc
 
 <img class="img-responsive" alt="Test Pyramid" src="{{ site.url }}/assets/images/Test-Pyramid-Improved.png">
 
-
 ### Heuristic Test Strategy Model  
 
 The Heuristic Test Strategy Model is a set of patterns for designing a test strategy.  
