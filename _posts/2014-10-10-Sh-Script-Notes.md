@@ -8,7 +8,7 @@ category: Tech
 
 - [Executing a Script](#executing-a-script)  
 - [Script Format](#script-format)  
-- [Passing parameters to a script](passing-parameters-to-a-script)
+- [Passing parameters to a script](#passing-parameters-to-a-script)
 
 ### Executing a Script
 
