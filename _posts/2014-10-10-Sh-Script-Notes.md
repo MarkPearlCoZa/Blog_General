@@ -38,7 +38,26 @@ If a script is NOT in your path variable, you need to include the location when 
 
 #### Have a bin folder for your scripts
 
-Make a bin folder where you keep all your scripts. This way you can have it in version control and it is easy to know where all your scripts are located
+Make a bin folder where you keep all your scripts. This way you can have it in version control and it is easy to know where all your scripts are located. It also makes it easier to centrally locate all your scripts.  
+
+To add your bin folder to the path variable you can add the following in your .bash_profile file  
+
+~~~
+export PATH=$PATH:/Users/mark.pearl/Source/personal/Settings_Bash/
+~~~
+
+Assume /Users/mark.pearl/Source/personal/Settings_Bash/ is where you script files are located.   
+
+
+#### Handling aliases 
+
+Another useful technique I have found is to store all your aliases in a script file. In your .bash_profile file you then do the following
+
+~~~
+source /Users/mark.pearl/Source/personal/Settings_Bash/general_aliases.sh
+~~~
+
+Assume /Users/mark.pearl/Source/personal/Settings_Bash/general_aliases.sh is where you script file containing your aliases is located.  
 
 ### Script Format
 
