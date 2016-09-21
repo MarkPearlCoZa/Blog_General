@@ -4,7 +4,11 @@ title: Shell Scripting Notes
 tags: Linux
 category: Tech
 ---
+### Outline
 
+- [Executing a Script](#executing-a-script)  
+- [Script Format](#script-format)  
+- [Passing parameters to a script](passing-parameters-to-a-script)
 
 ### Executing a Script
 
@@ -46,10 +50,13 @@ The first line of a script file tells the OS what language the script file is ba
 #!/bin/bash
 ~~~
 
-Other OS like windows might have a different location for bash. 
+Other OS like windows might have a different location for bash. Below is the most compatible shebang to use.
 
-#### Loops 
+~~~
+#!/usr/bin/env bash
+~~~
 
+### Passing parameters to a script
 
 
 #### References 
