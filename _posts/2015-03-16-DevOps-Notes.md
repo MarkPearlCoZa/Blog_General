@@ -9,6 +9,8 @@ category: Process
 
 [DevOps Tools](http://www.devopsbookmarks.com/)  
 
+<img class="img-responsive" alt="DevOps Circle" src="{{ site.url }}/assets/images/DevOpsCircle.png">
+
 #### References #### 
 
 [Lean Configuration Management by Jez Humble](http://www.slideshare.net/jezhumble/lean-configuration-management)  
