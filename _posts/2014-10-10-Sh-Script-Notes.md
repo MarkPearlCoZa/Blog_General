@@ -77,7 +77,7 @@ Other OS like windows might have a different location for bash. Below is the mos
 
 ### Passing parameters to a script
 
-#### Positional Parameters
+#### Get positional parameters
 
 $1, $2, $3 hold positional parameters
 
@@ -85,23 +85,19 @@ Use curly braces for double digits or more...
 
 ${10}, ${11}, ...
 
-#### $0 - name of script
+#### Get name of script - $0 
 
 $0 holds the name of the script as it was called. 
 
 If you use symbolic links etc, it would have the original name that triggered the script.
 
-#### $@ - all parameters passed in
+#### Get all parameters passed in - $@ 
 
 $@ is equivalent to $1, $2, $3, ..., $n
 
 Using double quotes around $@ keeps parameters with multiple words in them intact i.e. "$@" 
 
-#### $* 
-
-Usually don't use this.
-
-#### $# 
+#### Getting count of arguments - $# 
 
 $# holds the count of the arguments passed to the script
 
