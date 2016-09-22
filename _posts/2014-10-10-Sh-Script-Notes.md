@@ -101,6 +101,25 @@ Using double quotes around $@ keeps parameters with multiple words in them intac
 
 $# holds the count of the arguments passed to the script
 
+#### Shifting Positonal Parameters
+
+Shift method shifts the positional parameters by one value.  
+
+$2 -> $1  
+$3 -> $2
+$# lowered by 1
+etc.
+
+### Variables in Scripts
+
+#### Looping variables
+
+~~~
+for a in $@; do  
+  echo $a;
+done
+~~~
+
 #### References 
 
 [Why sh is not running automatically without putting sh in front](http://apple.stackexchange.com/questions/101170/why-do-i-need-to-put-sh-before-running-sh-files)
