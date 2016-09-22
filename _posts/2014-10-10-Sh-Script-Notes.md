@@ -110,6 +110,29 @@ $3 -> $2
 $# lowered by 1
 etc.
 
+#### GetOpts
+
+Utility to help parse argument lists  
+- Expects options to start with a dash (-a)  
+- Allows options that take an argument (-f fileName)  
+
+~~~
+while getopts "b:s:r" opt; do
+  case $opt in 
+    r) variable1="r set"
+       ;;
+    b) variable1="b is now set"  
+       ;;
+    s) variable1="s is now set instead"
+       ;; 
+    \?) 
+       exit 1 #exit with error 1
+       ;;
+  esac
+done
+~~~
+
+
 ### Variables in Scripts
 
 #### Looping variables
@@ -118,6 +141,13 @@ etc.
 for a in $@; do  
   echo $a;
 done
+~~~
+
+### String Manipulation
+
+~~~
+bar=${foo/ /.}    # sets one ' ' to . i.e. foo.bar qux
+bar=${foo// /.}    # sets all ' ' to . i.e. foo.bar.qux}
 ~~~
 
 #### References 
