@@ -18,6 +18,10 @@ category: Misc
 
 > Get it written then get it right
 
+- Be careful with absolutes and guarentees  
+- Cite your quotes  
+- Work towards a deadline  
+
 #### How large should it be
 
 - About 10 000 words
