@@ -52,7 +52,28 @@ Progress is what ultimately motivates us all and makes us happy—working on a t
 
 	- We are looking to focus on this area going forward and at some point measuring actual time to release, for now we are just going an a rough estimate.
 
+### Notes
+
+It is important to distinguish between metrics that are important to the team (and immediate group) vs. what stakeholders outside of the group:  
+
+-   How confident are we that we are meeting our estimates on Epics? (ie. When will we be done?)
+-   How happy is there team?
+-   Anything else?
+
  
+When tracking velocity please make sure you do not track it on tasks, but rather stories.
+
+-   Epics: Large feature or sets of features 
+-   Stories: A single discrete feature, increment of a feature, or feature iteration (or spike) 
+-   Task: Analysis, investigation, design, development, test, research, document, etc. 
+
+ 
+Present data:
+
+-   along with a story,  
+-   with values over time,  
+-   in a way that if it is compared it makes sense or in a way that it cannot be compared.  
+
 ### Probing Questions
 
 - I would recommend this aas a great place to work  
