@@ -43,7 +43,7 @@ Let's examine specific aspects of SOLID.
 
 > A class should have only a single responsibility (i.e. only one potential change in the software's specification should be able to affect the specification of the class)
 
-Robert C Martin described this concept being based on the principle of cohesion, as described by Tom Demarco in his book **Structured Analysis and System Specification**.  
+Robert C Martin described this concept being based on the principle of cohesion, as described by [Tom Demarco](https://en.wikipedia.org/wiki/Tom_DeMarco) in his book **[Structured Analysis and System Specification](https://www.amazon.com/Structured-Analysis-System-Specification-DeMarco/dp/0138543801)**.  
 
 Tom Demarco had a few things to say on cohesion. 
 
