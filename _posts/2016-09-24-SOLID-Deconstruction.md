@@ -39,7 +39,7 @@ Looking at SOLID as a context piece of advice (pattern) is better. SOLID princip
 
 Let's examine specific aspects of SOLID.  
 
-### Single Responsibility  
+### Single Responsibility Pattern  
 
 > A class should have only a single responsibility (i.e. only one potential change in the software's specification should be able to affect the specification of the class)
 
@@ -50,17 +50,17 @@ Tom Demarco had a few things to say on cohesion.
 - Cohesion is a measure of the strength of association of the elements inside a module. 
 - A highly cohesive module is a collection of statements and data items that should be treated as a whole because they are so closely related.
 
-Tom Demarco never mentioned a specific number of responsiblities a module should have - Robert C Martin said SINGLE RESPONSIBILITY  
+While Tom Demarco had some strong feelings on modules being cohesive, he never mentioned a specific number of responsiblities a module should have - Robert C Martin however did. In proposing a SINGLE responsibility he is specifically proposing that a module should have one responsiblity. This can be contested.
 
-#### Cohesion 
+#### Understanding cohesion 
 
-Cohesion is one of the things that people struggle with. It is a little more abstract and intellectual.
+Typically in software engineering whenever someone talks about cohesion, one also talks about coupling. Coupling is generally an easy concept to understand. Cohesion on the other hand is a little more abstract and intellectual and consequently one of the things that people struggle with.  
 
 We refer to a sound line of reasoning as coherent. The thoughts fit, they go together, they relate to each other. This is exactly the characteristic of a class that makes it coherent: the pieces all seem to be related, they seem to belong together.
 
 Think of cohesion as the opposite of being adhesive. Adhesive is when you put two things that were not meant to be put together and stick them together.
 
-An example would be a class that is called 'Utility' is probably not cohesive. Another example would be a 'Library'.
+An example would be a class that is called 'Utility' is probably not cohesive. Another example would be a class called 'Library' - another typical indication of a non-cohesive class.
 
 #### Should a class have a single responsibility?
 
@@ -83,7 +83,7 @@ Single reason for change is not the same as single responsibility.
 
 Two ideas rolled into one.
 
-### Interface Segregation
+### Interface Segregation Pattern
 
 The dependency should be on the interface, the whole interface and nothing but the interface. 
 
@@ -94,7 +94,7 @@ If you have applied SRP, you have nothing further to do - thus there would be no
 
 Interface Segregation is a weak contender.
 
-### Liskov Substitution
+### Liskov Substitution Pattern
 
 > Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 
@@ -104,7 +104,7 @@ On legacy code bases inheritance is a pain in the backside and highly coupled.
 
 (45:15)
 
-### Open Close Principle
+### Open Close Pattern
 
 > Software entities … should be open for extension, but closed for modification.  
 
@@ -130,7 +130,7 @@ Betrand Meyer's book was a language design principle - he was talking about how 
 
 The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** - refactoring book.  
 
-### Dependency Inversion
+### Dependency Inversion Pattern
 
 > One should depend upon abstractions. Do not depend upon concretions
 
