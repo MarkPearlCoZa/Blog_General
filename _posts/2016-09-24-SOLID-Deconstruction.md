@@ -115,23 +115,19 @@ On legacy code bases inheritance is a pain in the backside and highly coupled.
 
 The principle stated that a good module structure should be both open and closed.  
 
-Betrand Meyer in Object-oriented Software Construction book said the following about things being open & closed...
+[Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer) in [Object-Oriented Software Construction](https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554) book said the following about things being open & closed...
 
 > Closed, because clients need the module's services to proceed with their own development, and once they have settled on a version of the module should not be affected by the introduction of new services they do not need.  
 
-We are not going to get very far if we cannot change code. We do not want our module structure to be closed - we want to be able to refactor things. There are pieces of code that we can change easily, and there are pieces that we can't.
-
-If the code is yours, and you know the dependencies you can change it. If you do not know the dependencies then you should not change it.  
+We are not going to get very far if we cannot change code. We do not want our module structure to be closed - we want to be able to refactor things. There are pieces of code that we can change easily, and there are pieces that we can't. If the code is yours, and you know the dependencies you can change it. If however you do not know the dependencies then you should not change it.  
 
 > Open, because there is no guarantee that we will include right from the start every service potentially useful to some client.  
 
-This is a non problem when we have version control. When Meyer speaks about a open module construction he is meaning you should use inheritance. This is going to create the kind of pain you are going to experience in a legacy code base. Avoid this.
+This is a non problem when we have version control. When Bertrand speaks about a open module construction he is meaning you should use inheritance. This is going to create the kind of pain you are going to experience in a legacy code base. Avoid this.
 
 Back to R C. Martin's explanation of OCP it says...
 
-"Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification."
-
-Betrand Meyer's book was a language design principle - he was talking about how to design a language - not how to design a program.
+"Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.". Betrand Meyer's comments regarding things being open and close was a on language design principles - Bertrand was talking about how to design a language - not how to design a program. In a language design context this could make sense. In a program design context it does not.  
 
 The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** - refactoring book.  
 
@@ -164,5 +160,6 @@ Dependency Inversion is not the **inversion** of the normal order, it is now the
 - [Video of talk](https://vimeo.com/157708450)  
 - [Wiki on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))  
 - [Wiki on Robert C Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)  
+- [Wiki on Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer)  
 - [Wiki on Tom Demarco](https://en.wikipedia.org/wiki/Tom_DeMarco)  
 - [Amazon on Structured Analysis and System Specification](https://www.amazon.com/Structured-Analysis-System-Specification-DeMarco/dp/0138543801)  
