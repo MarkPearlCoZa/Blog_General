@@ -86,14 +86,19 @@ There is a deeper irony with SRP. If you read Robert C Martin's section he wrote
 
 ### Interface Segregation Pattern
 
+> Many client-specific interfaces are better than one general-purpose interface
+
 The dependency should be on the interface, the whole interface and nothing but the interface. 
 
-If you have applied SRP, you have nothing further to do - thus there would be no need for Interface Segregation?  
+If you have applied SRP, you have nothing further to do - thus there would be no need for interface segregation. Interface segregation pattern is subordinate to single responsbility pattern!  
 
 - SRP applied to interfaces is interface segregation.
+
+There is another issue with interface segregation pattern. What does an interface look like in Ruby? What does it look like in Python? These
+
 - There is a language dependency, Ruby, Python do not have interfaces
 
-Interface Segregation is a weak contender.
+One of the principles is subordinate to the other  
 
 ### Liskov Substitution Pattern
 
