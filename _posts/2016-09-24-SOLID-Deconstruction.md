@@ -60,6 +60,24 @@ Grady Booch in his book object solutions wrote the following:
 
 > Every class should embody only about 3-5 distinct responsibilities  
 
+What is a single responsibility of a REPL?
+
+- It has at least 3 responsibilities!  
+- The REPL's responsibility is to bind things together?  
+
+If you push SRP you realize it doesn't really work well at this level.
+
+#### Deeper Irony
+
+If you read Robert C Martin section he wrote in 97 things every programmer should know you get another idea of what Robert C Martin meant.
+
+Single reason for change is not the same as single responsibility.
+
+Two ideas rolled into one.
+
+### Interface Segregation
+
+
 
 
 #### References
