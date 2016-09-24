@@ -52,15 +52,17 @@ Tom Demarco had a few things to say on cohesion.
 
 While Tom Demarco had some strong feelings on modules being cohesive, he never mentioned a specific number of responsiblities a module should have - Robert C Martin however did. In proposing a SINGLE responsibility he specifically proposed that a module should have one responsiblity. This can be contested.
 
-#### Understanding cohesion 
+#### Understanding Cohesion 
 
-Typically in software engineering whenever someone talks about cohesion, one also talks about coupling. Coupling is generally an easy concept to understand. Cohesion on the other hand is a little more abstract and intellectual and consequently one of the things that people struggle with.  
+Typically in software engineering whenever someone talks about cohesion, one also talks about coupling. Coupling is generally an easy concept to understand. Cohesion on the other hand is a little more abstract and intellectual and consequently a concept that many people struggle with.  
 
-We refer to a sound line of reasoning as coherent. The thoughts fit, they go together, they relate to each other. This is exactly the characteristic of a class that makes it coherent: the pieces all seem to be related, they seem to belong together.
+We refer to a sound line of reasoning as coherent. The thoughts fit, they go together, they relate to each other. The reasoning is highly cohesive. This is exactly the characteristic of a class that makes it coherent: the pieces all seem to be related, they seem to belong together.
 
-Think of cohesion as the opposite of being adhesive. Adhesive is when you put two things that were not meant to be put together and stick them together.
+> Think of cohesion as the opposite of being adhesive. 
 
-An example would be a class that is called 'Utility' is probably not cohesive. Another example would be a class called 'Library' - another typical indication of a non-cohesive class.
+Adhesive is when you put two things that were not meant to be put together and stick them together. Cohesion is the opposite of adhesion.
+
+An example of an adhesive class would typically be those classes that are called 'utility' classes. Generally utility classes are not cohesive - they just have a bunch of things put together. With that in mind, let's re-explore whether a class should have a single responsbility.
 
 #### Should a class have a single responsibility?
 
@@ -68,16 +70,19 @@ Grady Booch in his book object solutions wrote the following:
 
 > Every class should embody only about 3-5 distinct responsibilities  
 
+Based on Grady Booch's comments a class can still be a good class and have more than one responsibility. 
+
+Let's look at a practical example of this. Let's look at a REPL.  
+
 What is a single responsibility of a REPL?
 
-- It has at least 3 responsibilities!  
-- The REPL's responsibility is to bind things together?  
+By it's very definition a REPL reads, evaluates, prints & loops. It has at least 3 responsibilities!  
 
-If you push SRP you realize it doesn't really work well at this level.
+One could argue that the REPL's responsibility is to bind things together but that seems to be very wishy washy.
 
-#### Deeper Irony
+> If you push SRP you realize it doesn't really work well at this level. Classes can have more than one responsibility.
 
-If you read Robert C Martin section he wrote in 97 things every programmer should know you get another idea of what Robert C Martin meant.
+However there is a deeper irony in SRP. If you read Robert C Martin section he wrote in 97 things every programmer should know you get another idea of what he meant about SRP.
 
 Single reason for change is not the same as single responsibility.
 
