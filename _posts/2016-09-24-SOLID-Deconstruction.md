@@ -129,7 +129,7 @@ Back to Robert C. Martin's explanation of OCP it says...
 
 "Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.". Betrand Meyer's comments regarding things being open and close was a on language design principles - Bertrand was talking about how to design a language - not how to design a program. In a language design context this could make sense. In a program design context it does not.  
 
-The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** - refactoring book.  
+The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** (See Martin Fowler's Refactoring book).  
 
 ### Dependency Inversion Pattern
 
