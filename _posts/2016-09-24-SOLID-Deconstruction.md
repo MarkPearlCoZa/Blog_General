@@ -50,6 +50,10 @@ Cohesion is one of the things that people struggle with. It is a little more abs
 
 We refer to a sound line of reasoning as coherent. The thoughts fit, they go together, they relate to each other. This is exactly the characteristic of a class that makes it coherent: the pieces all seem to be related, they seem to belong together.
 
+Think of cohesion as the opposite of being adhesive. Adhesive is when you put two things that were not meant to be put together and stick them together.
+
+An example would be a class that is called 'Utility' is probably not cohesive. Another example would be a 'Library'.
+
 
 #### References
 
