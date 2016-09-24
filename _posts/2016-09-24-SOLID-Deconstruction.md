@@ -35,7 +35,19 @@ Dictionary defition of pattern
 
 #### Single Responsibility  
 
-Robert C Martin described this concept being based on the principle of cohesion, as described by Tom Demarco in his book **Structured Analysis and System Specification**.
+Robert C Martin described this concept being based on the principle of cohesion, as described by Tom Demarco in his book **Structured Analysis and System Specification**.  
+
+Tom Demarco had a few things to say on cohesion. 
+
+- Cohesion is a measure of the strength of association of the elements inside a module. 
+- A highly cohesive module is a collection of statements and data items that should be treated as a whole because they are so closely related.
+
+Robert C Martin said SINGLE RESPONSIBILITY - Tom Demarco never mentioned a specific number.
+
+Cohesion is one of the things that people struggle with.
+
+
+
 
 #### References
 
