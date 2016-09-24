@@ -77,7 +77,36 @@ Two ideas rolled into one.
 
 ### Interface Segregation
 
+The dependency should be on the interface, the whole interface and nothing but the interface. 
 
+If you have applied SRP, you have nothing further to do - thus there would be no need for Interface Segregation?  
+
+- SRP applied to interfaces is interface segregation.
+- There is a language dependency, Ruby, Python do not have interfaces
+
+Interface Segregation is a weak contender.
+
+### Liskov Substitution
+
+On legacy code bases inheritance is a pain in the backside and highly coupled.
+
+**Watch Kevlin discussion on this**
+
+(45:15)
+
+### Open Close Principle
+
+The principle stated that a good module structure should be both open and closed.  
+
+Betrand Meyer says...
+
+> Closed, because clients need the module's services to proceed with their own development, and once they have settled on a version of the module should not be affected by the introduction of new services they do not need.  
+
+We are not going to get very far if we cannot change code. We do not want our module structure to be closed - we want to be able to refactor things. There are pieces of code that we can change easily, and there are pieces that we can't.
+
+Martin Fowler used a better term. If the code is yours, and you know the dependencies you can change it. If you do not know the dependencies then you should not change it.  
+
+> Open, because there is no guarantee that we will include right from the start every service potentially useful to some client.  
 
 #### References
 
