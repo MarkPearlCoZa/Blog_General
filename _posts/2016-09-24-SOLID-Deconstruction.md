@@ -54,6 +54,13 @@ Think of cohesion as the opposite of being adhesive. Adhesive is when you put tw
 
 An example would be a class that is called 'Utility' is probably not cohesive. Another example would be a 'Library'.
 
+#### Should a class have a single responsibility?
+
+Grady Booch in his book object solutions wrote the following:  
+
+> Every class should embody only about 3-5 distinct responsibilities  
+
+
 
 #### References
 
