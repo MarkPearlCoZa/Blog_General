@@ -79,7 +79,6 @@ Two ideas rolled into one.
 
 
 
-
 #### References
 
 [Video of talk](https://vimeo.com/157708450)  
