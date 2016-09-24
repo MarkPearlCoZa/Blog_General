@@ -98,15 +98,47 @@ On legacy code bases inheritance is a pain in the backside and highly coupled.
 
 The principle stated that a good module structure should be both open and closed.  
 
-Betrand Meyer says...
+Betrand Meyer in Object-oriented Software Construction book said about Open & Closed...
 
 > Closed, because clients need the module's services to proceed with their own development, and once they have settled on a version of the module should not be affected by the introduction of new services they do not need.  
 
 We are not going to get very far if we cannot change code. We do not want our module structure to be closed - we want to be able to refactor things. There are pieces of code that we can change easily, and there are pieces that we can't.
 
-Martin Fowler used a better term. If the code is yours, and you know the dependencies you can change it. If you do not know the dependencies then you should not change it.  
+If the code is yours, and you know the dependencies you can change it. If you do not know the dependencies then you should not change it.  
 
 > Open, because there is no guarantee that we will include right from the start every service potentially useful to some client.  
+
+This is a non problem when we have version control. When Meyer speaks about a open module construction he is meaning you should use inheritance. This is going to create the kind of pain you are going to experience in a legacy code base. Avoid this.
+
+Back to R C. Martin's explanation of OCP it says...
+
+"Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification."
+
+Betrand Meyer's book was a language design principle - he was talking about how to design a language - not how to design a program.
+
+The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** - refactoring book.  
+
+### Dependency Inversion
+
+- Relatively few gripes with except for the name in object oriented programming  
+
+The principle states:  
+- high level modules should not depend on low level modules  
+
+This is good design.
+
+If we look at the words used in the naming of the principle...
+
+Dictionary definition of Inversion
+
+- the action of inverting the state of being inverted  
+- reversal of the normal order
+
+Dependency Inversion is not the **inversion** of the normal order, it is now the normal order.
+
+#### Keywords to look at  
+
+- Subsumption  
 
 #### References
 
