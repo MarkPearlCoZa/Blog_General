@@ -50,7 +50,7 @@ Tom Demarco had a few things to say on cohesion.
 - Cohesion is a measure of the strength of association of the elements inside a module. 
 - A highly cohesive module is a collection of statements and data items that should be treated as a whole because they are so closely related.
 
-Tom Demarco never mentioned a specific number - Robert C Martin said SINGLE RESPONSIBILITY  
+Tom Demarco never mentioned a specific number of responsiblities a module should have - Robert C Martin said SINGLE RESPONSIBILITY  
 
 #### Cohesion 
 
@@ -156,5 +156,8 @@ Dependency Inversion is not the **inversion** of the normal order, it is now the
 
 #### References
 
-[Video of talk](https://vimeo.com/157708450)  
-[Wiki on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))  
+- [Video of talk](https://vimeo.com/157708450)  
+- [Wiki on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))  
+- [Wiki on Robert C Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)  
+- [Wiki on Tom Demarco](https://en.wikipedia.org/wiki/Tom_DeMarco)  
+- [Amazon on Structured Analysis and System Specification](https://www.amazon.com/Structured-Analysis-System-Specification-DeMarco/dp/0138543801)  
