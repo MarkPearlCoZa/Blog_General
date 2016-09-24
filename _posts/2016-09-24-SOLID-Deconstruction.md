@@ -23,6 +23,8 @@ Dictionary definitions of principle
 - Morally correct behavior or attitude 
 - General scientific theorem or law  
 
+> It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them.
+
 A more suitable word is **pattern** - a pattern is a context specific piece of advice.
 
 Advice is contextually good, but change the context and the advice could be bad.
@@ -30,8 +32,6 @@ Advice is contextually good, but change the context and the advice could be bad.
 Dictionary definition of pattern  
 - A regular form or sequence discernible in the way in which something happens or is done  
 - An example for others to follow  
-
-> It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them.
 
 ### Single Responsibility  
 
