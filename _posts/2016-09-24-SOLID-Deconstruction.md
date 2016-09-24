@@ -42,7 +42,7 @@ Tom Demarco had a few things to say on cohesion.
 - Cohesion is a measure of the strength of association of the elements inside a module. 
 - A highly cohesive module is a collection of statements and data items that should be treated as a whole because they are so closely related.
 
-Robert C Martin said SINGLE RESPONSIBILITY - Tom Demarco never mentioned a specific number.
+Tom Demarco never mentioned a specific number - Robert C Martin said SINGLE RESPONSIBILITY  
 
 #### Cohesion 
 
