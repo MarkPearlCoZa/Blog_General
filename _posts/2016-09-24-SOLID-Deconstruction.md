@@ -38,8 +38,11 @@ If you look at the dictionary definition of a 'pattern' you get...
 - a example for others to follow  
 - a context specific piece of advice  
 
-Advice is contextually good, but change the context and the advice could be bad.
+Looking at SOLID as a context piece of advice (pattern) is better. 
 
+That makes the advice that SOLID gives can be contextually good, but change the context and the advice could be bad.  
+
+Let's examine specific aspects of SOLID.  
 
 ### Single Responsibility  
 
