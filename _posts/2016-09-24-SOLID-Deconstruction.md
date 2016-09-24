@@ -125,7 +125,7 @@ We are not going to get very far if we cannot change code. We do not want our mo
 
 This is a non problem when we have version control. When Bertrand speaks about a open module construction he is meaning you should use inheritance. This is going to create the kind of pain you are going to experience in a legacy code base. Avoid this.
 
-Back to R C. Martin's explanation of OCP it says...
+Back to Robert C. Martin's explanation of OCP it says...
 
 "Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.". Betrand Meyer's comments regarding things being open and close was a on language design principles - Bertrand was talking about how to design a language - not how to design a program. In a language design context this could make sense. In a program design context it does not.  
 
