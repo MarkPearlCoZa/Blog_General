@@ -14,7 +14,7 @@ These notes are based on [Kevlin Henney](https://twitter.com/KevlinHenney) talk 
 - One of the principles is subordinate to the other  
 - One of the principles is not even a practice at all  
 
-### Are these principles?
+### Are these even principles?
 
 If you look at the dictionary definitions of a 'principle' you get...  
 
@@ -50,7 +50,7 @@ Tom Demarco had a few things to say on cohesion.
 - Cohesion is a measure of the strength of association of the elements inside a module. 
 - A highly cohesive module is a collection of statements and data items that should be treated as a whole because they are so closely related.
 
-While Tom Demarco had some strong feelings on modules being cohesive, he never mentioned a specific number of responsiblities a module should have - Robert C Martin however did. In proposing a SINGLE responsibility he is specifically proposing that a module should have one responsiblity. This can be contested.
+While Tom Demarco had some strong feelings on modules being cohesive, he never mentioned a specific number of responsiblities a module should have - Robert C Martin however did. In proposing a SINGLE responsibility he specifically proposed that a module should have one responsiblity. This can be contested.
 
 #### Understanding cohesion 
 
