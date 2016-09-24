@@ -10,14 +10,14 @@ These notes are based on [Kevlin Henney](https://twitter.com/KevlinHenney) talk 
 
 #### General
 
-SOLID Princples are not quite right...
+SOLID Principles are not quite right...
 - Two ideas rolled into one  
 - One is subordinate to the other  
 - One is not even a practice at all  
 
-#### Are these principles?
+### Are these principles?
 
-Dictionary defitions of principle
+Dictionary definitions of principle
 - A fundamental truth   
 - Foundation for a system of belief 
 - Morally correct behavior or attitude 
@@ -27,13 +27,13 @@ A more suitable word is **pattern** - a pattern is a context specific piece of a
 
 Advice is contextually good, but change the context and the advice could be bad.
 
-Dictionary defition of pattern  
-- A regular form or sequence discernable in the way in which something happens or is done  
+Dictionary definition of pattern  
+- A regular form or sequence discernible in the way in which something happens or is done  
 - An example for others to follow  
 
 > It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them.
 
-#### Single Responsibility  
+### Single Responsibility  
 
 Robert C Martin described this concept being based on the principle of cohesion, as described by Tom Demarco in his book **Structured Analysis and System Specification**.  
 
@@ -44,9 +44,11 @@ Tom Demarco had a few things to say on cohesion.
 
 Robert C Martin said SINGLE RESPONSIBILITY - Tom Demarco never mentioned a specific number.
 
-Cohesion is one of the things that people struggle with.
+#### Cohesion 
 
+Cohesion is one of the things that people struggle with. It is a little more abstract and intellectual.
 
+We refer to a sound line of reasoning as coherent. The thoughts fit, they go together, they relate to each other. This is exactly the characteristic of a class that makes it coherent: the pieces all seem to be related, they seem to belong together.
 
 
 #### References
