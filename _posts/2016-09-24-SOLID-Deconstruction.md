@@ -94,11 +94,12 @@ If you have applied SRP, you have nothing further to do - thus there would be no
 
 - SRP applied to interfaces is interface segregation.
 
-There is another issue with interface segregation pattern. What does an interface look like in Ruby? What does it look like in Python? These
+There is another issue with interface segregation pattern - it is language dependent.
 
-- There is a language dependency, Ruby, Python do not have interfaces
+- What does an interface look like in Ruby? 
+- What does it look like in Python?
 
-One of the principles is subordinate to the other  
+Interface segregation pattern is subordinate to single responsibility pattern.  
 
 ### Liskov Substitution Pattern
 
