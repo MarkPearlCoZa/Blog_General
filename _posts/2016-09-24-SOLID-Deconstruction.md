@@ -107,9 +107,7 @@ Interface segregation pattern is subordinate to single responsibility pattern.
 
 On legacy code bases inheritance is a pain in the backside and highly coupled.
 
-**Watch Kevlin discussion on this**
-
-(45:15)
+**Watch Kevlin discussion on this 45:15 into the recording**
 
 ### Open Close Pattern
 
@@ -117,7 +115,7 @@ On legacy code bases inheritance is a pain in the backside and highly coupled.
 
 The principle stated that a good module structure should be both open and closed.  
 
-Betrand Meyer in Object-oriented Software Construction book said about Open & Closed...
+Betrand Meyer in Object-oriented Software Construction book said the following about things being open & closed...
 
 > Closed, because clients need the module's services to proceed with their own development, and once they have settled on a version of the module should not be affected by the introduction of new services they do not need.  
 
