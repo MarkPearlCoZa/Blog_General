@@ -10,28 +10,36 @@ These notes are based on [Kevlin Henney](https://twitter.com/KevlinHenney) talk 
 
 #### General
 
-SOLID Principles are not quite right...
+SOLID Principles are not quite right...  
+
 - Two ideas rolled into one  
 - One is subordinate to the other  
 - One is not even a practice at all  
 
+
 ### Are these principles?
 
-Dictionary definitions of principle
-- A fundamental truth   
-- Foundation for a system of belief 
-- Morally correct behavior or attitude 
-- General scientific theorem or law  
+If you look at the dictionary definitions of a 'principle' you get...  
 
-> It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them.
+- a fundamental truth  
+- foundation for a system of belief  
+- morally correct behavior or attitude  
+- general scientific theorem or law   
 
-A more suitable word is **pattern** - a pattern is a context specific piece of advice.
+> It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them - Kevlin Henney
+
+If we look at SOLID, it is not a set of principles. A more suitable word to describe SOLID is that it is a collection of **patterns**.  
+
+What is a pattern?  
+
+If you look at the dictionary definition of a 'pattern' you get...
+  
+- a regular form or sequence discernible in the way in which something happens or is done  
+- a example for others to follow  
+- a context specific piece of advice  
 
 Advice is contextually good, but change the context and the advice could be bad.
 
-Dictionary definition of pattern  
-- A regular form or sequence discernible in the way in which something happens or is done  
-- An example for others to follow  
 
 ### Single Responsibility  
 
