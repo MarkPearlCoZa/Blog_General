@@ -135,12 +135,13 @@ The lesson we can learn from all this is **Don't Publish Interfaces Prematurely*
 
 > One should depend upon abstractions. Do not depend upon concretions
 
-- Relatively few gripes with except for the name in object oriented programming  
+- Relatively few gripes with this except for words used in the name.
 
-The principle states:  
+The pattern states:  
+
 - high level modules should not depend on low level modules  
 
-This is good design.
+**This is good design**
 
 If we look at the words used in the naming of the principle...
 
@@ -150,10 +151,6 @@ Dictionary definition of Inversion
 - reversal of the normal order
 
 Dependency Inversion is not the **inversion** of the normal order, it is now the normal order.
-
-#### Keywords to look at  
-
-- Subsumption  
 
 #### References
 
