@@ -82,7 +82,7 @@ One could argue that the REPL's responsibility is to bind things together but th
 
 > If you push SRP to it's limits you realize it doesn't really work well at this level. Classes can have more than one responsibility.
 
-There is a deeper irony with SRP. If you read Robert C Martin section he wrote in 97 things every programmer should know you get another idea or thought regarding SRP. In this book he proposes that SRP is actually meant to be a single reason for change. This seems to have two ideas rolled into one. A single reason for change is not the same as single responsibility.
+There is a deeper irony with SRP. If you read Robert C Martin's section he wrote in 97 things every programmer should know you get another idea or thought regarding SRP. In this book he proposes that SRP is actually meant to be a single reason for change. This seems to have two ideas rolled into one. A single reason for change is not the same as single responsibility.
 
 ### Interface Segregation Pattern
 
