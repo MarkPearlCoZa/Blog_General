@@ -8,14 +8,11 @@ category: Media
 
 These notes are based on [Kevlin Henney](https://twitter.com/KevlinHenney) talk on "[SOLID Deconstruction](https://vimeo.com/157708450)" done at NDC London 2016.
 
-#### General
-
-SOLID Principles are not quite right...  
+### SOLID Principles are not quite right...  
 
 - Two ideas rolled into one  
 - One is subordinate to the other  
 - One is not even a practice at all  
-
 
 ### Are these principles?
 
@@ -101,6 +98,8 @@ Interface Segregation is a weak contender.
 
 ### Liskov Substitution
 
+> Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+
 On legacy code bases inheritance is a pain in the backside and highly coupled.
 
 **Watch Kevlin discussion on this**
@@ -108,6 +107,8 @@ On legacy code bases inheritance is a pain in the backside and highly coupled.
 (45:15)
 
 ### Open Close Principle
+
+> Software entities … should be open for extension, but closed for modification.  
 
 The principle stated that a good module structure should be both open and closed.  
 
@@ -132,6 +133,8 @@ Betrand Meyer's book was a language design principle - he was talking about how 
 The lesson we can learn from all this is **Don't Publish Interfaces Prematurely** - refactoring book.  
 
 ### Dependency Inversion
+
+> One should depend upon abstractions. Do not depend upon concretions
 
 - Relatively few gripes with except for the name in object oriented programming  
 
