@@ -28,7 +28,7 @@ If you look at the dictionary definitions of a 'principle' you get...
 
 > It turns out words matter, in software we use a bunch of words but we are fairly rubbish in using them - Kevlin Henney
 
-If we look at SOLID, it is not a set of principles. A more suitable word to describe SOLID is that it is a collection of **patterns**.  
+If we look at SOLID, it is not a set of principles. A more suitable word to describe SOLID is that it is a **collection of patterns**.  
 
 What is a pattern?  
 
@@ -45,6 +45,8 @@ That makes the advice that SOLID gives can be contextually good, but change the 
 Let's examine specific aspects of SOLID.  
 
 ### Single Responsibility  
+
+> A class should have only a single responsibility (i.e. only one potential change in the software's specification should be able to affect the specification of the class)
 
 Robert C Martin described this concept being based on the principle of cohesion, as described by Tom Demarco in his book **Structured Analysis and System Specification**.  
 
@@ -154,3 +156,4 @@ Dependency Inversion is not the **inversion** of the normal order, it is now the
 #### References
 
 [Video of talk](https://vimeo.com/157708450)  
+[Wiki on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))  
