@@ -92,12 +92,12 @@ The dependency should be on the interface, the whole interface and nothing but t
 
 If you have applied SRP, you have nothing further to do - thus there would be no need for interface segregation. Interface segregation pattern is subordinate to single responsbility pattern!  
 
-- SRP applied to interfaces is interface segregation.
+- SRP applied to interfaces is interface segregation.  
 
-There is another issue with interface segregation pattern - it is language dependent.
+There is another issue with interface segregation pattern - it is language dependent.  
 
-- What does an interface look like in Ruby? 
-- What does it look like in Python?
+- What does an interface look like in Ruby?   
+- What does it look like in Python?  
 
 Interface segregation pattern is subordinate to single responsibility pattern.  
 
