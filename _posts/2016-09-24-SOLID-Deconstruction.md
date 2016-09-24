@@ -10,9 +10,9 @@ These notes are based on [Kevlin Henney](https://twitter.com/KevlinHenney) talk 
 
 ### SOLID Principles are not quite right...  
 
-- Two ideas rolled into one  
-- One is subordinate to the other  
-- One is not even a practice at all  
+- One of the principles has two ideas rolled into one  
+- One of the principles is subordinate to the other  
+- One of the principles is not even a practice at all  
 
 ### Are these principles?
 
