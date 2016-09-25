@@ -132,7 +132,6 @@ while getopts "b:s:r" opt; do
 done
 ~~~
 
-
 ### Variables in Scripts
 
 #### Looping variables
@@ -148,6 +147,45 @@ done
 ~~~
 bar=${foo/ /.}    # sets one ' ' to . i.e. foo.bar qux
 bar=${foo// /.}    # sets all ' ' to . i.e. foo.bar.qux}
+~~~
+
+### Conditional branching 
+
+#### Basic if statement
+
+~~~
+if [ -e 'hasAValue' ]; then
+  echo "inside the then if"
+  exit
+else
+  echo "inside the else block"
+  exit
+fi
+
+if [ "$variable" = "1" ]; then 
+    echo "variable contains value 1"
+else
+    if [ "$variable" = "2" ]; then
+        echo "variable contains value 2"
+    else
+        echo "variable contains some other value"
+    fi
+fi
+~~~
+variable contains some other value
+#### Base cas statement
+
+~~~
+case $variable in 
+    1 ) echo "variable contains value 1"
+        ;;
+
+    2 ) echo "variable contains value 2"
+        ;;
+
+    * ) echo "variable contains some other value"
+        ;;
+esac
 ~~~
 
 #### References 
