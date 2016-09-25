@@ -145,9 +145,22 @@ done
 ### String Manipulation
 
 ~~~
-bar=${foo/ /.}    # sets one ' ' to . i.e. foo.bar qux
-bar=${foo// /.}    # sets all ' ' to . i.e. foo.bar.qux}
+foo="foo bar qux"
+bar=${foo/ /.}      # sets one ' ' to . i.e. foo.bar qux
+bar=${foo// /.}     # sets all ' ' to . i.e. foo.bar.qux
 ~~~
+
+### Dates
+
+#### Baisc 
+
+Get year-month-day from day
+
+~~~
+formattedDate=`date +%Y-%m-%d`  # returns in format 2016-09-21
+~~~
+
+To see different formats go to the man page for date
 
 ### Conditional branching 
 
