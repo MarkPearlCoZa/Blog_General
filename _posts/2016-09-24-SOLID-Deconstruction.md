@@ -155,6 +155,7 @@ Dependency Inversion is not the **inversion** of the normal order, it is now the
 #### References
 
 - [Video of talk](https://vimeo.com/157708450)  
+- [Slides of talk](http://www.slideshare.net/Kevlin/solid-deconstruction-66337585)  
 - [Wiki on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))  
 - [Wiki on Robert C Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)  
 - [Wiki on Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer)  

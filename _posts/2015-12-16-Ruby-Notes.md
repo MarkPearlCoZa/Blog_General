@@ -4,7 +4,26 @@ title: Ruby Notes
 tags: Languages
 category: Tech
 ---
-#### Updating Ruby in Ubuntu ####
+### The Basics
+
+#### Converting Types
+
+- to_s converts to string
+- to_i converts to integer
+- to_a converts to array
+
+#### Working with Arrays
+
+Basic declaration
+
+~~~
+values = [1, 2, 3]         #declares a simple array
+maxValue = [1, 2, 3].max   #gets the largest value 
+~~~
+
+### Installation
+
+#### Updating Ruby in Ubuntu
 
 rbenv is a tool for installing versions of ruby. To install rbenv use the following:
 
