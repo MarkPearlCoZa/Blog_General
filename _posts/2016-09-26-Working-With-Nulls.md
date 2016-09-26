@@ -69,14 +69,36 @@ I've worked in several large code bases where we applied these two rules with gr
 
 ### Avoid null on Calculation or Coordination Objects
 
-Classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of several types of things I use classes for...
+Classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of several types of things I use classes and thus object for...
 
 - Calculation Classes : These are classes that perform some sort of calculation and return a result.  
 - Coordination Classes : These are classes that co-ordinate a workflow or a set of calculation classes.  
 - Entity Classes : These are classes that hold information. 
 - DTO Classes : Similar to entity classes, intended to carry information between services.   
 
+I would recommend avoiding setting calcualtion or coordination classes to null. This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
 
+These classes hold some form of data. It is perfectly reasonable for some of this data to 'not be set' in which case I need some way to represent this. This for me is where null is a perfectly acceptable value.
+
+For instance...  
+
+~~~
+class Person 
+{
+    public int? Age {get; set;}
+}
+~~~
+
+In the above C# code I might create a Person object and not know the person's age. Having age nullable is useful. It avoids the problem of 'buggy' calculations. 
+
+For instance if we take a variation of our age calculation bug...  
+
+~~~
+var person = new Person();
+var discount = (person.Age < 20) ? 0.5 : 1.0;  
+~~~
+
+On the calculation of the discount, if age is set to NULL an exception is thrown. 
 
 ### Null Object Pattern
 
