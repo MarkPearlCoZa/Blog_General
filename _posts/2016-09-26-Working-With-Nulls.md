@@ -63,6 +63,20 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 } 
 ~~~
 
+#### My own experience applying these patterns
+
+I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two patterns.
+
+### Multiple types of classes
+
+For me, classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of at least three types of things I use classes for...
+
+- Calculation Classes : These are classes that perform some sort of calculation and return a result.  
+- Coordination Classes : These are classes that co-ordinate a workflow or a set of calculation classes.  
+- Entity Classes : These are classes that hold information. 
+- DTO Classes : Similar to entity classes, intended to carry information between services.   
+
+
 ### Null Object Pattern
 
 #### References
