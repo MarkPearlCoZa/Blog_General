@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Law of Two Feet in the workplace
+title: The Law of Two Feet in the Workplace
 tags: Meetings 
 category: Rough
 ---
@@ -39,9 +39,13 @@ I think allowing the law of two feet to be invoked before a meeting starts may n
 
 An alternative is to invoke the law of two feet once the agenda has been confirmed. That gives a totally different message. Conceptually I may value this meeting, however I feel I won't be contributing to the specifics of today's agenda. That means something totally different.
 
+### The psychology of a meeting room
 
+Saying you can invoke the law of two feet and invoking it are two different things. I have seen many times that I have told people they can do something, which they may feel is socially unacceptable and so have still not done it.
 
+Telling people that they can invoke the Lo2F in a meeting room where there are just a handful of people can place social restrictions on them invoking it. Getting up and leaving a room when you know your absence will be noted can hold you back from doing it.
 
+I've found that having meetings in an area where people normally work makes it easier for people to 'quietly' leave the conversation. 
 
 #### References
 
