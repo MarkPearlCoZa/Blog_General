@@ -69,3 +69,4 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 
 [Pluralsight Working with Nulls](https://app.pluralsight.com/library/courses/csharp-nulls-working)  
 [Wiki on Magic Numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)  
+[Stack Overflow Clean Code & Nulls](http://stackoverflow.com/questions/6371956/confused-with-uncle-bob-explanation-on-handling-null-objects-in-book-clean-code)  
