@@ -67,7 +67,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 
 I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two patterns.
 
-### Avoid null on Calculation or Coordination Objects
+### Avoid null on Calculation or Coordination Class Instances
 
 Classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of several types of things I use classes and thus object for...
 
@@ -78,7 +78,7 @@ Classes can be used in many different ways. Remember, a class is a template for 
 
 I would recommend avoiding setting calcualtion or coordination classes to null. This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
 
-### Don't worry about setting null on DTO or Entity Properties
+### Use null on Entity & DTO Properties
 
 Instances of Entity or DTO classes hold some form of data. It is perfectly reasonable for some of this data to 'not be set' in which case I need some way to represent this. As already mentioned, I want to avoid using magic values to represent this. This for me is where setting a property of an instance to null is a perfectly acceptable.
 
