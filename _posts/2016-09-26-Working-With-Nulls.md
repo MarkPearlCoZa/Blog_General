@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working With Nulls
+title: Working with Nulls
 tags: Code 
 category: Misc
 ---
