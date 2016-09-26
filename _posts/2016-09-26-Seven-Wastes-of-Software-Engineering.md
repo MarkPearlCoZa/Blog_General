@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seven Wastes of Lean 
+title: Seven Wastes of Software Engineering
 tags: Lean 
 category: General
 ---
