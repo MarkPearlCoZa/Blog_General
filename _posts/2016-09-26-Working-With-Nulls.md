@@ -4,7 +4,7 @@ title: Working with Nulls
 tags: Code 
 category: Misc
 ---
-Today I would like to spend some time on nulls. Before you can understand nulls and where they can be used, you first should understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding.
+Today I would like to spend some time on nulls. Before you go through tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding - if you don't read this [this](http://stackoverflow.com/questions/5057267/what-is-the-difference-between-a-reference-type-and-value-type-in-c).  
 
 ### Before there were nulls there were magic numbers
 
