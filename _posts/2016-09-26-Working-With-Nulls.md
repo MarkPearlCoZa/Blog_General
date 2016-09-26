@@ -4,7 +4,7 @@ title: Working with Nulls
 tags: Code 
 category: Misc
 ---
-Today I would like to spend some time on nulls. To understand nulls and where they can be used you first need to understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding.
+Today I would like to spend some time on nulls. Before you can understand nulls and where they can be used, you first need to understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding.
 
 ### Prefer nulls to magic values/numbers 
 
