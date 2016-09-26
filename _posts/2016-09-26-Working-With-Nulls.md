@@ -4,11 +4,11 @@ title: Working with Nulls
 tags: Code 
 category: Misc
 ---
-I would like to spend some time on nulls. Before you tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding - if you don't read this [this](http://stackoverflow.com/questions/5057267/what-is-the-difference-between-a-reference-type-and-value-type-in-c).  
+I would like to spend some time on nulls. Before you tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding - if you don't read [this](http://stackoverflow.com/questions/5057267/what-is-the-difference-between-a-reference-type-and-value-type-in-c).  
 
 ### Before there were nulls there were magic numbers
 
-Magic number variables are variables that have specific values that represent a state. The first time I was introduced to this concept was back in my Visual Basic 6 days. 
+Before nulls there were magic number variables. Magic number variables are variables that have a specific value that represent a contextual state. The first time I was introduced to this concept was back in my Visual Basic 6 days. 
 
 Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable age and I wanted to represent it as 'unset' I would give 'age' a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
 
