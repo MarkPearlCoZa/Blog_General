@@ -51,7 +51,17 @@ myObject.doSomething();
 
 Which is substantially cleaner.
 
+#### Do not pass null values in to your methods
 
+If you do not pass null to your methods, you avoid having unnecessary checks at the beginning of a method. For instance, you would avoid the following...
+
+~~~
+public decimal CalculateTax(TaxCalculator theTaxCalculator)
+{
+    if (theTaxCalculator == null) throw new ArgumentException();
+    ...
+} 
+~~~
 
 ### Null Object Pattern
 
