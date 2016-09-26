@@ -67,7 +67,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 
 I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two patterns.
 
-### Avoid null on calculation or coordination objects
+### Avoid null on Calculation or Coordination Objects
 
 Classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of several types of things I use classes for...
 
