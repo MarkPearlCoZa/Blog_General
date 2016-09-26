@@ -78,7 +78,9 @@ Classes can be used in many different ways. Remember, a class is a template for 
 
 I would recommend avoiding setting calcualtion or coordination classes to null. This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
 
-These classes hold some form of data. It is perfectly reasonable for some of this data to 'not be set' in which case I need some way to represent this. This for me is where null is a perfectly acceptable value.
+### Don't worry about setting null on DTO or Entity Properties
+
+Instances of Entity or DTO classes hold some form of data. It is perfectly reasonable for some of this data to 'not be set' in which case I need some way to represent this. As already mentioned, I want to avoid using magic values to represent this. This for me is where setting a property of an instance to null is a perfectly acceptable.
 
 For instance...  
 
@@ -89,16 +91,16 @@ class Person
 }
 ~~~
 
-In the above C# code I might create a Person object and not know the person's age. Having age nullable is useful. It avoids the problem of 'buggy' calculations. 
+In the above C# code for a Person Class I might need to create a Person object and not know the person's age. Having age nullable is useful. It avoids the problem of 'buggy' calculations. 
 
-For instance if we take a variation of our age calculation bug...  
+For instance if we take a variation of our age calculation bug first used to display the pitfalls of magic numbers...  
 
 ~~~
 var person = new Person();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-On the calculation of the discount, if age is set to NULL an exception is thrown. 
+On the calculation of the discount, if age is set to NULL an exception is thrown. If I want to avoid an exception, I need to explictly check for the null value and react accordingly.
 
 ### Null Object Pattern
 
