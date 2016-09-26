@@ -32,7 +32,7 @@ I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if 
 
 #### Do not write methods that return null 
 
-His motivation for not writing methods that return nulls is that this avoid's unnecessary checks on nulls. For example...  
+Why should methods not return null? The motivation for not writing methods that return nulls is that this avoid's unnecessary checks on nulls. For example...  
 
 ~~~
 var myObject = MethodThatReturnsAObject();
@@ -53,7 +53,7 @@ Which is substantially cleaner.
 
 #### Do not pass null values in to your methods
 
-If you do not pass null to your methods, you avoid having unnecessary checks at the beginning of a method. For instance, you would avoid the following...
+Why should you not pass null values in to your methods? If you do not pass null to your methods, you avoid having unnecessary checks at the beginning of a method. For instance, you would avoid the following...
 
 ~~~
 public decimal CalculateTax(TaxCalculator theTaxCalculator)
