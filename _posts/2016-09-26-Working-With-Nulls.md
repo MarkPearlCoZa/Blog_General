@@ -25,7 +25,7 @@ Using magic numbers increases the opportunities for subtle errors and makes it d
 
 ### Avoid methods that return null
 
-I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if you haven't read it I recommend you do. In clean code Uncle Bob suggests two things regarding nulls:
+I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if you haven't read it I recommend you do. In Clean Code, Uncle Bob suggests two things regarding nulls:
 
 1) Do not write methods that return null   
 2) Do not pass null values in to your methods   
