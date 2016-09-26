@@ -8,7 +8,7 @@ I would like to spend some time on nulls. Before you tackle nulls you should fir
 
 ### Before there were nulls there were magic numbers
 
-Before nulls there were magic number variables. Magic number variables are variables that have a specific value that represent a contextual state. The first time I was introduced to this concept was back in my Visual Basic 6 days. 
+Before nulls there were magic number variables. Magic number variables are variables that have a specific value that represents a contextual state. The first time I was introduced to this concept was back in my Visual Basic 6 days. 
 
 Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable age and I wanted to represent it as 'unset' I would give 'age' a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
 
