@@ -63,7 +63,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 } 
 ~~~
 
-#### My own experience applying these patterns
+#### My own experience with Clean Code's advice
 
 I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two patterns.
 
