@@ -8,9 +8,9 @@ Today I would like to spend some time on nulls. Before you can understand nulls 
 
 ### Prefer nulls to magic values/numbers 
 
-Magic number variables are variables that have specific values that represent a state. The first time I was introduced to this concept was back in my vb6 days. 
+Magic number variables are variables that have specific values that represent a state. The first time I was introduced to this concept was back in my Visual Basic Six (vb6) days. 
 
-Occaisonally we would use magic numbers to represent a specific state. For example, it was not uncommon for me to set the variable age a value of -1 if I wanted to represent age not having been set yet.
+In my vb6 days it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable age and I wanted to represent it as 'unset' I would give 'age' a value of -1.
 
 I would advise to avoid this practice in languages where you have the option to choose null.
 
