@@ -8,7 +8,7 @@ I recently heard about the 7 wastes of lean. Having had a interest in lean proce
 
 On researching it up, it turns out the seven wastes of lean originate from the Toyota Production System. They are:  
 
-#### Original Seven Wastes of Lean
+#### Seven wastes of lean
 
 1) Overproduction - to make something before it is actually required  
 2) Waiting - whenever a good is not moving or being processed the waste of waiting occurs  
@@ -20,7 +20,7 @@ On researching it up, it turns out the seven wastes of lean originate from the T
 
 The worst of all the 7 wastes is overproduction because it includes in essence all others.
 
-### My Seven Wastes of Software Engineering
+### My seven wastes of software engineering
 
 I like the concept of the 7 wastes of lean, inspired by the original 7 wastes, I came up with my own 7 wastes specific to software engineering.
 
