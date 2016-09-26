@@ -32,7 +32,7 @@ They are...
 2) Waiting for dependencies - having to wait for an external dependency on work you have already started  
 3) Hand offs - whenever an individual or group has to hand work over to another group or individual  
 4) Inappropriate technologies - using a complex technology where a simpler technology would be sufficient  
-5) Unnecessary work in progress - working on more things simultaneously  
+5) Unnecessary work in progress - working on more things simultaneously than necessary 
 6) Unnecessary refactoring - refactoring code that does not need to be touched  
 7) Defects - fixing errors that could have been avoided initially  
 
