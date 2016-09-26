@@ -19,11 +19,39 @@ var discount = (age < 20) ? 0.5 : 1.0;
 // what happens if we don't check for age to be unset!!
 ~~~
 
-> The rule of thumb is avoid magic number values to represent unset variables if you can rather set the variable to null
+Using magic numbers increases the opportunities for subtle errors and makes it difficult for the program to be adapted and extended in future. Things we want to avoid.
 
-Ultimately using magic numbers increases the opportunities for subtle errors and makes it difficult for the program to be adapted and extended in future. Things we want to avoid.
+> The rule of thumb is avoid magic number values to represent unset variables if you can, rather set the variable to null
 
-### Passing Nulls around for Errors
+### Avoid methods that return null
+
+I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if you haven't read it I recommend you do. In clean code Uncle Bob suggests two things regarding nulls:
+
+1) Do not write methods that return null   
+2) Do not pass null values in to your methods   
+
+#### Do not write methods that return null 
+
+His motivation for not writing methods that return nulls is that this avoid's unnecessary checks on nulls. For example...  
+
+~~~
+var myObject = MethodThatReturnsAObject();
+if (myObject != null) 
+{
+    myObject.doSomething();
+}
+~~~
+
+Can be written as...
+
+~~~
+var myObject = MethodThatReturnsAObject();
+myObject.doSomething();
+~~~
+
+Which is substantially cleaner.
+
+
 
 ### Null Object Pattern
 
