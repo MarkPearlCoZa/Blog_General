@@ -15,7 +15,8 @@ Back then it was not uncommon for me to use magic numbers to represent a specifi
 The problem with magic numbers is you begin to litter your code with if statements. Also, every time you perform some sort of calculation on the value you first have to check if it is in one of your magic states. If you don't you can introduce subtle bugs - like the one below...
 
 ~~~
-var discount = (age < 20) ? 0.5 : 1.0;  // what happens if we don't check for age to be unset!!
+var discount = (age < 20) ? 0.5 : 1.0;  
+// what happens if we don't check for age to be unset!!
 ~~~
 
 I would advise to avoid this practice in languages where you have the option to choose null.
