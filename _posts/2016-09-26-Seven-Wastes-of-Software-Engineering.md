@@ -27,7 +27,7 @@ I like the concept of the 7 wastes of lean, inspired by the original 7 wastes, I
 They are...
 
 1) Over-engineering - to make something more complex than is actually required  
-2) Waiting for dependencies - having to wait for an external dependency on work you have already started 
+2) Waiting for dependencies - having to wait for an external dependency on work you have already started  
 3) Hand offs - whenever an individual or group has to hand work over to another group or individual  
 4) Inappropriate Technologies - using expensive technologies where a simpler technology would be sufficient  
 5) Unnecessary work in progress - working on more things simultaneously
