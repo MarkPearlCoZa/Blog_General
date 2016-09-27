@@ -22,7 +22,7 @@ var discount = (age < 20) ? 0.5 : 1.0;
 // what happens if we don't check for age to be unset!!
 ~~~
 
-Using magic numbers increases the opportunities for subtle errors and makes it difficult for the program to be adapted and extended in future - things we want to avoid! 
+Using magic numbers increases the opportunities for subtle errors and makes it difficult for the program to be adapted and extended down the road - things we want to avoid! 
 
 > The rule of thumb is avoid magic number values to represent unset variables if you can, rather set the variable to null
 
