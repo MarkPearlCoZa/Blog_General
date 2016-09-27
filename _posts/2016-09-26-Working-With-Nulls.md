@@ -15,7 +15,7 @@ Before there were nulls, there were magic number variables. Magic number variabl
 
 Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable 'age' and I wanted to represent it as 'unset' I would give 'age' a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
 
-The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - this gets quite messy very quickly. In addition to it getting messy, every time you perform some sort of calculation on the value you first have to check if it is in one of your magic states. If you don't you can introduce subtle bugs - like the one below which is meant to give you a 50% discount if you are under the age of 20...
+The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - very quickly this gets quite messy. In addition to it getting messy, every time you perform some sort of calculation on the value you first have to check if it is in one of your magic states. If you don't you can introduce subtle bugs - like the one below which is meant to give you a 50% discount if you are under the age of 20...
 
 ~~~
 var discount = (age < 20) ? 0.5 : 1.0;  
