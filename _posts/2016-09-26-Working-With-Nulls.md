@@ -4,6 +4,9 @@ title: Working with Nulls
 tags: Code 
 category: Misc
 ---
+
+> Below are a set of pattern's I apply to my code in C#, these patterns may port to other languages but it is important to note they are context specific patterns.
+
 I would like to spend some time on nulls. Before you tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding - if you don't read [this](http://stackoverflow.com/questions/5057267/what-is-the-difference-between-a-reference-type-and-value-type-in-c).  
 
 ### Before there were nulls there were magic numbers
@@ -35,7 +38,7 @@ I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if 
 Why should methods not return null? The motivation for not writing methods that return nulls is that this avoid's unnecessary checks on nulls. For example...  
 
 ~~~
-var myObject = MethodThatReturnsAObject();
+SomeWork myObject = MethodThatReturnsAObject();
 if (myObject != null) 
 {
     myObject.doSomething();
@@ -45,7 +48,7 @@ if (myObject != null)
 Can be written as...
 
 ~~~
-var myObject = MethodThatReturnsAObject();
+SomeWork myObject = MethodThatReturnsAObject();
 myObject.doSomething();
 ~~~
 
@@ -104,8 +107,55 @@ On the calculation of the discount, if age is set to NULL an exception is thrown
 
 ### Null Object Pattern
 
+There are situations where you don't want to litter your code with explicit checks for Null and you know what outcome you want should a null reference occur. At times like this it can be appropriate to leverage the Null Object Pattern.
+
+At it's essence the Null Object Pattern replaces a null reference with a null object. The null object implements the expected interface with the implementation doing 'nothing'.
+
+This is probably best explained using an example. Let's use code previously used, but expand on it. Assume we had the following code...
+
+~~~
+SomeWork myObject = MethodThatReturnsAObject(true);
+myObject.doSomething();
+~~~
+
+We have two classes that implement the SomeWork type, the first class "PrintWork" does the actual work we want. It looks as follows...
+
+~~~
+Class PrintWork : SomeWork
+{
+	public void doSomething() {
+		Console.WriteLine("Some work is done");
+	}
+}
+~~~
+
+We also define another class that acs as our Null Object Class, it looks as follows...
+
+~~~
+Class DoNothingWork : SomeWork
+{
+	public void doSomething() {
+		// .. do nothing ..
+	}
+}
+~~~
+
+In our method, MethodThatReturnsAObject we have the following factory code...
+
+~~~
+public SomeWork MethodThatReturnsAObject(bool doNothing = false) 
+{
+	return (doNothing) ?  new DoNothingWork() : new PrintWork();
+}
+~~~
+
+Now, depending on whether we pass in a true or a false, MethodThatReturnsAObject will either return the class that does the actual work (Printing) or the class that does nothing (DoNothingWork).
+
+This is a basic example of the Null Object Pattern. There are several variations.
+
 #### References
 
 [Pluralsight Working with Nulls](https://app.pluralsight.com/library/courses/csharp-nulls-working)  
 [Wiki on Magic Numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)  
 [Stack Overflow Clean Code & Nulls](http://stackoverflow.com/questions/6371956/confused-with-uncle-bob-explanation-on-handling-null-objects-in-book-clean-code)  
+[Wiki on Null Object Pattern](https://en.wikipedia.org/wiki/Null_Object_pattern)  
