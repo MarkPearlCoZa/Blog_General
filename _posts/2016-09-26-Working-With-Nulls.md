@@ -66,18 +66,18 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 } 
 ~~~
 
-I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two practices.
+I've worked in several large code bases where we applied these two rules with great results. I would really recommend adopting these two practices.
 
 ### Avoid setting null on calculation or coordination types
 
-Classes can be used in many different ways. Remember, a class is a template for an object and is a very general concept. Off hand I can think of several types of things I use classes and thus object for...
+A class is a template for an object and is a very general concept. Classes can be used in many different ways. I can think of several types of generalizations I use classes and thus object for...
 
 - Calculation Classes : These are classes that perform some sort of calculation and return a result.  
 - Coordination Classes : These are classes that co-ordinate a workflow or a set of calculation classes.  
 - Entity Classes : These are classes that hold information. 
 - DTO Classes : Similar to entity classes, intended to carry information between services.   
 
-I would recommend avoiding setting calcualtion or coordination classes to null. This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
+I would recommend avoiding setting calculation or coordination classes to null. This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
 
 ### Use null on Entity & DTO Properties
 
@@ -101,7 +101,7 @@ var person = new Person();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-On the calculation of the discount, if age is set to NULL an exception is thrown. If I want to avoid an exception, I need to explictly check for the null value and react accordingly.
+On the calculation of the discount, if age is set to NULL an exception is thrown. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly.
 
 ### Null Object Pattern
 
@@ -127,7 +127,7 @@ Class PrintWork : SomeWork
 }
 ~~~
 
-We also define another class that acs as our Null Object Class, it looks as follows...
+We also define another class that acts as our Null Object Class, it looks as follows...
 
 ~~~
 Class DoNothingWork : SomeWork
