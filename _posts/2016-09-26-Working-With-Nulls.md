@@ -45,7 +45,7 @@ if (myObject != null)
 }
 ~~~
 
-Can be written as...
+Can be confidently written as...
 
 ~~~
 SomeWork myObject = MethodThatReturnsAObject();
@@ -56,7 +56,7 @@ Which is substantially cleaner.
 
 #### Do not pass null values in to your methods
 
-Why should you not pass null values in to your methods? If you do not pass null to your methods, you avoid having unnecessary checks at the beginning of a method. For instance, you would avoid the following...
+Why should you not pass null values in to your methods? Similarly, if you do not pass null values in to your methods, you avoid having checks at the beginning of a method for nulls. For instance, you would avoid the following...
 
 ~~~
 public decimal CalculateTax(TaxCalculator theTaxCalculator)
@@ -66,9 +66,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 } 
 ~~~
 
-#### My own experience with Clean Code's advice
-
-I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two patterns.
+I've worked in several large code bases where we applied these two rules with great results. I would really recommend addopting these two practices.
 
 ### Avoid null on Calculation or Coordination Class Instances
 
