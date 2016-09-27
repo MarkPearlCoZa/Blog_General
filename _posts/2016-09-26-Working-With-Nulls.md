@@ -26,7 +26,7 @@ Using magic numbers increases the opportunities for subtle errors and makes it d
 
 > The rule of thumb is avoid magic number values to represent unset variables if you can, rather set the variable to null
 
-### Clean Code & Nulls
+### Passing and returning nulls
 
 I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if you haven't read it I recommend you do. In Clean Code Uncle Bob suggests two things regarding nulls:
 
