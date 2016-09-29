@@ -18,8 +18,10 @@ Back then it was not uncommon for me to use magic numbers to represent a specifi
 The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - very quickly this gets quite messy. In addition to it getting messy, every time you perform some sort of calculation on the value you first have to check if it is in one of your magic states. If you don't you can introduce subtle bugs - like the one below which is meant to give you a 50% discount if you are under the age of 20...
 
 ~~~
-var discount = (age < 20) ? 0.5 : 1.0;  
-// what happens if we don't check for age to be unset!!
+var person = MethodThatReturnsAPerson();
+var discount = (person.Age < 20) ? 0.5 : 1.0;  
+
+// what happens if we don't check for magic numbers for age, and we are using -1 for an unset age??
 ~~~
 
 Using magic numbers increases the opportunities for subtle errors and makes it difficult for the program to be adapted and extended down the road - things we want to avoid! 
@@ -38,7 +40,7 @@ I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if 
 Why should methods not return null? If your methods don't return nulls you avoid having to check for nulls after the method call. For example...  
 
 ~~~
-SomeWork myObject = MethodThatReturnsAObject();
+SomeWork myObject = MethodThatReturnsAObject()
 if (myObject != null) 
 {
     myObject.doSomething();
