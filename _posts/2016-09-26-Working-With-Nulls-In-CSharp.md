@@ -73,7 +73,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
 
 I've worked in several large code bases where we have tried to avoid unnecessary null checks. Fundamentally I agree with what Clean Code is saying - avoiding passing nulls in and out of methods leads to cleaner code. 
 
-That said, I'm conscious that a class is a very general concept and can be used in many different ways. There are times when setting an instance of a class to null is useful and something I do. I find there are two main groups. The first group I rarely set instances of classes to null - I call these types of classes my "C" classes. The second group I occasionally set instances of its classes to null - I call these types of classes my "D" classes (I'm sure there must be a better name than "C" and "D", I just can't think of one).
+That said, I'm conscious that a class is a very general concept and can be used in many different ways. There are times when setting an instance of a class to null is useful and something I do. Looking at it, I find there are two main groups. The first group I rarely set instances of classes to null - I call these types of classes my "C" classes. The second group I occasionally set instances of its classes to null - I call these types of classes my "D" classes (I'm sure there must be a better name than "C" and "D", I just can't think of one).
 
 #### Calculation & Coordination Classes
 
