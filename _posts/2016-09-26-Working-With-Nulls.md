@@ -79,7 +79,7 @@ The two types of uses of classes I've decided to call "C" classes vs "D" classes
 
 #### Calculation & Coordination Classes
 
-"C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null. 
+"C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate a set of calculation classes. I rarely set instances of "C" classes to null. 
 
 On saying I don't set "C" classes to null, I'm also cognisant that I rarely pass these types of classes into normal methods. Typically if my code needs to make use of a "C" class, I inject via the constructor. So my code example above would probably look more like the following...
 
