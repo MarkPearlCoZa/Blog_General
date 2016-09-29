@@ -58,7 +58,7 @@ Which is substantially cleaner.
 
 #### Do not pass null values in to your methods
 
-Why should you not pass null values in to your methods? Similarly, if you do not pass null values in to your methods, you avoid having checks at the beginning of a method for nulls. For instance, you would avoid the following...
+Similarly, if you do not pass null values in to your methods, you avoid having checks at the beginning of a method for nulls. For instance, you would avoid the following...
 
 ~~~
 public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
