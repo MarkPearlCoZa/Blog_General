@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working with Nulls
+title: Working with Nulls in C#
 tags: Code 
 category: Misc
 ---
@@ -121,7 +121,7 @@ var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-I would get an exception thrown if person or age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern.
+I would get an exception thrown if person or age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or I could leverage the null object pattern. 
 
 In older versions of C# were I to check for nulls my code would look something like the following...
 
@@ -133,16 +133,17 @@ if (person.age == null) ... // do something
 var discount = (person.Age < 20) ? 0.5 : 1.0;
 ~~~
 
-This can get quite messy.
-
-In C# 6 we have some useful Null-conditional Operators that might make you re-think the noise argument that clean code presented. For instnace, we could write the following...
+This can get quite noisy. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the **new** null conditional operator.
 
 ~~~
 var person = MethodThatReturnsAPerson();
 var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 ~~~
 
-Is this better? It's certainly terse. Whether it is better largely depends on how comfortable the maintainers of this code base are with this sort of syntax and whether they feel it is clean.
+Is this better? It's certainly terse. 
+
+ that might make you re-think the noise argument that clean code presented. For instance, we could write the following...
+Whether it is better largely depends on how comfortable the maintainers of this code base are with this sort of syntax and whether they feel it is clean.
 
 Regardless, whatever route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code.
 
