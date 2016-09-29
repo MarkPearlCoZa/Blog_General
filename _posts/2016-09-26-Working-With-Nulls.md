@@ -201,3 +201,4 @@ This is a basic example of the Null Object Pattern. There are several variations
 [Stack Overflow Clean Code & Nulls](http://stackoverflow.com/questions/6371956/confused-with-uncle-bob-explanation-on-handling-null-objects-in-book-clean-code)  
 [Wiki on Null Object Pattern](https://en.wikipedia.org/wiki/Null_Object_pattern)  
 [Why Null is Bad](http://www.yegor256.com/2014/05/13/why-null-is-bad.html)  
+[Null-conditional Operators](https://msdn.microsoft.com/en-nz/library/dn986595.aspx)  
