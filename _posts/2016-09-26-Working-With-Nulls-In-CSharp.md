@@ -144,7 +144,7 @@ var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 
 Is this better? It's certainly terse. In some circumstances it might make you re-think the noise argument that clean code presented. Whether it is better largely depends on how comfortable the maintainers of this code base are with this sort of syntax and whether they feel it is clean.
 
-Regardless, whatever route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code.
+Regardless the route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code.
 
 > Balance the tension between readable code and the noise of null checking code
 
@@ -164,35 +164,35 @@ var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 We have two classes that implement the SomeWork type, the first class "PrintWork" does the actual work we want. It looks as follows...
 
 ~~~
-Class PrintWork : SomeWork
+Class Person : IPerson
 {
-	public void doSomething() {
-		Console.WriteLine("Some work is done");
-	}
+	public Age { get; set; }
 }
 ~~~
 
 We also define another class that acts as our Null Object Class, it looks as follows...
 
 ~~~
-Class DoNothingWork : SomeWork
+Class UnsetPerson : IPerson
 {
-	public void doSomething() {
-		// .. do nothing ..
-	}
+	public Age 
+    { 
+        get { return 0; }
+        set { }
+    }
 }
 ~~~
 
 In our method, MethodThatReturnsAObject we have the following factory code...
 
 ~~~
-public SomeWork MethodThatReturnsAObject(bool doNothing = false) 
+public IPerson MethodThatReturnsAPerson(bool doNothing = false) 
 {
-	return (doNothing) ?  new DoNothingWork() : new PrintWork();
+	return (doNothing) ?  new UnsetPerson() : new Person();
 }
 ~~~
 
-Now, depending on whether we pass in a true or a false, MethodThatReturnsAObject will either return the class that does the actual work (Printing) or the class that does nothing (DoNothingWork).
+Now, depending on whether we pass in a true or a false, MethodThatReturnsAPerson will either return the class that returns a person with valid values or the class that does nothing returns an instance of an UnsetPerson.
 
 This is a basic example of the Null Object Pattern. There are several variations.
 
