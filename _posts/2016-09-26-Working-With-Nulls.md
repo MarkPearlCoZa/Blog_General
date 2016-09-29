@@ -142,9 +142,11 @@ var person = MethodThatReturnsAPerson();
 var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 ~~~
 
-Is this better? It could be in some circumstances, I guess it depends.
+Is this better? It's certainly terse. Whether it is better largely depends on how comfortable the maintainers of this code base are with this sort of syntax and whether they feel it is clean.
 
-From my side, what is important is that you are explicit on your intent - balancing the tension between readable code and null checking.
+Regardless, whatever route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code.
+
+> Balance the tension between readable code and the noise of null checking code
 
 ### Null Object Pattern
 
