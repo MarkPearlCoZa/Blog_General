@@ -68,6 +68,8 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator)
 } 
 ~~~
 
+#### 
+
 I've worked in several large code bases where we applied these two rules with great results. I would really recommend adopting these two practices.
 
 ### What to set as null
@@ -152,3 +154,4 @@ This is a basic example of the Null Object Pattern. There are several variations
 [Wiki on Magic Numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)  
 [Stack Overflow Clean Code & Nulls](http://stackoverflow.com/questions/6371956/confused-with-uncle-bob-explanation-on-handling-null-objects-in-book-clean-code)  
 [Wiki on Null Object Pattern](https://en.wikipedia.org/wiki/Null_Object_pattern)  
+[Why Null is Bad](http://www.yegor256.com/2014/05/13/why-null-is-bad.html)  
