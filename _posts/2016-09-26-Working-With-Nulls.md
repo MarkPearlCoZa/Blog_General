@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-> Below are a set of pattern's I apply to C# code, these patterns may port to other languages.
+> Below are a set of pattern's I apply to C# code, these patterns may port to other languages or they may not.
 
 I would like to spend some time on nulls. Before you tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding.
 
