@@ -123,7 +123,7 @@ var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or I could leverage the null object pattern. 
+If I want to avoid an exception, I need to explicitly check for the null value and react accordingly, or I could leverage the null object pattern. 
 
 In older versions of C# were I to check for nulls my code would look something like the following...
 
@@ -135,11 +135,11 @@ if (person.age == null) ... // do something
 var discount = (person.Age < 20) ? 0.5 : 1.0;
 ~~~
 
-This can get quite noisy. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the newnull conditional operator.
+As you can see there is quite noise. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the new null conditional operator.
 
 #### Null Conditional Operator
 
-With the null conditional operator, we could change the code to look as follows...
+With the [null conditional operator](https://msdn.microsoft.com/en-nz/library/dn986595.aspx), we could change the code to look as follows...
 
 ~~~
 var person = MethodThatReturnsAPerson();
