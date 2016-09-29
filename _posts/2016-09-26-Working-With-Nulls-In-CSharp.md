@@ -69,7 +69,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
 } 
 ~~~
 
-### You can pass and return nulls, but be intentional about it
+### Whatever you do, be intentional about it
 
 I've worked in several large code bases where we have tried to avoid unnecessary null checks. Fundamentally I agree with what Clean Code is saying. That said, a class is a very general concept and can be used in many different ways. 
 
