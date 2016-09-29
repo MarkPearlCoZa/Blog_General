@@ -98,11 +98,11 @@ I would get an exception thrown if age was not set. If I want to avoid an except
 
 ### Null Object Pattern
 
-There are situations where you don't want to litter your code with explicit checks for Null and you know what outcome you want should a null reference occur. At times like this it can be appropriate to leverage the Null Object Pattern.
+There are situations where you don't want to litter your code with explicit checks for null and you know what outcome you want if a value has not been set yet. At times like this Null Object Pattern can be really useful.
 
-At it's essence the Null Object Pattern replaces a null reference with a null object. The null object implements the expected interface with the implementation doing 'nothing'.
+What is the Null Object Pattern? At it's essence the Null Object Pattern replaces a null reference with a null object. The null object implements the expected interface with the implementation doing 'nothing'.
 
-This is probably best explained using an example. Let's use code previously used, but expand on it. Assume we had the following code...
+It's easier to understand looking at an example. Let's use code previously used, but expand on it. Assume we had the following code...
 
 ~~~
 SomeWork myObject = MethodThatReturnsAObject(true);
