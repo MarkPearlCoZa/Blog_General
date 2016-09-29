@@ -69,17 +69,15 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
 } 
 ~~~
 
-#### My own style
+### My own take on null
 
-I've worked in several large code bases where we have tried to avoid unnecessary null checks. 
+I've worked in several large code bases where we have tried to avoid unnecessary null checks. Fundamentally I agree with what Clean Code is saying. That said, a class is a very general concept and can be used in many different ways. 
 
-### What to set as null
-
-A class is a very general concept and can be used in many different ways. Were I to say that you should never set instances of classes to null I would be giving you bad advice. There are times when setting an instance of a class to null is extremely useful. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type quite often set to null.
+There are times when setting an instance of a class to null is useful and something I do. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type quite often set to null.
 
 The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a better name for these types, I just can't think of one).
 
-#### "C" Classes
+#### Calculation & Coordination" Classes
 
 "C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null. 
 
@@ -102,6 +100,8 @@ Class PersonTaxCalculator
     ...
 }
 ~~~
+
+#### Data Classes  
 
 "D" classes are data classes. Typically these go by the name of Data Transfer Object, or Entities, etc. They hold values, instead of performing actions. Instances of classes like these I often set to null because they are doing the same thing my magic variables were doing back in my vb6 days - representing missing values - except, they have the added advantage of throwing exceptions when I try and include their values in a calculation which makes 'buggy' calculations easier to detect.
 
