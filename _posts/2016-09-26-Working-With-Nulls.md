@@ -73,7 +73,7 @@ public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
 
 I've worked in several large code bases where we have tried to avoid unnecessary null checks. Fundamentally I agree with what Clean Code is saying. That said, a class is a very general concept and can be used in many different ways. 
 
-There are times when setting an instance of a class to null is useful and something I do. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type quite often set to null.
+There are times when setting an instance of a class to null is useful and something I do. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type of use I occasionally set it to null.
 
 The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a better name for these types, I just can't think of one).
 
@@ -121,7 +121,7 @@ var person = new Person();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-I would get an exception thrown if age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern, either way I'm being explicit on my intent.
+I would get an exception thrown if age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern, either way I'm being explicit on my intent. In these instances, setting a value to null that then throws an exception can be useful and should be considered.
 
 ### Null Object Pattern
 
