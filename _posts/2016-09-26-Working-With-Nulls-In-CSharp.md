@@ -131,7 +131,7 @@ if (person.age == null) ... // do something
 var discount = (person.Age < 20) ? 0.5 : 1.0;
 ~~~
 
-This can get quite noisy. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the **new** null conditional operator.
+This can get quite noisy. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the newnull conditional operator.
 
 #### Null Conditional Operator
 
@@ -157,8 +157,8 @@ What is the Null Object Pattern? At it's essence the Null Object Pattern replace
 It's easier to understand looking at an example. Let's use code previously used, but expand on it. Assume we had the following code...
 
 ~~~
-SomeWork myObject = MethodThatReturnsAObject(true);
-myObject.doSomething();
+var person = MethodThatReturnsAPerson();
+var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 ~~~
 
 We have two classes that implement the SomeWork type, the first class "PrintWork" does the actual work we want. It looks as follows...
