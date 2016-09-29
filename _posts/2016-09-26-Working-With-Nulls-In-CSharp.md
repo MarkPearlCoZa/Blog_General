@@ -135,7 +135,7 @@ if (person.age == null) ... // do something
 var discount = (person.Age < 20) ? 0.5 : 1.0;
 ~~~
 
-As you can see there is quite noise. Luckily, C# is still evolving which means we can reduce some of the noise by leveraging the new null conditional operator.
+As you can see there is noise, luckily C# is still evolving which means we can reduce some of the noise by leveraging the new null conditional operator.
 
 #### Null Conditional Operator
 
