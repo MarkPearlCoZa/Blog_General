@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-> Below are a set of pattern's I apply to C# code, these patterns may port to other languages but it is important to note they are context specific patterns and advice.
+> Below are a set of pattern's I apply to C# code, these patterns may port to other languages.
 
 I would like to spend some time on nulls. Before you tackle nulls you should first understand the difference between reference type variables and value type variables. I'm going to assume you already have this understanding.
 
@@ -70,24 +70,15 @@ I've worked in several large code bases where we applied these two rules with gr
 
 ### What to set as null
 
-A class is a template for an object and is a very general concept. Classes can be used in many different ways. I can think of several types of generalizations of class types...
+A class is a very general concept and can be used in many different ways. Were I to say that you should never set instances of classes to null I would be giving you bad advice. There are times when setting an instance of a class to null is extremely useful. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type quite often set to null.
 
-- Calculation Classes : These are classes that perform some sort of calculation and return a result.  
-- Coordination Classes : These are classes that co-ordinate a workflow or a set of calculation classes.  
-- Entity Classes : These are classes that hold information. 
-- DTO Classes : Similar to entity classes, intended to carry information between services.   
+The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a bettern name for these types, I just can't think of one).
 
-### Avoid setting null on calculation or coordination classes
+"C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null.
 
-I avoid setting calculation or coordination classes to null. 
+"D" classes are data classes. Typically these go by the name of Data Transfer Object, or Entities, etc. They hold values, instead of performing actions. Instances of classes like these I often set to null because they are doing the same thing my magic variables were doing back in my vb6 days - representing missing values - except, they have the added advantage of throwing exceptions when I try and include their values in a calculation which makes 'buggy' calculations easier to detect.
 
-This avoids the noisy boiler plate null checking code I believe Clean Code was warning us against. I handle Entity & DTO classes slightly differently.
-
-### Use null on Entity & DTO Properties
-
-Instances of Entity or DTO classes hold some form of data. It is perfectly reasonable for some of this data to 'not be set' in which case I need some way to represent this. As already mentioned, I want to avoid using magic values to represent this. This for me is where setting a property of an instance to null is a perfectly acceptable.
-
-For instance...  
+For instance with the following 'D' class...  
 
 ~~~
 class Person 
@@ -96,16 +87,14 @@ class Person
 }
 ~~~
 
-In the above C# code for a Person Class I might need to create a Person object and not know the person's age. Having age nullable is useful. It avoids the problem of 'buggy' calculations. 
-
-For instance if we take a variation of our age calculation bug first used to display the pitfalls of magic numbers...  
+Were I to take an instance of this class and use it in my original age calculation as follows...  
 
 ~~~
 var person = new Person();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-On the calculation of the discount, if age is set to NULL an exception is thrown. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly.
+I would get an exception thrown if age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern, either way I'm being explicit on my intent.
 
 ### Null Object Pattern
 
