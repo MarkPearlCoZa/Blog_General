@@ -75,7 +75,7 @@ I've worked in several large code bases where we have tried to avoid unnecessary
 
 That said, I'm conscious that a class is a very general concept and can be used in many different ways. There are times when setting an instance of a class to null is useful and something I do. 
 
-Looking at it, I find there are two main groups. The first group I rarely set instances of classes to null - I call these types of classes my "C" classes. The second group I occasionally set instances of its classes to null - I call these types of classes my "D" classes (I'm sure there must be a better name than "C" and "D", I just can't think of one).
+Looking at it, I find there are two main groups I can put classes into. The first group I rarely set instances of to null - I call these types of classes my "C" classes. The second group I occasionally set instances of to null - I call these types of classes my "D" classes (I'm sure there must be a better name than "C" and "D", I just can't think of one).
 
 #### Calculation & Coordination Classes
 
