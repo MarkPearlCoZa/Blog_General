@@ -77,7 +77,7 @@ There are times when setting an instance of a class to null is useful and someth
 
 The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a better name for these types, I just can't think of one).
 
-#### Calculation & Coordination" Classes
+#### Calculation & Coordination Classes
 
 "C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null. 
 
