@@ -105,7 +105,7 @@ Class PersonTaxCalculator
 
 #### Data Classes  
 
-"D" classes are data classes. Typically these go by the name of Data Transfer Object, or Entities, etc. They hold values, instead of performing or coordinating actions. Instances of classes like these I often set to null because they are doing the same thing my magic variables were doing back in my vb6 days - representing missing values with one added advantage - they throw exceptions when I try and include them in calculations where their values have not been set, calculation that previously would have introduced unexpected results with magic numbers..
+"D" classes are data classes. Typically these go by the name of Data Transfer Object or Entities or something along those lines. They hold values, instead of performing or coordinating actions. Instances of classes like these I often set to null because they are doing the same thing my magic variables were doing back in my vb6 days - representing missing values with one added advantage - they throw exceptions when I try and include them in calculations where their values have not been set, calculation that previously would have introduced unexpected results with magic numbers..
 
 For instance with the following 'D' class...  
 
