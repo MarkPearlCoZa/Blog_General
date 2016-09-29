@@ -61,24 +61,47 @@ Which is substantially cleaner.
 Why should you not pass null values in to your methods? Similarly, if you do not pass null values in to your methods, you avoid having checks at the beginning of a method for nulls. For instance, you would avoid the following...
 
 ~~~
-public decimal CalculateTax(TaxCalculator theTaxCalculator)
+public decimal CalculateTax(TaxCalculator theTaxCalculator, Person thePerson)
 {
     if (theTaxCalculator == null) throw new ArgumentException();
+    if (thePerson == null) throw new ArgumentException();
     ...
 } 
 ~~~
 
-#### 
+#### My own style
 
-I've worked in several large code bases where we applied these two rules with great results. I would really recommend adopting these two practices.
+I've worked in several large code bases where we have tried to avoid unnecessary null checks. 
 
 ### What to set as null
 
 A class is a very general concept and can be used in many different ways. Were I to say that you should never set instances of classes to null I would be giving you bad advice. There are times when setting an instance of a class to null is extremely useful. Looking at my past experiences with null and the types of instances of classes I use it on I find that for one type of use I rarely set it to null while with another type quite often set to null.
 
-The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a bettern name for these types, I just can't think of one).
+The two types of uses of classes I've decided to call "C" classes vs "D" classes (I'm sure there must be a better name for these types, I just can't think of one).
 
-"C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null.
+#### "C" Classes
+
+"C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or co-ordinate some sort of workflow or set of calculation classes. I rarely set instances of "C" classes to null. 
+
+On saying I don't set "C" classes to null, I'm also cognisant that I rarely pass these types of classes into normal methods. Typically if my code needs to make use of a "C" class, I inject via the constructor. So my code example above would probably look more like the following...
+
+~~~
+Class PersonTaxCalculator
+
+    private readonly TaxCalculator _taxCalculator;
+
+    public PersonTaxCalcuator(TaxCalculator theTaxCalculator) {
+        _taxCalculator = theTraxCalculator;
+    }
+
+    public decimal CacluateTaxFor(Person thePerson) {
+        if (thePerson == null) throw new ArgumentException();
+        ...
+    }
+
+    ...
+}
+~~~
 
 "D" classes are data classes. Typically these go by the name of Data Transfer Object, or Entities, etc. They hold values, instead of performing actions. Instances of classes like these I often set to null because they are doing the same thing my magic variables were doing back in my vb6 days - representing missing values - except, they have the added advantage of throwing exceptions when I try and include their values in a calculation which makes 'buggy' calculations easier to detect.
 
