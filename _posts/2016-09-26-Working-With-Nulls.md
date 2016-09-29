@@ -117,11 +117,34 @@ class Person
 Were I to take an instance of this class and use it in my original age calculation as follows...  
 
 ~~~
-var person = new Person();
+var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-I would get an exception thrown if age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern, either way I'm being explicit on my intent. In these instances, setting a value to null that then throws an exception can be useful and should be considered.
+I would get an exception thrown if person or age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or leverage the null object pattern.
+
+In older versions of C# were I to check for nulls my code would look something like the following...
+
+~~~
+var person = MethodThatReturnsAPerson();
+if (person == null) ... // do something
+if (person.age == null) ... // do something
+
+var discount = (person.Age < 20) ? 0.5 : 1.0;
+~~~
+
+This can get quite messy.
+
+In C# 6 we have some useful Null-conditional Operators that might make you re-think the noise argument that clean code presented. For instnace, we could write the following...
+
+~~~
+var person = MethodThatReturnsAPerson();
+var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
+~~~
+
+Is this better? It could be in some circumstances, I guess it depends.
+
+From my side, what is important is that you are explicit on your intent - balancing the tension between readable code and null checking.
 
 ### Null Object Pattern
 
