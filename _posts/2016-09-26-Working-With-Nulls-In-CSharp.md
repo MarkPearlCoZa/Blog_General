@@ -116,14 +116,14 @@ class Person
 }
 ~~~
 
-Were I to take an instance of this class and use it in my original age calculation as follows...  
+Were I to take an instance of this class and use it in my original age calculation as follows I would get an exception thrown if person or age was not set...  
 
 ~~~
 var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-I would get an exception thrown if person or age was not set. If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or I could leverage the null object pattern. 
+If I want to avoid an exception, I need to explicitly check for the null value and react accordingly or I could leverage the null object pattern. 
 
 In older versions of C# were I to check for nulls my code would look something like the following...
 
