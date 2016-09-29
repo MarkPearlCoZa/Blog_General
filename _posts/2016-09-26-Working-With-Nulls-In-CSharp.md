@@ -13,7 +13,7 @@ I would like to spend some time on nulls. Before you tackle nulls you should fir
 
 Before there were nulls, there were magic number variables. Magic number variables are variables that have a specific value that represents a contextual state. The first time I was introduced to magic number variables was back in my Visual Basic 6 days. 
 
-Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable 'age' and I wanted to represent it as 'unset' I would give 'age' a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
+Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable 'age' and I wanted to represent it in an  'unset' state I would give it a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
 
 The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - very quickly this gets noisy. In addition you increase the opportunity for subtle bugs in calculations.
 
