@@ -210,6 +210,8 @@ Now, depending on whether we pass in a true or a false, MethodThatReturnsAPerson
 
 This is a basic example of the Null Object Pattern. There are several variations.
 
+When do you use this pattern? It's really up to you. At times I've found the Null Object Pattern to be a very clean approach, at other times I've found it obfuscated and bloated the solution.
+
 #### References
 
 [Pluralsight Working with Nulls](https://app.pluralsight.com/library/courses/csharp-nulls-working)  
