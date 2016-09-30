@@ -147,14 +147,14 @@ Unfortunately I still have to check to see if the person object is null, so whil
 
 #### Null Conditional Operator
 
-With the [null conditional operator](https://msdn.microsoft.com/en-nz/library/dn986595.aspx), we can further adapt the code to look as follows...
+With the [null conditional operator](https://msdn.microsoft.com/en-nz/library/dn986595.aspx) we can further adapt the code to look as follows...
 
 ~~~
 var person = MethodThatReturnsAPerson();
 var discount = (person?.Age ?? 20 < 20) ? 0.5 : 1.0;
 ~~~
 
-What the above code is doing is if person object or Age is set to null, it defaults you to an age of 20, otherwise it handles age in the calculation as normal.
+Now, if person object or Age is set to null our value defaults you to an age of 20, otherwise it handles age in the calculation as normal.
 
 Is this better? It's certainly terse. In some circumstances it might make you rethink the noise argument that clean code presented. Whether it is better largely depends on how comfortable the maintainers of this code base are with this sort of syntax and whether they feel it is clean and what problem they are solving.
 
