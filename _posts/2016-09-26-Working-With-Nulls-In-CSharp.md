@@ -35,7 +35,7 @@ I'm a fan of the book [Clean Code](http://blog.markpearl.co.za/Clean-Code) - if 
 
 #### Do not write methods that return null 
 
-Why should methods not return null? If your methods don't return nulls you avoid having to check for nulls after the method call. For example...  
+Why should methods not return null? Simply, if you don't return null you avoid having to check for null after the method call. For example...  
 
 ~~~
 SomeWork myObject = MethodThatReturnsAObject()
