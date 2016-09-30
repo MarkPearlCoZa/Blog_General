@@ -65,7 +65,7 @@ Does the funciton on each element in the array and then returns the ORIGINAL arr
 
 Pairs up a key with a value.  
 
-Basic declaration  
+#### Basic declaration  
 
 ~~~
 object = {}                 # declares an empty hash
