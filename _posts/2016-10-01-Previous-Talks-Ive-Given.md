@@ -7,14 +7,14 @@ category: Misc
 
 <img class="img-responsive" alt="Mark speaking at DevConf" src="{{ site.url }}/assets/images/Mark-Speaking-At-DevConf.jpg">
 
-## Cities I've spoken in 
+## Cities I've spoken in...
 
 - Cape Town, South Africa  
 - Durban, South Africa  
 - Johannesburg, South Africa    
 - South Jordan, Utah, USA  
 
-## Conferences / Events I've spoken at
+## Conferences / Events I've spoken at...
 
 ### 2015
 
