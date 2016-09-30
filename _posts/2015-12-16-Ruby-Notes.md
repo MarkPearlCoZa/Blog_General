@@ -16,6 +16,8 @@ category: Tech
 
 Exlamation Points - methods may have exclamation points in their name, which just means to impact the current data rather than making a copy.  
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 ### Working with Arrays
 
 - [Map, Select and other Enumerable Methods Explained](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)  
@@ -86,6 +88,8 @@ hashExample.values.each { |value| newHash[value] += 'set value'}
 
 hashExample # {:value1=>"set value", :value2="set value"}
 ~~~
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Classes
 
@@ -262,6 +266,8 @@ class TheClass
     end
 end
 ~~~
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Installation
 
