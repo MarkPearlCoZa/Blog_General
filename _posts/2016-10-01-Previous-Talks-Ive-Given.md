@@ -16,6 +16,8 @@ category: Misc
 
 ## Conferences / Events I've spoken at...
 
+View videos of my talk on [my youtube channel](https://www.youtube.com/playlist?list=PLhqe1sLkgzJ-JoWNuHjk1W5fekvC88dFa).  
+
 ### 2015
 
 - [Let's Test](http://lets-test.com/) Johannesburg: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
