@@ -120,9 +120,57 @@ TheClass.methodToCall
 
 - denoted with @@  
 - are not used often  
+- class variables are shared across all inherited classes
 
 class TheClass
     @@classVariable = 2
+end
+~~~
+
+#### Class Instance Variables
+
+class TheClass
+   @classInstanceVariable = 2
+
+    def self.classInstanceVariable
+        @classInstanceVariable
+    end 
+end 
+
+TheClass.classInstanceVariable
+
+#### Method Visibility
+
+~~~
+class TheClass
+    private def privateMethodName
+    end
+end
+~~~
+
+#### Open Classes
+
+~~~
+class TheClass
+    def Method1
+    end
+end
+
+class TheClass
+    def Method2
+    end
+end
+~~~
+
+Is equivalent to...
+
+~~~
+class TheClass
+    def Method1
+    end
+    
+    def Method2
+    end
 end
 ~~~
 
