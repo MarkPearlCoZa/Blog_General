@@ -70,14 +70,67 @@ class TheClass
 end
 ~~~
 
-Class names start with a capilat letter and use CamelCase
+Class names start with a capital letter and use CamelCase
+
+#### Initialization / Constructors
+
+~~~
+class TheClass
+    def initialize(name, age)               # Equivalent to constructor
+        @name = name
+        @age = age
+    end
+end
+
+instanceObject = TheClass.new("Mark", 36)   # Newing up an instance
+~~~
+
+#### Inheritance
+
+Ruby can only have single inheritance, multiple inheritance is not supported. Inheritance is for reusing functionality, not enforcing interfaces.
+
+~~~
+class ParentClass
+    def DoSomething()
+    end
+end
+
+class InheritedClass < ParentClass
+    def DoSomething()
+        super.DoSomething()
+    end
+end
+
+class AnotherInheritedClass < ParentClass
+end
+~~~
+
+#### Class Methods 
+
+~~~
+class TheClass
+    def self.methodToCall
+        2
+    end
+end
+
+TheClass.methodToCall
+
+#### Class Variables
+
+- denoted with @@  
+- are not used often  
+
+class TheClass
+    @@classVariable = 2
+end
+~~~
 
 #### Shallow copy of objects
 
 ~~~
 b = a.clone
 ~~~
-
 
 #### Instance Variables
 
