@@ -20,7 +20,7 @@ Exlamation Points - methods may have exclamation points in their name, which jus
 
 - [Map, Select and other Enumerable Methods Explained](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)  
 
-Basic declaration
+#### Basic declaration
 
 ~~~
 values = [1, 2, 3]          # declares a simple array
