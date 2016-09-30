@@ -2,7 +2,7 @@
 layout: post
 title: Working with Nulls in C#
 tags: Code 
-category: Misc
+category: General
 ---
 
 > Below are a set of pattern's I apply when considering nulls in C#, these patterns may port to other languages or they may not.
