@@ -11,10 +11,10 @@ category: Misc
 
 ### 2015
 
-- Let's Test South Africa, topic "Story Mapping"  
-- Agile Roots, topic "Team Tourism"  
-- DeveloperUG, topic "All about code"  
-- Agile Africa, topic "The natural order of progression for technical practices"  
+- [Let's Test](http://lets-test.com/) Johannesburg, South Africa: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
+- [Agile Roots](http://www.agileroots.com/) Utah, USA: topic "Team Tourism"  
+- [DeveloperUG](http://www.developerug.org.za/) Johannesburg, South Africa: topic "All about code"  
+- [Agile Africa](http://agileafricaconf.com/), Johannesburg, South Africa: topic "The natural order of progression for technical practices"  
 - JoziJug, topic "Speaking to Geeks"  
 - Scrum Gathering, topic "How Super Hero's make Toast"  
 
