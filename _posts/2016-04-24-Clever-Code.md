@@ -105,3 +105,19 @@ const addCommas = (money,reg) => {
 ~~~
 const isInteger = (txt) => (/^-?\d+$/).test(txt);
 ~~~
+
+### Ruby
+
+#### Getting value from a hash?
+
+~~~
+def what_is(x)
+    matches = {
+        42 => 'everything',
+        1  => 'one'
+    }
+
+    matches.default = 'nothing'
+    matches[x]
+end
+~~~
