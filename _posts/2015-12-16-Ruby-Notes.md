@@ -31,6 +31,12 @@ maxValue = [1, 2, 3].max    # gets the largest value
 [1, 2, 3, 4, 5].select {|n| n % 2 == 0}  # Should return [2, 4]
 ~~~
 
+#### Each (Map)
+
+~~~
+[1, 2, 3].each { |num| print "hello #{num}! "}
+~~~
+
 ### Dividing Arrays into Groups (Partition)
 
 ~~~
@@ -260,3 +266,4 @@ ruby -v
 #### References ####
 
 [Official Ruby Documentation](https://ruby-doc.org)  
+[Ruby Online Repl](https://repl.it/languages/ruby)  
