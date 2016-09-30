@@ -5,6 +5,8 @@ tags: Conference Workshop
 category: Misc
 ---
 
+<img class="img-responsive" alt="Mark speaking at DevConf" src="{{ site.url }}/assets/images/Mark-Speaking-At-DevConf.jpg">
+
 ## Conferences / Events I've spoken at
 
 ### 2015
