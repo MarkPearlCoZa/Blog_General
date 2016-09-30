@@ -22,9 +22,7 @@ var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
 ~~~
 
-What happens if we forget to check for magic numbers values for age and we happen to be using -1 to represent an unset age? We introduce a subtle bug because the calculation still executes and returns a value. 
-
-Ultimately using magic numbers in this way lends itself to buggy code - something we want to avoid!  
+What happens if we forget to check for magic numbers values for age and we happen to be using -1 to represent an unset age? We introduce a subtle bug because the calculation still executes and returns a value. Ultimately using magic numbers in this way lends itself to buggy code - something we want to avoid!  
 
 > The rule of thumb is avoid magic number values to represent unset variables if you can, rather set the variable to null
 
