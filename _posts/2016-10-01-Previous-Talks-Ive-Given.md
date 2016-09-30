@@ -7,37 +7,44 @@ category: Misc
 
 <img class="img-responsive" alt="Mark speaking at DevConf" src="{{ site.url }}/assets/images/Mark-Speaking-At-DevConf.jpg">
 
+## Cities I've spoken in 
+
+- Cape Town, South Africa  
+- Durban, South Africa  
+- Johannesburg, South Africa    
+- South Jordan, Utah, USA  
+
 ## Conferences / Events I've spoken at
 
 ### 2015
 
-- [Let's Test](http://lets-test.com/) Johannesburg, South Africa: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
-- [Agile Roots](http://www.agileroots.com/) Utah, USA: topic "Team Tourism"  
-- [DeveloperUG](http://www.developerug.org.za/) Johannesburg, South Africa: topic "All about code"  
-- [Agile Africa](http://agileafricaconf.com/), Johannesburg, South Africa: topic "The natural order of progression for technical practices"  
-- JoziJug, Johannesburg, South Africa: topic "Speaking to Geeks"  
-- Scrum Gathering, Johannesburg, South Africa: topic "How Super Hero's make Toast"  
+- [Let's Test](http://lets-test.com/) Johannesburg: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
+- [Agile Roots](http://www.agileroots.com/) Utah: topic "Team Tourism"  
+- [DeveloperUG](http://www.developerug.org.za/) Johannesburg: topic "All about code"  
+- [Agile Africa](http://agileafricaconf.com/), Johannesburg: topic "The natural order of progression for technical practices"  
+- JoziJug, Johannesburg: topic "Speaking to Geeks"  
+- Scrum Gathering, Johannesburg: topic "How Super Hero's make Toast"  
 
 ### 2014
 
-- Scrum Gathering Cape Town, South Africa: topic "TDD Club Initiation"  
-- Scrum Gathering Cape Town, South Africa: topic "Missing link in agile developer practices"  
-- Tech4Africa Cape Town, South Africa: topic "Kent Beck's four rules of simple design"  
-- Tech4Africa Johannesburg, South Africa: topic "Kent Beck's four rules of simple design"  
-- BASA2014, Johannesburg, South Africa: topic "Documentation in an Agile World"  
-- Agile Africa Conference, Johannesburg, South Africa: topic "Documentation in an Agile World"  
-- Agile Africa Conference, panel discussion on "Has agile software development in South Africa delivered on its promises?"  
-- Jozi.rb User Group, topic "High Performance Teams"  
-- JsInSa Conference, topic "High Performance Teams"  
-- IIBA, panel discussion on "Do we need a BA in an agile team"  
+- Scrum Gathering Cape Town: topic "TDD Club Initiation"  
+- Scrum Gathering Cape Town: topic "Missing link in agile developer practices"  
+- Tech4Africa Cape Town: topic "Kent Beck's four rules of simple design"  
+- Tech4Africa Johannesburg: topic "Kent Beck's four rules of simple design"  
+- BASA2014, Johannesburg: topic "Documentation in an Agile World"  
+- Agile Africa Conference, Johannesburg: topic "Documentation in an Agile World"  
+- Agile Africa Conference, Johannesburg: panel discussion on "Has agile software development in South Africa delivered on its promises?"  
+- Jozi.rb User Group, Johannesburg: topic "High Performance Teams"  
+- JsInSa Conference, Johannesburg: topic "High Performance Teams"  
+- IIBA, Johannesburg: panel discussion on "Do we need a BA in an agile team"  
 
 ### 2013
 
-- Developer User Group, topic "Agile Code"  
-- JSInSA, topic "Do's & Dont's of Pair Programming"  
-- TechEd South Africa, topic "Panel discussion on Software Development in South Africa"  
-- TechEd South Africa, topic "Stubbing, Mocking and Shimming in VS2012"  
-- TechEd South Africa, topic "MVVM Pattern in XAML"  
+- Developer User Group, Johannesburg: topic "Agile Code"  
+- JSInSA, Johannesburg: topic "Do's & Dont's of Pair Programming"  
+- Microsoft TechEd South Africa, Durban, topic "Panel discussion on Software Development in South Africa"  
+- Microsoft TechEd South Africa, Durban, topic "Stubbing, Mocking and Shimming in VS2012"  
+- Microsoft TechEd South Africa, Durban, topic "MVVM Pattern in XAML"  
 
 ### 2012
 
