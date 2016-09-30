@@ -25,17 +25,22 @@ values = [1, 2, 3]          # declares a simple array
 maxValue = [1, 2, 3].max    # gets the largest value 
 ~~~
 
-#### Filtering Arrays (Reduce)
+#### select - filtering arrays (Reduce)
 
 ~~~
 [1, 2, 3, 4, 5].select {|n| n % 2 == 0}  # Should return [2, 4]
 ~~~
 
-#### Each (Map)
+#### each / each_with_index
 
 ~~~
 [1, 2, 3].each { |num| print "hello #{num}! "}
+[1, 2, 3].each_with_index { |element, index| print "hello #{num}! "}
 ~~~
+
+Does the funciton on each element in the array and then returns the ORIGINAL array
+
+#### 
 
 ### Dividing Arrays into Groups (Partition)
 
