@@ -135,7 +135,7 @@ var discount = (person.Age < 20) ? 0.5 : 1.0;
 
 #### Null Coalescing Operator
 
-I could use the null coalescing operator to make it a little cleaner...
+I could use the [null coalescing operator](https://msdn.microsoft.com/en-us/library/ms173224.aspx) to make it a little cleaner...  
 
 ~~~
 var person = MethodThatReturnsAPerson();
@@ -217,4 +217,5 @@ This is a basic example of the Null Object Pattern. There are several variations
 [Stack Overflow Clean Code & Nulls](http://stackoverflow.com/questions/6371956/confused-with-uncle-bob-explanation-on-handling-null-objects-in-book-clean-code)  
 [Wiki on Null Object Pattern](https://en.wikipedia.org/wiki/Null_Object_pattern)  
 [Why Null is Bad](http://www.yegor256.com/2014/05/13/why-null-is-bad.html)  
-[Null-conditional Operators](https://msdn.microsoft.com/en-nz/library/dn986595.aspx)  
+[Null-conditional Operator](https://msdn.microsoft.com/en-nz/library/dn986595.aspx)  
+[Null-coalescing Operator](https://msdn.microsoft.com/en-us/library/ms173224.aspx)  
