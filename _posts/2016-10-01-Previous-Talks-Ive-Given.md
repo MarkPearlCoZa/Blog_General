@@ -7,6 +7,10 @@ category: Misc
 
 <img class="img-responsive" alt="Mark speaking at DevConf" src="{{ site.url }}/assets/images/Mark-Speaking-At-DevConf.jpg">
 
+Over the years I have had an opportunity to speak to a range of audiences - from a handful of people to hundreds. Some of these sessions have been recorded and can be viewed on [my YouTube channel](https://www.youtube.com/playlist?list=PLhqe1sLkgzJ-JoWNuHjk1W5fekvC88dFa).
+
+I have found that speaking on things I have personal experience with leads to deeper insights for both myself and those in attendance.
+
 ## Cities I've spoken in...
 
 - Cape Town, South Africa  
@@ -15,8 +19,6 @@ category: Misc
 - South Jordan, Utah, USA  
 
 ## Conferences / Events I've spoken at...
-
-View videos of my talk on [my youtube channel](https://www.youtube.com/playlist?list=PLhqe1sLkgzJ-JoWNuHjk1W5fekvC88dFa).  
 
 ### 2015
 
