@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Previous Talks I've Given
-tags: 
+tags: Conference Workshop
 category: Misc
 ---
 
@@ -9,6 +9,7 @@ category: Misc
 
 ### 2015
 
+- Let's Test South Africa, topic "Story Mapping"  
 - Agile Roots, topic "Team Tourism"  
 - DeveloperUG, topic "All about code"  
 - Agile Africa, topic "The natural order of progression for technical practices"  
@@ -56,7 +57,7 @@ category: Misc
 
 - Microsoft South Africa Dev4Devs, "MVVM Pattern with WPF"  
 
-## Workshops Facilitated
+## Workshops I've Facilitated
 
 - 2014 Gauteng Autumn CodeRetreat (1 day)  
 - 2014 Driven Software Craftsmanship (6 days)  
