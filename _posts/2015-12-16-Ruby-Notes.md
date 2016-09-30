@@ -47,14 +47,14 @@ Does the funciton on each element in the array and then returns the ORIGINAL arr
 #### collect / map (Map)
 
 ~~~
-[1, 2, 3].collect { |num| num*num }                                             # returns 1, 4, 9
-[1, 2, 3].map { |num| num*num }                                                 # returns 1, 4, 9
+[1, 2, 3].collect { |num| num*num } # returns 1, 4, 9
+[1, 2, 3].map { |num| num*num }     # returns 1, 4, 9
 ~~~
 
 #### inject / reduce (Reduce)
 
 ~~~
-[1, 2, 3].reduce(0){|running_total, item| running_total + item}                 # returns 6
+[1, 2, 3].reduce(0){|running_total, item| running_total + item} # returns 6
 ~~~
 
 ### Dividing Arrays into Groups (Partition)
