@@ -79,9 +79,9 @@ Looking at it, I find there are two main groups I can put classes into in this r
 
 "C" classes are calculation or coordination classes. These are classes that either perform some sort of calculation and return a result, or coordinate a set of calculation classes. I rarely set instances of "C" classes to null. 
 
-On saying this, I'm cognisant that I rarely pass these types of classes into normal methods through the method signature. Typically if my code needs to make use of a "C" class, I inject via the constructor. 
+On saying this, I'm cognisant that I rarely pass these types of classes into normal methods through the method signature. Typically if my code needs to make use of a "C" class, I inject it via the constructor. 
 
-So my previous code example for calculating tax would probably look more like the following...
+So my previous code example for calculating tax applying this approach would look more like this...  
 
 ~~~
 Class PersonTaxCalculator
