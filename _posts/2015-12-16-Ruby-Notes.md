@@ -25,7 +25,7 @@ values = [1, 2, 3]          # declares a simple array
 maxValue = [1, 2, 3].max    # gets the largest value 
 ~~~
 
-#### select - filtering arrays (Reduce)
+#### select 
 
 ~~~
 [1, 2, 3, 4, 5].select {|n| n % 2 == 0}  # Should return [2, 4]
@@ -40,7 +40,18 @@ maxValue = [1, 2, 3].max    # gets the largest value
 
 Does the funciton on each element in the array and then returns the ORIGINAL array
 
-#### 
+#### collect / map (Map)
+
+~~~
+[1, 2, 3].collect { |num| num*num }                                             # returns 1, 4, 9
+[1, 2, 3].map { |num| num*num }                                                 # returns 1, 4, 9
+~~~
+
+#### inject / reduce (Reduce)
+
+~~~
+[1, 2, 3].reduce(0){|running_total, item| running_total + item}                 # returns 6
+~~~
 
 ### Dividing Arrays into Groups (Partition)
 
