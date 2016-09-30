@@ -15,16 +15,16 @@ Before there were nulls, there were magic number variables. Magic number variabl
 
 Back then it was not uncommon for me to use magic numbers to represent a specific state. For example, if I had a variable 'age' and I wanted to represent it in an  'unset' state I would give it a value of -1. This made perfect sense, when would you ever come across someone with a negative age?
 
-The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - very quickly this gets noisy. In addition you increase the opportunity for subtle bugs in calculations.
+The problem with magic numbers are that you begin to litter your code with if statements to handle the special states - very quickly this gets noisy. In addition you increase the opportunity for subtle bugs. For instance, take the following code...  
 
 ~~~
 var person = MethodThatReturnsAPerson();
 var discount = (person.Age < 20) ? 0.5 : 1.0;  
-
-// what happens if we don't check for magic numbers for age, and we are using -1 for an unset age??
 ~~~
 
-Ultimately magic numbers makes it difficult for a program to be adapted and extended down the road - things we want to avoid! 
+What happens if we forget to check for magic numbers values for age and we happen to be using -1 to represent an unset age? We introduce a subtle bug because the calculation still executes and returns a value. 
+
+Ultimately using magic numbers in this way lends itself to buggy code - something we want to avoid!  
 
 > The rule of thumb is avoid magic number values to represent unset variables if you can, rather set the variable to null
 
