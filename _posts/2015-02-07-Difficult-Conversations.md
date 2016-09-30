@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Difficult Conversations
-tags: Teams
+tags: Teams Communication
 category: Soft
 ---
+
+#### Workshop Preparation
+
+1.     Come prepared to workshop a tough conversation (for whatever reason) or piece of feedback that you need to deliver in the future. It may be something you are avoiding or needs to be tackled again, in a more productive way.  It may be something that could be difficult to receive for another.  Either way, it is ESSENTIAL to bring this prior to the workshop.
+2.     Think about a time someone you respect at work, and their characteristics.
+3.     Think about someone you don’t respect at work, and their characteristics.
 
 #### Six Steps to Navigating Difficult Conversations ####
 

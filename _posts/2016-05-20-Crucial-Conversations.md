@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crucial Conversations
-tags: People Conflict
+tags: People Conflict Communication
 category: Soft
 ---
 #### Summary ####
