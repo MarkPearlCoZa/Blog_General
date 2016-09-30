@@ -11,7 +11,7 @@ Over the years I have had an opportunity to speak to a range of audiences - from
 
 I have found that speaking on things I have personal experience with leads to deeper insights for both myself and those in attendance.
 
-I've had the opportunity to speak at the following places around the world...  
+I've had the opportunity to speak in the following Cities around the world...  
 
 - Cape Town, South Africa  
 - Durban, South Africa  
