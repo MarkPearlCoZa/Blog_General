@@ -18,6 +18,8 @@ Exlamation Points - methods may have exclamation points in their name, which jus
 
 ### Working with Arrays
 
+- [Map, Select and other Enumerable Methods Explained](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)  
+
 Basic declaration
 
 ~~~
