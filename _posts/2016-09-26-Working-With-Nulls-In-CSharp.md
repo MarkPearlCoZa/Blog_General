@@ -160,9 +160,7 @@ Is this better? It's certainly terse. In some circumstances it might make you re
 
 > What seems clean for one person can be hard to read for another.
 
-Regardless the route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code.
-
-> Balance the tension between readable code and the noise of null checking code
+Regardless the route you go, it is important is that you are explicit on your intent - balancing the tension between readable code and the noise of null checking code is an art.  
 
 ### Null Object Pattern
 
