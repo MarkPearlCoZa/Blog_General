@@ -174,6 +174,28 @@ class TheClass
 end
 ~~~
 
+#### Monkey Patching
+
+Google it...
+
+#### Equality
+
+Custom equality on objects can be achieved using ==(other) syntax...  
+
+~~~
+class TheClass
+    attr_reader :name
+
+    def initialize(name)
+        @name = name
+    end
+
+    def ==(other)
+        name == other.name
+    end
+end
+~~~
+
 #### Shallow copy of objects
 
 ~~~
