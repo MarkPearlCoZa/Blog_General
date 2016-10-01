@@ -22,7 +22,7 @@ Sometimes technical debt can be a clumsy metaphor - there may be other metaphors
 
 Many people confuse technical debt with other things like bugs, messy code, or bad design. 
 
-#### A bugs is not technical debt
+#### Bugs are not technical debt
 
 The key feature of technical debt is that its something we incur by choice. We choose to make architectural, design or implementation decisions that we expect will cause us issues later in order to achieve specific objectives sooner. A bug is not something we choose to have in our code - so de-facto its not technical debt
 
