@@ -34,7 +34,7 @@ The key feature of technical debt is that its something we incur by choice. We c
 
 ### Messy code is not technical debt
 
-Some people make a distinction between messy code and technical debt. Robert Martin expands on this idea here: [https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt] Michael Norton also attempts to clear up the confusion here
+Some people blur the distinction between messy code and technical debt. Messy code is not technical debt. Robert Martin [expands on this idea](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt).
 
 ### How do you calculate the cost of technical debt - can you quantify it?
 
