@@ -13,6 +13,11 @@ Code cruft is redundant, old, or improperly written code.
 
 ### Where does it come from?
 
+There are numerous sources for code cruft, these include
+
+- Lack of knowledge or inexperience
+- Rushed code  
+
 > Bad code often feels faster in the same way hurrying feels faster  		
 
 ### Don't confuse cruft with technical debt
