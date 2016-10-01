@@ -52,7 +52,7 @@ Doc Norton suggested 5 things you can measure to calculate the cost of technical
 
 Everything (security, scalability, etc.) is a feature except for maintainability.
 
-### Clean, refactorable code is a pre-requisite
+### Clean, refactorable code is not optional
 
 Writing clean, refactorable code is not an option. Put another way, writing dirty code is not inline with the technical debt metaphor.  
 
