@@ -44,3 +44,4 @@ Examples of Jigs:
 - Component Library (Twitter Bootstrap)  		
 - Golden Master  		
 
+[Shims, Jigs and Other Woodworking Concepts to Conquer Technical Debt](http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/)  
