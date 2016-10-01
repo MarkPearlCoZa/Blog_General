@@ -20,7 +20,7 @@ Sometimes technical debt can be a clumsy metaphor - there may be other metaphors
 
 ### What technical debt is not
 
-Many people confuse technical debt with other things. It's important to highlight some of the things technical debt is not.  
+Many people confuse technical debt with other things like bugs, messy code, or bad design. 
 
 #### A bugs is not technical debt
 
@@ -32,11 +32,14 @@ Some people blur the distinction between messy code and technical debt. Messy co
 
 > "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem." - Ward Cunningham
 
+### Calculating the cost of technical debt
+
+Doc Norton suggested 5 things you can measure to calculate the cost of technical debt.
+
+
 ### Everything is a feature except for maintainability  
 
 Maintainability is the only thing you "don't" put on the box - security, scalability, etc. are all features.
-
-### How do you calculate the cost of technical debt - can you quantify it?
 
 ### Sayings to illustrate why you should avoid technical debt
 
@@ -49,6 +52,7 @@ Encode your standards into a linter or other static analyzer. Start with an almo
 > Bad code often feels faster in the same way hurrying feels faster  
 
 Label it, creating a rating system and building code in a modular way
+
 ### Framework Shifts
 
 For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   
@@ -67,7 +71,6 @@ Examples of Jigs:
 - Test Code  
 - Component Library (Twitter Bootstrap)  
 - Golden Master  
-
 
 #### Technical Debt Notes ####
 
