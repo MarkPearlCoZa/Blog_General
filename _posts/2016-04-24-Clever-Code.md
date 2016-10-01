@@ -123,3 +123,11 @@ def what_is(x)
     matches[x]
 end
 ~~~
+
+#### Get the first alphabetical word from an array
+
+~~~
+def getFirstWord(words)
+    words.min
+end
+~~~

@@ -16,6 +16,29 @@ category: Tech
 
 Exlamation Points - methods may have exclamation points in their name, which just means to impact the current data rather than making a copy.  
 
+#### Tenary Operator
+
+~~~
+x = 1
+(x == 1) ? "one" : "other"
+~~~
+
+Equivalent to...
+
+~~~
+x = 1
+if (x == 1) then "one" else "other" end
+~~~
+
+### Working with Strings
+
+#### Convert String to Array
+
+~~~
+text = "hello"
+text.split("") # ['h','e','l','l','o']
+~~~
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Working with Arrays
