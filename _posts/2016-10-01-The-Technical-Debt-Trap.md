@@ -78,7 +78,33 @@ Yes, it does!
 > If we agree technical debt is good, and we agree that 'quick and dirty' is technical debt, then we agree that 'quick and dirty' is good!
 > I just can't abide by that, I've seen the pain that quick and dirty causes - Doc Norton
 
+#### Technical Debt Quadrants
 
+Issues with the original Fowler quandarant include:  
+
+"We must ship now and deal with consequences" - that is deliberate, but what part of that is prudent. Suggest we change it to "Let's deploy and gather information".
+
+#### Is "Technical" Debt appropriate in other industries
+
+If we applied this metaphor to other professions we may end up with things like the following...
+
+How about construction?
+
+"We incurred structural debt to make the deadline" - Reckless and deliberate
+
+How about automative?  
+
+"We incurred mechanical debt to stay on budget" - Reckless and deliberate
+
+How about medical?
+
+"We incurred health debt during the surgery" - Reckless and inadvertant
+
+Are these appropriate actions?
+
+Reckless and deliberate in the quadrant is irresponsible
+
+<img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.png">
 
 #### References  
 
