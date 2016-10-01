@@ -344,6 +344,8 @@ end
 [1, 2, 3].each { |element| print "hello" }
 ~~~
 
+[Read blocks demystified](http://www.skorks.com/2013/04/ruby-ampersand-parameter-demystified/)  
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Installation
