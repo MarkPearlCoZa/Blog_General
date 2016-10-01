@@ -19,6 +19,16 @@ Technical Debt has become a catch-all phrase for any code that needs to be re-wo
 
 Doc discusses the origins of the metaphor, what it means today, and how we properly identify and manage technical debt.
 
+#### What is Technical Debt?
+
+Ward Cunningham coined the phrase "Technical Debt". The first written record that Doc Norton could find on this was a paper from [OOPSLA '92](http://www.oopsla.org/oopsla-history/)
+
+> Shipping first time code is like going into debt, a little debt speeds development so long as it is paid back promptly with a rewrite - Ward Cunningham
+
+Ward Cunningham used the metaphor 'debt' was that before the OOPSLA conference he had used almost the same words in an email he sent to a client who was in the financial industry. He was trying to explain to his client why the team needed to go back and redo work.
+
+
+
 #### References  
 
 [Slide on Talk](http://www.slideshare.net/DocOnDev/the-technical-debt-trap)  
