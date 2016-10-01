@@ -20,7 +20,7 @@ The metaphor "Technical Debt" was first coined by Ward Cunningham.
 
 > "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem."
 
-Because the definition of technical debt got so mixed up Ward Cunningham further clarified what he meant by [technical debt on YouTube](https://www.youtube.com/watch?v=pqeJFYwnkjE) in 2009.
+Because the definition of technical debt got so mixed up Ward Cunningham further [clarified what he meant by technical debt](https://www.youtube.com/watch?v=pqeJFYwnkjE) on YouTube in 2009.
 
 #### It's only a metaphor
 
