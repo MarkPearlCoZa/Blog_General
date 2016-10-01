@@ -73,7 +73,7 @@ It should tick all of the below requirements...
 
 Martin Fowler continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
 
-<img class="img-responsive" alt="Martin Fowler Technical Debt Quadrants" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Original-Martin-Fowler.png.">
+<img class="img-responsive" alt="Martin Fowler Technical Debt Quadrants" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Original-Martin-Fowler.png">
 
 Issues with the original Fowler quandarant include:  
 
