@@ -16,7 +16,11 @@ category: Tech
 
 Exlamation Points - methods may have exclamation points in their name, which just means to impact the current data rather than making a copy.  
 
-#### Tenary Operator
+### Operators
+
+#### Tenary Operator 
+
+() ? ... : ...
 
 ~~~
 x = 1
@@ -29,6 +33,29 @@ Equivalent to...
 x = 1
 if (x == 1) then "one" else "other" end
 ~~~
+
+#### Spaceship Operator 
+
+... <=> ...
+
+~~~
+x = -50
+y = 32
+return x <=> y    # return -1
+~~~
+
+Instead of returning 1 (true) or 0 (false) depending on whether the arguments are equal or unequal, the spaceship operator will return 1, 0, or −1 depending on the value of the left argument relative to the right argument.
+
+given 
+
+~~~
+a <=> b 
+~~~
+
+if a < b then return -1
+if a = b then return  0
+if a > b then return  1
+if a and b are not comparable then return nil
 
 ### Working with Strings
 
