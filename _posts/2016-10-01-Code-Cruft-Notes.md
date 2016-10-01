@@ -30,7 +30,9 @@ Label it, creating a rating system and building code in a modular way
 
 Encode your standards into a linter or other static analyzer. Start with an almost empty set of rules, and then slowly add as you agree upon standards for your code.  		
  		
-### Framework Shifts		
+### Common causes of code cruft
+
+#### Framework Shifts		
  		
 For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   		
  		
@@ -40,7 +42,9 @@ For engineering teams, half-completed framework shifts are one of the most commo
 2) Prevalence - how widespread is the code?  		
 3) Fequency - how often do you come into contact with the code?  		
  		
-### A Jig		
+### Ways to avoid it
+
+#### A Jig		
  		
 A jig is any code with the primary purpose of enabling better code, not being shipped into production and used itself. 		
  		
