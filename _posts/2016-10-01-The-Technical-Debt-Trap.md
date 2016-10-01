@@ -106,6 +106,28 @@ Reckless and deliberate in the quadrant is irresponsible
 
 <img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.png">
 
+> You can't have reckless behavior and have technical debt
+
+### Cruft 
+
+#### Cruft is a bad decision every time
+
+- You are a professional developer    
+- You're going to create unintentional cruft  
+- You are going to have to clean it up once you know it exists  
+
+Do not make more work for yourself by intentionally putting cruft in your code.
+
+#### Cruft begats cruft
+
+- Precedent for speed over quality  
+- Expectation of increased velocity  
+- Cruft slows you down  
+- Must write more cruft to keep you up  
+- Ask permission to do your job correctly 
+
+
+
 #### References  
 
 [Slide on Talk](http://www.slideshare.net/DocOnDev/the-technical-debt-trap)  
