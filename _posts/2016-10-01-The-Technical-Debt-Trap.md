@@ -19,7 +19,7 @@ Technical Debt has become a catch-all phrase for any code that needs to be re-wo
 
 Doc discusses the origins of the metaphor, what it means today, and how we properly identify and manage technical debt.
 
-### Where did the term Technical Debt originate from?
+### Where did the term technical debt originate from?
 
 [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) coined the phrase "Technical Debt". The first written record was a paper from [OOPSLA '92](http://www.oopsla.org/oopsla-history/)
 
