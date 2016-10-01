@@ -46,13 +46,10 @@ Technical debt is good:
 
 #### Clean Code
 
-Technical debt can only be incurred on clean code.  
-
 > Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later... The ability to pay back the debt ... depends upon you writing code that is clean enough to be able to refactor as you come to understand your problem - Ward Cunningham
 
 - Clean, well tested code is a pre-requisite for technical debt
-
-Dirty code is to technical debt as the pawn broker is to financial debt. Don't think you are ever going to get your 'code' back - Ward Cunningham  
+- Dirty code is to technical debt as the pawn broker is to financial debt. Don't think you are ever going to get your 'code' back - Ward Cunningham  
 
 #### How do you know if it qualifies for technical debt?
 
