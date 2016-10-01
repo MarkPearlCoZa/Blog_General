@@ -54,6 +54,8 @@ Technical debt is good:
 
 #### How do you know if it qualifies for technical debt?
 
+It should tick all of the below requirements...  
+
 - Is the code clean?  
 - Is the code tested?  
 - Is there a learning objective or event?  
