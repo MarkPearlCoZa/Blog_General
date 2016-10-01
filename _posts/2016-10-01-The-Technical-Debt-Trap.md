@@ -42,9 +42,11 @@ Technical debt is good:
 - It is a strategic design decision  
 - Indication of learning  
 
-#### Technical Debt Requires Clean Code
+### Requirements for Technical Debt  
 
-Martin Fowler continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
+#### Clean Code
+
+Technical debt can only be incurred on clean code.  
 
 > Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later... The ability to pay back the debt ... depends upon you writing code that is clean enough to be able to refactor as you come to understand your problem - Ward Cunningham
 
@@ -71,6 +73,8 @@ Yes, it does!
 > I just can't abide by that, I've seen the pain that quick and dirty causes - Doc Norton
 
 #### Technical Debt Quadrants
+
+Martin Fowler continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
 
 Issues with the original Fowler quandarant include:  
 
