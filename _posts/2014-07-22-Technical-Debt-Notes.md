@@ -65,25 +65,6 @@ Doc Norton suggested 5 things you can measure to calculate the cost of technical
 
 Everything (security, scalability, etc.) is a feature except for maintainability.
 
-### Framework Shifts
-
-For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   
-
-### Rating System - Rate things across 3 spectrums  
-
-1) Security - are there security concerns associated with this code?  
-2) Prevalence - how widespread is the code?  
-3) Fequency - how often do you come into contact with the code?  
-
-### A Jig
-
-> A jig is any code with the primary purpose of enabling better code, not being shipped into production and used itself. 
-
-Examples of Jigs:  
-- Test Code  
-- Component Library (Twitter Bootstrap)  
-- Golden Master  
-
 #### References ####
 
 [A mess is not technical debt](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)  
