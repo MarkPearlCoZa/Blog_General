@@ -65,6 +65,7 @@ Examples of Jigs:
 
 #### References ####
 
+[A mess is not technical debt](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)  
 [Ward Cunningham explaining Debt Metaphor on YouTube](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
 [Shims, Jigs and Other Woodworking Concepts to Conquer Technical Debt](http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/)  
 [Are bugs technical debt](http://programmers.stackexchange.com/questions/207060/are-bugs-part-of-technical-debt)  
