@@ -93,11 +93,9 @@ Are these appropriate actions? Reckless and deliberate in the quadrant is irresp
 
 <img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.jpg">
 
-> You can't have reckless behavior and have technical debt
+### If it is not technical debt, what is it?
 
-### Cruft 
-
-#### If it is not technical debt, what is it?
+#### Cruft
 
 If you have bad code, and it doesn't meet these requirements, what is it? Cruft?
 
