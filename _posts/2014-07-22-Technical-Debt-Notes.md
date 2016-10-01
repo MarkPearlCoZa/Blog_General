@@ -4,21 +4,11 @@ title: Technical Debt Notes
 tags: Quality
 category: Process
 ---
-> The stigma around debt — technical or otherwise — is that it’s a sign of weakness or leads to overreliance, when in fact it merely represents a trade-off, giving more time or resources at a cost  
-
-Encode your standards into a linter or other static analyzer. Start with an almost empty set of rules, and then slowly add as you agree upon standards for your code.  
-
-> Bad code often feels faster in the same way hurrying feels faster  
-
-Label it, creating a rating system and building code in a modular way
-
-### What is technical debt
+### What is technical debt?
 
 The metaphor "Technical Debt" was first coined by Ward Cunningham.
 
 > Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. Objects make the cost of this transaction tolerable. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the debt load of an unconsolidated implementation, object- oriented or otherwise.  
-
-> "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem."
 
 Because the definition of technical debt got so mixed up Ward Cunningham further [clarified what he meant by technical debt](https://www.youtube.com/watch?v=pqeJFYwnkjE) on YouTube in 2009.
 
@@ -40,6 +30,8 @@ The key feature of technical debt is that its something we incur by choice. We c
 
 Some people blur the distinction between messy code and technical debt. Messy code is not technical debt. Robert Martin [expands on this idea](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt).
 
+> "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem." - Ward Cunningham
+
 ### Everything is a feature except for maintainability  
 
 Maintainability is the only thing you "don't" put on the box - security, scalability, etc. are all features.
@@ -50,6 +42,13 @@ Maintainability is the only thing you "don't" put on the box - security, scalabi
 
 - When you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected.  
 
+> The stigma around debt — technical or otherwise — is that it’s a sign of weakness or leads to overreliance, when in fact it merely represents a trade-off, giving more time or resources at a cost  
+
+Encode your standards into a linter or other static analyzer. Start with an almost empty set of rules, and then slowly add as you agree upon standards for your code.  
+
+> Bad code often feels faster in the same way hurrying feels faster  
+
+Label it, creating a rating system and building code in a modular way
 ### Framework Shifts
 
 For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   
