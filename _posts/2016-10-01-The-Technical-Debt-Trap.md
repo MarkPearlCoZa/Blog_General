@@ -77,9 +77,13 @@ It should tick all of the below requirements...
 
 Issues with the original Fowler quandarant include:  
 
+#### Top right quadrant
+
 "We must ship now and deal with consequences" - that is deliberate, but what part of that is prudent. Suggest we change it to "Let's deploy and gather information".
 
-#### Is "Technical" Debt appropriate in other industries
+#### Top & bottom left quadrants
+
+Is "Technical" Debt appropriate in other industries
 
 If we applied this metaphor to other professions we may end up with things like the following...
 
