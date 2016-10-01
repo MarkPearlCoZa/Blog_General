@@ -35,14 +35,16 @@ Metaphors are analogies of the thing, Technical Debt is a Metaphor.
 The challenge we have with metaphors is we confuse them and begin to act as if the metaphor is the actual thing we are referring to.
 Metaphors can go wrong, over the course of time because we called Technical Debt, we started talking more and more about debt, not the thing we were comparing it to.  
 
-### Is technical debt good or bad?
+### Exploring technical debt 
+
+#### Is technical debt good or bad?
 
 Technical debt is good:   
 
 - It is a strategic design decision  
 - Indication of learning  
 
-### Requirements for it to be considered technical debt
+#### Requirements for it to be considered technical debt
 
 > Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later... The ability to pay back the debt ... depends upon you writing code that is clean enough to be able to refactor as you come to understand your problem - Ward Cunningham
 
