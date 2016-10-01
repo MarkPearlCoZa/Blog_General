@@ -69,6 +69,16 @@ If you have bad code, and it doesn't meet these requirements, what is it? Cruft?
 
 <img class="img-responsive" alt="Cruft Definition" src="{{ site.url }}/assets/images/Technical-Debt-Cruft-Definition.png">
 
+Redundant, old, or improperly written code - Cruft!
+
+#### Does this really matter, is it just semantics?
+
+Yes, it does!  
+
+> If we agree technical debt is good, and we agree that 'quick and dirty' is technical debt, then we agree that 'quick and dirty' is good!
+> I just can't abide by that, I've seen the pain that quick and dirty causes - Doc Norton
+
+
 
 #### References  
 
