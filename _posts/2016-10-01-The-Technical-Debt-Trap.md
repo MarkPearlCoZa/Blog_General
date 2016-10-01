@@ -117,7 +117,7 @@ Do not make more work for yourself by intentionally putting cruft in your code.
 - Must write more cruft to keep you up  
 - Ask permission to do your job correctly 
 
-#### Hardening Sprints 
+#### Avoid hardening sprints - they don't help
 
 - Hardening sprints that "clean up the code" are not sustainable
 - Code bases by general over time have a higher cost of change.
