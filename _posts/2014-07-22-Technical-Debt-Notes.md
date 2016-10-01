@@ -54,7 +54,7 @@ Everything (security, scalability, etc.) is a feature except for maintainability
 
 ### Clean, refactorable code is not optional
 
-Writing clean, refactorable code is not an option. Put another way, writing dirty code is not inline with the technical debt metaphor.  
+Writing clean, refactorable code is not optional. Put another way, writing dirty code is not inline with the technical debt metaphor.  
 
 For instance, when you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected and part of the process. Likewise, writing clean refactorable code is not be optional.
 
