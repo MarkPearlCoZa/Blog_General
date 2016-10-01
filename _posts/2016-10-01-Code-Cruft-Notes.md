@@ -35,6 +35,10 @@ Encode your standards into a linter or other static analyzer. Start with an almo
 #### Framework Shifts		
  		
 For engineering teams, half-completed framework shifts are one of the most common causes of confusing technical debt. Does introducing the new framework bring enough advantages? If so, should we move everything instead of having a foot in each camp?   		
+
+#### Developers who feel quality is variable
+
+Some developers feel that quality can be varied. This means that they adjust quality if put under pressure. This can create code cruft.
  		
 ### Rating System - Rate things across 3 spectrums  		
  		
