@@ -42,7 +42,7 @@ Technical debt is good:
 - It is a strategic design decision  
 - Indication of learning  
 
-### Requirements for something to be technical debt
+### Requirements for it to be considered technical debt
 
 > Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later... The ability to pay back the debt ... depends upon you writing code that is clean enough to be able to refactor as you come to understand your problem - Ward Cunningham
 
