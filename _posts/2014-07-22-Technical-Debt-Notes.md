@@ -84,16 +84,6 @@ Examples of Jigs:
 - Component Library (Twitter Bootstrap)  
 - Golden Master  
 
-#### Technical Debt Notes ####
-
-5 Types
-- Code
-- Architectural
-- Test
-- Knowledge
-- Technology
-
-#### Technical Debt Quadrants ####
 
 #### References ####
 
