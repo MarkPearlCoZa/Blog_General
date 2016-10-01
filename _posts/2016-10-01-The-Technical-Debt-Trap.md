@@ -81,9 +81,8 @@ It should tick all of the below requirements...
 
 #### Issues with top & bottom left quadrants
 
+To illustrate the issues with the top & bottom left quadrants, let's compare these behaviors to other industries...
 Is "Technical" Debt appropriate in other industries
-
-If we applied this metaphor to other professions we may end up with things like the following...
 
 - "We incurred structural debt to make the deadline and built the windows skew" - Reckless and deliberate  
 - "We incurred mechanical debt to stay on budget and made the vehicle dangerous" - Reckless and deliberate  
