@@ -47,8 +47,10 @@ Metaphors can go wrong, over the course of time because we called Technical Debt
 
 Martin Fowler continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
 
-> Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later.  
+> Many have explained the debt metaphor and confused it with the idea that you can write code poorly with the intention of doing a good job later... The ability to pay back the debt ... depends upon you writing code that is clean enough to be able to refactor as you come to understand your problem - Ward Cunningham
+
 
 #### References  
 
 [Slide on Talk](http://www.slideshare.net/DocOnDev/the-technical-debt-trap)  
+[Technical Debt Metaphor Explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
