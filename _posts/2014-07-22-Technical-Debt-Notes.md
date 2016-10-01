@@ -38,14 +38,6 @@ Writing clean, refactorable code is not optional. Put another way, writing dirty
 
 For instance, when you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected and part of the process. Likewise, writing clean refactorable code is expected and part of the process.
 
-> The stigma around debt — technical or otherwise — is that it’s a sign of weakness or leads to overreliance, when in fact it merely represents a trade-off, giving more time or resources at a cost  
-
-Encode your standards into a linter or other static analyzer. Start with an almost empty set of rules, and then slowly add as you agree upon standards for your code.  
-
-> Bad code often feels faster in the same way hurrying feels faster  
-
-Label it, creating a rating system and building code in a modular way
-
 ### Can you calculate the cost of technical debt?
 
 Doc Norton suggested 5 things you can measure to calculate the cost of technical debt.
