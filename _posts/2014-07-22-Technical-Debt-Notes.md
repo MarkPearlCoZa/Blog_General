@@ -12,15 +12,13 @@ Encode your standards into a linter or other static analyzer. Start with an almo
 
 Label it, creating a rating system and building code in a modular way
 
-### What is the definition of technical debt
+### What is technical debt
 
-Ward Cunningham first coined the term Technical Debt. 
-
-
-He makes an important point right at the end:
-"In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem."
+The metaphor "Technical Debt" was first coined by Ward Cunningham.
 
 > Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. Objects make the cost of this transaction tolerable. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the debt load of an unconsolidated implementation, object- oriented or otherwise.  
+
+> "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem."
 
 Because the definition of technical debt got so mixed up Ward Cunningham further clarified what he meant by [technical debt on YouTube](https://www.youtube.com/watch?v=pqeJFYwnkjE) in 2009.
 
