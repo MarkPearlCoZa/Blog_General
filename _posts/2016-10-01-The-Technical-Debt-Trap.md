@@ -7,7 +7,7 @@ category: Media
 
 These notes are based on [Doc Norton's](https://twitter.com/DocOnDev) talk on "[The Technical Debt Trap](https://vimeo.com/97507576)" done at NDC 2014.
 
-#### Intro
+#### Overview
 
 Technical Debt has become a catch-all phrase for any code that needs to be re-worked. Much like Refactoring has become a catch-all phrase for any activity that involves changing code. These fundamental misunderstandings and comfortable yet mis-applied metaphors have resulted in a plethora of poor decisions. 
 
@@ -26,6 +26,10 @@ Ward Cunningham coined the phrase "Technical Debt". The first written record tha
 > Shipping first time code is like going into debt, a little debt speeds development so long as it is paid back promptly with a rewrite - Ward Cunningham
 
 Ward Cunningham used the metaphor 'debt' was that before the OOPSLA conference he had used almost the same words in an email he sent to a client who was in the financial industry. He was trying to explain to his client why the team needed to go back and redo work.
+
+> The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt - Ward Cunninga
+
+
 
 
 
