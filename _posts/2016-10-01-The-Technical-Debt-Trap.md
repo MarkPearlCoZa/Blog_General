@@ -19,7 +19,7 @@ Technical Debt has become a catch-all phrase for any code that needs to be re-wo
 
 Doc discusses the origins of the metaphor, what it means today, and how we properly identify and manage technical debt.
 
-#### What is Technical Debt?
+#### Where did the term Technical Debt originate from?
 
 Ward Cunningham coined the phrase "Technical Debt". The first written record that Doc Norton could find on this was a paper from [OOPSLA '92](http://www.oopsla.org/oopsla-history/)
 
@@ -29,7 +29,19 @@ Ward Cunningham used the metaphor 'debt' was that before the OOPSLA conference h
 
 > The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt - Ward Cunninga
 
+#### Technical Debt is Good
 
+- It is a strategic design decision  
+- Indication of learning  
+
+There are two ways we can incur debt,
+
+1) Intentionally (it makes strategic sense)
+2) After the fact (here be danger)  
+
+Metaphors are analogies of the thing, Technical Debt is a Metaphor. 
+The challenge we have with metaphors is we confuse them and begin to act as if the metaphor is the actual thing we are referring to.
+Metaphors can go wrong, over the course of time because we called Technical Debt, we started talking more and more about debt, not the thing we were comparing it to.  
 
 
 
