@@ -63,6 +63,8 @@ Dirty code is to technical debt as the pawn broker is to financial debt. Don't t
 
 If you say no to any of the above items, you don't have technical debt.
 
+#### If it is not technical debt, what is it?
+
 If you have bad code, and it doesn't meet these requirements, what is it? Cruft?
 
 <img class="img-responsive" alt="Cruft Definition" src="{{ site.url }}/assets/images/Technical-Debt-Cruft-Definition.png">
