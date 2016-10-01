@@ -6,7 +6,7 @@ category: Misc
 ---
 #### Technical Debt 
 
-See my [technical debt notes](http://blog.markpearl.co.za/Technical-Debt-Notes) for a proper explanation of this metaphor.
+I've moved my notes from this page to their own page - see [technical debt notes](http://blog.markpearl.co.za/Technical-Debt-Notes).
 
 #### Software Defect 
 
