@@ -69,9 +69,9 @@ It should tick all of the below requirements...
 > If we agree technical debt is good, and we agree that 'quick and dirty' is technical debt, then we agree that 'quick and dirty' is good!
 > I just can't abide by that, I've seen the pain that quick and dirty causes - Doc Norton
 
-#### Technical Debt Quadrants
+### Technical debt quadrants
 
-Martin Fowler continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
+[Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler) continued to explore the metaphor of Technical Debt, however it wasn't the same thing Ward Cunningham originally meant. 
 
 <img class="img-responsive" alt="Martin Fowler Technical Debt Quadrants" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Original-Martin-Fowler.png">
 
