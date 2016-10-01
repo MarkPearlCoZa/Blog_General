@@ -15,6 +15,7 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
+[Technical Debt Metaphor explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
 [The Techical Debt Trap by Doc Norton](https://vimeo.com/97507576)  
 [TDD, Where did it all go wrong by Ian Cooper](https://vimeo.com/68375232)  
 [Software Design: Why, When & How by Kent Beck](https://vimeo.com/105771493), [see notes](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
