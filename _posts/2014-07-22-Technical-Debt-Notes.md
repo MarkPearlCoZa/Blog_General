@@ -26,13 +26,13 @@ Because the definition of technical debt got so mixed up Ward Cunningham further
 
 Sometimes technical debt can be a clumsy metaphor - there may be other metaphors that could better illustrate what we are trying to explain.
 
-A better metaphor may be technical wealth
+> A better metaphor may be technical wealth - Martin Cronje
 
 ### What technical debt is not
 
 Many people confuse technical debt with other things. It's important to highlight some of the things technical debt is not.  
 
-#### Bugs are not technical debt
+#### A bugs is not technical debt
 
 The key feature of technical debt is that its something we incur by choice. We choose to make architectural, design or implementation decisions that we expect will cause us issues later in order to achieve specific objectives sooner. A bug is not something we choose to have in our code - so de-facto its not technical debt
 
