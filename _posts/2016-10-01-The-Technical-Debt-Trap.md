@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Technical Debt Trap
-tags: 
+tags: Quality
 category: Media
 ---
 
