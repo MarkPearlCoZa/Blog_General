@@ -42,7 +42,7 @@ Technical debt is good:
 - It is a strategic design decision  
 - Indication of learning  
 
-### Requirements for Technical Debt  
+### Requirements for something to be technical debt
 
 #### Clean Code
 
