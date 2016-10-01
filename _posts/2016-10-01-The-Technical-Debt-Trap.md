@@ -62,8 +62,7 @@ It should tick all of the below requirements...
 - Is there a plan for payback?  
 - Is the business truly informed?
 
-If you say no to any of the above items, you don't have technical debt.
-
+**If you say no to any of the above items, you don't have technical debt.i**
 
 #### Does this really matter, is it just semantics?
 
