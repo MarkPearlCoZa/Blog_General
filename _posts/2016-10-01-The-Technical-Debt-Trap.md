@@ -127,6 +127,8 @@ Do not make more work for yourself by intentionally putting cruft in your code.
 
 ### Monitoring Technical Debt
 
+Appropriate things to monitor include... 
+
 - Code Coverage  
 - Code Complexity  
 - Coupling  
