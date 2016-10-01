@@ -52,10 +52,10 @@ given
 a <=> b 
 ~~~
 
-if a < b then return -1
-if a = b then return  0
-if a > b then return  1
-if a and b are not comparable then return nil
+if a < b then return -1  
+if a = b then return  0  
+if a > b then return  1  
+if a and b are not comparable then return nil  
 
 ### Working with Strings
 
