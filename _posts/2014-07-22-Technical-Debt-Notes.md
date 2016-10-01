@@ -73,7 +73,7 @@ For engineering teams, half-completed framework shifts are one of the most commo
 
 1) Security - are there security concerns associated with this code?  
 2) Prevalence - how widespread is the code?  
-3) Fequency - how often do you come into contact with the code?  2) Prevalence - how widespread is the code?  
+3) Fequency - how often do you come into contact with the code?  
 
 ### A Jig
 
@@ -83,7 +83,6 @@ Examples of Jigs:
 - Test Code  
 - Component Library (Twitter Bootstrap)  
 - Golden Master  
-
 
 #### References ####
 
