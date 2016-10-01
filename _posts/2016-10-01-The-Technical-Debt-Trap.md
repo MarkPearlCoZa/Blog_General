@@ -35,7 +35,7 @@ Metaphors are analogies of the thing, Technical Debt is a Metaphor.
 The challenge we have with metaphors is we confuse them and begin to act as if the metaphor is the actual thing we are referring to.
 Metaphors can go wrong, over the course of time because we called Technical Debt, we started talking more and more about debt, not the thing we were comparing it to.  
 
-### Is Technical Debt is Good or Bad?
+### Is it good or bad?
 
 Technical debt is good:   
 
