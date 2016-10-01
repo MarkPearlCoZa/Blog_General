@@ -66,8 +66,6 @@ It should tick all of the below requirements...
 
 #### Does it really matter what the definition of technical debt is?
 
-Yes, it does!  
-
 > If we agree technical debt is good, and we agree that 'quick and dirty' is technical debt, then we agree that 'quick and dirty' is good!
 > I just can't abide by that, I've seen the pain that quick and dirty causes - Doc Norton
 
