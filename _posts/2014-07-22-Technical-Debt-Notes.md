@@ -14,9 +14,15 @@ Label it, creating a rating system and building code in a modular way
 
 ### What is the definition of technical debt
 
-...
+Ward Cunningham first coined the term Technical Debt:
 
-Sometimes technical debt can be a clumsy metaphor, a better metaphor may be technical wealth
+> Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. Objects make the cost of this transaction tolerable. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the debt load of an unconsolidated implementation, object- oriented or otherwise.  
+
+#### It's only a metaphor
+
+Sometimes technical debt can be a clumsy metaphor - there may be other metaphors that could better illustrate what we are trying to explain.
+
+A better metaphor may be technical wealth
 
 ### Everything is a feature except for maintainability  
 
@@ -25,6 +31,10 @@ Maintainability is the only thing you "don't" put on the box - security, scalabi
 ### Bugs are not technical debt
 
 The key feature of technical debt is that its something we incur by choice. We choose to make architectural, design or implementation decisions that we expect will cause us issues later in order to achieve specific objectives sooner. A bug is not something we choose to have in our code - so de-facto its not technical debt
+
+### Messy code is not technical debt
+
+Some people make a distinction between messy code and technical debt. Robert Martin expands on this idea here: [https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt] Michael Norton also attempts to clear up the confusion here
 
 ### How do you calculate the cost of technical debt - can you quantify it?
 
