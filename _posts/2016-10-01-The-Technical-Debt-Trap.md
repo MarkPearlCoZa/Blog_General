@@ -95,8 +95,6 @@ Are these appropriate actions? Reckless and deliberate in the quadrant is irresp
 
 ### If it is not technical debt, what is it?
 
-#### Cruft
-
 If you have bad code, and it doesn't meet these requirements, what is it? Cruft?
 
 <img class="img-responsive" alt="Cruft Definition" src="{{ site.url }}/assets/images/Technical-Debt-Cruft-Definition.png">
