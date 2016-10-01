@@ -123,7 +123,7 @@ Do not make more work for yourself by intentionally putting cruft in your code.
 - Code bases by general over time have a higher cost of change.
 - Never ask permission to do your job correctly
 
-> Avoid the trap in the first place, clean constantly
+> Instead of hardening sprints avoid the trap in the first place, clean constantly
 
 ### Monitoring Technical Debt
 
