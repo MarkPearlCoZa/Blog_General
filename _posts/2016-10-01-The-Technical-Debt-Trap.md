@@ -85,21 +85,11 @@ Is "Technical" Debt appropriate in other industries
 
 If we applied this metaphor to other professions we may end up with things like the following...
 
-How about construction?
+- "We incurred structural debt to make the deadline and built the windows skew" - Reckless and deliberate  
+- "We incurred mechanical debt to stay on budget and made the vehicle dangerous" - Reckless and deliberate  
+- "We incurred health debt during the surgery and left the scissors in him" - Reckless and inadvertant  
 
-"We incurred structural debt to make the deadline" - Reckless and deliberate
-
-How about automative?  
-
-"We incurred mechanical debt to stay on budget" - Reckless and deliberate
-
-How about medical?
-
-"We incurred health debt during the surgery" - Reckless and inadvertant
-
-Are these appropriate actions?
-
-Reckless and deliberate in the quadrant is irresponsible
+Are these appropriate actions? Reckless and deliberate in the quadrant is irresponsible and is not technical debt.
 
 <img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.jpg">
 
