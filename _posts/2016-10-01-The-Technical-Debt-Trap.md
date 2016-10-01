@@ -97,7 +97,7 @@ Are these appropriate actions?
 
 Reckless and deliberate in the quadrant is irresponsible
 
-<img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.png">
+<img class="img-responsive" alt="Technical Debt Quadrants Adjusted" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Adjusted-Doc-Norton.jpg">
 
 > You can't have reckless behavior and have technical debt
 
