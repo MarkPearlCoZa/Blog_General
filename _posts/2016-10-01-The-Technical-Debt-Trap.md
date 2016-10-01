@@ -101,7 +101,7 @@ If you have bad code, and it doesn't meet these requirements, what is it? Cruft?
 
 Redundant, old, or improperly written code - Cruft!
 
-#### Cruft is a bad decision every time
+#### Cruft is a bad decision every time, but sometimes it is made inadvertantly
 
 - You are a professional developer    
 - You're going to create unintentional cruft  
