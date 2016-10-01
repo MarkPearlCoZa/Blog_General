@@ -7,9 +7,9 @@ category: Misc
 
 ### What is code cruft?
 
-<img class="img-responsive" alt="Cruft Definition" src="{{ site.url }}/assets/images/Technical-Debt-Cruft-Definition.png">
+> Badly designed, unnecessarily complicated, or unwanted code or software - google dictionary
 
-Code cruft is redundant, old, or improperly written code!
+Code cruft is redundant, old, or improperly written code.
 
 ### Where does it come from?
 
