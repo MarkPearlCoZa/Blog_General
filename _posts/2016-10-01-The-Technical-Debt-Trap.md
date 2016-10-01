@@ -29,22 +29,18 @@ The reason Ward Cunningham used the metaphor 'debt' was that before the OOPSLA c
 
 > The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt - Ward Cunninga
 
-#### Technical Debt is a metaphor  
+#### Technical Debt is a Metaphor  
 
 Metaphors are analogies of the thing, Technical Debt is a Metaphor. 
 The challenge we have with metaphors is we confuse them and begin to act as if the metaphor is the actual thing we are referring to.
 Metaphors can go wrong, over the course of time because we called Technical Debt, we started talking more and more about debt, not the thing we were comparing it to.  
 
-### Is Technical Debt is Good?
+### Is Technical Debt is Good or Bad?
+
+Technical debt is good:   
 
 - It is a strategic design decision  
 - Indication of learning  
-
-There are two ways we can incur debt,
-
-1) Intentionally (it makes strategic sense)  
-2) After the fact (here be danger)   
-
 
 #### Technical Debt Requires Clean Code
 
