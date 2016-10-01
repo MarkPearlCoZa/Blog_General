@@ -36,8 +36,8 @@ Ward Cunningham used the metaphor 'debt' was that before the OOPSLA conference h
 
 There are two ways we can incur debt,
 
-1) Intentionally (it makes strategic sense)
-2) After the fact (here be danger)  
+1) Intentionally (it makes strategic sense)  
+2) After the fact (here be danger)   
 
 Metaphors are analogies of the thing, Technical Debt is a Metaphor. 
 The challenge we have with metaphors is we confuse them and begin to act as if the metaphor is the actual thing we are referring to.
