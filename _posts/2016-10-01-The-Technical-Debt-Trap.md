@@ -75,13 +75,11 @@ It should tick all of the below requirements...
 
 <img class="img-responsive" alt="Martin Fowler Technical Debt Quadrants" src="{{ site.url }}/assets/images/Technical-Debt-Quadrants-Original-Martin-Fowler.png">
 
-Issues with the original Fowler quandarant include:  
-
-#### Top right quadrant
+#### Issues with top right quadrant
 
 "We must ship now and deal with consequences" - that is deliberate, but what part of that is prudent. Suggest we change it to "Let's deploy and gather information".
 
-#### Top & bottom left quadrants
+#### Issues with top & bottom left quadrants
 
 Is "Technical" Debt appropriate in other industries
 
