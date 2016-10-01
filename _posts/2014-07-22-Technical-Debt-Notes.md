@@ -36,7 +36,7 @@ Some people blur the distinction between messy code and technical debt. Messy co
 
 Writing clean, refactorable code is not optional. Put another way, writing dirty code is not inline with the technical debt metaphor.  
 
-For instance, when you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected and part of the process. Likewise, writing clean refactorable code is not be optional.
+For instance, when you order your food at a restaurant, you don't get a menu option to pay for the dishes to be washed - this is just something expected and part of the process. Likewise, writing clean refactorable code is expected and part of the process.
 
 > The stigma around debt — technical or otherwise — is that it’s a sign of weakness or leads to overreliance, when in fact it merely represents a trade-off, giving more time or resources at a cost  
 
