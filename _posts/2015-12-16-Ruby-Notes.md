@@ -39,6 +39,14 @@ text = "hello"
 text.split("") # ['h','e','l','l','o']
 ~~~
 
+#### Checking variable is an array
+
+~~~
+def doSomething(list)
+    list.kind_of?(Array) ? "Is an Array" : "Is something else"
+end
+~~~
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Working with Arrays
