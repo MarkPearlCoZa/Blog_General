@@ -32,13 +32,25 @@ Some people blur the distinction between messy code and technical debt. Messy co
 
 > "In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage depends upon your writing code that is clean enough to be able to refactor as you come to understand your problem." - Ward Cunningham
 
+
 ### Can you calculate the cost of technical debt?
 
 Doc Norton suggested 5 things you can measure to calculate the cost of technical debt.
 
-### Everything is a feature except for maintainability  
+- Code Coverage
+- Code Complexity
+- Coupling
+- Maintainability
 
-Maintainability is the only thing you "don't" put on the box - security, scalability, etc. are all features.
+#### Code Coverage
+
+#### Code Complexity
+
+#### Coupling
+
+#### Maintainability
+
+> Everything (security, scalability, etc.) is a feature except for maintainability.
 
 ### Sayings to illustrate why you should avoid technical debt
 
