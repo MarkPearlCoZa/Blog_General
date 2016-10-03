@@ -6,6 +6,16 @@ category: Tech
 ---
 ### The Basics
 
+### Types
+
+#### Regex Type
+
+Basic use...
+
+~~~
+m = /.*/.match("some input text")
+~~~
+
 #### Converting Types
 
 - to_s converts to string
