@@ -2,7 +2,7 @@
 layout: post
 title: Software Design - Why, When & How Notes
 tags: Design
-category: Misc
+category: Media
 ---
 
 These notes are based on [Kent Beck's](https://twitter.com/KentBeck) talk on "[Software Design: Why, When & How](https://vimeo.com/105771493)" done at JavaZone in September 2014.
@@ -138,7 +138,7 @@ Software design isn't just a matter of what are the things and how they are rela
 #### Coupling ####
 
 Coupling, two elements are coupled if a change to one element implies a change to another element.
-Coupling is important to software design becuase the costs of changing software are dominated by rippling changes (which means one section of code is coupled to another section). The exponetially rippling changes kills you in software design. Reducing coupling takes effort. The more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
+Coupling is important to software design because the costs of changing software are dominated by rippling changes (which means one section of code is coupled to another section). The exponetially rippling changes kills you in software design. Reducing coupling takes effort. The more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
 
 #### Premature Abstraction ####
 
