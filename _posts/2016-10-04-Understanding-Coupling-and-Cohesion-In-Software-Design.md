@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Coupling and Cohesion in Software Design
 tags: Code 
-category: InProgress
+category: Misc
 ---
 
 ## What is coupling?
