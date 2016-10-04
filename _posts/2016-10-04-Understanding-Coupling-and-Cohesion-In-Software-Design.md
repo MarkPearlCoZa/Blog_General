@@ -31,3 +31,4 @@ Likewise, a segment
 #### References
 
 - [Software Design - Why, When & How by Kent Beck](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
+- [SOLID Deconstruction by Kevlin Henney](http://blog.markpearl.co.za/SOLID-Deconstruction)  
