@@ -11,17 +11,11 @@ The concept of coupling is often confused with the concept of use. Just because 
 
 > The two segments are only coupled if a change to one segment implies a change to another segment. 
 
-### Why is coupling important?
+Coupling is important because the costs of changing software are dominated by rippling changes -which means one section of code is coupled to another section.
 
-Coupling is important because the costs of changing software are dominated by rippling changes (which means one section of code is coupled to another section). 
+Exponetially rippling changes kills you in software design. 
 
-The exponetially rippling changes kills you in software design. 
-
-Reducing coupling takes effort. 
-
-The more you try to reduce coupling, the more expensive it gets. 
-
-There is a trade off curve between effort and coupling.
+Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
 
 ## What is cohesion?
 
