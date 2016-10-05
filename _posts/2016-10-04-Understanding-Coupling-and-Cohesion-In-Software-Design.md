@@ -27,11 +27,9 @@ Cohesion is a little more abstract than coupling.
 
 We refer to a sound line of reasoning - the thoughts fit, they relate to each other in a coherent manner, the reasoning is highly cohesive. This is exactly the characteristic of a segment of code that makes it high cohesion: the pieces all seem to be related, they belong together.
 
-Another way to understand cohesion is to understand it's opposite - adhesion. 
+Another way to understand cohesion is to understand it's opposite - adhesion. Adhesives are used to 'glue' two things together that are not meant to be together. 
 
 > Think of cohesion as the opposite of being adhesive.
-
-Adhesives are used to 'glue' two things together that are not meant to be together. 
 
 An example of an adhesive segment of code would be one where things are stuck together that don't seem to belong together. 
 
