@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-In software, most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having better conversations on design.
+In software most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having better conversations on design.
 
 Recently I heard two great talk's that made mention of the concepts of coupling and cohesion. The first talk was by [Kent Beck on Software Design](http://blog.markpearl.co.za/Software-Design-Why-When-How) where he briefly explained how he understands coupling. 
 
