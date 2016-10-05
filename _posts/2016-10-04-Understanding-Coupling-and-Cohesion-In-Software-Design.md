@@ -27,7 +27,7 @@ Exponentially rippling changes kills you in software design. Reducing coupling t
 
 Cohesion is a little more abstract than coupling. 
 
-We say something has a sound line of reasoning when the thoughts fit and they relate to each other in a coherent manner. Another way to put is is that the reasoning is highly cohesive. This is exactly the characteristic of a segment of code that makes it high cohesion: the pieces all seem to be related, they belong together.
+We say something has a sound line of reasoning when the thoughts fit and they everything said relates to each other in a coherent manner. Another way to describe this is to say that the reasoning is highly cohesive. This is exactly the characteristic of a segment of code that makes it high cohesion: the pieces all seem to be related, they belong together.
 
 Another way to understand cohesion is to understand it's opposite - adhesion. Adhesives are used to 'glue' two things together that are not meant to be together. 
 
