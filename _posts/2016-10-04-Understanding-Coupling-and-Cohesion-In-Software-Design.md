@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Coupling and Cohesion in Software Design
 tags: Code 
-category: Misc
+category: General
 ---
 
 In software most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having better conversations on design.
