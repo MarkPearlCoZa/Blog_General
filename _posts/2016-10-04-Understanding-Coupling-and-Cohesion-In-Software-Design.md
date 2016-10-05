@@ -17,7 +17,7 @@ The concept of coupling is often confused with the concept of use. Just because 
 
 > The two segments are only coupled if a change to one segment implies a change to another segment. 
 
-Coupling is important because the costs of changing software is dominated by rippling changes. When you see rippling changes in a code base, it is an indication that these segments are coupled to each other.
+Coupling is important because the costs of changing software is dominated by rippling changes. When you see rippling changes in a code, it is an indication that these segments are coupled to each other.
 
 Exponentially rippling changes kills you in software design. 
 
