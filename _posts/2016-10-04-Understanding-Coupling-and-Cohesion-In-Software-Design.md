@@ -7,6 +7,8 @@ category: Misc
 
 In software design, most conversations regarding design have a foundation based on coupling and cohesion. Having a deep understanding of what coupling and cohesion mean can be key to effective conversatins regarding software design.
 
+In my explanations below I have used the term "segment of code", you can replace this with whatever construct your language of choice has, for most of us this can probably be replaced with the word "class".
+
 ## What is coupling?
 
 The concept of coupling is often confused with the concept of use. Just because one segment of code "uses" another segment of code does not mean that these two segments are 'coupled'.
