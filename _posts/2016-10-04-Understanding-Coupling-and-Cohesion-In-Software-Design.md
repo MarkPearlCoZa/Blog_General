@@ -7,7 +7,7 @@ category: Misc
 
 In software, most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having better conversations on design.
 
-Recently I heard two great talk's that made brief mention of the concepts of coupling and cohesion. The first talk was by [Kent Beck on Software Design](http://blog.markpearl.co.za/Software-Design-Why-When-How) where he briefly explained how he understand coupling. The second talk was by [Kevlin Henney on SOLID Deconstruction](http://blog.markpearl.co.za/SOLID-Deconstruction) where he elaborated on the concept of cohesion.
+Recently I heard two great talk's that made mention of the concepts of coupling and cohesion. The first talk was by [Kent Beck on Software Design](http://blog.markpearl.co.za/Software-Design-Why-When-How) where he briefly explained how he understand coupling. The second talk was by [Kevlin Henney on SOLID Deconstruction](http://blog.markpearl.co.za/SOLID-Deconstruction) where he elaborated on the concept of cohesion.
 
 In putting these two explanations together, I have used the term "segment of code". For your language paradigm of choice replace this phrase with whatever construct makes the most sense to your language (class, method, module, etc.)
 
