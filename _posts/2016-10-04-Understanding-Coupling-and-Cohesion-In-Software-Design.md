@@ -7,7 +7,9 @@ category: Misc
 
 In software most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having better conversations on design.
 
-Recently I heard two great talk's that made mention of the concepts of coupling and cohesion that I would recommend everyone watch. The first talk was by [Kent Beck on Software Design](http://blog.markpearl.co.za/Software-Design-Why-When-How) in 2014 where he briefly explains how he understands the concept of coupling. 
+Recently I heard two great talk's that made mention of the concepts of coupling and cohesion that I would recommend everyone watch. 
+
+The first talk was by [Kent Beck on Software Design](http://blog.markpearl.co.za/Software-Design-Why-When-How) in 2014 where he briefly explains how he understands the concept of coupling. 
 
 The second talk was done by [Kevlin Henney on the topic of SOLID Deconstruction](http://blog.markpearl.co.za/SOLID-Deconstruction) in 2016 where Kevlin elaborates on the concept of cohesion.
 
