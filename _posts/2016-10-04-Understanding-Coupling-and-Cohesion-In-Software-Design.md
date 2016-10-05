@@ -23,9 +23,15 @@ Reducing coupling takes effort - the more you try to reduce coupling, the more e
 
 Cohesion is a little more abstract than coupling. 
 
-We refer to a sound line of reasoning as coherent - the thoughts fit, they go together, they relate to each other and thus the reasoning is highly cohesive.
+We refer to a sound line of reasoning as coherent - the thoughts fit, they go together, they relate to each other. The reasoning is highly cohesive.
 
-Likewise, a segment 
+This is exactly the characteristic of a segment of code that makes it coherent: the pieces all seem to be related, they seem to belong together.
+
+Another way to understand cohesion is to understand it's opposite - adhesion. 
+
+Adhesives are used to 'glue' two things together that are not meant to be together. 
+
+An example of an adhesive segment of code would be one where things are stuck together that don't seem to belong together. 
 
 
 #### References
