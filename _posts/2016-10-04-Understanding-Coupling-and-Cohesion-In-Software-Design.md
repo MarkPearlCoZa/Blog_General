@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-In software design, most conversations regarding design have a foundation on coupling and cohesion. Understanding coupling and cohesion are key to effective design.
+In software design, most conversations regarding design have a foundation based on coupling and cohesion. Understanding coupling and cohesion are key to effective conversatins on design.
 
 ## What is coupling?
 
@@ -17,7 +17,7 @@ Coupling is important because the costs of changing software are dominated by ri
 
 Exponetially rippling changes kills you in software design. 
 
-Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. There is a trade off curve between effort and coupling.
+Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. 
 
 ## What is cohesion?
 
