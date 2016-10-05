@@ -21,9 +21,7 @@ The concept of coupling is often confused with the concept of use. Just because 
 
 Coupling is important because the costs of changing software are dominated by rippling changes. A change here, requires a change somewhere else, which then causes a change in another place and so on. When you see rippling changes in code it is an indication that there is a high level of coupling.
 
-Exponentially rippling changes kills you in software design. 
-
-Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. 
+Exponentially rippling changes kills you in software design. Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. 
 
 ## What is cohesion?
 
