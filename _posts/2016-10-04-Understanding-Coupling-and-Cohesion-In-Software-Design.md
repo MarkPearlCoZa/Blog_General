@@ -37,7 +37,7 @@ Another way to understand cohesion is to understand it's opposite - adhesion. Ad
 
 ## Tell me what you think
 
-Well, those are two gems really helped me understand coupling and cohesion better. If you have a good way of explaining these concepts please add them in the comments.
+Well, these two gems really helped me understand coupling and cohesion better. If you have a good way of explaining these concepts please add them in the comments.
 
 #### References
 
