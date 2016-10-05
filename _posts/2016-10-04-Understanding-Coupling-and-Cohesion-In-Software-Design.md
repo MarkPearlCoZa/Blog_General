@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-In software design, most conversations regarding design are based on coupling and cohesion. Understanding these two concepts is key to effective design.
+In software design, most conversations regarding design have a foundation on coupling and cohesion. Understanding coupling and cohesion are key to effective design.
 
 ## What is coupling?
 
