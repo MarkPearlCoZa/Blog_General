@@ -35,6 +35,10 @@ We say something has a sound line of reasoning when the thoughts fit and everyth
 
 Another way to understand cohesion is to understand it's opposite - adhesion. Adhesives are used to 'glue' two things together that are not meant to be together. An example of an adhesive segment of code would be one where things are stuck together that don't seem to belong together. 
 
+## Do you have a better way to explain these concepts?
+
+Well, those are two gems really helped me understand coupling and cohesion better. If you have a good way of explaining these concepts please add them in the comments.
+
 #### References
 
 - [Software Design - Why, When & How by Kent Beck](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
