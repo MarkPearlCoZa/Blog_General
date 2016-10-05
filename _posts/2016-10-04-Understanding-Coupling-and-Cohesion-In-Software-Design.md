@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-In software design, most conversations regarding design have a foundation based on coupling and cohesion. Having a deep understanding of what coupling and cohesion mean is key having an effective conversations regarding good software design.
+In software design, most conversations regarding design have a foundation based on the concepts of coupling and cohesion. Having a deep understanding of what coupling and cohesion mean are key to having an effective conversations regarding good software design.
 
 In my explanations below I have intentionally used the term "segment of code" instead of "class" or "module". For your paradigm of choice replace this phrase with whatever construct makes most sense to your language. 
 
