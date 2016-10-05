@@ -11,11 +11,11 @@ Recently I heard two great talk's that made mention of the concepts of coupling 
 
 The second talk was done by [Kevlin Henney on the topic of SOLID Deconstruction](http://blog.markpearl.co.za/SOLID-Deconstruction) in 2016 where Kevlin elaborates on the concept of cohesion.
 
-In putting Kent's and Kevlin's explanations together I have used the term "segment of code". For your language paradigm of choice (Object Oriented, Functional, etc.) replace this phrase with whatever construct makes the most sense to your language (class, method, module, etc.)
+In putting Kent's and Kevlin's explanations together I have used the term "segment of code". For your language paradigm of choice (Object Oriented, Functional, etc.) replace this phrase with whatever construct makes the most sense to you (class, method, module, etc.)
 
 ## What is coupling?
 
-The concept of coupling is often confused with the concept of use. Just because one segment of code "uses" another segment of code does not mean that these two segments are 'coupled'.
+The concept of coupling is often confused with the concept of use. Just because one segment of code "uses" another segment of code does not mean that these two segments are "coupled".
 
 > The two segments are only coupled if a change to one segment implies a change to another segment. 
 
