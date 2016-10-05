@@ -33,10 +33,11 @@ This is exactly the characteristic of a segment of code that makes it coherent: 
 
 Another way to understand cohesion is to understand it's opposite - adhesion. 
 
+> Think of cohesion as the opposite of being adhesive.
+
 Adhesives are used to 'glue' two things together that are not meant to be together. 
 
 An example of an adhesive segment of code would be one where things are stuck together that don't seem to belong together. 
-
 
 #### References
 
