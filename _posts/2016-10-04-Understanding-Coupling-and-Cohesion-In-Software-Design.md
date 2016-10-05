@@ -5,7 +5,7 @@ tags: Code
 category: Misc
 ---
 
-In software design, most conversations regarding design have a foundation based on coupling and cohesion. Having a deep understanding of what coupling and cohesion mean is key having an effective conversatins regarding good software design.
+In software design, most conversations regarding design have a foundation based on coupling and cohesion. Having a deep understanding of what coupling and cohesion mean is key having an effective conversations regarding good software design.
 
 In my explanations below I have intentionally used the term "segment of code" instead of "class" or "module". For your paradigm of choice replace this phrase with whatever construct makes most sense to your language. 
 
@@ -17,9 +17,9 @@ The concept of coupling is often confused with the concept of use. Just because 
 
 > The two segments are only coupled if a change to one segment implies a change to another segment. 
 
-Coupling is important because the costs of changing software are dominated by rippling changes -which means one section of code is coupled to another section.
+Coupling is important because the costs of changing software is dominated by rippling changes. When you see rippling changes in a code base, it is an indication that these segments are coupled to each other.
 
-Exponetially rippling changes kills you in software design. 
+Exponentially rippling changes kills you in software design. 
 
 Reducing coupling takes effort - the more you try to reduce coupling, the more expensive it gets. 
 
