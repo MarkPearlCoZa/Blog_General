@@ -354,6 +354,17 @@ end
 [1, 2, 3].each { |element| print "hello" }
 ~~~
 
+#### Executing passed blocks 
+
+~~~
+def count (list, &block)
+	list.count(&block)
+end
+
+list = [0,1,2,3,5,8,13, 13]
+count(list,{|item| item == 13})
+~~~
+
 [Read blocks demystified](http://www.skorks.com/2013/04/ruby-ampersand-parameter-demystified/)  
 
 -----------------------------------------------------------------------------------------------------------------------------
