@@ -86,7 +86,7 @@ end
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Working with Arrays
+## Working with Arrays
 
 - [Map, Select and other Enumerable Methods Explained](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)  
 
@@ -97,13 +97,15 @@ values = [1, 2, 3]          # declares a simple array
 maxValue = [1, 2, 3].max    # gets the largest value 
 ~~~
 
-#### select 
+### Enumerable Methods
+
+#### Select 
 
 ~~~
 [1, 2, 3, 4, 5].select {|n| n % 2 == 0}  # Should return [2, 4]
 ~~~
 
-#### each / each_with_index
+#### Each / Each_with_index
 
 ~~~
 [1, 2, 3].each { |num| print "hello #{num}! "}
@@ -112,7 +114,7 @@ maxValue = [1, 2, 3].max    # gets the largest value
 
 Does the funciton on each element in the array and then returns the ORIGINAL array
 
-#### collect / map (Map)
+#### Collect / Map 
 
 ~~~
 [1, 2, 3].collect { |num| num*num } # returns 1, 4, 9
@@ -131,13 +133,24 @@ Alternatively...
 [1, 2, 3].inject(0){|running_total, item| running_total + item} # returns 6
 ~~~
 
-### Dividing Arrays into Groups (Partition)
+#### Dividing Arrays into Groups (Partition)
 
 ~~~
 [1, 2, 3, 4, 5].partition {|n| n % 2 == 0} # Should return [[2, 4],[1, 3, 5]]
 ~~~
 
-#### Working with Dictionaries / Hashes
+### Other
+
+#### Colon-Plus, Colon-Star
+
+Colon-Plus, Colon-Star are symbls
+
+~~~
+[1, 2, 3].inject(:+) # Equivalent to [1,2,3].inject(0){|total, num| total + num} 
+[1, 2, 3].inject(:*) # Equivalent to [1,2,3].inject(0){|total, num| total * num} 
+~~~
+
+## Dictionaries / Hashes
 
 Pairs up a key with a value.  
 
