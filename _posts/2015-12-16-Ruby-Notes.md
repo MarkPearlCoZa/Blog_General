@@ -384,6 +384,18 @@ list = [0,1,2,3,5,8,13, 13]
 count(list,{|item| item == 13})
 ~~~
 
+#### Check if block is given
+
+~~~
+def compute(&block)
+    if (block_given?)
+        puts "defined"
+    else
+        puts "not defined"
+    end
+end
+~~~
+
 [Read blocks demystified](http://www.skorks.com/2013/04/ruby-ampersand-parameter-demystified/)  
 
 -----------------------------------------------------------------------------------------------------------------------------
