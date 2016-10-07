@@ -4,7 +4,7 @@ title: Ruby Notes
 tags: Languages
 category: Tech
 ---
-### The Basics
+## The Basics
 
 ### Types
 
@@ -16,17 +16,17 @@ Basic use...
 m = /.*/.match("some input text")
 ~~~
 
-#### Converting Types
+### Converting Types
 
 - to_s converts to string
 - to_i converts to integer
 - to_a converts to array
 
-#### Working with Variables
+### Working with Variables
 
 Exlamation Points - methods may have exclamation points in their name, which just means to impact the current data rather than making a copy.  
 
-### Operators
+## Operators
 
 #### Tenary Operator 
 
