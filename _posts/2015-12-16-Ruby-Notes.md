@@ -125,6 +125,12 @@ Does the funciton on each element in the array and then returns the ORIGINAL arr
 [1, 2, 3].reduce(0){|running_total, item| running_total + item} # returns 6
 ~~~
 
+Alternatively...
+
+~~~
+[1, 2, 3].inject(0){|running_total, item| running_total + item} # returns 6
+~~~
+
 ### Dividing Arrays into Groups (Partition)
 
 ~~~
