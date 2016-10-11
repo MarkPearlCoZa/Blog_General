@@ -60,71 +60,75 @@ category: Unpublished
 
 > Pursues quality in accomplishing tasks while maintaining a client centric mindset
 
-#### Rating 
+#### Rating Proficient
 
 ### Analytic Ability
 
 > Identifies problems and then develops and evaluates potential solutions using common sense, data analysis, and/or technology
 
-#### Rating 
+#### Rating Foundational
 
 ### Platform Manifesto 
 
 > Keep the integrity of the platform manifesto to ensure MYOB moves towards a platform and not independent applications
 
-#### Rating 
+#### Rating N/A
 
 ### Encourages Growth
 
 > Provide feedback and have coaching and career development conversations
 
-#### Rating 
+#### Rating Proficient
 
 ### Collaboration  
 
 > Promotes and facilitates coordination and cooperation among peers and teams
 
-#### Rating 
+#### Rating Proficient
 
 ### Communication
 
 > Displays confidence and passion, simplifies verbal and written communication, presenting information clearly and concisely to individuals or groups
 
-#### Rating 
+#### Rating Foundational / Proficient
+
+- Issue with "Ensures clarity of thought and purpose before beginning to communicate, presenting key points/themes in a logical order with confidence", this is largely dependent on whether you think before talking, or talk to think. Encouraging people to use one approach over the other may not be the behaviour we want to encourage?
 
 ### Decision Making & Judgement
 
 > Considers the relative costs, impact and benefits of potential actions to choose the most appropriate one
 
-#### Rating 
+#### Rating Foundational
+
+- Need to understand "Levels of Influence"
 
 ### Continous Learning
 
 > Seeks opportunities to learn new and necessary skills and knowledge to perform work effectively
 
-#### Rating 
+#### Rating Foundational
 
 ### Planning
 
 > Plans, organizes and manages resources to successfully role responsibilities and complete projects
 
-#### Rating 
+#### Rating Proficient
 
 ### Product Owner / Development Manager
 
 > Ability to act as substitute for Product Manager and Development Manager when required
 
-#### Rating 
+#### Rating N/A
 
 ### Systems Thinking
 
 > Determines how a system should work, how they interact with one another, and how changes in conditions, operations, and the environment will affect the outcome
 
-#### Rating 
+#### Rating Proficient
 
 ### People Management
 
 > Ability to effectively manage individuals within development teams
 
-#### Rating 
+#### Rating Proficient
 
