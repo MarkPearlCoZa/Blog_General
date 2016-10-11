@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Vacuum Cleaner and your blind spots
+title: The vacuum cleaner and your blind spots
 tags: 
 category: General
 ---
