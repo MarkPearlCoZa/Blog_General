@@ -86,6 +86,7 @@ Also called NTier Pattern
 
 [Express 4.x API](http://expressjs.com/4x/api.html)  
 [Express source code](https://github.com/strongloop/express)  
+[Express tutorials](https://shapeshed.com/creating-a-basic-site-with-node-and-express/)
 [express.static](https://github.com/expressjs/serve-static)  
 [Morgan](https://github.com/expressjs/morgan)  
 [Soup to Bits: Building Blocks of Express.JS](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js)  
