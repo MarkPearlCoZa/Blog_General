@@ -13,7 +13,7 @@ A few weeks into being at the new place I came home after work to a very frustra
 
 On needing to empty the vacuum, she first had to figure out which of the screws needed to be removed (there were other screws that were holding other parts together which made it even more complex). This seemed very impractical however at the time I didn't think much of it other than strange country!
 
-The other day I decided to let my wife relax while I cleaned the house. Up till then she had been doing the majority of the cleaning including all the vacuuming. Over the last few weeks since we had first spoken about the absurd cleaner she had emptied it several times, each time going through the laborious task of unscrewing the lid. Needing to empty the cleaner myself, I looked at the container and immediately realized on the other side of the container there was a lever that when pressed conveniently flipped open to be emptied.
+The other day I decided to let my wife relax while I cleaned the house. Up till then she had been doing the majority of the cleaning including all the vacuuming. Over the last few weeks since we had first spoken about the absurd cleaner she had emptied it several times, each time going through the laborious task of unscrewing the lid. Needing to empty the cleaner myself, I looked at the container and immediately realized on the other side of the container there was a lever that when pressed conveniently flipped open to be emptied. My wife had been blind to this for weeks.
 
 Thinking of this experience and relating it to software development, we often have similar situations where we just don't see the design as it was originally intended. This often results in us taking overly complex approaches to getting the basics done.
 
