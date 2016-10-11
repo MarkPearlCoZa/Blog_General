@@ -58,49 +58,73 @@ category: Unpublished
 
 ### Quality Focus
 
+> Pursues quality in accomplishing tasks while maintaining a client centric mindset
+
 #### Rating 
 
 ### Analytic Ability
+
+> Identifies problems and then develops and evaluates potential solutions using common sense, data analysis, and/or technology
 
 #### Rating 
 
 ### Platform Manifesto 
 
+> Keep the integrity of the platform manifesto to ensure MYOB moves towards a platform and not independent applications
+
 #### Rating 
 
 ### Encourages Growth
+
+> Provide feedback and have coaching and career development conversations
 
 #### Rating 
 
 ### Collaboration  
 
+> Promotes and facilitates coordination and cooperation among peers and teams
+
 #### Rating 
 
 ### Communication
+
+> Displays confidence and passion, simplifies verbal and written communication, presenting information clearly and concisely to individuals or groups
 
 #### Rating 
 
 ### Decision Making & Judgement
 
+> Considers the relative costs, impact and benefits of potential actions to choose the most appropriate one
+
 #### Rating 
 
 ### Continous Learning
+
+> Seeks opportunities to learn new and necessary skills and knowledge to perform work effectively
 
 #### Rating 
 
 ### Planning
 
+> Plans, organizes and manages resources to successfully role responsibilities and complete projects
+
 #### Rating 
 
 ### Product Owner / Development Manager
+
+> Ability to act as substitute for Product Manager and Development Manager when required
 
 #### Rating 
 
 ### Systems Thinking
 
+> Determines how a system should work, how they interact with one another, and how changes in conditions, operations, and the environment will affect the outcome
+
 #### Rating 
 
 ### People Management
+
+> Ability to effectively manage individuals within development teams
 
 #### Rating 
 
