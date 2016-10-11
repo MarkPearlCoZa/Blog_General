@@ -17,4 +17,4 @@ The other day I decided to let my wife relax while I cleaned the house. Up till 
 
 Thinking of this experience and relating it to software development, we often have situations where we just don't see the design as it was originally intended. This more than often results in us taking overly complex approaches to solving basic problems.
 
-One of the benefits of mob and pair programming is that we get an instant second and sometimes third or fourth view on the design.
+One of the benefits of mob and pair programming is that we get an instant second, third and sometimes fourth view on the design leading to smaller blind spots.
