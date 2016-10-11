@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-We have recently moved to a new country. For those that have had the experience of moving countries, there is a stage when everything seem around you seems foreign.
+We have recently moved to a new country. For those that have had the experience of moving countries, there is a stage where everything around you seems foreign.
 
 While we are waiting for our "stuff" to arrive from South Africa we were going through this stage - to make it worse, we were staying in temporary furnished accomodation.
 
