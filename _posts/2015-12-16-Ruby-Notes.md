@@ -76,6 +76,13 @@ text = "hello"
 text.split("") # ['h','e','l','l','o']
 ~~~
 
+alternatively...
+
+~~~
+text = "hello"
+text.chars() # ['h','e','l','l','o']
+~~~
+
 #### Checking variable is an array
 
 ~~~
