@@ -9,7 +9,7 @@ We have recently moved to a new country. For those that have had the experience 
 
 While we are waiting for our "stuff" to arrive from South Africa we were going through this stage - to make it worse, we were staying in temporary furnished accomodation.
 
-A few weeks into being at the new place I came home after work to a very frustrated wife. She had spent the better part of an hour dismantling the vacuum cleaner so that she could empty it out. As she explained, whoever designed it had made a fundamental design mistake. Instead of using a latch to keep the dirt container closed, they had used small screws. 
+A few weeks into being at the new place I came home after work to a very frustrated wife. She had spent the better part of an hour dismantling the vacuum cleaner so that she could empty it out. As she explained, whoever designed it had made a fundamental design mistake. Instead of using a latch to keep the dirt container closed they had used small screws. 
 
 On needing to empty the vacuum, she first had to figure out which of the screws needed to be removed (there were other screws that were holding other parts together). This seemed very impractical however at the time I didn't think much of it other than strange country!
 
