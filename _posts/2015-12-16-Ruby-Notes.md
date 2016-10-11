@@ -84,6 +84,12 @@ def doSomething(list)
 end
 ~~~
 
+#### Substitute / Replace Regex Match
+
+~~~
+"some text".gsub(/text/,'foo') # returns some foo
+~~~
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Working with Arrays
