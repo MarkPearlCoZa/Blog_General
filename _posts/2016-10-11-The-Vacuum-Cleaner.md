@@ -7,13 +7,13 @@ category: General
 
 We have recently moved to a new country. For those that have had the experience of moving countries, there is a stage where everything around you seems foreign.
 
-While we are waiting for our "stuff" to arrive from South Africa we were going through this stage - to make it worse, we were staying in temporary furnished accomodation.
+While we are waiting for our "stuff" to arrive from South Africa we were going through this stage - to make it worse, we were staying in temporary furnished accommodation.
 
 A few weeks into being at the new place I came home after work to a very frustrated wife. She had spent the better part of an hour dismantling the vacuum cleaner so that she could empty it out. As she explained, whoever designed it had made a fundamental design mistake. Instead of using a latch to keep the dirt container closed they had used small screws. 
 
 On needing to empty the vacuum, she first had to figure out which of the screws needed to be removed (there were other screws that were holding other parts together which made it even more complex). This seemed very impractical however at the time I didn't think much of it other than strange country!
 
-The other day I decided to let my wife relax while I cleaned the house. Up till then she had been doing the majority of the cleaning while I was at work each day, and I wanted her to have a break. Over the last few weeks since we had first spoken about the absurd cleaner she had emptied it several times, each time going through the laborious task of unscrewing the lid. Needing to empty the cleanermyself, I looked at the container and immediately realized there was a lever on the other side of the container that when pressed conveniently flipped open to be emptied.
+The other day I decided to let my wife relax while I cleaned the house. Up till then she had been doing the majority of the cleaning including all the vacuuming. Over the last few weeks since we had first spoken about the absurd cleaner she had emptied it several times, each time going through the laborious task of unscrewing the lid. Needing to empty the cleanermyself, I looked at the container and immediately realized there was a lever on the other side of the container that when pressed conveniently flipped open to be emptied.
 
 Thinking of this experience and relating it to software development, we often have similar situations where we just don't see the design as it was originally intended. This often results in us taking overly complex approaches to getting the basics done.
 
