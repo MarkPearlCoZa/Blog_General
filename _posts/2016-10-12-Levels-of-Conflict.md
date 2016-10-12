@@ -58,3 +58,11 @@ category: Soft
 - It's not enough that one wins, others must lose  
 - No constructive outcome can be had
 
+## Things to do
+
+- Feel the energy in the room  
+- Focus on language  
+
+#### References 
+
+[Coaching Agile Teams Book](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
