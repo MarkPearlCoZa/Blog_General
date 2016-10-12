@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Levels of Conflict
-tags: 
+tags: Conflict
 category: Soft
 ---
 
