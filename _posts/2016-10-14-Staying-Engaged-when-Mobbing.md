@@ -5,7 +5,7 @@ tags: Mobbing Collaboration
 category: General
 ---
 
-A recent challenge my team is facing as they begin to adopt mob programming as their default way of doing work is staying engaged during discovery phases. An example of where this became apparent was when we were working on automating a section of our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on the tool and infrastructure for automating things.
+A recent challenge my team is facing as they begin to adopt mob programming is staying engaged during discovery phases. An example of where this became apparent was when we were working on automating a section of our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on the tool and infrastructure for automating things.
 
 I happened to be away from the team for a few days at a point when the team started some automation work. I've noticed that up to now, when I'm not in the mob, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. In this instance, the person with the most knowledge about automation ended up behind the keyboard. They started moving really quickly. While they had a much better understanding of the tools we were using for automation, they also didn't understand the tools properly and were clearly in the discovery stage while attempting the work.
 
