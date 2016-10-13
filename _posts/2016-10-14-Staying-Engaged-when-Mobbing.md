@@ -13,9 +13,10 @@ Because we had such a wide gap in understanding what was happening, people began
 
 Lucklily this didn't happen for to long before it was brought up, on discussion ensued on what we should do in situations like this.
 
-### Our two rules
+### What we changed
 
 We decided on a few things:  
+
 - The person with the most context should be at the keyboard the least - a techique adapted from strong pairing    
 - If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, timebox that period and then resume the mob.    
 
