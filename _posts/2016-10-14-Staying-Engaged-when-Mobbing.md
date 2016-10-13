@@ -11,26 +11,26 @@ I happened to be away from the team for a few days at a point when the team star
 
 Because we had such a wide gap in understanding what was happening, people began to get disengaged as they understood less and less of what the driver was doing and as he went down certain 'dead ends'- people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
 
-Lucklily this didn't happen for to long before it was brought up, on discussion ensued on what we should do in situations like this.
+Luckily this didn't happen for to long before it was brought up, on discussion ensued on what we should do in situations like this.
 
 ### What we changed
 
 We decided on a few things:  
 
-- The person with the most context should be at the keyboard the least - a techique adapted from strong pairing    
-- If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, timebox that period and then resume the mob.    
+- The person with the most context should be at the keyboard the least - a technique adapted from strong pairing    
+- If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, time box that period and then resume the mob.    
 
 #### Strong Pairing
 
-The person with the most context not being at the keyboard is not a new concept - I've been familiar with it from pair programming days where it is called strong pairing. This type of approach can be a challenge for thos who have not fully developed the skill of navigating and it is a useful challenge to conquer.
+The person with the most context not being at the keyboard is not a new concept - I've been familiar with it from pair programming days where it is called strong pairing. This type of approach can be a challenge for those who have not fully developed the skill of navigating and it is a useful challenge to conquer.
 
 In this instance, as we began to implement strong pairing we noticed the following behavior. The person with the most context up to that point who had also been driving the most began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted the driver to do. It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
-It tooks us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers.
+It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers.
 
-#### Timeboxed Separations
+#### Time boxed Separations
 
-We haven't done timeboxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong pairing we will not need to have timeboxed separations. 
+We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong pairing we will not need to have time boxed separations. 
 
 ### One other thing to look out for
 
@@ -46,7 +46,7 @@ It was really frustrating for the rest of the mob because when engaged he was su
 
 I've also not blameless in this regard. I've been that person before.
 
-Personally, I now try and leave my mobile phone at my desk and far away from the mob. This encourages me to every 30 or so mintues briefly leave the mob to check my messages, which I think is a good thing - I get to stretch my legs a bit, and take a brain breather. I would recommend this practice to mobs where mobile phones become a problem.
+Personally, I now try and leave my mobile phone at my desk and far away from the mob. This encourages me to every 30 or so minutes briefly leave the mob to check my messages, which I think is a good thing - I get to stretch my legs a bit, and take a brain breather. I would recommend this practice to mobs where mobile phones become a problem.
 
 
 
