@@ -114,6 +114,8 @@ maxValue = [1, 2, 3].max    # gets the largest value
 
 #### Select 
 
+Returns an array containing all elements for which the given block returns true  
+
 ~~~
 [1, 2, 3, 4, 5].select {|n| n % 2 == 0}  # Should return [2, 4]
 ~~~
@@ -150,6 +152,22 @@ Alternatively...
 
 ~~~
 [1, 2, 3, 4, 5].partition {|n| n % 2 == 0} # Should return [[2, 4],[1, 3, 5]]
+~~~
+
+#### Comparing Array Differences
+
+~~~
+x = [1, 1, 2, 4]
+y = [1, 2, 2, 2]
+
+# intersection
+x & y            # => [1, 2]
+
+# union
+x | y            # => [1, 2, 4]
+
+# difference
+x - y            # => [4]
 ~~~
 
 ### Other
