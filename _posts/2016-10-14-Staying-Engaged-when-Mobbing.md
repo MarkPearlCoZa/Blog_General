@@ -22,7 +22,7 @@ We decided on a few things:
 
 #### Strong Pairing
 
-The person with the most context not driving is not a new concept - I've been familiar with it from pair programming days where it is called strong pairing. This type of approach can be a challenge for developers who have not fully developed the skill of navigating and it is a useful challenge to conquer.
+The person with the most context not being at the keyboard is not a new concept - I've been familiar with it from pair programming days where it is called strong pairing. This type of approach can be a challenge for developers who have not fully developed the skill of navigating and it is a useful challenge to conquer.
 
 In this instance, as we began to implement strong pairing we noticed the following behavior. The person with the most context up to that point who had also been driving the most began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted the driver to do. It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
