@@ -2,7 +2,7 @@
 layout: post
 title: The Law of Two Feet in the Workplace
 tags: Meetings 
-category: Rough
+category: Misc
 ---
 
 The first time I was introduced to the **law of 2 feet** was late in 2013 at the Drivinci unconference. 
