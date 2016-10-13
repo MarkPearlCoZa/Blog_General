@@ -9,9 +9,9 @@ A recent challenge my team is facing as they begin to adopt mob programming is s
 
 I happened to be away from the team for a few days at a point when the team started some automation work. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
 
-In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't understand the tools properly and were clearly in the exploration stage. They started moving really quickly. 
+In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't have a fully understanding of the tool. He started moving really quickly trying different things. 
 
-Because we had such a wide gap in understanding what was happening, people began to get disengaged as they understood less and less of what the driver was doing and as he went down certain 'dead ends'- people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
+Because we had such a wide gap in understanding what was happening, the rest of the mob began to get disengaged as they understood less and less of what the person was doing. As he went down certain 'dead ends' more people would get lost - people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
 
 Luckily this didn't happen for to long before it was brought up, a discussion ensued on what we should do in situations like this.
 
