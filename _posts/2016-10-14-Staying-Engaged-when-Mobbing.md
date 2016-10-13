@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Staying Engaged when Mobbing
+title: Staying engaged when mobbing
 tags: Mobbing Collaboration
 category: General
 ---
