@@ -2,7 +2,7 @@
 layout: post
 title: Staying engaged when mobbing
 tags: Mobbing Collaboration
-category: General
+category: Misc
 ---
 
 A recent challenge my team is facing as they begin to adopt mob programming is staying engaged during discovery phases. This became apparent when we were working on automating a section of our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on the tool and infrastructure for automating things.
