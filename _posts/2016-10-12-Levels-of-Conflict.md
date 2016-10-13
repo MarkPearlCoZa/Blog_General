@@ -71,7 +71,11 @@ category: Soft
 
 #### Observations on conversations
 
-- 
+- Conversations become more idealogical
+
+"They'll never change so it's not even worth talking to them"  
+"We're right"  
+"They wrong, plain and simple"  
 
 ### Level 5 - World War
 
@@ -82,6 +86,9 @@ category: Soft
 #### Observations on conversations
 
 - Why talk when we can hit each other
+
+"We have to win"  
+"It's us or them"
 
 ------------------------------------------------------------------------------------------------
 
