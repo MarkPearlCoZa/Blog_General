@@ -13,17 +13,39 @@ Because we had such a wide gap in understanding what was happening, people began
 
 Lucklily this didn't happen for to long before it was brought up, on discussion ensued on what we should do in situations like this.
 
+### What we came up with
+
 We decided on a few things:
 - The person with the most context should be at the keyboard the least - a techique adapted from strong pairing  
-- If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, time box that period and then resume the mob.  
+- If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, timebox that period and then resume the mob.  
 
-### Strong Pairing
+#### Strong Pairing
 
 The person with the most context not driving is not a new concept - I've been familiar with it from pair programming days where it is called strong pairing. This type of approach can be a challenge for developers who have not fully developed the skill of navigating and it is a useful challenge to conquer.
 
-In this instance, as we began to implement strong pairing we noticed the following behavior. The person with the most context up to that point who had also been driving the most began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted the driver to do. It was also clear that the people who had been at the mob up to then but not really in the mob had some big gaps in their understanding of what had happened over the last few days. 
+In this instance, as we began to implement strong pairing we noticed the following behavior. The person with the most context up to that point who had also been driving the most began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted the driver to do. It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
-It tooks us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs. Understanding began to spread across the whole mob - gaps were filled and the team is in a better place than it was before.
+It tooks us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers.
+
+#### Timeboxed Separations
+
+We haven't done timeboxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong pairing we will not need to have timeboxed separations. 
+
+### One other thing to look out for
+
+There is one other thing to look out for, that hasn't yet become a thing our team and that is the challenge of mobile phone.
+
+#### Mobile phones
+
+Mobile phones frustrate me in mobs. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. 
+
+He was often there, but not there - if that makes sense? 
+
+It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking would also actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. 
+
+I've also not blameless in this regard. I've been that person before.
+
+Personally, I now try and leave my mobile phone at my desk and far away from the mob. This encourages me to every 30 or so mintues briefly leave the mob to check my messages, which I think is a good thing - I get to stretch my legs a bit, and take a brain breather. I would recommend this practice to mobs where mobile phones become a problem.
 
 
 
