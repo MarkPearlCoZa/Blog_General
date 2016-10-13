@@ -11,7 +11,7 @@ I happened to be away from the team for a few days at a point when the team star
 
 Because we had such a wide gap in understanding what was happening, people began to get disengaged as they understood less and less of what the driver was doing and as he went down certain 'dead ends'- people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
 
-Luckily this didn't happen for to long before it was brought up, on discussion ensued on what we should do in situations like this.
+Luckily this didn't happen for to long before it was brought up, a discussion ensued on what we should do in situations like this.
 
 ### What we changed
 
