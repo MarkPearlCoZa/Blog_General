@@ -7,7 +7,9 @@ category: Misc
 
 A recent challenge my team is facing as they begin to adopt mob programming is staying engaged during discovery phases. This became apparent when we were working on automating a section of our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on our automation tools and infrastructure.
 
-I happened to be away from the team for a few days at a point when the team started some automation work. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't understand the tools properly and were clearly in the discovery stage while attempting the work.They started moving really quickly. 
+I happened to be away from the team for a few days at a point when the team started some automation work. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
+
+In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't understand the tools properly and were clearly in the discovery stage while attempting the work.They started moving really quickly. 
 
 Because we had such a wide gap in understanding what was happening, people began to get disengaged as they understood less and less of what the driver was doing and as he went down certain 'dead ends'- people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
 
