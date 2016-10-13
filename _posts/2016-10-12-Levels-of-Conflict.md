@@ -7,6 +7,8 @@ category: Soft
 
 <img class="img-responsive" alt="Levels of Conflict" src="{{ site.url }}/assets/images/levelsofconflict.jpg">
 
+------------------------------------------------------------------------------------------------
+
 ### Level 1 - Problem to Solve
 
 - Everyday frustrations and aggravations  
@@ -29,20 +31,35 @@ category: Soft
 - Nastiness gets a sugarcoating but still comes across as bitter  
 - People are wary  
 
-#### Words used
+#### Observations on conversations
 
 - Language moves from specific to general  
-- Don't share all you know about the issues  
+- Conversations change to make room for self-protection  
+- What's not being said gives as many clues as to what is being said  
+- People don't share all they know about the issues  
+
+"Yes I broke the build, but I think we need to look at the bigger picture"  
+"You are doing the same thing you did last time that didn't work"  
 
 ### Level 3 - Contest
 
-- Aim is to win  
+- People aim to "win"  
 - Compounding effect occurs as prior conflict and problems remain unresolved  
 - Multiple issues cluster into larger issues or create a "cause"  
-- People begin to aling themselves with one side or the other  
+- People begin to aligning themselves with one side or the other  
 - Emotions become tools used to "win" supporters for one's position  
 - Problems and people become synonymous  
+
+#### Observations on conversations
+
 - Language becomes distorted  
+- Over generalizations, presumptions, magnified positions
+- Real issues get lost
+
+"If only she weren't on the team"  
+"He always talks in minute detail"  
+"They always take shortcuts"  
+"I don't even know what we are trying to solve right now"  
 
 ### Level 4 - Crusade
 
@@ -52,11 +69,26 @@ category: Soft
 - People and positions are seen as one
 - Overall attitude is righteous and punitive
 
+#### Observations on conversations
+
+- 
+
 ### Level 5 - World War
 
 - Destroy!  
 - It's not enough that one wins, others must lose  
 - No constructive outcome can be had
+
+#### Observations on conversations
+
+- Why talk when we can hit each other
+
+------------------------------------------------------------------------------------------------
+
+## What to do in conflict
+
+- Don't react to every whim of a conflict - some levels of conflict naturally diffuse with time  
+- Focus on language during conflict, 
 
 ## Things to do
 
