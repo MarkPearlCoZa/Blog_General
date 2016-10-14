@@ -28,7 +28,7 @@ In principle, mobbing still seemed like a good fit.
 We decided to continue mobbing on work like this but with a few adjustments to our process.
 
 - We strictly rotate the person behind the keyboard at a set time interval (we currently work on 10 minute rotations)  
-- The person behind the keyboard is at the mercy of the mob - they cannot 'try' their own idea - if they want to do that, they need to give the keyboard to someone else (we call this strong mobbing)  
+- The person behind the keyboard is at the mercy of the mob - they cannot 'try' their own idea - if they want to do that, they need to give the keyboard to someone else - a practice we call strong mobbing  
 - If it feels like the entire mob is not going anywhere and we should be working on our own to figure something out, we time box that period on our own and resume the mob as soon as the time box has run out  
 
 #### Strong Mobbing 
