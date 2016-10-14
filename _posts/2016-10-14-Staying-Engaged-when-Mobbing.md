@@ -45,7 +45,7 @@ It took us several hours, some deep breaths and lots of joking around before we 
 
 We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong mobbing we will not need to have time boxed separations and there is some security in saying we are not going to be dogmatic about a particular approach to tackling work.
 
-### Avoid distracting mobile phones
+### Being at the mob, but not in it
 
 There is one other thing that hasn't yet become a thing in our team, but has been a challenge in the past that I would like to mention - excessive mobile phone context switching.
 
