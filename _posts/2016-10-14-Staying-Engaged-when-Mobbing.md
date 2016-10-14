@@ -25,7 +25,7 @@ In principle, mobbing still seemed like a good fit.
 
 ### Adjustments to our process
 
-We decided to continue mobbing on work like this but with a few adjustments to our process going forward:
+We decided to continue mobbing on work like this but with a few adjustments to our process going forward.
 
 - The person with the most context should be at the keyboard the least - a technique adapted from strong pairing - I've renamed the practice to strong mobbing  
 - If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, time box that period and then resume the mob.    
