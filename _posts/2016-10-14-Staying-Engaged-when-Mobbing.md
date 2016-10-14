@@ -7,7 +7,7 @@ category: Misc
 
 A recent challenge we have faced as my new team begins to adopt mob programming is staying engaged during exploration phases of work. This surfaced when we started work on automating our latest feature into our build pipeline - as a team we see value in automation AND currently we have varying expertise with our infrastructure and automation tooling.
 
-I happened to be away from the team for a few days at a point when the team started some automation work. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
+As we began the automation work, I happened to be away from the team. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
 
 In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't have a fully understanding of the tool. He started moving really quickly trying different things. 
 
