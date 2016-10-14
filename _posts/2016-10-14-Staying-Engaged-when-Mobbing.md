@@ -19,9 +19,13 @@ Luckily we had our fortnightly team retrospective the same day I returned - the 
 
 ### Is mobbing good for exploratory work?
 
-In my experience, mobbing has been really good for exploratory work. Fundamentally, you have a bunch of people with different insights looking at the same problem at different angles - this doesn't seem any different from mobbing on normal programming work. When there is general consensus on what direction to go, it's relatively easy. The challenge is when everyone in the mob wants to go a different direction. At these times "thrashing" ensues, 
+In my experience, mobbing has been really good for exploratory work. Fundamentally, you have a bunch of people with different insights looking at the same problem at different angles - this doesn't seem any different from mobbing on normal programming work. The only difference I could see was in this situation there was no consensus on the direction to go - and in having the person who was best equipped behind the keyboard we exacerbated the issue.
+
+In principle, mobbing still seemed like a good fit.
 
 ### What we changed
+
+
 
 We decided on a few things:  
 
