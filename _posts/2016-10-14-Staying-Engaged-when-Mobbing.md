@@ -9,9 +9,9 @@ A recent challenge we have faced as my new team begins to adopt mob programming 
 
 As the mob began the automation work, I had to leave them for a few days to attend a local conference. On returning from the conference it was apparent that the mob was not in as good a state as it had been before. During our team retrospective it was suggested that while mobbing was great for programming, maybe it was not good for 'ops' or automation work.
 
-This surprised me, I would have thought that on work where we had very little and vastly varying knowledge mobbing would do really well.
+This surprised me, I would have thought that on work where we had very little and vastly varying knowledge mobbing would do really well?
 
-On probing, it cathe person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't have a fully understanding of the tool. He started moving really quickly trying different things. 
+On probing, it became apparent that what had happened was the person with the most knowledge about automation and our infrastrucutre had ended up behind the keyboard for most of the time. While they had a much better understanding of the tools we were using for automation, they also didn't have a fully understanding of the tool. He started moving really quickly trying different things. 
 
 Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
 
