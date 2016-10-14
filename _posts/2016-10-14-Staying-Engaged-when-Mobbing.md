@@ -43,7 +43,7 @@ It took us several hours, some deep breaths and lots of joking around before we 
 
 ### Time boxed separations
 
-We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong mobbing we will not need to have time boxed separations and there is some security in saying we are not going to be dogmatic about a particular approach to tackling work.
+We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong mobbing we will not need to have time boxed separations and there is some security in saying we are not going to be dogmatic about a particular approach to tackling work is a good thing.
 
 ### Mobile phones
 
