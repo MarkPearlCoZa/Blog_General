@@ -5,7 +5,7 @@ tags: Mobbing Collaboration
 category: Misc
 ---
 
-A recent challenge we have faced as my new team begins to adopt mob programming is staying engaged during exploration phases. This became apparent when we were working on automating a section of our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on our automation tools and infrastructure.
+A recent challenge we have faced as my new team begins to adopt mob programming is staying engaged during exploration phases of work. This surfaced when we started work on automating a recently completed feature into our build pipeline - we all see the value of automation AND currently we have vastly different levels of comfort and knowledge on our automation tools and infrastructure.
 
 I happened to be away from the team for a few days at a point when the team started some automation work. Up to now, rotating the driver has been relaxed - sometimes the mob will do it at a regular cadence, sometimes they will not. 
 
