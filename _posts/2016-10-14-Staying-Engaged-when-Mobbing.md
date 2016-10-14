@@ -25,11 +25,9 @@ In principle, mobbing still seemed like a good fit.
 
 ### What we changed
 
+We decided on a few things adjustments to how we mob going forward:
 
-
-We decided on a few things:  
-
-- The person with the most context should be at the keyboard the least - a technique adapted from strong pairing    
+- The person with the most context should be at the keyboard the least - a technique adapted from strong pairing - I've renamed the practice to strong mobbing  
 - If it feels like the entire mob is not going anywhere, and we need to do some basic tutorials on something and it is best done on ones own, time box that period and then resume the mob.    
 
 #### Strong Pairing
