@@ -136,6 +136,13 @@ Does the funciton on each element in the array and then returns the ORIGINAL arr
 [1, 2, 3].map { |num| num*num }     # returns 1, 4, 9
 ~~~
 
+#### Sorting
+
+~~~
+arr = ['cab', 'abc', 'bca']
+arr.sort_by { |i| arr[i] }   # ['abc', 'bca', 'cab' ]
+~~~
+
 #### Inject / Reduce 
 
 ~~~
