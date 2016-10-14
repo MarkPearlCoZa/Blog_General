@@ -47,9 +47,9 @@ We haven't done time boxed separations yet. I'm nervous about making this a regu
 
 ### Avoid distracting mobile phones
 
-There is one other thing that hasn't yet become a thing in our team, but has been a challenge in the past that I would like to make mention. Mobile phone context switching.
+There is one other thing that hasn't yet become a thing in our team, but has been a challenge in the past that I would like to mention - excessive mobile phone context switching.
 
-Over use of mobile phones frustrates me in mobs. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. 
+Over use of mobile phones is a danger in a mob. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. 
 
 He was often there, but not there - if that makes sense? 
 
