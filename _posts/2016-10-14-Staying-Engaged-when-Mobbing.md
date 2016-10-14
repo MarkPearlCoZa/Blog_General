@@ -33,9 +33,11 @@ We decided to continue mobbing on work like this but with a few adjustments to o
 
 #### Strong Mobbing 
 
-The practice of strong mobbing is not a new one - for me it's fundamental to making mobbing work in areas where there is high uncertainty on what the next step a mob should take. At it's essence, for an idea to be expressed it has to first go through some one not at the keyboard. This has it's roots in 'strong pairing'. For those who have not fully developed the skill of navigating in these situations it can prove to be a challenge.
+The practice of strong mobbing is not a new one - for me it's fundamental to making mobbing work in areas where there is high uncertainty on what the next step a mob should take. At it's essence, for an idea to be expressed it has to first go through some one not at the keyboard. This has it's roots in 'strong pairing'. For those who have not fully developed the skill of navigating in these situations it can prove to be a challenge and it is a useful skill to develop. 
 
-In this instance, as we began to implement strong pairing we noticed the following behavior. The person with the most context up to that point who had also been driving the most began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted the driver to do. It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
+In the ensuing day as we began to implement strong mobbing we noticed the following behavior. The person with the most context on out infrastructure and automation tooling began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted us to do. 
+
+It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
 It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers.
 
