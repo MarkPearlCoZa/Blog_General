@@ -7,7 +7,7 @@ category: Misc
 
 A recent challenge we have faced as my new team begins to adopt mob programming is staying engaged during exploration phases of work. This surfaced when we started work on automating our latest feature into our build pipeline - as a team we see value in automation AND currently we have varying expertise with our infrastructure and automation tooling.
 
-As the mob began the automation work, I was not able to spend time with the mob for a few days due to me attending a local conference.
+As the mob began the automation work, I had to leave them for a few days to attend a local conference. On returning from the conference it was apparent that the mob was not in as good a state as it had been before. During our team retrospective it was suggested that while mobbing was great for programming, maybe it was not good for 'ops' or automation work.
 
 In this instance, the person with the most knowledge about automation ended up behind the keyboard. While they had a much better understanding of the tools we were using for automation, they also didn't have a fully understanding of the tool. He started moving really quickly trying different things. 
 
