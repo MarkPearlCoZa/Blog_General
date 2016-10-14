@@ -51,7 +51,7 @@ There is one other thing that hasn't yet become a thing in our team, but has bee
 
 Over use of mobile phones is a danger in a mob. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. He was often there, but not there - if that makes sense? 
 
-It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking would also actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. 
+It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. 
 
 I've also not blameless in this regard. I've been that person before.
 
