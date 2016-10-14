@@ -31,7 +31,7 @@ We decided to continue mobbing on work like this but with a few adjustments to o
 - The person behind the keyboard is at the mercy of the mob - they cannot 'try' their own idea - if they want to do that, they need to give the keyboard to someone else - a practice we call strong mobbing  
 - If it feels like the entire mob is not going anywhere and that we need to work on our own to figure something out, we time box being on our own and resume the mob as soon as the time box has run out  
 
-#### Strong Mobbing 
+### Strong Mobbing 
 
 The practice of strong mobbing is not a new one - for me it's fundamental to making mobbing work in areas where there is high uncertainty on what the next step a mob should take. At it's essence, for an idea to be expressed it has to first go through some one not at the keyboard. This has it's roots in 'strong pairing'. For those who have not fully developed the skill of navigating in these situations it can prove to be a challenge and it is a useful skill to develop. 
 
@@ -39,17 +39,15 @@ In the ensuing day as we began to implement strong mobbing we noticed that the p
 
 It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
-It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers.
+It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of that session better developers - having a deeper understanding of how a section of our system that very few of us had understood up to now.
 
-#### Time boxed Separations
+### Time boxed separations
 
-We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong pairing we will not need to have time boxed separations. 
-
-### One other thing to look out for
-
-There is one other thing to look out for, that hasn't yet become a thing our team and that is the challenge of mobile phone.
+We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong mobbing we will not need to have time boxed separations however, that said there is some security in saying we are not going to be dogmatic about a particular approach to tackling work.
 
 #### Mobile phones
+
+There is one other thing to look out for, that hasn't yet become a thing our team and that is the challenge of mobile phone.
 
 Mobile phones frustrate me in mobs. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. 
 
