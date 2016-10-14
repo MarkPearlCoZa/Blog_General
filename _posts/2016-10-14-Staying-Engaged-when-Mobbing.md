@@ -45,11 +45,13 @@ It took us several hours, some deep breaths and lots of joking around before we 
 
 We haven't done time boxed separations yet. I'm nervous about making this a regular practice. Personally I feel if we get good at strong mobbing we will not need to have time boxed separations and there is some security in saying we are not going to be dogmatic about a particular approach to tackling work.
 
-### Being at the mob, but not in it
+### Avoid distracting mobile phones
 
 There is one other thing that hasn't yet become a thing in our team, but has been a challenge in the past that I would like to mention - excessive mobile phone context switching.
 
 Over use of mobile phones is a danger in a mob. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. He was often there, but not there - if that makes sense? 
+
+> Being at the mob, but not in it
 
 It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. It got to a point where individuals in the mob each had a quite chat with the person expressing their frustration. While we sorted it out, it's easier to avoid the situation from day one.
 
