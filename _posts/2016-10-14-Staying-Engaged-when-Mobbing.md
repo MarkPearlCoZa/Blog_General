@@ -17,6 +17,10 @@ Because there was such a wide gap in understanding on this part of our system, a
 
 Luckily we had our fortnightly team retrospective the same day I returned - the concern was brought up and a discussion ensued on whether this was something mobbing was not suitable for; or if it was, what we should change in how we mob to get value from the practice.
 
+### Is mobbing good for exploratory work?
+
+In my experience, mobbing is really good for exploratory work. 
+
 ### What we changed
 
 We decided on a few things:  
