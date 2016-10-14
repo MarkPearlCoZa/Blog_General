@@ -11,7 +11,7 @@ As the mob began the automation work, I left them for a few days to attend a loc
 
 This surprised me, I would have thought that with exploration work, where the team had very little and vastly varying knowledge, mobbing would do really well?
 
-On probing, it became apparent that over the last few days, the person with the most knowledge about infrastructure and automation tooling had ended up behind the keyboard for most of the time. In trying to get things working, he started moving very quickly trying different things. Up to now rotating the person behind the keyboard had been relaxed - sometimes the mob had rotated regularly, sometimes they had gone for long periods of time with the same person at the keyboard. 
+On probing, it became apparent that over the last few days the person with the most knowledge about infrastructure and automation tooling had ended up behind the keyboard for most of the time. In trying to get things working, he started moving very quickly trying different things. Up to now rotating the person behind the keyboard had been relaxed - sometimes the mob had rotated regularly, sometimes they had gone for long periods of time with the same person at the keyboard. 
 
 Because we had such a wide gap in understanding what was happening, the rest of the mob began to get disengaged as they understood less and less of what the person was doing. As he went down certain 'dead ends' more people would get lost - people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
 
