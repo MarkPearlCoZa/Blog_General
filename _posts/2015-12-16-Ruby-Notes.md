@@ -143,6 +143,13 @@ arr = ['cab', 'abc', 'bca']
 arr.sort_by { |i| arr[i] }   # ['abc', 'bca', 'cab' ]
 ~~~
 
+Or...
+
+~~~
+arr = ['cab', 'abc', 'bca']
+arr.sort {|a,b| a<=>b }      # ['abc', 'bca', 'cab' ]
+~~~
+
 #### Inject / Reduce 
 
 ~~~
