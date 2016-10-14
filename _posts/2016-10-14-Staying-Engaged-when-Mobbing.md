@@ -35,7 +35,7 @@ We decided to continue mobbing on work like this but with a few adjustments to o
 
 The practice of strong mobbing is not a new one - for me it's fundamental to making mobbing work in areas where there is high uncertainty on what the next step a mob should take. At it's essence, for an idea to be expressed it has to first go through some one not at the keyboard. This has it's roots in 'strong pairing'. For those who have not fully developed the skill of navigating in these situations it can prove to be a challenge and it is a useful skill to develop. 
 
-In the ensuing day as we began to implement strong mobbing we noticed that the person who up to now had the most context on out infrastructure and automation tooling began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted us to do. 
+In the ensuing day as we began to implement strong mobbing we noticed that the person who up to now had the most context on our infrastructure and automation tooling began to be frustrated - we were moving slower than we were before and he was battling to verbalize what he wanted us to do. 
 
 It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
