@@ -23,7 +23,7 @@ In my experience, mobbing has been really good for exploratory work. Fundamental
 
 In principle, mobbing still seemed like a good fit.
 
-### What we changed
+### Adjustments to our process
 
 We decided to continue mobbing on work like this but with a few adjustments to our process going forward:
 
