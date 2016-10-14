@@ -51,12 +51,11 @@ There is one other thing that hasn't yet become a thing in our team, but has bee
 
 Over use of mobile phones is a danger in a mob. I once worked in a team where one member while sitting in the mob spent a large portion of his time on his mobile. He was often there, but not there - if that makes sense? 
 
-It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. 
+It was really frustrating for the rest of the mob because when engaged he was such a good developer. His mobile phone checking actively impacted the flow of the mob because he would continually have to ask what we had done while he was on his phone. In some situations he would repeat questions or want to discuss things we had just discussed a minute earlier. It got to a point where individuals in the mob each had a quite chat with the person expressing their frustration. While we sorted it out, it's easier to avoid the situation from day one.
 
-I've also not blameless in this regard. I've been that person before.
+I'm also not blameless in this regard. There have been days when I've been THAT person.
 
-Personally, I now try and leave my mobile phone at my desk and far away from the mob. This encourages me to every 30 or so minutes briefly leave the mob to check my messages, which I think is a good thing - I get to stretch my legs a bit, and take a brain breather. I would recommend this practice to mobs where mobile phones become a problem.
-
+To avoid this going forward, I leave my mobile phone at my desk and far away from the mob. This encourages me to every 30 or so minutes briefly leave the mob to check my messages. I think this is a good thing - I get to stretch my legs a bit, and take a brain breather and while in the mob I can give my full attention. I would recommend this technique any mob.
 
 
 #### References
