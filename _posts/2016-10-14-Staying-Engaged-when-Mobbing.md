@@ -39,7 +39,7 @@ In the ensuing day as we began to implement strong mobbing we noticed that the p
 
 It was also clear that the people who had been "at" the mob up to then but not really "in" the mob had some big gaps in their understanding of what had happened over the last few days. 
 
-It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of the session better developers - having a deeper understanding of how a section of our system that very few of us had understood up to now.
+It took us several hours, some deep breaths and lots of joking around before we began to have some breakthroughs and gain momentum. As understanding began to spread across the whole mob people began to become engaged in the problem. All in all we came out of the session better developers - having a deeper understanding of how a section of our system that very few of us had understood up to then.
 
 ### Time boxed separations
 
