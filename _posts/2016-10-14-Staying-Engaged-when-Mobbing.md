@@ -13,7 +13,7 @@ This surprised me, I would have thought that with exploration work, where the te
 
 On probing, it became apparent that over the last few days the person with the most knowledge about infrastructure and automation tooling had ended up behind the keyboard for most of the time. In trying to get things working, he started moving very quickly trying different things. Up to now rotating the person behind the keyboard had been relaxed - sometimes the mob had rotated regularly, sometimes they had gone for long periods of time without any rotation. 
 
-Because there was such a wide gap in understanding on this part of our system, as people got lost they began to get disengaged which resulted in them understanding less and less. As he went down certain 'dead ends' more people would get lost - people were still 'at the mob' but were not 'in the mob'. With time they began to exercise the law of two feet and go back to their own desks.
+Because there was such a wide gap in understanding on this part of our system, as people got lost they began to get disengaged which resulted in them understanding less and less of what was going on. This was a vicious cycle ending in the 'law of two feet' being invoked and go back to their own desks.
 
 Luckily this didn't happen for to long before it was brought up, a discussion ensued on what we should do in situations like this.
 
