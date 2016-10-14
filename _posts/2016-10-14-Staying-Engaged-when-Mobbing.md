@@ -15,7 +15,7 @@ On probing, it became apparent that over the last few days the person with the m
 
 Because there was such a wide gap in understanding on this part of our system, as people got lost with what the 'driver' was doing they began to get disengaged which resulted in them understanding less and less of what was going on. This vicious cycle resulted in the majority of the mob invoking the 'law of two feet', ending back at their own desks looking for other things to do.
 
-Luckily this didn't happen for to long before it was brought up, a discussion ensued on what we should do in situations like this.
+Luckily we had our team fortnightly retrospective the same day I returned where the concern was brought up, a discussion ensued on what we should do in situations like this.
 
 ### What we changed
 
