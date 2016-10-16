@@ -31,7 +31,7 @@ We decided to continue mobbing on work like this but with a few adjustments to o
 - The person behind the keyboard is at the mercy of the mob - they cannot 'try' their own idea - if they want to do that, they need to give the keyboard to someone else - a practice we call strong mobbing.  
 - If it feels like the entire mob is not going anywhere and that we need to work on our own to figure something out, we time box being on our own and resume the mob as soon as the time box has run out.  
 
-### Strong Mobbing 
+### Strict strong mobbing 
 
 The practice of strong mobbing is not a new one - for me it's fundamental to making mobbing work in areas where there is high uncertainty on what the next step a mob should take. At it's essence, for an idea to be expressed it has to first go through some one not at the keyboard. This has it's roots in 'strong pairing'. For those who have not fully developed the skill of navigating in these situations it can prove to be a challenge and it is a useful skill to develop. 
 
