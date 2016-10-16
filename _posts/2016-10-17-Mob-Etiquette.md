@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mob Etiquette
-tags: 
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+tags: Mobbing Collaboration 
+category: Unpublished
 ---
 
 #### Only the typist touches the hardware
