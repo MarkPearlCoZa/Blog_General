@@ -38,7 +38,7 @@ Even if you trust the mob, members of the mob might not yet be comfortable commu
 
 #### What if you have an idea you want to implement
 
-You have an idea you think is worth implementing - Great! Let the mob know, ask if someone can take your place as typist while you communicate an idea. They then become the typist, and you become just part of the mob.  
+You have an idea you think is worth implementing - Great! Let the mob know, ask if someone can take your place as typist while you communicate an idea. The person taking the keyboard becomes the typist, and you become just part of the mob.  
 
 -------------------------------------------------------------------------------------------------------------------
 
