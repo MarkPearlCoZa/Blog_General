@@ -30,7 +30,7 @@ Pressing keys on a keyboard is easy and requires little explanation. Trusting th
 
 #### Trust the mob
 
-When you are the typist trust that the rest of the mob knows what they are telling you. If you don't understand **WHAT** they are telling you ask questions. If you don't understand **WHY** they are telling you something don't worry about it until you've finished the method or section of code. The right time to discuss and challenge design decisions is after the solution is out of their heads or when you do not understand what they are asking you to do.  
+When you are the typist trust that the rest of the mob knows what they are telling you. If you don't understand **WHAT** they are asking you to do, ask questions. If you don't understand **WHY** they are telling you something don't worry about it until you've finished the method or section of code. The right time to discuss and challenge design decisions is after the solution is out of their heads or when you do not understand what they are asking you to do.  
 
 #### Become comfortable working with incomplete understanding
 
