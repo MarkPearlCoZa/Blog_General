@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strong Mobbing
+title: Strong mobbing
 tags: Mobbing Collaboration
 category: General 
 ---
