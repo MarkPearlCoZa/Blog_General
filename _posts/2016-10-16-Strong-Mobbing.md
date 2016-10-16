@@ -18,5 +18,9 @@ There are two roles in strong mobbing,
 
 #### The typist
 
-The person at the keyboard is the typist. It is a fairly simple role. You can "be at the keyboard" in languages and editors you are not unfamiliar with
+The person at the keyboard is the typist. It is a fairly simple role. You can "be at the keyboard" in languages and editors you are not unfamiliar with. There are two important things that are required for a happy typist experience:
+
+1) Trust the mob  
+2) Become comfortable working with incomplete understanding  
+
 
