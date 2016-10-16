@@ -30,11 +30,13 @@ Pressing keys on a keyboard is easy and requires little explanation. Trusting th
 
 #### Trust the mob
 
-When you are the typist trust that the rest of the mob knows what they are telling you. If you don't understand **WHAT** they are asking you to do, ask for clarification on what the next step is. If you don't understand **WHY** they are telling you something don't worry about it until you've finished the method or section of code. The right time to discuss and challenge design decisions is after the solution is out of their heads or when you do not understand what they are asking you to do.  
+When you are the typist trust that the rest of the mob knows what they are telling you. If you don't understand **WHAT** they are asking you to do, ask for clarification on what the next step is. If you don't understand **WHY** they are telling you something don't worry about it until you've finished the method or section of code. The right time to discuss and challenge design decisions is after the code is out of their heads and in the editor.
 
 #### Become comfortable working with incomplete understanding
 
-Even if you trust the mob, members of the mob might not yet be comfortable communicating to you in this style. They might try and explain everything they have done up till then to you before they start giving you useful directions - this slows things down and depending on your knowledge of the system, can take hours or even days. Encourage them to rather start solving the problem at hand and that you will gain context as you type. You do not need a complete understand to be an effective typist. In fact, you don't need to know the language, the OS, the editor, the code, or even the problem you are working in.  
+Even if you trust the mob, members of the mob might not yet be comfortable communicating to you in this style. They might try and explain everything they have done up till then to you before they start giving you useful directions - this slows things down and depending on your knowledge of the system, can take hours or even days. 
+
+Rather than getting a complete understanding before you start work, encourage the mob to start solving the problem at hand - you will gain context as you type. You do not need a complete understand to be an effective typist. In fact, you don't need to know the language, the OS, the editor, the code, or even the problem you are working in.  
 
 #### What if you have an idea you want to implement
 
