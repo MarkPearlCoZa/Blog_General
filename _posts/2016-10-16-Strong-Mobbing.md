@@ -22,11 +22,11 @@ There are two roles in strong mobbing,
 
 The person at the keyboard is the typist. It is a fairly simple role. You qualifies you to be the typist? You can "be the typist" in languages you are not familiar with, editors you have never used before on code bases you have never looked at before. To be the typist press keys, trust the mob and be comfortable working with an incomplete understanding.
 
-Pressing keys on a keyboard is easy and requires little explanation. Trusting the mob and working with incomplete understanding requires a little more explanation.
-
 > - Press keys
 > - Trust the mob  
 > - Become comfortable working with incomplete understanding  
+
+Pressing keys on a keyboard is easy and requires little explanation. Trusting the mob and working with incomplete understanding requires a little more explanation.
 
 #### Trust the mob
 
