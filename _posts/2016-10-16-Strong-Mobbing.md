@@ -24,7 +24,7 @@ The person at the keyboard is the typist. It is a fairly simple role. What quali
 
 > - Press keys
 > - Trust the mob  
-> - Become comfortable working with incomplete understanding  
+> - Become comfortable working with an incomplete understanding  
 
 Pressing keys on a keyboard is easy and requires little explanation. Trusting the mob and working with incomplete understanding requires a little more explanation.
 
