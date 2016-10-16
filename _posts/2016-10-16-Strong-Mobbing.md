@@ -2,7 +2,7 @@
 layout: post
 title: Strong Mobbing
 tags: Mobbing Collaboration
-category: WIP
+category: General 
 ---
 
 This post on "Strong Mobbing" is based on Llewellyn Falco's post on [strong-style pairing](http://llewellynfalco.blogspot.co.nz/2014/06/llewellyns-strong-style-pairing.html)  
@@ -70,14 +70,14 @@ Although you are brilliant intelligent person, you are going to make mistakes an
 
 -------------------------------------------------------------------------------------------------------------------
 
-### Mob etiquette
+### Final thoughts
 
-#### Only the typist touches the hardware
+Strong mobbing for me is normal mobbing - I'm sure there are other ways to do mob programming effectively, this seems to be the most effective way for the teams I have worked with. Whenever a mob starts there is always a bit of "storming" - that's people just being people. Treating those around you with kindness, consideration and respect is key for a mob to move from "storming" to "performing". 
 
-Breaking old habits of having to touch hardware to solve your problem can be tough. If you are not the typist keep your hands off the keyboard and the mouse. To many things going on at once helps create chaos. You moving the mouse while someone is trying to type is too many things. Look at getting your setup right, typically mobs have a large screen(s) or projector against a wall - if you need to bring attention to something on the screen, stand by the screen and indicate against it using your hangs than grabbing the mouse and moving the cursor. Turning absolute line numbers on your editor makes it easier to navigate the screen real estate.
+It's easy to have friction over what conceptually is the right approach to a particular part of the codebase. Moving the discussion from being conceptual to being concrete by getting code on the screen often helps a mob move forward. If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work usually its flaws show quickly. 
 
-#### Stay engaged
+If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
-Strong mobbing keeps you engaged - I've written about this before, for an example of why a mob doesn't stay engaged read my post on "[Staying engaged while mobbing](http://blog.markpearl.co.za/Staying-Engaged-when-Mobbing).
+#### References
 
-####
+[Llewellyn's strong-style pairing](http://llewellynfalco.blogspot.co.nz/2014/06/llewellyns-strong-style-pairing.html)  
