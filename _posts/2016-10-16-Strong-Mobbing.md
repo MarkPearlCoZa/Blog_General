@@ -13,8 +13,8 @@ This style of programming is all about increasing communication and collaboratio
 
 There are two roles in strong mobbing, 
 
-1. The typist
-2. The rest of the mob 
+> 1. The typist
+> 2. The rest of the mob 
 
 -------------------------------------------------------------------------------------------------------------------
 
