@@ -57,9 +57,9 @@ As someone who is not the typist but still part of the rest of the mob you have 
 
 As part of rest of the mob, essentially you are part of the problem solving team. It's your job to look for things the typist still needs to do. 
 
-The challenge and beauty of mob programming is that with different people in the mob there will be a certain [level of conflict](http://blog.markpearl.co.za/Levels-of-Conflict) on what approach the typist should take. When you have these situations, it's easy to have friction over what conceptually is the right approach. 
+The challenge and beauty of mob programming is that with different people in the mob there will be a certain [level of conflict](http://blog.markpearl.co.za/Levels-of-Conflict) on what approach the typist should take. When you have these situations, it's easy to have friction over what conceptually is the right approach. Moving the discussion from being conceptual to being concrete by getting code on the screen often helps a mob move forward. 
 
-Moving the discussion from being conceptual to being concrete by getting code on the screen often helps a mob move forward. If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work usually its flaws show quickly. If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
+If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work usually its flaws show quickly. If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
 The key is that while you may see many angles and approaches, and should be keeping track of these in your head, you should be helping the typist to only focus on **one** thing.
 
