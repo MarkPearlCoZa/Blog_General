@@ -61,7 +61,7 @@ The challenge and beauty of mob programming is that with different people in the
 
 If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work its flaws usually show up quickly. If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
-The key is that while you may see many angles and approaches, and should be keeping track of these in your head, you should be helping the typist to only focus on **one** thing.
+The key is that while you may see many angles and approaches as a mob, you should be helping the typist to only focus on **one** thing.
 
 #### Talk in the highest level of abstraction the typist can understand
 
