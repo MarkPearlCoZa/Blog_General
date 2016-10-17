@@ -72,7 +72,7 @@ For example, you may see a potential refactor to simplify the code by extracting
 
 Finding the appropriate level of abstraction is part of the challenge. When a mob is just starting out it typically uses lower levels of abstraction to direct the typist, once a mob begins to get its flow you will find higher levels of abstraction emerge.
 
-At its essence what you are trying to do is communicate in a meaningful way. Don't speak above the rest of the mobs understanding, and keep trying to increase the level of communication and understanding. Stay mindful of the typist and the rest of the mob, constantly adjust to their needs.
+At its essence what you are trying to do is communicate in a meaningful way. Don't speak above the rest of the mobs understanding, and keep trying to increase the level of communication and understanding. Stay mindful of the typist, constantly adjust to their needs.
 
 #### Embrace your humanity
 
