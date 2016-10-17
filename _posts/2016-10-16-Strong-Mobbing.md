@@ -69,7 +69,7 @@ Another very important part of your role is that when directing the typist you s
 
 For example, you may see a potential refactor to simplify the code by extracting a method. Asking the typist to extract the method may be a sufficient level of abstraction. If the typist looks at you with a blank stare, go to a lower level of abstraction. Become a little more explicit - "highlight line 114 to 127 and then press ctrl+alt+m to extract method". 
 
-Finding the appropriate level of abstraction is part of the challenge, when a mob is just starting out it typically uses lower levels of abstraction, once a mob begins to get its flow you will find higher levels of abstraction are used.
+Finding the appropriate level of abstraction is part of the challenge. When a mob is just starting out it typically uses lower levels of abstraction, once a mob begins to get its flow you will find higher levels of abstraction are used.
 
 #### Communicate in a meaningful way
 
