@@ -48,10 +48,10 @@ You have an idea you think is worth implementing - Great! Let the mob know, ask 
 
 ### The rest of the mob
 
-As someone who is not the typist but still part of the mob you have two main jobs:
+As someone who is not the typist but still part of the mob you have three main jobs:
 
 1) Help contribute to discovering what the next logical step is to solving the problem  
-2) When directing the typist, talk in the highest level of abstraction the typist can understand
+2) When directing the typist, talk in the highest level of abstraction the typist can understand  
 3) Embrace your humanity  
 
 #### Discovering what the next logical step is to solving the problem
