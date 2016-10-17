@@ -55,7 +55,11 @@ As someone who is not the typist but still part of the rest of the mob you have 
 
 #### Discovering what the next logical step is to solving the problem
 
-As part of the mob, essentially you are part of the problem solving team. You are looking for things the typist still needs to do. 
+As part of rest of the mob, essentially you are part of the problem solving team. You are looking for things the typist still needs to do. 
+
+The challenge and beauty of mob programming is that with different people in the mob there will be a certain [level of conflict](http://blog.markpearl.co.za/Levels-of-Conflict) on what approach the typist should take. 
+
+When you have these situations, it's easy to have friction over what conceptually is the right approach. Moving the discussion from being conceptual to being concrete by getting code on the screen often helps a mob move forward. If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work usually its flaws show quickly. If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
 The key is that while you may see many angles and approaches, and should be keeping track of these in your head, you should be helping the typist to only focus on **one** thing.
 
@@ -81,9 +85,6 @@ Although you are brilliant intelligent person, you are going to make mistakes an
 
 Strong mobbing for me is normal mobbing - I'm sure there are other ways to do mob programming effectively, this seems to be the most effective way for the teams I have worked with. Whenever a mob starts there is always a bit of "storming" - that's people just being people. Treating those around you with kindness, consideration and respect is key for a mob to move from "storming" to "performing". 
 
-It's easy to have friction over what conceptually is the right approach to a particular part of the codebase. Moving the discussion from being conceptual to being concrete by getting code on the screen often helps a mob move forward. If you have varying ideas of what the typist should be doing, go with the simplest one first - if it works, it is usually a good solution - if it doesn't work usually its flaws show quickly. 
-
-If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
 #### References
 
