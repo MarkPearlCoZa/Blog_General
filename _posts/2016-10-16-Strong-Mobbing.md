@@ -67,7 +67,7 @@ The key is that while you may see many angles and approaches as a mob, you shoul
 
 Another very important part of your role is that when directing the typist you should talk at the highest level of abstraction that the typist is able to digest at that moment. Depending on how long the typist has been with the mob, how in sync they are with what the mob is wanting them to do, and what their skill level is, the level of abstraction may change. 
 
-For example, you may see a potential refactor to simplify the code by extracting a method. Asking the typist to extract the method may be a sufficient level of abstraction. If the typist looks at you you with a blank stare, go to a lower level of abstraction. Become a little more explicit - "highlight line 114 to 127 and then press ctrl+alt+m to extract method". 
+For example, you may see a potential refactor to simplify the code by extracting a method. Asking the typist to extract the method may be a sufficient level of abstraction. If the typist looks at you with a blank stare, go to a lower level of abstraction. Become a little more explicit - "highlight line 114 to 127 and then press ctrl+alt+m to extract method". 
 
 Finding the appropriate level of abstraction is part of the challenge, when a mob is just starting out it typically uses lower levels of abstraction, once a mob begins to get its flow you will find higher levels of abstraction are used.
 
