@@ -60,7 +60,7 @@ As part of the rest of the mob, essentially you are part of the problem solving 
 
 The challenge and beauty of mob programming is that with different people in the mob, at times, there will be a certain [level of conflict](http://blog.markpearl.co.za/Levels-of-Conflict) on what approach the typist should take. When these situations crop up, it's easy to get caught up over what conceptually is the right approach. Moving the discussion from conceptual to concrete by getting code on the screen often helps a mob move forward. 
 
-If you have varying ideas of what the typist should be doing, go with the simplest one first. If it works, it is usually a good solution - if it doesn't work, its flaws usually show up quickly. If you think you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
+If you have varying ideas of what the typist should be doing, go with the simplest one first. If it works, it is usually a good solution - if it doesn't work, its flaws usually show up quickly. If you have multiple ideas that are equally simple, go with the idea that came from the developer who has the least "experience".
 
 The key is that while you may see many angles and approaches as a mob, you should be helping the typist to only focus on **one** thing.
 
