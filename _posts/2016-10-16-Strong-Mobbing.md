@@ -64,7 +64,7 @@ If you have varying ideas of what the typist should be doing, go with the simple
 
 The key is that while you may see many angles and approaches as a mob, you should be helping the typist to only focus on **one** thing.
 
-#### Talk in the highest level of abstraction the typist can understand
+#### Talk at the highest level of abstraction the typist can understand
 
 Another very important part of your role is that when directing the typist you should talk at the highest level of abstraction that the typist is able to digest at that moment. Depending on how long the typist has been with the mob, how in sync they are with what the mob is wanting them to do, and what their skill level is, the level of abstraction may change. 
 
