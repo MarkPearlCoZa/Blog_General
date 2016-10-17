@@ -34,7 +34,7 @@ Pressing keys on a keyboard is easy and requires little explanation. Trusting th
 
 When you are the typist, trust that the rest of the mob knows what they are telling you. If you don't understand **WHAT** they are asking you to do, ask for clarification on what the next step is. If you don't understand **WHY** they are telling you something don't worry about it until you've finished the method or section of code. The right time to discuss and challenge design decisions is after the code is out of their heads and in the editor.
 
-#### Become comfortable working with incomplete understanding
+#### Become comfortable working with an incomplete understanding
 
 Even if you trust the mob, members of the mob might not be comfortable communicating to you in this style. They might try and explain everything they have done up till then to you before they start giving you useful directions - this slows things down, and depending on your knowledge of the system, can take hours or even days. 
 
