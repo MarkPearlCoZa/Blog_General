@@ -9,7 +9,7 @@ This post on "Strong Mobbing" is based on Llewellyn Falco's post on [strong-styl
 
 > "For an idea to go from your head into the computer, it MUST go through someone else's hands"
 
-Strong mobbing is all about increasing communication and collaboration. Verbally communicating how to solve a problem without being at the keyboard is a skill like anything else, and it is one that many programmers have not developed yet. If you are new to strong mobbing don't worry - it's pretty easy to do and most people pick up the basics in a few hours.
+Strong mobbing is all about increasing communication and collaboration. Verbally communicating how to solve a problem without being at the keyboard is a skill like anything else, and it is one that many programmers have not fully developed. If you are new to strong mobbing don't worry - it's pretty easy to do and most people pick up the basics in a few hours.
 
 There are two roles in strong mobbing, 
 
