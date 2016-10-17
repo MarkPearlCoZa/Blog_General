@@ -76,7 +76,7 @@ At its essence what you are trying to do is communicate in a meaningful way. Don
 
 #### Embrace your humanity
 
-Although you are brilliant intelligent person you are going to make mistakes and bad decisions. That's part of being human. Other members of the mob are also going to make mistakes and bad decisions - that doesn't mean they are any less brilliant or intelligent than you. Allow them to be human. 
+Although you are a brilliant intelligent person you are going to make mistakes and bad decisions. That's part of being human. Other members of the mob are also going to make mistakes and bad decisions - that doesn't mean they are any less brilliant or intelligent than you. Allow them to be human. 
 
 When you realize you have made a mistake openly admit it to the mob, but don't let mistakes hold you back from being an active contributor.
 
