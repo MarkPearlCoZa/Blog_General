@@ -207,6 +207,14 @@ object = Hash.new(0)        # another way to declare a empty hash
 object['key'] = :aValue     # adds a value with key with the symbol :aValue
 ~~~
 
+#### Two Dimensional Arrays
+
+Flatten them...
+
+~~~
+[[1,2,3],[4,5,6],[7,8,9]].flatten() # returns [1,2,3,4,5,6,7,8,9]
+~~~
+
 #### Working with Symbols
 
 
