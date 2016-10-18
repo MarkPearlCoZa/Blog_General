@@ -9,8 +9,6 @@ As things near their due date you would expect them to move into adaptive or con
 
 <img class="img-responsive" alt="Backlog Maturity Model" src="{{ site.url }}/assets/images/Backlog-Maturity-Model.png">
 
-### Explantion of area
-
 #### Chaotic
 
 - High uncertainty of requirements, low team understanding. 
