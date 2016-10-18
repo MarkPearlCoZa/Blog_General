@@ -5,13 +5,11 @@ tags: Agile
 category: Process
 ---
 
-#### How it works
-
 As things near their due date you would expect them to move into adaptive or conversationl. Stuff in Chaos or Emergent are typically further off.
 
 <img class="img-responsive" alt="Backlog Maturity Model" src="{{ site.url }}/assets/images/Backlog-Maturity-Model.png">
 
-### Explantion of Categories
+### Explantion of area
 
 #### Chaotic
 
