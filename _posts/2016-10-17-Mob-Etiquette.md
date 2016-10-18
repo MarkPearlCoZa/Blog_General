@@ -17,4 +17,6 @@ Strong mobbing keeps you engaged - I've written about this before, for an exampl
 
 Different people may have different ideas on how to solve or implement something. That's a good thing and one of the reasons why mob programming is so effective. Be aware of the level of conflict in the mob. Too 
 
+#### Dominating Navigator
 
+When you're mob programming with the same navigator the whole time
