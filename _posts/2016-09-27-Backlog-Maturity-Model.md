@@ -5,7 +5,7 @@ tags: Agile
 category: Process
 ---
 
-As things near their due date you would expect them to move into adaptive or conversationl. Stuff in Chaos or Emergent are typically further off.
+As things near their due date you would expect them to move into Adaptive or Conversationl. Work in Chaos or Emergent are typically further off.
 
 <img class="img-responsive" alt="Backlog Maturity Model" src="{{ site.url }}/assets/images/Backlog-Maturity-Model.png">
 
