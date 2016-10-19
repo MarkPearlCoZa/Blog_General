@@ -162,6 +162,12 @@ Alternatively...
 [1, 2, 3].inject(0){|running_total, item| running_total + item} # returns 6
 ~~~
 
+Alternatively...
+
+~~~
+[1, 2, 3].inject(0, :+) # returns 6
+~~~
+
 #### Dividing Arrays into Groups (Partition)
 
 ~~~
