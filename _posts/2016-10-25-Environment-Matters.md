@@ -9,14 +9,14 @@ When mobbing, your physical environment matters. Having an environment that is c
 
 > Humans are lazy, you want minimal effort required to assemble a mob.
 
-#### The key hardware components
+#### The key hardwarecomponents
 
 I have found the following components are key to having a comfortable mob programming experience.  
 
 1. Large Screen TV (at least 50")  
 2. Separate smaller screen for mob timer (19" - 21")
 3. Whiteboard that is accessible for writing and brainstorming  
-4. Comfortable area where people can sit or stand side by side without feeling cramped  
+4. Comfortable area where people can sit or stand side-by-side without feeling cramped  
 5. Adjustable sitting / standing table with multiport usb hub 
 6. Wireless mouse  
 7. Mini pc used to remote in to developer machine
