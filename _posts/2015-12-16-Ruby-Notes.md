@@ -97,6 +97,13 @@ end
 "some text".gsub(/text/,'foo') # returns some foo
 ~~~
 
+#### String Interpolation
+
+~~~
+num_cars = 10
+msg = "I own #{num_cars} cars."
+~~~
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Working with Arrays

@@ -5,7 +5,9 @@ tags: Mobbing
 category: Unpublished
 ---
 
-An important aspect for being set up for success for mob programming is having a proper environment setup. When mobbing, environment matters.
+When mobbing, environment matters.
+
+Having a physical environment condusive for mobbing plays a major role in whether mobbing becomes an entrenched practice or not.
 
 > Humans are lazy, you want as little work involved to have your environment condusive to mobbing as possible
 
