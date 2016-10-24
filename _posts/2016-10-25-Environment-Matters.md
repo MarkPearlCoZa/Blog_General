@@ -19,7 +19,7 @@ I have found the following components are key to having a comfortable mob progra
 4. Comfortable area where people can sit or stand side-by-side without feeling cramped  
 5. Adjustable sitting / standing table with multiport usb hub 
 6. Wireless mouse  
-7. Mini pc used to remote in to developer machine
+7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards the team prefers
 
 #### Layout
