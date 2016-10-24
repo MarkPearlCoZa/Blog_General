@@ -22,7 +22,7 @@ I have found the following components are key to having a comfortable mob progra
 7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards the team prefers
 
-#### Mob layout
+#### Mob station layout
 
 The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably (this is my ideal mob size). 
 
