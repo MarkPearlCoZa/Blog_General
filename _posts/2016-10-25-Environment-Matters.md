@@ -7,7 +7,7 @@ category: Unpublished
 
 When mobbing, your physical environment matters.
 
-Having a physical environment that encourages mob programming plays a major role in whether the practice becomes entrenched.
+Having an environment that is condusive for mob programming plays a major role in whether the practice becomes entrenched or not.
 
 > Humans are lazy, you want as little work involved to have your environment condusive to mobbing as possible
 
