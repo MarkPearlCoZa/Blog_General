@@ -7,7 +7,7 @@ category: Unpublished
 
 When mobbing, your physical environment matters. Having an environment that is condusive for mob programming plays a major role in whether the practice becomes entrenched in a team.
 
-> Humans are lazy, you want as little effort required in having a mob assembled
+> Humans are lazy, you want as little effort as possible required assemble a mob
 
 There is a higher uptake in mobbing when an environment is condusive to the practice.
 
