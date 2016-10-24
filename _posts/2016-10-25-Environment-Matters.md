@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Environment Matters
+title: Physical Environment Matters when Mobbing
 tags: Mobbing
 category: Unpublished
 ---
 
-When mobbing, environment matters.
+When mobbing, your physical environment matters.
 
-Having a physical environment condusive for mobbing plays a major role in whether mobbing becomes an entrenched practice or not.
+Having a physical environment that encourages mob programming plays a major role in whether the practice becomes entrenched.
 
 > Humans are lazy, you want as little work involved to have your environment condusive to mobbing as possible
 
