@@ -14,11 +14,11 @@ When mobbing, your physical environment matters. Having an environment that is c
 I find the following components are key to having a comfortable mob programming experience.  
 
 1. Large Screen TV (at least 50")  
-5. Separate smaller screen for mob timer (19" - 21")
-2. Whiteboard that is accessible for writing and brainstorming  
-3. Comfortable area where people can sit or stand side by side without feeling cramped  
-4. Adjustable sitting / standing table with usb hub and multiple keyboards  
-5. Wireless mouse  
+2. Separate smaller screen for mob timer (19" - 21")
+3. Whiteboard that is accessible for writing and brainstorming  
+4. Comfortable area where people can sit or stand side by side without feeling cramped  
+5. Adjustable sitting / standing table with usb hub and multiple keyboards  
+6. Wireless mouse  
 
 #### If you can, rent or borrow equipment first
 
