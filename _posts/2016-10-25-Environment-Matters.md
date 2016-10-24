@@ -24,7 +24,7 @@ I have found the following components are key to having a comfortable mob progra
 
 #### Mob layout
 
-The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably as I find that is my ideal mob size. 
+The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably (this is my ideal mob size). 
 
 The table is usually 2-3 memters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible. 
 
