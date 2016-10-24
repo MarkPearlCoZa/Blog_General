@@ -9,7 +9,7 @@ When mobbing, your physical environment matters. Having an environment that is c
 
 > Humans are lazy, you want minimal effort required to assemble a mob.
 
-#### The key hardwarecomponents
+#### The key hardware components
 
 I have found the following components are key to having a comfortable mob programming experience.  
 
@@ -22,7 +22,7 @@ I have found the following components are key to having a comfortable mob progra
 7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards the team prefers
 
-#### Layout
+#### Mob layout
 
 The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably as I find that is my ideal mob size. 
 
