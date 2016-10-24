@@ -7,7 +7,7 @@ category: Unpublished
 
 When mobbing, your physical environment matters. Having an environment that is condusive for mob programming plays a major role in whether the practice becomes entrenched in a team.
 
-> Humans are lazy, you want minimal effort required to assemble a mob
+> Humans are lazy, you want minimal effort required to assemble a mob.
 
 #### The core components
 
@@ -19,7 +19,14 @@ I find the following components are key to having a comfortable mob programming 
 4. Comfortable area where people can sit or stand side by side without feeling cramped  
 5. Adjustable sitting / standing table with multiport usb hub 
 6. Wireless mouse  
-7. Mini pc used to remote into developer machine
+7. Mini pc used to remote in to developer machine
+8. Assortment of keyboards the team prefers
+
+#### Layout
+
+The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably as I find that is my ideal mob size.
+
+Typically I will have the table 2-3 meters away from the large screen, with the timer screen off to the side where it is clearly visible. I also place the whiteboard facing the mob, within reach so that notes can be made frequently on the board.
 
 #### If you can, rent or borrow equipment first
 
