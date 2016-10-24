@@ -24,9 +24,13 @@ I have found the following components are key to having a comfortable mob progra
 
 #### Layout
 
-The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably as I find that is my ideal mob size.
+The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably as I find that is my ideal mob size. 
 
-Typically I will have the table 2-3 meters away from the large screen, with the timer screen off to the side where it is clearly visible. I also place the whiteboard facing the mob, within reach so that notes can be made frequently on the board.
+The table is usually 2-3 memters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible. 
+
+The typist typically positions themself center of the large screen. 
+
+The whiteboard facing the mob, within reach so that notes can be made frequently on the board.
 
 #### If you can, rent or borrow equipment first
 
