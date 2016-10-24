@@ -17,8 +17,9 @@ I find the following components are key to having a comfortable mob programming 
 2. Separate smaller screen for mob timer (19" - 21")
 3. Whiteboard that is accessible for writing and brainstorming  
 4. Comfortable area where people can sit or stand side by side without feeling cramped  
-5. Adjustable sitting / standing table with usb hub and multiple keyboards  
+5. Adjustable sitting / standing table with multiport usb hub 
 6. Wireless mouse  
+7. Mini pc used to remote into developer machine
 
 #### If you can, rent or borrow equipment first
 
