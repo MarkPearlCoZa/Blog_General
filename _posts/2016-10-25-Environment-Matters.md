@@ -5,7 +5,7 @@ tags: Mobbing
 category: Unpublished
 ---
 
-When mobbing, your physical environment matters. Having an environment that is condusive for mob programming plays a major role in whether the practice becomes entrenched in a team.
+When mobbing, your physical environment matters. Having an environment that is condusive for mob programming plays a major role in the practice becomming entrenched in a team.
 
 > Humans are lazy, you want minimal effort required to assemble a mob.
 
