@@ -17,7 +17,7 @@ Having a insulated room away from inquisitive outsiders gives the team a safe pl
 
 ### It's hard being a nomad mob  
 
-Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier - something to avoid! 
+Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out your mob soon becomes a nomad mob. You want to avoid this - the overhead of moving people from room to room and getting set up can quickly kill momentum and disrupt flow.  
 
 Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to be having discussions with the powers that be on adjusting the teams normal work area to be conducive to mob programming.
 
