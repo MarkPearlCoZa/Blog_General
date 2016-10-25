@@ -40,17 +40,19 @@ In addition to space, you will need some hardware to set up a mob station. I hav
 7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards (wireless if possible, but whatever they are comfortable with)   
 
-The exact layout of the mobbing station is very reliant the size of the mob you want to cater for. My ideal mob size is 4 to 5 people so I like mobbing stations that can handle this number of people comfortably.
-
-Assuming your mob is about the same size, the table will usually be 2 to 3 meters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible to the mob. The whiteboard, facing the mob, is within reach so that notes can be made frequently on the board.
-
-The typist typically positions themself center of the large screen.
-
 #### Rent or borrow equipment first
 
 If you don't have the equipment for an ideal mob environment up front, try renting or borrowing the equipment first before you buy. Getting the right sized TV, projector or desk first time round is unlikely. Every group has different needs.
 
 Having the equipment lying around and not being used after you got management to go on a limb for you to buy the stuff isn't the best way to get buy in.
+
+#### A typical layout
+
+The exact layout of the mobbing station is very reliant the size of the mob you want to cater for. My ideal mob size is 4 to 5 people so I like mobbing stations that can handle this number of people comfortably.
+
+Assuming your mob is about the same size, the table will usually be 2 to 3 meters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible to the mob. The whiteboard, facing the mob, is within reach so that notes can be made frequently on the board.
+
+The typist typically positions themself center of the large screen.
 
 #### What about the costs?
 
@@ -58,7 +60,7 @@ Having an ideal mobbing environment is going to cost some money, however relativ
 
 #### What if you have no money?
 
-It's great having an ideal setup, however don't let that stop you. The first mobbing station I setup cost the business nothing. I brought my 40" TV from home to the office for two weeks. We found a space to set it up and try things out. I had a brief disucssion with my manager before I brought the equipment in just to get his buy in. Other than that we pretty much flew under the radar. There was no fanfare or big announcmenet with mobbing - we just did it.
+It's great having an ideal setup, however don't let that stop you. The first mobbing station I setup cost the business nothing. I brought my 40" TV from home to the office for two weeks. We found a space to set it up and try things out. I had a brief discussion with my manager before I brought the equipment in just to get his buy in. Other than that we pretty much flew under the radar. There was no fanfare or big announcement with mobbing - we just did it.
 
 Once we had proven that this was a practice our team would use, we then had the discussion with management on getting the right equipment to make it effective. Having a buy in from the rest of the team helped make this an easy discussion.
 
