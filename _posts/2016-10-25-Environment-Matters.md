@@ -25,7 +25,7 @@ Ideally as soon as the team has reached the point where they want to move mob pr
 
 ### Settling down
 
-When settling down you want a little more space in your team work area than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your intended mob size in a meeting room - roughly, you will need about the same amount of space in your work area for the mob station.
+When settling down you want a little more space in your team work area than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your intended mob size in a meeting room - you will need roughly about the same amount of space in your work area for the mob station.
 
 #### Things you will need
 
