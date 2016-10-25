@@ -11,11 +11,9 @@ When mobbing, your physical environment matters. Having a space that is conduciv
 
 ### How much space do you need?
 
-How much space do you need to do mob programming? When getting started I've seen teams get away with little, if no additional work space. This is easiest done by booking a meeting room. Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. 
+How much space do you need to do mob programming? When getting started I've seen teams get away with little, if no additional work space. This is easiest done by booking a meeting room. Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. If you plan on taking an approach like this be mindful of the distance the meeting room is from the teams normal work area. The further the it is, the more effort required for people to get there. 
 
-If you plan on taking an approach like this be mindful of the distance the meeting room is from the teams normal work area. The further the it is, the more effort required for people to get there. My advice is if you can use your existing work area for mob programming, this usually raises the chances of mob programming becoming a habit.
-
-Starting with a meeting room works great initially, with time, expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of getting people to the room and getting set up can become a barrier.
+Starting with a meeting room works great initially, with time, expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become a barrier. 
 
 Once you have moved from mob programming being something you want to experiment with to it being a practice you want to adopt permanently, adjusting the team work area to be the primary mob programming place and making it conducive to this is essential.
 
