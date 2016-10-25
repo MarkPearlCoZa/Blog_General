@@ -27,7 +27,7 @@ Ideally, as soon as the team has reached the point where they want to move mob p
 
 When settling down you want a little more space in your team work area than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your intended mob size in a meeting room - you will need roughly about the same amount of space in your work area for the mob station.
 
-In addition to space, you will need some 'hardware' to make the experience optimal. I have found the following items have helped to having a comfortable, sustainable, mob programming experience.  
+In addition to space, you will need some hardware to make the experience optimal. I have found the following items have helped to having a comfortable, sustainable, mob programming experience.  
 
 1. Large Screen TV (at least 50")  
 2. Separate smaller screen for mob timer (19" - 21")
