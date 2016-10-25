@@ -5,19 +5,19 @@ tags: Mobbing
 category: Unpublished
 ---
 
-When mobbing, your physical environment matters. Having a space that is condusive for mob programming plays a major role in the practice becomming entrenched in a team.
+When mobbing, your physical environment matters. Having a space that is conducive for mob programming plays a major role in the practice becoming entrenched in a team.
 
 > Humans are lazy, you want minimal effort required to assemble a mob.
 
 ### How much space do you need?
 
-How much space do you need to do mob programming? Whe getting started you can get away with no additional work space if you need to. I've seen teams book meeting rooms to try the experiment. Having a insulated meeting room gives the team a safe place to try the experiment. 
+How much space do you need to do mob programming? When getting started I've seen teams get away with no additional work space by simply booking a meeting room to try the experiment. Having a insulated meeting room away from inquisitive gives the team a safe place to try the experiment. 
 
 Starting with a booked out meeting room is great, with time the overhead of getting people to the room, getting set up and getting . Also, we had situations where we could not book the same meeting room for long periods of time - the effort of moving meeting rooms and the overhead in getting a comfortable quickly became obstructive.
 
-If you plan on taking an approach like this be mindful of the distance the meeting room is away from the teams normal work area. The further the distance, the more effort required for people to get there. My advice is if you can use your existing work area for mob programming, this usually raises the chances of mob programmig becoming a habit.
+If you plan on taking an approach like this be mindful of the distance the meeting room is away from the teams normal work area. The further the distance, the more effort required for people to get there. My advice is if you can use your existing work area for mob programming, this usually raises the chances of mob programming becoming a habit.
 
-Once you have moved from mob programming being something you want to try to it being a practice you want to adopt permanently, adjusting the team work area to be the primary mob programming place and making it condusive to this is essential.
+Once you have moved from mob programming being something you want to try to it being a practice you want to adopt permanently, adjusting the team work area to be the primary mob programming place and making it conducive to this is essential.
 
 Usually a little more space than your traditional desk / cubicle layout office allows. If you look at how much space you would need for a meeting room to comfortably seat your intended mob size, you will need about the same physical space for mob programming to happen.
 
@@ -29,7 +29,7 @@ I have found the following things are key to having a comfortable mob programmin
 2. Separate smaller screen for mob timer (19" - 21")
 3. Whiteboard that is accessible for writing and brainstorming  
 4. Comfortable area where people can sit or stand side-by-side without feeling cramped  
-5. Adjustable sitting / standing table with multiport usb hub 
+5. Adjustable sitting / standing table with multi port USB hub 
 6. Wireless mouse  
 7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards the team prefers
