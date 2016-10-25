@@ -40,9 +40,9 @@ In addition to space, you will need some hardware to set up a mob station. I hav
 7. Mini pc used for remoting in to the developer machine
 8. Assortment of keyboards (wireless if possible, but whatever they are comfortable with)   
 
-The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably (this is my ideal mob size). 
+The exact layout of the mobbing station is very reliant the size of the mob you want to cater for. My ideal mob size is 4 to 5 people so I like mobbing stations that can handle this number of people comfortably.
 
-The table is usually 2 to 3 meters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible to the mob. The whiteboard, facing the mob, is within reach so that notes can be made frequently on the board.
+Assuming your mob is about the same size, the table will usually be 2 to 3 meters away from the large screen, with the smaller "timer" screen off to the side where it is clearly visible to the mob. The whiteboard, facing the mob, is within reach so that notes can be made frequently on the board.
 
 The typist typically positions themself center of the large screen.
 
