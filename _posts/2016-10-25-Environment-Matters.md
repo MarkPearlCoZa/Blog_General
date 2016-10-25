@@ -11,7 +11,9 @@ When mobbing, your physical environment matters. Having a space that is condusiv
 
 #### How much space do you need?
 
-How much space do you need to do mob programming? You will need more space than the typical desk or cubicle layout allows. 
+How much space do you need to do mob programming? 
+
+Usually a little more space than your traditional desk / cubicle layout office allows. If you look at how much space you would need for a meeting room to comfortably seat your intended mob size, you will need about the same physical space for mob programming to happen.
 
 #### Things you will need
 
