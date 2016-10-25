@@ -15,7 +15,9 @@ How much space do you need to do mob programming? When getting started I've seen
 
 ### It's hard being a nomad mob  
 
-Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier and something to avoid. Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to start having discussions on adjusting the teams normal work area to be conducive to mob programming.
+Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier and something to avoid. 
+
+Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to start having discussions on adjusting the teams normal work area to be conducive to mob programming.
 
 Usually a little more space than your traditional desk / cubicle layout office allows. If you look at how much space you would need for a meeting room to comfortably seat your intended mob size, you will need about the same physical space for mob programming to happen.
 
