@@ -23,7 +23,7 @@ Starting with a meeting room works great initially, with time expect to have sit
 
 Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to be having discussions with the powers that be on adjusting the teams normal work area to be conducive to mob programming - I call this settling down.
 
-### Settling down
+### Settling down...
 
 When settling down you want a little more space in your team work area than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your intended mob size in a meeting room - you will need roughly about the same amount of space in your work area for the mob station.
 
