@@ -11,11 +11,11 @@ When mobbing, your physical environment matters. Having a space that is condusiv
 
 #### How much space do you need?
 
-How much space do you need to do mob programming?
+How much space do you need to do mob programming? You will need more space than the typical desk or cubicle layout allows. 
 
 #### Things you will need
 
-I have found the following components are key to having a comfortable mob programming experience.  
+I have found the following things are key to having a comfortable mob programming experience.  
 
 1. Large Screen TV (at least 50")  
 2. Separate smaller screen for mob timer (19" - 21")
