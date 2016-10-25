@@ -11,11 +11,9 @@ When mobbing, your physical environment matters. Having a space that is conduciv
 
 ### How much space do you need?
 
-How much space do you need to do mob programming? When getting started I've seen teams get away with little, if no additional work space. This is easiest done by booking a meeting room. Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. If you plan on taking an approach like this be mindful of the distance the meeting room is from the teams normal work area. The further the it is, the more effort required for people to get there. 
+How much space do you need to do mob programming? When getting started I've seen teams get away with little, if any additional work space. This is easiest achieved by booking a meeting room. Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. If you plan on taking an approach like this, be mindful of the distance the meeting room is from the teams normal work area - the further away, the more effort required for people to assemble as a mob.
 
-Starting with a meeting room works great initially, with time, expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become a barrier. 
-
-Once you have moved from mob programming being something you want to experiment with to it being a practice you want to adopt permanently, adjusting the team work area to be the primary mob programming place and making it conducive to this is essential.
+Starting with a meeting room works great initially, with time, expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier. Ideally once you have reached the point where the team wants to move this from an experiment to a more permanent practice you want you want to adjust the teams normal work area to be the primary mob programming place.
 
 Usually a little more space than your traditional desk / cubicle layout office allows. If you look at how much space you would need for a meeting room to comfortably seat your intended mob size, you will need about the same physical space for mob programming to happen.
 
