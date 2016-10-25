@@ -67,6 +67,25 @@ if a = b then return  0
 if a > b then return  1  
 if a and b are not comparable then return nil  
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+### Comparisons
+
+### Case
+
+~~~
+value = 1
+
+return case value
+    when 1 then "One"
+    when 2 then "Two"
+    when 3 then "Three"
+    else "Other"
+end
+~~~
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 ### Working with Strings
 
 #### Convert String to Array
