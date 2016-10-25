@@ -15,7 +15,7 @@ How much space do you need to do mob programming? When getting started I've seen
 
 ### It's hard being a nomad mob  
 
-Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier and something to avoid. 
+Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out - when this happens the overhead of moving people from room to room and getting set up can become an unnecessary barrier - something to avoid! 
 
 Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to be having discussions with the powers that be on adjusting the teams normal work area to be conducive to mob programming.
 
