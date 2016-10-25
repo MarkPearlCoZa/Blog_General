@@ -32,7 +32,7 @@ The typist typically positions themself center of the large screen.
 
 #### Rent or borrow equipment first
 
-If you don't have the equipment for an ideal mob environment, try renting or borrowing the equipment first before you buy. Getting the right sized TV, projector or desk first time round is unlikely. Every group has different needs.
+If you don't have the equipment for an ideal mob environment up front, try renting or borrowing the equipment first before you buy. Getting the right sized TV, projector or desk first time round is unlikely. Every group has different needs.
 
 Having the equipment lying around and not being used after you got management to go on a limb for you to buy the stuff isn't the best way to get buy in.
 
