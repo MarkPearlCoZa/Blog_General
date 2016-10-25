@@ -13,7 +13,7 @@ When mobbing, your physical environment matters. Having a space that is conduciv
 
 How much space do you need to do mob programming? When getting started I've seen teams get away with little if no additional work space. This is easiest done by booking a meeting room. Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. 
 
-Starting with a meeting room works great initially, with time the overhead of getting people to the room and getting set up can become a barrier. Also, expect to have situations where you can not book the same meeting room - soon the effort of moving meeting rooms and the overhead in getting a comfortable setup quickly becomes obstructive.
+Starting with a meeting room works great initially, with time the overhead of getting people to the room and getting set up can become a barrier. Also, expect to have situations where you can not book the same meeting room day in and day out - with time the effort of moving meeting rooms and the overhead in getting a comfortable setup becomes obstructive.
 n
 
 If you plan on taking an approach like this be mindful of the distance the meeting room is away from the teams normal work area. The further the distance, the more effort required for people to get there. My advice is if you can use your existing work area for mob programming, this usually raises the chances of mob programming becoming a habit.
