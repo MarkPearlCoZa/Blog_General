@@ -27,6 +27,8 @@ Ideally, as soon as the team has reached the point where they want to move mob p
 
 When settling down you want a little more space in your team work area than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your intended mob size in a meeting room - you will need roughly about the same amount of space in your work area for the mob station.
 
+#### Mob station layout
+
 In addition to space, you will need some hardware to set up a mob station. I have found the following items have helped to having a comfortable, sustainable, mob programming experience.  
 
 1. Large Screen TV (at least 50")  
@@ -36,9 +38,7 @@ In addition to space, you will need some hardware to set up a mob station. I hav
 5. Adjustable sitting / standing table with multi port USB hub 
 6. Wireless mouse  
 7. Mini pc used for remoting in to the developer machine
-8. Assortment of keyboards the team prefers
-
-#### Mob station layout
+8. Assortment of keyboards (wireless if possible, but whatever they are comfortable with)   
 
 The layout of the mobbing station is very reliant on the space you have available. I like mobbing stations that can handle 4 - 6 people comfortably (this is my ideal mob size). 
 
