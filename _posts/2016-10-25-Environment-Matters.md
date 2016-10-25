@@ -19,7 +19,7 @@ When choosing a meeting room keep in mind the distance it is from the teams norm
 
 ### It's hard being a nomad mob  
 
-Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out. If you are not careful your mob will soon becomes a nomad mob - you want to avoid this! The overhead of moving people from room to room and getting set up quickly kills momentum and disrupts flow.  
+Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out. If you are not careful your mob will soon become a nomad mob - you want to avoid this! The overhead of moving people from room to room and getting set up quickly kills momentum and disrupts flow.  
 
 Ideally as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice you want to be having discussions with the powers that be on adjusting the teams normal work area to be conducive to mob programming.
 
