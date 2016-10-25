@@ -15,7 +15,7 @@ How much space do you need to do mob programming? When getting started I've seen
 
 Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment. In addition, meeting rooms are normally already equipped with a projector or large screen - a component I consider essential for mob programming to happen. 
 
-One thing I would keep in mind when booking a meeting room is the distance it is from the teams normal work area - the further away, the more effort required for the mob to assemble.  
+When choosing a meeting room keep in mind the distance it is from the teams normal work area - the further away, the more effort required for the mob to assemble (remember, people are lazy).
 
 ### It's hard being a nomad mob  
 
