@@ -29,7 +29,7 @@ When settling down you want a little more space in your team work area than you 
 
 #### Mob station layout
 
-In addition to space, you will need some hardware to set up a mob station. I have found the following items have helped to having a comfortable, sustainable, mob programming experience.  
+In addition to space, you will need some hardware to set up a mob station. I have found the following items have helped in having a comfortable, sustainable, mob programming experience.  
 
 1. Large Screen TV (at least 50")  
 2. Separate smaller screen for mob timer (19" - 21")
