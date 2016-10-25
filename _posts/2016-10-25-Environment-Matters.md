@@ -13,7 +13,7 @@ When mobbing, your physical environment matters. Having a space that is condusiv
 
 How much space do you need to do mob programming?
 
-#### The key hardware components
+#### Things you will need
 
 I have found the following components are key to having a comfortable mob programming experience.  
 
