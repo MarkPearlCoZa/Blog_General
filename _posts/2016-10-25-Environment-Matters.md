@@ -54,7 +54,7 @@ The typist typically positions themself center of the large screen.
 
 #### What about the costs?
 
-Having an ideal mobbing environment is going to cost some money, however relative to what software developers get paid, the cost is tiny. Once you have proven a practice is useful to a team, having the discussion on costs is a lot easier.
+Having an ideal mobbing environment is going to cost some money. This cost is tiny compared to the cost of software developers. If you have already proven that the practice of mob programming is useful to your team and something they will regularly use, having the discussion on equipment costs becomes a lot easier.
 
 #### We can't get any money for the mob station?
 
