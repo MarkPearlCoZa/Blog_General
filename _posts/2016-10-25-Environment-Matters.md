@@ -73,6 +73,3 @@ For the mob, being in a work environment where there is a lot of background nois
 Unfortunately when noise becomes an issue you don't have the convenience that solo developers have of putting on headphones, but there are other ways. Having portable sound barriers accessible to the mob is an easy way to adjust an existing work space so that a mob does not have a major impact on non-mobbers and vice versa. The main benefit of portable sound barriers is that you can use your existing work area for mob programming without going through the hassles of relocation. An alternative is for the team to relocate to a dedicated team room. 
 
 Deciding on what approach is best for your team is up to you and your organization. I would remind you that humans are lazy, you want minimal effort required to assemble a mob - having a mob station where a team works every day is key to the practice becoming entrenched in them team.
-
-Find an environment that is conducive to upping the signal and reducing the noise. This can be ideally achieved  when a mob has their own room or work cove, however this is not the only way to achieve this. I've had work environments where we had movable whiteboards which doubled up as great sound barriers. If the room was getting to noisy, we would use the whiteboards as noise blockers.
-
