@@ -11,7 +11,7 @@ When mobbing, your physical environment matters. Having a space that is conduciv
 
 ### Starting out...
 
-When starting out what sort of physical environment does a team need? I've seen teams get away with little, if any additional work space and no new hardware. This is easiest achieved by booking a meeting room.  
+When starting out what sort of physical environment does a team need for mob programming? I've seen teams get away with little, if any additional work space and no new hardware. This is easiest achieved by booking a meeting room.  
 
 Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment of mob programming. In addition, meeting rooms are normally already equipped with a projector or large screen - a component I consider essential for mob programming to happen. 
 
