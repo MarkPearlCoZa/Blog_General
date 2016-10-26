@@ -56,17 +56,18 @@ The typist typically positions themself center of the large screen.
 
 Having an ideal mobbing environment is going to cost some money. This cost is tiny compared to the cost of software developers. If you have already proven that the practice of mob programming is useful to your team and something they will regularly use, having the discussion on equipment costs becomes a lot easier.
 
-#### We can't get any money for the mob station?
+Sometimes you will not be able to get the budget to setup an ideal mob station - don't let that stop you from the practice. The first mobbing station I setup cost the business nothing. I brought my 40" TV from home, we found a spare desk and a space to set it up and we were good to go. It wasn't ideal, but it worked. Once we had proven that the practice was valuable we managed to get better equipment. 
 
-It's great having an ideal setup, however don't let that stop you from the practice. The first mobbing station I setup cost the business nothing. I brought my 40" TV from home to the office for two weeks. We found a space to set it up and try things out. I had a brief discussion with my manager before I brought the equipment in just to get his buy in. Other than that we pretty much flew under the radar. There was no fanfare or big announcement with mobbing - we just did it.
+#### It should get noisier
 
-Once we had proven that this was a practice our team would use, we then had the discussion with management on getting the right equipment to make it effective. Having a buy in from the rest of the team helped make this an easy discussion.
+Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob gets louder, the people around the mob also usually get louder. This can be a challenge for the mob and everyone else.
 
-#### Up the signal, reduce the noise
+For the mob, being in a work environment where there is a lot of background noise can make it harder to communicate effectively in the mob. You don't have the convenience that solo developers have of putting on headphones.  
 
-Ultimately with you mob enviroment you want to up the signal and down the noise. Mob stations are noisier than traditional work areas. Because people are interacting there should be talking, laughter, etc. in the mob.
+For everyone else, having your quiet work area suddenly get boisterous can be frustrating.
 
-Being in a work environment where there is a lot of background noise can be tough for a mob to communicate effectively. Unfortunately you don't have the convenience that solo developers have of putting on headphones. 
+Firstly, be considerate of non-mobbers. 
 
 Find an enviroment that is condusive to upping the signal and reducing the noise. This can be ideally achieved  when a mob has their own room or work cove, however this is not th eonly way to achieve this. I've had work environments where we had movable whiteboards which doubled up as great sound barriers. If the room was getting to noisy, we would use the whiteboards as noise blockers.
 
+Ultimately with your environment you want to up the signal and down the noise. 
