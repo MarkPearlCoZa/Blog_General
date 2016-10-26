@@ -58,7 +58,7 @@ Having an ideal mobbing environment is going to cost some money. This cost is ti
 
 Sometimes you will not be able to get the budget to setup an ideal mob station - don't let that stop you from the practice. The first mobbing station I setup cost the business nothing. I brought my 40" TV from home, we found a spare desk and a space to set it up and we were good to go. It wasn't ideal, but it worked. Once we had proven that the practice was valuable we managed to get better equipment. 
 
-#### It should get noisier
+### Manage the noise
 
 Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob begins to really work it gets louder. You can expect one of two things to happen with the people not in the mob that sit near the mob. They will either complain, or they will get louder. 
 
