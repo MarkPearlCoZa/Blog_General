@@ -29,7 +29,7 @@ When settling down there are a few things you should consider regarding the phys
 
 #### Mob station layout
 
-In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following items were needed to have a comfortable mob programming station to work at.  
+In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following equipment were needed to have a comfortable mob programming station to work at.  
 
 - Large Screen TV (at least 50")  
 - Separate smaller screen for mob timer (19" - 21")
@@ -42,9 +42,7 @@ In addition to physical space, it helps to have a mob station set up that is rea
 
 #### Rent or borrow equipment first
 
-If you don't have the equipment for an ideal mob environment up front, try renting or borrowing the equipment first before you buy. Getting the right sized TV, projector or desk first time round is unlikely. Every group has different needs.
-
-Having the equipment lying around and not being used after you got management to go on a limb for you to buy the stuff isn't the best way to get buy in.
+Now, before you go and buy these items, I would recommend renting or borrowing them first. Getting the right setup from day one is hard. You will find there will be tweaks you will want to make - every mob has different needs. Having equipment lying around and not being used after you got your line manager or boss to go out on a limb for you to buy the stuff isn't the wisest thing to do. Having equipment you can change after a week or so reduces the reputational risk.
 
 #### A typical layout
 
