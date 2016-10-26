@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Physical Environment Matters when Mobbing
+title: Physical environment matters when mob programming
 tags: Mobbing
-category: Unpublished
+category: General 
 ---
 
 When mobbing, your physical environment matters. Having a space that is conducive for mob programming plays a major role in the practice becoming entrenched in a team.
