@@ -66,11 +66,15 @@ If someone is complaining about the noise from a mob - the mob has missed out on
 
 For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. 
 
-Ultimately you want to create an environment where you are upping the mob signal and reducing the background noise. Unfortunately you don't have the convenience that solo developers have of putting on headphones but there are other ways...
+Ultimately you want to create an environment where you are upping the mob signal and reducing the background noise. 
 
 > Up the mob signal, reduce the background noise
 
-Having portable sound barriers is an easy way to adjust an existing work space so that a mob does not impact non-mobbers and vice versa. Another alternative is for the team to move to a dedicated team room. Deciding on what an appropriate approach is varies from organization to organization. I would just remind you that humans are lazy, you want minimal effort required to assemble a mob - having a mob station where a team works every day is key to it becoming an entrenched practice.
+Unfortunately you don't have the convenience that solo developers have of putting on headphones but there are other ways. Having portable sound barriers accessible is an easy way to adjust an existing work space so that a mob does not have a major impact non-mobbers and vice versa. The main benefit of this approach is that your team can use your existing work area without going through the hassles of relocation. An alternative is for the team to relocate to a dedicated team room. 
+
+Deciding on what approach is best for your team is up to you and your organization.
+
+I would just remind you that humans are lazy, you want minimal effort required to assemble a mob - having a mob station where a team works every day is key to it becoming an entrenched practice.
 
 Find an enviroment that is condusive to upping the signal and reducing the noise. This can be ideally achieved  when a mob has their own room or work cove, however this is not th eonly way to achieve this. I've had work environments where we had movable whiteboards which doubled up as great sound barriers. If the room was getting to noisy, we would use the whiteboards as noise blockers.
 
