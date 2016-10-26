@@ -31,14 +31,14 @@ When settling down there are a few things you should consider regarding the phys
 
 In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following have helped in having a comfortable mob programming station to work at.  
 
-1. Large Screen TV (at least 50")  
-2. Separate smaller screen for mob timer (19" - 21")
-3. Whiteboard that is accessible for writing and brainstorming  
-4. Comfortable area where people can sit or stand side-by-side without feeling cramped  
-5. Adjustable sitting / standing table with multi port USB hub 
-6. Wireless mouse  
-7. Mini pc used for remoting in to the developer machine
-8. Assortment of keyboards (wireless if possible, but whatever they are comfortable with)   
+- Large Screen TV (at least 50")  
+- Separate smaller screen for mob timer (19" - 21")
+- Whiteboard that is accessible for writing and brainstorming  
+- Comfortable area where people can sit or stand side-by-side without feeling cramped  
+- Adjustable sitting / standing table with multi port USB hub 
+- Wireless mouse  
+- Assortment of keyboards (wireless if possible, but whatever they are comfortable with)   
+- Mini pc used for remoting in to the developer machine
 
 #### Rent or borrow equipment first
 
