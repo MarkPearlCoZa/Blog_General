@@ -66,9 +66,7 @@ Mob stations are noisier than traditional work areas. People are interacting, th
 
 If someone is complaining about the noise from a mob - the mob has missed out on a core value of mob programming, consideration. Pre-emptively chatting to non-mobbers about potential noise problems before they become problems can be the difference between complaints coming to you vs going above you. You want them to come to you first.
 
-For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. 
-
-Ultimately you want to create an environment where you are upping the mob signal and reducing the background noise. 
+For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. Ultimately you want to create an environment where you are upping the mob signal and reducing the background noise. 
 
 > Up the mob signal, reduce the background noise
 
