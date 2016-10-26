@@ -60,13 +60,15 @@ Sometimes you will not be able to get the budget to setup an ideal mob station -
 
 #### It should get noisier
 
-Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob begins to really work it gets louder. You can expect one of two things to happen with the people not in the mob that sit near you. They will either complain, or they will get louder. 
+Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob begins to really work it gets louder. You can expect one of two things to happen with the people not in the mob that sit near the mob. They will either complain, or they will get louder. 
 
-If someone is complaining about the noise from a mob - the mob has missed out on a core value of mob programming, consideration. Pre-emptively chatting to non-mobbers about potential noise problems before it becomes an issue can be the difference between them speaking to you vs going above you. You want them to come to you first.
+If someone is complaining about the noise from a mob - the mob has missed out on a core value of mob programming, consideration. Pre-emptively chatting to non-mobbers about potential noise problems before they become problems can be the difference between complaints coming to you vs going above you. You want them to come to you first.
 
-For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. Unfortunately you don't have the convenience that solo developers have of putting on headphones. 
+For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. 
 
-Ultimately what you want to do is create an environment where you are upping the signal and reducing the noise.
+Ultimately what you want to do is create an environment where you are upping the mob signal and reducing the background noise. Unfortunately you don't have the convenience that solo developers have of putting on headphones. 
+
+> Up the mob signal, reduce the background noise
 
 Having portable sound barriers is an easy way to adjust an existing work space so that a mob does not impact non-mobbers and vice versa. Another alternative is for the team to move to a dedicated team room. Deciding on what an appropriate approach is varies from organization to organization. I would just remind you that humans are lazy, you want minimal effort required to assemble a mob - having a mob station where a team works every day is key to it becoming an entrenched practice.
 
