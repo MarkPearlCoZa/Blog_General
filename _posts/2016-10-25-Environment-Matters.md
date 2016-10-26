@@ -62,7 +62,7 @@ Sometimes you will not be able to get the budget to setup an ideal mob station -
 
 ### Manage the noise
 
-Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob begins to really work it gets louder. You can expect one of two things to happen with the people not in the mob that sit near the mob. They will either complain, or they will get louder. 
+Mob stations are noisier than traditional work areas. People are interacting, they are talking about code, about different approaches, about how to best solve the problem. When a mob begins to really work it gets louder. When this happens you can expect one of two things to happen with the people not in the mob that sit near the mob. They will either complain, or they will get louder. 
 
 If someone is complaining about the noise from a mob - the mob has missed out on a core value of mob programming, consideration. Pre-emptively chatting to non-mobbers about potential noise problems before they become problems can be the difference between complaints coming to you vs going above you. You want them to come to you first.
 
