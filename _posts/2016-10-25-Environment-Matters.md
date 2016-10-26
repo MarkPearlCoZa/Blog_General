@@ -15,7 +15,7 @@ When starting out what sort of physical environment does a team need for mob pro
 
 Having a insulated room away from inquisitive outsiders gives the team a safe place to try the experiment of mob programming. In addition, meeting rooms are normally already equipped with a projector or large screen - a component I consider essential for mob programming to happen. 
 
-When choosing a room keep in mind the distance it is from the teams normal work area - the further away, the more effort required for the mob to assemble (remember, people are lazy).
+When choosing a room keep in mind the distance it is from the teams normal work area - the further away, the more effort required for the mob to assemble (remember, humans are lazy).
 
 ### It's hard being a nomad mob  
 
