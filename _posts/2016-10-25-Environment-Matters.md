@@ -66,7 +66,7 @@ If someone is complaining about the noise from a mob - the mob has missed out on
 
 For the mob, being in a work environment where there is a lot of background noise can make it hard for the mob to communicate effectively - a key benefit of having a mob in the first place. 
 
-Ultimately what you want to do is create an environment where you are upping the mob signal and reducing the background noise. Unfortunately you don't have the convenience that solo developers have of putting on headphones. 
+Ultimately you want to create an environment where you are upping the mob signal and reducing the background noise. Unfortunately you don't have the convenience that solo developers have of putting on headphones but there are other ways...
 
 > Up the mob signal, reduce the background noise
 
