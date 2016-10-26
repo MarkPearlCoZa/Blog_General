@@ -25,7 +25,7 @@ Instead, as soon as the team has reached the point where they want to move mob p
 
 ### Settling down...
 
-When settling down a mob there are a few things you should consider regarding the physical environment. You want to make sure you have enough space in your team area dedicated to mob programming. Typically, this means having more space than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your average mob in a meeting room - you will need roughly the same amount of space in your work area for the mob station.
+When settling down a mob there are a few things you should consider regarding the physical environment. You want to make sure you have enough space in your team area dedicated to mob programming. Typically, this means having more space than you would need with a traditional desk / cubicle layout. A good rule of thumb is to look at how much space you would need to comfortably seat your mob in a meeting room - you will need roughly the same amount of space in your work area for the mob station.
 
 #### Mob station layout
 
