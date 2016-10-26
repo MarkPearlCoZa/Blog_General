@@ -29,7 +29,7 @@ When settling down there are a few things you should consider regarding the phys
 
 #### Mob station layout
 
-In addition to physical space, it helps to have a mob station pre set up. I have found the following items have helped in having a comfortable mob programming station to work at.  
+In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following items have helped in having a comfortable mob programming station to work at.  
 
 1. Large Screen TV (at least 50")  
 2. Separate smaller screen for mob timer (19" - 21")
