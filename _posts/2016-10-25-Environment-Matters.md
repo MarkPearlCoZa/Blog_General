@@ -44,7 +44,7 @@ In addition to physical space, it helps to have a mob station set up that is rea
 
 Now, before you go and buy these items I would recommend renting or borrowing them first. Getting the right setup from day one is hard. You will find there will be tweaks you will want to make - every mob has different needs - equipment you thought you needed may not get used.
 
-Having equipment lying around and not being used after you got your manager to go out on a limb for you to buy the stuff isn't the wisest thing to do. Instead, try be in a position where if you want to change equipment after a week or two you can. Try before you buy reduces the reputational risk.
+Having equipment lying around and not being used after you got your manager to go out on a limb for you to buy the stuff isn't the wisest thing to do. Instead, try be in a position where if you want to change equipment after a week or two, you can. Try before you buy reduces the reputational risk.
 
 #### A typical mob station layout
 
