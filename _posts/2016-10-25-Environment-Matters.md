@@ -29,7 +29,7 @@ When settling down a mob there are a few things you should consider regarding th
 
 #### Mob station layout
 
-In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following equipment were needed to have a comfortable mob programming station to work at.  
+In addition to physical space, it helps to have a mob station set up that is ready to use at any time. I have found the following equipment was needed to have a comfortable mob programming station to work at.  
 
 - Large Screen TV (at least 50")  
 - Separate smaller screen for mob timer (19" - 21")
