@@ -21,7 +21,7 @@ When choosing a room keep in mind the distance it is from the teams normal work 
 
 Starting with a meeting room works great initially, with time expect to have situations where you can not book the same meeting room day in and day out. If you are not careful your mob will soon become a nomad mob wandering from room to room with no real home - you want to avoid this! The overhead of moving people regularly and getting set up quickly kills momentum and disrupts flow resulting in a poor experience or the mob disassembling.  
 
-Ideally, as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to be having discussions with the powers that be on adjusting the teams normal work area to be conducive to mob programming - I call this settling down.
+Instead, as soon as the team has reached the point where they want to move mob programming from an experiment to a more permanent practice, you want to be having discussions with the powers that be on adjusting the teams normal work area to make it conducive for mob programming - I call this stage settling down a mob.
 
 ### Settling down...
 
