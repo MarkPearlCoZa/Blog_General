@@ -72,7 +72,7 @@ Ultimately you want to create an environment where you are upping the mob signal
 
 > Up the mob signal, reduce the background noise
 
-Unfortunately you don't have the convenience that solo developers have of putting on headphones but there are other ways. Having portable sound barriers accessible is an easy way to adjust an existing work space so that a mob does not have a major impact non-mobbers and vice versa. The main benefit of this approach is that your team can use your existing work area without going through the hassles of relocation. An alternative is for the team to relocate to a dedicated team room. 
+Unfortunately when noise becomes an issue you don't have the convenience that solo developers have of putting on headphones, but there are other ways. Having portable sound barriers accessible is an easy way to adjust an existing work space so that a mob does not have a major impact non-mobbers and vice versa. The main benefit of this approach is that your team can use your existing work area without going through the hassles of relocation. An alternative is for the team to relocate to a dedicated team room. 
 
 Deciding on what approach is best for your team is up to you and your organization.
 
