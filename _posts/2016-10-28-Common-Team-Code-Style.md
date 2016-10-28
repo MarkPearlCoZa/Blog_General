@@ -30,7 +30,7 @@ For instance, if your team tackles the conflict around stylistic code preference
 
 ### Defer in depth stylistic discussion for later
 
-Defer in depth stylistic discussions for after the mob session. It's easy for a mob to loose momentum when discussing stylistic preferences on code (trying to resolve what particular syntax you use for branching logic is not going to be solved in any short time). 
+It's easy for a mob to loose momentum when discussing stylistic preferences on code (trying to resolve what particular syntax you use for branching logic is not going to be solved in any short time). Instead defer in depth stylistic discussions for after the mob session. 
 
 If you can't get full agreement on specific stylistic preferences within a short amount of time - say two minutes - defer the discussion for later and go with what the majority of the mob feels is the preferred style.
 
