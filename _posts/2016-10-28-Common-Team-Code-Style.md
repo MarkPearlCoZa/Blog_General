@@ -20,7 +20,7 @@ The challenge of near instant feedback from people who have never coded as a gro
 
 ### See initial conflict in a mob as a good thing
 
-First, it helps for a team to recognize that initial conflict in a mob is a good thing. It shows you the people in your team care about the code they write.
+First, it helps for a team to recognize that initial conflict in a mob is a good thing. It shows that the people in your team care about the code they write.
 
 Secondly, you are having conflict because there were previously discrepencies in how you as a team were doing things. Tackling these discrepencies will lead to a happier team.  
 
