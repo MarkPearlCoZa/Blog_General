@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial conflict in a mob
+title: Handling conflict in a new mob
 tags: Mobbing
 category: Unpublished
 ---
