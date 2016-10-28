@@ -9,7 +9,7 @@ When you start mob programming for the first time there will be conflict. Intere
 
 For new mobs, more than often the conflict exists because there is a big discrepency in the coding standards and stylistic preferences amongst the individuals in the mob. 
 
-Before mob programming, having a consistent team coding standard and approach was hard. If you were in teams similar to the ones I was in, you probably had a team document outlining stylistic code prefences (always out of date), a peer review process when someone completed a feature, or even practiced pair programming. While all these practices are good, they are not as good as mob programming is at achieving a consistentcy and robustness. 
+Before mob programming, having a consistent team coding standard and approach was hard. If you were in teams similar to the ones I was in, you probably had a team document outlining stylistic code prefences (always out of date), a peer review process when someone completed a feature, or even practiced pair programming. While all these practices are good, they are not as good as mob programming is at achieving a consistentcy and robustness - a side effect of increasing consistency is conflict.
 
 I believe it comes down to two things that mob programming has that other practices do not have at the same level:
 
