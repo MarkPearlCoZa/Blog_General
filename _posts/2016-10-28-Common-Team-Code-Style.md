@@ -26,7 +26,7 @@ First, it helps for a team to recognize that initial conflict in a mob is a good
 
 Secondly, you are having conflict because there were previously discrepencies in how you as a team were doing things. Tackling these discrepencies will lead to a happier team.  
 
-For instance, if your team tackles the conflict around stylistic code preferences properly you will end up with a consistent team code standard. Opening up a code base and not being able to differentiate between the code you wrote and the code someone else wrote in your team because the code is consistent makes most developers very happy.
+For instance, if your team tackles the conflict around stylistic code preferences properly you will end up with a consistent team code standard. Opening up a code base and not being able to differentiate between the code you wrote and the code someone else wrote because the code is consistent makes most developers very happy.
 
 ### How to handle stylistic preferences
 
