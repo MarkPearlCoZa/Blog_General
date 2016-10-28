@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting a common team code standard 
+title: Initial conflict in a mob
 tags: Mobbing
 category: Unpublished
 ---
