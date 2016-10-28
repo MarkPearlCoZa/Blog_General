@@ -4,12 +4,24 @@ title: Getting a common team code standard
 tags: Mobbing
 category: Unpublished
 ---
-### It's all about feedback from the entire team.
+### Code standard discrepency
 
-Having a common team code standard is hard. There are various approaches with varying levels of effectiveness. I believe there are two key elements to look at:
+When you start mob programming you will immediately notice there is a discrepency in coding standards amongst your team. Before mob programming, team coding standards were hard. You probably had a team document outlining stylistic code prefences or a peer review process when someone in your teams compelted a feature or even pair programmed frequently, so why do you suddenly see this discrepency? I believe it boils down to two aspect that mob programming provides that other practices are not as good at:
 
-1. Latency between the code being written to people in the team reviewing it   
-2. The number of people in the team involved in the feedback 
+1. Near zero latency between the code being written and people reviewing it  
+2. High diversity in the feedback, multiple people giving their input leads to higher alignment  
+
+### The challenge of near instant feedback
+
+The challenge of near instant feedback from a group people who have never coded together before is conflict. Typically you will see conflict between individuals on stylistic preferences (turns out most programmers are passionate about the code they write - who would have thought). If the conflict continues to escalate you risk people not wanting to participate in a mob again.
+
+
+
+If this get's out of control people 
+
+This is natural, we all think we have a better way of doing things.
+
+a good thing, provided a team mobs reguarly you will end up with a common team code standard.
 
 #### Latency 
 
