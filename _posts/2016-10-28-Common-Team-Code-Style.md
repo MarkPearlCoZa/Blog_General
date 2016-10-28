@@ -34,4 +34,8 @@ Defer stylistic discussions for after the mob session. It's easy for a mob to lo
 
 When hitting a stylistic difference and getting a majority vote from the mob, if an individual in the mob still feels strongly that they want to discuss the topic, the issue should be noted and deferred. We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to go on.
 
-It's useful for a team to have agreed on 
+### No I's in mob 
+
+Sometimes you are going to be in a mob, find an approach or technique that you are really passionate about that other people in the mob just don't see the value or agree. Fight the urge to put yourself ahead of the team. Just as there are no I's in team, there are no I's in a mob. Put the mob first. 
+
+If there is a stylistic preference the mob doesn't value that you do, you should look for opportunities to 
