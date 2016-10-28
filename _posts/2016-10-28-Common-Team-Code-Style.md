@@ -48,7 +48,7 @@ During a mob session the language you use is important. This is especially true 
 
 Problem solving conflict is essential for a mob to be effective. In such circumstances people in the mob should use clear, specific and factual language. They should talk about the problem at hand. Language that moves from specific to general or that becomes distorted can escalate the levels of conflict in the mob to a point where the mob becomes unproductive and frustrated.
 
-For new mobs that battle with appropriate language, or who keep escalating to levels of unnecessary conflict, it can be useful to make use of a facilitator to help them mob. Experienced facilitators will help diffuse conflict to appropriate levels, show them how to use appropriate language and help them go through the storming stage. With time the team should look to mature past the point of needing a facilitator.
+For new mobs that battle with appropriate language, or who keep escalating to levels of unnecessary conflict, it can be useful to make use of a facilitator to help them mob. Experienced facilitators help diffuse conflict to appropriate levels, show the mob how to use appropriate language and help the mob get past the storming stage. With time the team should look to mature past the point of needing a facilitator.
 
 There are some great resources to help people learn how to communicate appropriately. One of the best resources I've come across is the book "Crucial Conversations - tools for talking when stakes are high". If reading books is not your thing, there are other ways of learning this skill including workshops, videos, etc.
 
