@@ -50,7 +50,7 @@ Problem solving conflict is essential for a mob to be effective. In such circums
 
 For new mobs that battle with appropriate language, or who keep escalating to levels of unnecessary conflict, it can be useful to make use of a facilitator to help them mob. Experienced facilitators help diffuse conflict to appropriate levels, show the mob how to use appropriate language and help the mob get past the storming stage. With time the team should look to mature past the point of needing a facilitator.
 
-There are some great resources to help people learn how to communicate appropriately. One of the best resources I've come across is the book "Crucial Conversations - tools for talking when stakes are high". I would recommend reading this book several times. If reading is not your thing, there are other ways of learning this skill including workshops, videos, etc.
+There are some great resources to help people learn how to communicate appropriately. One of the best resources I've come across is the book "Crucial Conversations - tools for talking when stakes are high". I would recommend reading this book several times. If reading is not your thing, there are other ways of learning the general skill of handling conflict including workshops and videos.
 
 ### There are no I's in mob 
 
