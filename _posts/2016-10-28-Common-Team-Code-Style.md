@@ -46,7 +46,7 @@ We've found putting these "items to discuss" on post it notes on a whiteboard ne
 
 During a mob session the language you use is important. This is especially true for new mobs. In Lyssa Adkins book on Coaching Agile Teams she writes about appropriate levels of conflict within a team. 
 
-The same advice can be applied to mobs. Problem solving conflict is essential for a mob to be effective. In such circumstances people in the mob use clear, specific and factual language. They talk about the problem at hand. Language that moves from specific to general or that becomes distorted can escalate the levels of conflict in the mob to a point where the mob becomes unproductive and frustrated.
+The same advice can be applied to mobs. Problem solving conflict is essential for a mob to be effective. In such circumstances people in the mob should use clear, specific and factual language. They should talk about the problem at hand. Language that moves from specific to general or that becomes distorted can escalate the levels of conflict in the mob to a point where the mob becomes unproductive and frustrated.
 
 For new mobs that battle with appropriate language or who keep escalating levels of conflict, it can be useful for a facilitator to help them mob. Experienced facilitators will help diffuse conflict to appropriate levels, show them how to use appropriate language and help them go through the storming stage. With time the team should look to mature past the point of needing a facilitator.
 
