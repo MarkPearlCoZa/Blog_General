@@ -26,7 +26,7 @@ Secondly, you are having conflict because there were previously discrepencies in
 
 For instance, if your team tackles the conflict around stylistic code preferences properly you will end up with a consistent team code standard. Opening up a code base and not being able to differentiate between the code you wrote and the code someone else wrote because the code is consistent makes most developers very happy and productive.
 
-### Defere in depth stylistic discussion for later
+### Defer in depth stylistic discussion for later
 
 Defer in depth stylistic discussions for after the mob session. It's easy for a mob to loose momentum when discussing stylistic preferences on code (trying to resolve what particular syntax you use for branching logic is not going to be solved in any short time). 
 
