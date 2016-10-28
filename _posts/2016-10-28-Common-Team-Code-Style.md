@@ -34,7 +34,7 @@ If you can't get full agreement on specific stylistic preferences within a short
 
 > It is useful to get agreement before a mob starts that when there are differences of opinion, we will go with the mob majority vote.
 
-When hitting a stylistic difference and getting a majority vote from the mob, if an individual in the mob still feels strongly that they want to discuss the topic, the issue should be noted and deferred. We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to go on.
+When hitting a stylistic difference and getting a majority vote from the mob, if an individual in the mob still feels strongly that they want to discuss the topic, the issue should be noted and deferred. We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to move forward with solving the problem at hand.
 
 ### There are no I's in mob 
 
