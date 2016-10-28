@@ -18,11 +18,13 @@ It comes down to two things that mob programming does that other practices do no
 
 The challenge of near instant feedback from people who have never coded as a group before is conflict. This conflict most often manifests itself in stylistic code preferences (turns out most programmers are passionate about the code they write and how they write it). If the conflict is not managed effectively it escalates. As it escalates you risk people getting jaded and not wanting to participate in the mob again. Having an explicit strategy for handling conflict in a mob is very important.
 
-#### See initial conflict in a mob as a good thing
+### See initial conflict in a mob as a good thing
 
-First, it helps for a team to recognize that initial conflict in a mob is a good thing. It shows you the people in your team care about the code and that there was a discrepency. 
+First, it helps for a team to recognize that initial conflict in a mob is a good thing. It shows you the people in your team care about the code they write.
 
-Secondly, if your team tackles the conflict properly they will end up with a consistent team code standard. Being able to open up a code base and not being able to differentiate between the code you wrote and the code someone else wrote in your team because the code is consistent leads to greater productivity and more developer happiness.everything 
+Secondly, you are having conflict because there were previously discrepencies in how you as a team were doing things. Tackling these discrepencies will lead to a happier team.  
+
+For instance, if your team tackles the conflict around stylistic code preferences properly you will end up with a consistent team code standard. Opening up a code base and not being able to differentiate between the code you wrote and the code someone else wrote in your team because the code is consistent makes most developers very happy.
 
 ### How to handle stylistic preferences
 
