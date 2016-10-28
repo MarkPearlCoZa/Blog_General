@@ -7,7 +7,7 @@ category: Unpublished
 
 When you start mob programming you will immediately notice there is a discrepency in coding standards amongst your team. 
 
-Before, having a consistent team coding standard was hard. If you were in teams similar to the ones I was in, you probably had a team document outlining stylistic code prefences, a peer review process when someone completed a feature, or even practiced pair programming. While all these practices are good, I have found them to not be as good as mob programming at achieving a consistent team code standard. 
+Before, having a consistent team coding standard was hard. If you were in teams similar to the ones I was in, you probably had a team document outlining stylistic code prefences, a peer review process when someone completed a feature, or even practiced pair programming. While all these practices are good, they are not as good as mob programming at achieving a consistent team code standard. 
 
 It comes down to two things that mob programming does that other practices do not do at the same level:
 
