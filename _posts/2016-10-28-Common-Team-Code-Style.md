@@ -36,10 +36,19 @@ If you can't get full agreement on specific stylistic preferences within a short
 
 When hitting a stylistic difference and getting a majority vote from the mob, if an individual in the mob still feels strongly that they want to discuss the topic, the issue should be noted and deferred. We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to move forward with solving the problem at hand.
 
+### Language is important
+
+During a mob session the language you use is important. In Lyssa Adkins book on Coaching Agile Teams she writes about appropriate levels of conflict within a team. This can also be applied to mobs. Problem solving conflict is essential for a mob to be effective. In such circumstances people in the mob use clear, specific and factual language. They talk about the problem at hand. Language that moves from specific to general or that becomes distorted can escalate the levels of conflict in the mob to a point where the mob becomes unproductive and frustrated.
+
+For new mobs that battle with appropriate language or who keep escalating levels of conflict, it can be useful for a facilitator to help them mob. Experienced facilitators will help diffuse conflict to appropriate levels, show them how to use appropriate language and help them go through the storming stage. With time the team should look to mature past the point of needing a facilitator.
+
+There are some great resources to help people learn how to communicate appropriately. One of the best resources I've come across is the book "Crucial Conversations - tools for talking when stakes are high". If reading books is not your thing, there are other ways of learning this skill including workshops, videos, etc.
+
 ### There are no I's in mob 
 
 Sometimes you are going to be in a mob, find an approach or technique that you are really passionate about, and the other people in the mob just don't agree or see the value. Fight the urge to put yourself ahead of the mob. Just as there are no I's in team, there are no I's in a mob. Put the mob first. 
 
 If there is a stylistic preference the mob doesn't value that you do, you should look for opportunities to create awareness, desire and knowledge. If your team currently does not have opprotunities for you to do this, encourage this to be introduced into your teams routine. 
 
-For instance, in Woody Zuill's first mob they did learning for an hour each morning - in the team I'm currently in we have something similar. Both are platforms to create awareness, desire and knowledge at a team level.
+For instance, in Woody Zuill's first mob they did learning for an hour each morning - in the team I'm currently in we have something similar. Both are platforms to create awareness, desire and knowledge of things individuals might value that the team needs to know more about.
+
