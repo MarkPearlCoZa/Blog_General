@@ -16,7 +16,7 @@ It comes down to two things that mob programming does that other practices do no
 
 ### The challenge of near instant feedback
 
-The challenge of near instant feedback from a group of people who have never coded together before is conflict. This conflict most often manifests itself in stylistic code preferences (turns out most programmers are passionate about the code they write and how they write it). If the conflict is not managed effectively it escalates. As it escalates you risk people getting jaded and not wanting to participate in the mob again. Having an explicit strategy for handling conflict in a mob is very important.
+The challenge of near instant feedback from people who have never coded as a group before is conflict. This conflict most often manifests itself in stylistic code preferences (turns out most programmers are passionate about the code they write and how they write it). If the conflict is not managed effectively it escalates. As it escalates you risk people getting jaded and not wanting to participate in the mob again. Having an explicit strategy for handling conflict in a mob is very important.
 
 #### See initial conflict in a mob as a good thing
 
