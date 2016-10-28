@@ -8,7 +8,7 @@ category: Unpublished
 
 Before mob programming, getting the best of everyone into all the code was tough. It's been something I chased for over a decade.
 
-#### Code standards documents
+#### Problem with code standards documents
 
 Early on in my career I tried using a code standards documents as a mechanism to avoid 'bad' code - I started with a standards document I found off the internet (it seemed perfect, it was based on the programming language my team was using at the time and appeared to be quite comprehensive). It was a thick document that outlined all the do's and dont's of naming and structure and what to do in special circumstances. I of course made some personal adjustments based on my own stylistic preferences, it didn't take more than a few days, and asked my team to adopt these standards going forward. 
 
@@ -16,7 +16,7 @@ The problem I soon discovered was that code standards documents get very long ve
 
 To rub salt in the wound, I soon discovered that not everyone was reading and staying up to date with my standards document. It seemed that for every page I added to the document, the likelihood of people reading it dropped by an order of magnitude. When people did read it, they often understand it differently from what I had originally intended. While people thought they where compliant, often they were not.
 
-#### Code reviews
+#### Problem with code reviews
 
 No problem, I can solve this with code reviews. I'll simply review all of my teams code and make sure they follow my standard. Turns out this can very quickly become a full time job. With just 4 developers I was doing code reviews all day and not writing any code myself. 
 
