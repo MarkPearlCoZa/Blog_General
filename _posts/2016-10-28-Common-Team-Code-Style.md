@@ -34,11 +34,13 @@ For instance, if your team tackles the conflict around stylistic code preference
 
 It's easy for a mob to loose momentum when discussing stylistic preferences on code (trying to resolve what particular syntax to use for branching logic is not going to be solved in any short time). Instead defer in depth stylistic discussions for after the mob session. 
 
-The rule of thumb is if you can't get full agreement on specific stylistic preferences within a short amount of time - say two minutes - get the mob to do a staw poll on what each persons preferred style is, go with what the majority of the mob feels votes for and if necessary defer the in depth discussion for later. 
+The rule of thumb is if you can't get full agreement on specific stylistic preferences within a short amount of time - say two minutes - get the mob to do a staw poll between the options, go with the majority. 
 
 > It is useful to get agreement before a mob starts that when there are differences of opinion, we will go with the mob majority vote.
 
-When hitting a stylistic difference and getting a majority vote from the mob, if an individual in the mob still feels strongly that they want to discuss the topic, the issue should be noted and deferred. We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to move forward with solving the problem at hand.
+If an individual in the mob still feels strongly that they want to discuss the topic in depth, the issue should be noted and deferred. 
+
+We've found putting these "items to discuss" on post it notes on a whiteboard near the mob station and then making sure we discuss them at some point in the near future allows the mob to move forward with solving the problem at hand.
 
 ### Be mindful of the language you use
 
