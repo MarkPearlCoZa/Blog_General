@@ -38,6 +38,6 @@ When hitting a stylistic difference and getting a majority vote from the mob, if
 
 ### There are no I's in mob 
 
-Sometimes you are going to be in a mob, find an approach or technique that you are really passionate about that other people in the mob just don't see the value or agree. Fight the urge to put yourself ahead of the team. Just as there are no I's in team, there are no I's in a mob. Put the mob first. 
+Sometimes you are going to be in a mob, find an approach or technique that you are really passionate about, and the other people in the mob just don't agree or see the value. Fight the urge to put yourself ahead of the mob. Just as there are no I's in team, there are no I's in a mob. Put the mob first. 
 
-If there is a stylistic preference the mob doesn't value that you do, you should look for opportunities to 
+If there is a stylistic preference the mob doesn't value that you do, you should look for opportunities to create awareness, desire and knowledge. If your team currently does not have opprotunities for you to do this, encourage this to be introduced into your teams routine. For instance, in Woody Zuill's first mob they did learning for an hour each morning - in the team I'm currently in we have something similar. Both are platforms to create awareness, desire and knowledge.
