@@ -7,7 +7,7 @@ category: Unpublished
 
 When you start mob programming for the first time there will be conflict. Interestingly, in experienced mobs there will also be conflict. The difference between the type of conflict a new mob faces and the productive conflict an experienced mob faces is significant. 
 
-For new mobs, more than often the conflict exists because there is a big discrepency in the coding standards and stylistic preferences amongst the individuals in your mob. For experienced mobs, the conflict exists because of differing opinions on approaches of the problem at hand. For experienced mobs these differening opinions are part of the magic sauce that makes mob programming great - solutions done by experienced mobs are generally better than solutions done by experienced individuals.
+For new mobs, more than often the conflict exists because there is a big discrepency in the coding standards and stylistic preferences amongst the individuals in your mob. 
 
 Before mob programming, having a consistent team coding standard and approach was hard. If you were in teams similar to the ones I was in, you probably had a team document outlining stylistic code prefences (always out of date), a peer review process when someone completed a feature, or even practiced pair programming. While all these practices are good, they are not as good as mob programming is at achieving a consistentcy and robustness. 
 
