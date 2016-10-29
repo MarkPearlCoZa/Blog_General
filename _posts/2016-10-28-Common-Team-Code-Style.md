@@ -58,5 +58,5 @@ Sometimes you are going to be in a mob, find an approach or technique that you a
 
 If there is a stylistic preference the mob doesn't value that you do, you should look for opportunities to create awareness, desire and knowledge. If your team currently does not have opprotunities for you to do this, encourage this to be introduced into your teams routine. 
 
-For instance, in Woody Zuill's first mob they did learning for an hour each morning - in the team I'm currently in we have something similar. Both are platforms to create awareness, desire and knowledge of things individuals might value that the team needs to know more about.
+In Woody Zuill's first mob they did learning for an hour each morning - in the team I'm currently in we have something similar. Both are platforms to create awareness, desire and knowledge of things individuals might value that the team needs to know more about.
 
