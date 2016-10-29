@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Becoming a mobber
-tags: Collaboration
+tags: Collaboration Mobbing 
 category: General
 ---
 
