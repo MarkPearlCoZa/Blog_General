@@ -27,7 +27,7 @@ If your editor does not allow for quick switching - or switching takes too long 
 
 I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to not try and teach them how to use this editor while mob programming. 
 
-Being put in front of a group of developers and not being able to even type a single letter can be frustrating, embarassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
+Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
 
 For emacs users, best you learn a proper editor like vim :-)
 
