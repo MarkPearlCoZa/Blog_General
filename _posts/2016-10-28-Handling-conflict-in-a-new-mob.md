@@ -2,7 +2,7 @@
 layout: post
 title: Handling conflict in a new mob
 tags: Mobbing
-category: Unpublished
+category: General
 ---
 
 When you start mob programming for the first time there will be conflict. Interestingly, in experienced mobs there will also be conflict. The difference between the type of conflict a new mob faces and the productive conflict an experienced mob faces is significant. 
