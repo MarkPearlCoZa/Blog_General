@@ -35,3 +35,12 @@ For emacs users, best you learn a proper editor like vim :-)
 
 When mob programming have absolute line numbers tuned on. Aboslute line numbers speed up 
 
+### Absolute and relative line numbers are not the same thing
+
+Absolute and relative line numbers are not the same thing. Absolute line numbers are absolute regardless of where the cursor is positioned. Relative line numbers change as you move the cursor up or down. 
+
+Because there is still latency between the typist and the rest of the mob, telling the typist to go down 5 lines (relative navigation) may not work. They may have moved the cursor one or two lines down before processing your instruction, leading them to still being off by a few lines.
+
+Instead, get used to working with absolute line numbers. Saying, move to line 45 is less error prone than move down 5 lines.
+
+
