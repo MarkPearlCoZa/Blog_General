@@ -9,7 +9,7 @@ Before you start your first mob programming session, it helps to get consensus o
 
 ## Keyboard Shortcut Mappings
 
-### Identify what preferences individuals in your mob have for keyboard shortcuts
+### Identify individual keyboard shortcut prefereces 
 
 Start off by identifying the various shortcut mappings individuals in your mob currently us. Don't assume that because everyone in the mob uses the same editor, you will all have the same keyboard shortcuts! Some editors provide multiple keyboard shortcut flavours. 
 
