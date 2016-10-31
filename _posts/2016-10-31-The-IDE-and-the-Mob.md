@@ -13,7 +13,7 @@ Before you start your first mob programming session, spend time on setting up th
 
 ## What IDE to use?
 
-For many teams this will quick - often teams use the same IDE across the individuals in the team - this will be the IDE you use in the mob.
+For many teams this will be a quick - most teams use the same IDE across the individuals in the team - this will be the IDE you use in the mob.
 
 For other teams, individuals in the team may have a preference for different IDE's. Often, when you have a situation like this, you are also dealing with developers who have strong opinions what the best way to do things is. If you are in this situation, still go with the IDE that the majority uses but be mindful of the individuals in the mob that are not using their tool of choice. Aknowledge that they may be under some initial pain.
 
