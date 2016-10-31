@@ -5,9 +5,23 @@ tags: Mobbing
 category: Unpublished
 ---
 
-Before you start your first mob programming session, it helps to get consensus on the development environment the mob is going to use. Programmers often have very different development environments, geared towards their preferred way of working.
+Before you start your first mob programming session, spend time on setting up the IDE for the mob. Having an IDE that works for the mob from the start will improve the general experience a new mob has. In preparing the IDE there are a few things to cover:
+
+1. What IDE to use  
+2. Keyboard Shorcuts  
+3. Screen navigation  
+
+## What IDE to use?
+
+For some teams this will not be an issue - most teams use the same IDE across the individuals in the team - this will be the IDE you use in the mob.
+
+For other teams, individuals may have a preference for different IDE's. Often, when you have a situation like this, you are also dealing with developers who have strong opinions what the best way to do things is. If you are in this situation, still go with the IDE that the majority uses but be mindful of the individuals that are not going to use their tool of choice. Aknowledge that they may be under some initial pain.
+
+
 
 ## Keyboard Shortcut Mappings
+
+individuals may have worked on the same solution in the past, you will discover your needs in an IDE as a mob are different from you you have very different nuances development environments, geared towards their preferred way of working.
 
 ### Identify individual keyboard shortcut prefereces 
 
@@ -19,9 +33,9 @@ For instance, I have spent a large part of my professional career using Visual S
 
 Find out if in your current editor it is possible to quickly switch between the various keyboard mappings that everyone in the group uses (by quickly I mean anything under 2 seconds, anything over that is going to frustrate you). Some editors allow quick switching, in which case you will probably not feel any pain with keyboard shortcuts.
 
-### If you can't quick switch, what do you do?
+### If you can't switch quickly, what do you do?
 
-If your editor does not allow for quick switching - or switching takes too long - you are going to need decide on a mob standard. Picking the keyboard mapping that is easiest for the entire mob to adopt upfront is going to reduce the pain you feel.
+If your editor does not allow for switching quickly between keyboard shortcuts you are going to need decide on a mob standard. Picking the keyboard mapping that is easiest for the entire mob to adopt upfront is going to reduce the pain you feel.
 
 ### A word on vi and vim
 
