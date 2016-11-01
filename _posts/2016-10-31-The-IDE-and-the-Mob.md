@@ -27,11 +27,14 @@ As a mob, avoid learning a new editor as an initial mob activity unless there is
 
 ## Keyboard Shortcut Mappings
 
-For developers that have spent the time to create muscle memory 
+If you have members in your mob who have spent time commiting specific keyboard shortcut mappings to muscle memory, having a discussion on keyboard shortcut mappings is important.
 
-Start off by identifying the various shortcut mappings individuals in your mob currently us. Don't assume that because everyone in the mob uses the same editor, you will all have the same keyboard shortcuts! Some editors provide multiple keyboard shortcut flavours. 
+Start off by identifying the various shortcut mappings people in your mob currently use. Don't assume that because everyone in the mob used the same editor, you will all have the same keyboard shortcuts mappings! 
 
-For instance, I have spent a large part of my professional career using Visual Studio with Resharper as a plugin. Resharper gives at least two options for key mappings - the classic Visual Studio key mappings as well as IntelliJ key mappings. 
+If everyone in your team uses the same keyboard shortcut mappings great. If you have a range of keyboard shortcut mappings in your mob, you have a few options:  
+
+- Try quick switch keyboard shortcut mappings
+- Or standardize on a standard keyboard shortcut mapping
 
 ### See if you can quick switch mappings
 
