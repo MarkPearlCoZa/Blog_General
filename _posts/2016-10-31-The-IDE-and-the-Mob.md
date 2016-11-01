@@ -5,7 +5,7 @@ tags: Mobbing
 category: Unpublished
 ---
 
-Before you start your first mob programming session, spend time on setting up the mob development environment (MDE). Having an MDE that works well from day one will improve the general experience a new mob has. In preparing the MDE there are a few things to cover:
+Before you start your first mob session, spend time on setting up the mob development environment (MDE). Having an MDE that works well from day one will improve the general experience a new mob has. In preparing the MDE there are a few things to cover:
 
 1. What editor to use  
 2. Keyboard shorcuts  
