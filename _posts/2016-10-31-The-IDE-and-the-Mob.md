@@ -25,7 +25,7 @@ For some teams, people in the team use different editors when working on their o
 
 As a mob, avoid learning a new editor as an initial mob activity unless there is a real need to do so. When a new mob starts there is always some social storming. After a few days of mob programming the storming subsides and momentum starts to grow. Learning a new editor, while trying to also solve a problem can cause unnecessary confusion and frustration in the mob - both things you want to minimize when starting out.
 
-## Keyboard Shortcut Mappings
+## Keyboard shortcut mappings
 
 If you have members in your mob who have spent time commiting keyboard shortcut mappings to muscle memory, having a discussion on what shortcut mappings to use as a mob is important.
 
