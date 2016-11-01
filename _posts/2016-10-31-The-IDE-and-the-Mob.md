@@ -31,7 +31,7 @@ If you have members in your mob who have spent time commiting keyboard shortcut 
 
 Start off by identifying the various shortcut mappings people in your mob currently use. Don't assume that because everyone in the mob used the same editor, you will all have the same keyboard shortcuts mappings! 
 
-If everyone in your team uses the same keyboard shortcut mappings great. If you have a range of keyboard shortcut mappings in your mob, you have a few options:  
+If everyone in your team uses the same keyboard shortcut mappings great! If however, you have different people in your mob using different keyboard shortcut mappings, you have a few options:  
 
 - Try quick switch keyboard shortcut mappings
 - Or standardize on a standard keyboard shortcut mapping
