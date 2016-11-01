@@ -11,8 +11,8 @@ In preparing the MDE there are a few things to consider:
 
 1. What editor/IDE to use  
 2. Keyboard shorcut mappings
-3. Screen navigation  
-4. Version control  
+3. On screen code navigation  
+4. Version control concerns
 5. Timer  
 
 ## What editor/IDE to use?
