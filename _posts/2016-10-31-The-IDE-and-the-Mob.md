@@ -27,7 +27,7 @@ As a mob, avoid learning a new editor as an initial mob activity unless there is
 
 ### A word on vi and vim
 
-I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to not try and teach them how to use this editor while mob programming. 
+I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to avoid using this editor while mob programming. The learning curve is often too steep.
 
 Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarrassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
 
