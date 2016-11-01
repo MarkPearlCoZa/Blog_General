@@ -27,7 +27,7 @@ As a mob, avoid learning a new editor as an initial mob activity unless there is
 
 ## Keyboard Shortcut Mappings
 
-If you have members in your mob who have spent time commiting specific keyboard shortcut mappings to muscle memory, having a discussion on what shortcut mappings to use as a mob is important.
+If you have members in your mob who have spent time commiting keyboard shortcut mappings to muscle memory, having a discussion on what shortcut mappings to use as a mob is important.
 
 Start off by identifying the various shortcut mappings people in your mob currently use. Don't assume that because everyone in the mob used the same editor, you will all have the same keyboard shortcuts mappings! 
 
