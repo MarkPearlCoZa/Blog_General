@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The MDE
+title: Preparing the Mob Development Environment 
 tags: Mobbing
 category: Unpublished
 ---
