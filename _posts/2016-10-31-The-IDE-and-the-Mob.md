@@ -1,21 +1,25 @@
 ---
 layout: post
-title: The IDE and the Mob
+title: The MDE
 tags: Mobbing
 category: Unpublished
 ---
 
-Before you start your first mob programming session, spend time on setting up the IDE for the mob. Having an IDE that works for the mob from the start will improve the general experience a new mob has. In preparing the IDE there are a few things to cover:
+Before you start your first mob programming session, spend time on setting up the mob development environment (MDE). Having an MDE that works well from day one will improve the general experience a new mob has. In preparing the MDE there are a few things to cover:
 
-1. What IDE to use  
-2. Keyboard Shorcuts  
+1. What editor to use  
+2. Keyboard shorcuts  
 3. Screen navigation  
+4. Version control  
+5. Timer  
 
-## What IDE to use?
+## What editor/IDE to use?
 
-For many teams this will be a quick - most teams use the same IDE across the individuals in the team - this will be the IDE you use in the mob.
+*For the sake of being succint, when you see editor, replace it will integrated development environment where appropriate.*
 
-For other teams, individuals in the team may have a preference for different IDE's. Often, when you have a situation like this, you are also dealing with developers who have strong opinions what the best way to do things is. If you are in this situation, still go with the IDE that the majority uses but be mindful of the individuals in the mob that are not using their tool of choice. Aknowledge that they may be under some initial pain.
+For many teams the discussion on what editor to use as a mob will be a quick. Many teams use the same editor across the individuals in the team - if you are in this situation, this will be the same editor you use in the mob.
+
+For some teams, individuals in the team may have a preference for different IDE's. Often, when you have a situation like this, you are also dealing with developers who have strong opinions what the best way to do things is. If you are in this situation, still go with the IDE that the majority uses but be mindful of the individuals in the mob that are not using their tool of choice. Aknowledge that they may be under some initial pain.
 
 When a mob starts out there will be some social storiming. Usually after a few days of mob programming momentum starts to grow.
 
@@ -57,4 +61,6 @@ Because there is still latency between the typist and the rest of the mob, telli
 
 Instead, get used to working with absolute line numbers. Saying, move to line 45 is less error prone than move down 5 lines.
 
+## Version Control
 
+## Timer
