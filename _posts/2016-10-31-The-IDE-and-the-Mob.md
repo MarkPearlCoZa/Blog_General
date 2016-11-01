@@ -38,7 +38,7 @@ If everyone in your team uses the same keyboard shortcut mappings great! If howe
 
 ### Quick switch keyboard shortcut mappings
 
-For some editors it is possible to quickly switch between the keyboard shortcut mappings (by quickly I mean anything under 2 seconds). If you are lucky enough that your editor supports this, this may be the best option to cater for the shortcut needs of the people in your mob.
+For some editors it is possible to quickly switch between the keyboard shortcut mappings (by quickly I mean anything under 2 seconds). If you are lucky enough that your editor supports this, this may be the best route to go to cater for the various shortcut needs of the people in your mob.
 
 ### If you can't switch quickly, what do you do?
 
