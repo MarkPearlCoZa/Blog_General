@@ -23,7 +23,7 @@ For many teams the discussion on what editor to use as a mob will be a quick. Ma
 
 For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority of the mob uses when working on their own. If you go this route be mindful of the individuals in the mob that are not using their editor of choice. Aknowledge that they may be under some initial pain.
 
-As a mob, avoid learning a new editor as an initial mob activity unless there are real needs to do so. When a new mob starts there is always some social storiming. Usually after a few days of mob programming momentum starts to grow.
+As a mob, avoid learning a new editor as an initial mob activity unless there is a real need to do so. When a new mob starts there is always some social storming. After a few days of mob programming the storming subsides and momentum starts to grow. Learning a new editor, while trying to also solve a problem can cause unecessary confusion and frustration in the mob - both things you want to minimize when starting out.
 
 ## Keyboard Shortcut Mappings
 
