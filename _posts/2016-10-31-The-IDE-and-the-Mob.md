@@ -10,7 +10,7 @@ Before you start your first mob session, spend time setting up the mob developme
 In preparing the MDE there are a few things to consider:  
 
 1. What editor/IDE to use  
-2. Keyboard shorcut mappings
+2. Keyboard shortcut mappings
 3. On screen code navigation  
 4. Version control concerns
 5. Timer  
@@ -21,15 +21,13 @@ In preparing the MDE there are a few things to consider:
 
 For many teams the discussion on what editor to use as a mob will be a quick. Many teams use the same editor across the individuals in the team - if you are in this situation, this will be the editor you use as the mob.
 
-For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority of the mob uses when working on their own. If you go this route be mindful of the individuals in the mob that are not using their editor of choice. Aknowledge that they may be under some initial pain.
+For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority of the mob uses when working on their own. If you go this route be mindful of the individuals in the mob that are not using their editor of choice. Acknowledge that they may be under some initial pain.
 
-As a mob, avoid learning a new editor as an initial mob activity unless there is a real need to do so. When a new mob starts there is always some social storming. After a few days of mob programming the storming subsides and momentum starts to grow. Learning a new editor, while trying to also solve a problem can cause unecessary confusion and frustration in the mob - both things you want to minimize when starting out.
+As a mob, avoid learning a new editor as an initial mob activity unless there is a real need to do so. When a new mob starts there is always some social storming. After a few days of mob programming the storming subsides and momentum starts to grow. Learning a new editor, while trying to also solve a problem can cause unnecessary confusion and frustration in the mob - both things you want to minimize when starting out.
 
 ## Keyboard Shortcut Mappings
 
-individuals may have worked on the same solution in the past, you will discover your needs in an IDE as a mob are different from you you have very different nuances development environments, geared towards their preferred way of working.
-
-### Identify individual keyboard shortcut prefereces 
+For developers that have spent the time to create muscle memory 
 
 Start off by identifying the various shortcut mappings individuals in your mob currently us. Don't assume that because everyone in the mob uses the same editor, you will all have the same keyboard shortcuts! Some editors provide multiple keyboard shortcut flavours. 
 
@@ -47,13 +45,13 @@ If your editor does not allow for switching quickly between keyboard shortcuts y
 
 I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to not try and teach them how to use this editor while mob programming. 
 
-Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
+Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarrassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
 
 For emacs users, best you learn a proper editor like vim :-)
 
 ## Turn on absolute line numbers
 
-When mob programming have absolute line numbers tuned on. Aboslute line numbers speed up 
+When mob programming have absolute line numbers tuned on. Absolute line numbers speed up 
 
 ### Absolute and relative line numbers are not the same thing
 
