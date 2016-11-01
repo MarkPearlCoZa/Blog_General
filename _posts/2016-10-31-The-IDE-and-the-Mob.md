@@ -5,7 +5,7 @@ tags: Mobbing
 category: Unpublished
 ---
 
-Before you start your first mob session, spend time setting up the mob development environment (MDE). Having an MDE that works well reduces the reluctance many people have of rotating into the typist role, which in return will improve the overall experience a new mob has. 
+Before you start your first mob session, spend time setting up the mob development environment (MDE). Having an MDE that works well reduces the reluctance many people have of rotating into the typist role, which in return improves the overall experience a new mob has. 
 
 In preparing the MDE there are a few things to cover:  
 
