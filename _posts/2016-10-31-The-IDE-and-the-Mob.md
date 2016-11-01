@@ -9,8 +9,8 @@ Before you start your first mob session, spend time setting up the mob developme
 
 In preparing the MDE there are a few things to consider:  
 
-1. What editor to use  
-2. Keyboard shorcuts  
+1. What editor/IDE to use  
+2. Keyboard shorcut mappings
 3. Screen navigation  
 4. Version control  
 5. Timer  
