@@ -19,7 +19,7 @@ In preparing the MDE there are a few things to consider:
 
 *For the sake of being succint, when you see editor, replace it will integrated development environment where appropriate.*
 
-For many teams the discussion on what editor to use as a mob will be a quick. Many teams use the same editor across the individuals in the team - if you are in this situation, this will be the same editor you use in the mob.
+For many teams the discussion on what editor to use as a mob will be a quick. Many teams use the same editor across the individuals in the team - if you are in this situation, this will be the editor you use in the mob.
 
 For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority uses when working on their own. Be mindful of the individuals in the mob that are not using their editor of choice. Aknowledge that they may be under some initial pain.
 
