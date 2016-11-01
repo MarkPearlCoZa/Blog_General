@@ -33,7 +33,7 @@ Start off by identifying the various shortcut mappings people in your mob curren
 
 If everyone in your team uses the same keyboard shortcut mappings great! If however, you have different people in your mob using different keyboard shortcut mappings, you have a few options:  
 
-- Try quick switch keyboard shortcut mappings in your editor
+- See if you can quick switch keyboard shortcut mappings in your editor
 - Or standardize on a standard keyboard shortcut mapping when mob programming  
 
 ### Quick switch keyboard shortcut mappings
