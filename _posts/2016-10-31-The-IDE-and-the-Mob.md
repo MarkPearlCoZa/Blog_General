@@ -25,6 +25,14 @@ For some teams, people in the team use different editors when working on their o
 
 As a mob, avoid learning a new editor as an initial mob activity unless there is a real need to do so. When a new mob starts there is always some social storming. After a few days of mob programming the storming subsides and momentum starts to grow. Learning a new editor, while trying to also solve a problem can cause unnecessary confusion and frustration in the mob - both things you want to minimize when starting out.
 
+### A word on vi and vim
+
+I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to not try and teach them how to use this editor while mob programming. 
+
+Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarrassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
+
+For emacs users, best you learn a proper editor like vim :-)
+
 ## Keyboard shortcut mappings
 
 If you have members in your mob who have spent time commiting keyboard shortcut mappings to memory, having a discussion on what shortcut mappings to use as a mob is important.
@@ -44,15 +52,9 @@ For some editors it is possible to quickly switch between the keyboard shortcut 
 
 If your editor does not allow for switching quickly between keyboard shortcut mappings you will need decide as a mob on a standard. Picking the keyboard mapping that is easiest for the entire mob to adopt upfront is going to reduce the pain you feel.
 
-### A word on vi and vim
+## On screen code navigation  
 
-I'm a vim fan. I've been using it for years. It has significantly changed the speed at which I can write and morph code. If you are a vi or vim fan, but some people in your mob are not, I would recommend for initial mob sessions to not try and teach them how to use this editor while mob programming. 
-
-Being put in front of a group of co-workers and not being able to even type a single letter can be frustrating, embarrassing and alienating. Rather pick a editor that everyone can be productive in from day one. With time, as your mob settles and gets comfortable with each other, you can look at showing them the light of vim. For the sake of the mob, you will have to go slower initially.
-
-For emacs users, best you learn a proper editor like vim :-)
-
-## Turn on absolute line numbers
+### Turn on absolute line numbers
 
 When mob programming have absolute line numbers tuned on. Absolute line numbers speed up 
 
