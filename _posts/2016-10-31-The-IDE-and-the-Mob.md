@@ -42,7 +42,7 @@ For some editors it is possible to quickly switch between the keyboard shortcut 
 
 ### If you can't switch quickly, what do you do?
 
-If your editor does not allow for switching quickly between keyboard shortcuts you are going to need decide on a mob standard. Picking the keyboard mapping that is easiest for the entire mob to adopt upfront is going to reduce the pain you feel.
+If your editor does not allow for switching quickly between keyboard shortcut mappings you will need decide as a mob on a standard. Picking the keyboard mapping that is easiest for the entire mob to adopt upfront is going to reduce the pain you feel.
 
 ### A word on vi and vim
 
