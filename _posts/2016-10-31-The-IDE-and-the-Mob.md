@@ -36,9 +36,9 @@ If everyone in your team uses the same keyboard shortcut mappings great! If howe
 - Try quick switch keyboard shortcut mappings in your editor
 - Or standardize on a standard keyboard shortcut mapping when mob programming  
 
-### See if you can quick switch mappings
+### Quick switch keyboard shortcut mappings
 
-Find out if in your current editor it is possible to quickly switch between the various keyboard mappings that everyone in the group uses (by quickly I mean anything under 2 seconds, anything over that is going to frustrate you). Some editors allow quick switching, in which case you will probably not feel any pain with keyboard shortcuts.
+For some editors it is possible to quickly switch between the keyboard shortcut mappings (by quickly I mean anything under 2 seconds). If you are lucky enough that your editor supports this, this may be the best option to cater for the shortcut needs of the people in your mob.
 
 ### If you can't switch quickly, what do you do?
 
