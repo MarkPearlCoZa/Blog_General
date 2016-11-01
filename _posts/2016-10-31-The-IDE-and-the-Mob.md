@@ -21,9 +21,9 @@ In preparing the MDE there are a few things to consider:
 
 For many teams the discussion on what editor to use as a mob will be a quick. Many teams use the same editor across the individuals in the team - if you are in this situation, this will be the editor you use as the mob.
 
-For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority of the mob uses when working on their own. Be mindful of the individuals in the mob that are not using their editor of choice. Aknowledge that they may be under some initial pain.
+For some teams, people in the team use different editors when working on their own. Bringing them together as a mob raises the question - what editor do you use when mob programming? If you are in this situation, I recommend you use the editor that the majority of the mob uses when working on their own. If you go this route be mindful of the individuals in the mob that are not using their editor of choice. Aknowledge that they may be under some initial pain.
 
-As a mob, avoid learning a new editor as an initial mob activity, unless there are real needs to do so. When a new mob starts there is always some social storiming. Usually after a few days of mob programming momentum starts to grow.
+As a mob, avoid learning a new editor as an initial mob activity unless there are real needs to do so. When a new mob starts there is always some social storiming. Usually after a few days of mob programming momentum starts to grow.
 
 ## Keyboard Shortcut Mappings
 
