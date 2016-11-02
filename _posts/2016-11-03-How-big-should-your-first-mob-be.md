@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How big should your first mob be
-tags: mobbing
+tags: Mobbing
 category: Unpublished
 ---
 
