@@ -19,10 +19,8 @@ If you are going to risk a large initial mob, consider getting a facilitator who
 
 ## Too small 
 
-Mob programming is not pair programming. The experience when two people program together (pair programming) is different to the experience when 'more' than two people program together. 
+Mob programming is not pair programming. The experience when two people program together (pair programming) is different to the experience when more than two people program together. While pair programming is a great 'entry' drug for mob programming. At a minimum, mob programming is three or more.
 
-
-If your mob is too small, you will battle momentum. 
 ## Just right
 
-You want to start off small
+While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. Often, individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break. Them leaving the mob risk's your mob becoming a pair. That's why I prefer an initial mob of four. This gives you enough redundancy that should someone need to pop out, you still have the benefits of more than two people working on the problem..
