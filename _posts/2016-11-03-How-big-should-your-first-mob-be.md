@@ -2,7 +2,7 @@
 layout: post
 title: How big should your first mob be?
 tags: Mobbing
-category: Unpublished
+category: General 
 ---
 
 How big should your first mob be? Unfortunately there is no one right size mob - mobs are made up of people, dfferent people bring different things to the mob. 
