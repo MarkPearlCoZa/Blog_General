@@ -68,8 +68,9 @@ When mob programming, there is always the question of who do we check the code i
 
 If it is easy for you to create a mob user account for your code commits, there are benefits of identifying what code was written as a group vs. individual. For instance, often the rules change for reviewing code when mob programming. If you are in a team that has a formal code review process, you may not see the need to formally review 'mob' code (since the review was done while the code was being written) but still see the need to formally review 'solo' code. Being able to easily identify mob code from solo code is beneficial in this case.
 
-Be careful though, don't get caught up in too many discussions before proving mob programming as a practice your team will stick with. If it looks like there will be a lot of red tape, commit the code as one of the people in the mob and follow your normal review process. If the code was written well, it will fly through the review stage. Once mob programming becomes a permanent thing in your team you can re-look at differentiating the workflows.
+Be careful though, don't get caught up in too many discussions before proving mob programming as a practice your team will stick with. If it looks like there will be a lot of red tape, commit the code as one of the people in the mob and follow your normal review process. If the code was written well, it will fly through the review stage. Once mob programming becomes a permanent thing in your team you can re-look at differentiating the workflows and getting a mob version control credential.
 
 ## Timer
 
-Having
+For new teams, having a visible mob session timer is important. It makes it clear when a mob should rotate the typist role and can help encourage flow. There are various timers you can use, from a cell phones to on screen timers. I have found the best results with an on screen timer that is visible to the mob at all times. This often helps the mob avoid discussions getting too 'deep', there is nothing like seeing a clock ticking down to help you get to the point.
+
