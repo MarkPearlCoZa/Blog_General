@@ -17,7 +17,7 @@ Whenever a mob starts, your will see some social 'storming' (if you are not fami
 
 Fundamentally, large mobs go through more storming because there are more people (and thus more social dynamics). When starting try and avoid a large initial mob. How large is large? I've found as soon as your start going over 5 people in a mob you see significantly more storming.
 
-If you are going to risk a large initial mob, consider getting a facilitator who is experienced with mob programming in to help you navigate the social dynamics you are going to encounted. 
+If you are going to risk a large initial mob, consider getting a facilitator who is experienced with mob programming to help you navigate the social dynamics you are going to encounter. 
 
 ## Too small 
 
