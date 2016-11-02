@@ -1,15 +1,15 @@
 ---
 layout: post
-title: How big should your first mob be
+title: How big should your first mob be?
 tags: Mobbing
 category: Unpublished
 ---
 
 How big should your first mob be? Unfortunately there is no one right size mob - mobs are made up of people, dfferent people bring different things to the mob. 
 
-> Start small, grow as you gain experience
-
 While starting off small and growing the size of the mob as people in your team gain experience in this style programming is often the best approach - a small mob of people who have no experience with mob programming may not as good as a larger mob that has experienced mob programmers. Here are some things to keep a look out for.
+
+> Start small, grow as you gain experience
 
 ## Too large 
 
@@ -31,6 +31,8 @@ I've seen teams that have not done either pair or mob programming before that ha
 
 ## Just right
 
-While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. A big aspect of mob programming flow. When individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break you risk loosing flow. I prefer an initial mob of four. This gives you enough redundancy that should someone need to pop out, you still have the benefits of more than two people working on the problem..
+While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. A big aspect of mob programming is flow. When individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break you risk loosing flow or becoming a pair. 
+
+That's why I prefer an initial mob of four. Four gives you enough people redundancy that should someone need to pop out, you still have flow and the benefits of more than two people working on the problem.
 
 
