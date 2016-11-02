@@ -52,16 +52,24 @@ If your editor does not allow for switching quickly between keyboard shortcut ma
 
 ### Turn on absolute line numbers
 
-When mob programming have absolute line numbers tuned on. Absolute line numbers speed up 
+When mob programming have absolute line numbers tuned on. Absolute line numbers speed up on screen code navigation.
 
 ### Absolute and relative line numbers are not the same thing
 
 Absolute and relative line numbers are not the same thing. Absolute line numbers are absolute regardless of where the cursor is positioned. Relative line numbers change as you move the cursor up or down. 
 
-Because there is still latency between the typist and the rest of the mob, telling the typist to go down 5 lines (relative navigation) may not work. They may have moved the cursor one or two lines down before processing your instruction, leading them to still being off by a few lines.
+Because there is latency between an instruction being given from the mob and the typist processing the instructions, telling the typist to go down 5 lines (relative navigation) does not work well. Often the typist has already moved the cursor before processing your instruction, leading them to still being off by a few lines.
 
 Instead, get used to working with absolute line numbers. Saying, move to line 45 is less error prone than move down 5 lines.
 
 ## Version Control
+
+When mob programming, there is always the question of who do we check the code in as? Since the mob created the code, is it right to have a 'mob credential' that we commit the code against, or do we check it in as someone in the mob.
+
+If it is easy for you to create a mob user account for your code commits, there are benefits of identifying what code was written as a group vs. individual. 
+
+For instance, often the rules change for reviewing code when mob programming compared to solo and pair programming. If you are in a team that has a formal code review process, you may not see the need to formally review 'mob' code (since the review was done while the code was being written) but still see the need to formally review 'solo' code. 
+
+If it looks like there will be to much red tape to achieve this, then commit the code in as one of the people in the mob, and follow your normal review process. Once mob programming becomes a permanent thing in the team you can re-look at the workflows.
 
 ## Timer
