@@ -35,6 +35,4 @@ One of the challenges with pair programming is it's easy to reach a stale mate (
 
 ## Just right
 
-I prefer an initial mob of four. Four gives you enough people redundancy that should someone need to pop out, you still have flow and the benefits of more than two people working on the problem. Four is also small enough that the storming you will go through is still managable. 
-
-Whether four is the magic number or not for you depends on your teams personal circumstances.
+I prefer an initial mob of four. Four gives you enough people redundancy that should someone need to pop out, you still have the benefits of more than two people working on the problem and are able to keep flow. Four is also small enough that the storming you will go through is still managable. Whether four is the magic number or not for your team depends on your specific circumstances.
