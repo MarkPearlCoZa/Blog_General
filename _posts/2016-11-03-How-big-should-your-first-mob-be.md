@@ -23,7 +23,7 @@ If you are going to risk a large initial mob, consider getting a facilitator who
 
 Mob programming is not pair programming. The experience when two people program together (pair programming) is different to the experience when more than two people program together. While pair programming is a great entry drug for mob programming, it should not be confused with being the same thing. At a minimum, mob programming is three or more.
 
-### For those that haven't don pair programming
+### For those that haven't done pair programming
 
 If you come from a team that has not done pair programming, should you first attempt pair programming before tackling mob programming? I've seen teams that have not done either pair or mob programming that have successfully skipped pair programming and gone straight to mob programming. In fact, I think in many situations it is easier to get mob programming working than pair programming. With pair programming you can often reach a stale mate, with mob programming you generally have a tie breaker.
 
