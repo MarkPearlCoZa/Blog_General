@@ -12,7 +12,7 @@ In preparing the MDE there are a few things to consider:
 1. What editor/IDE to use  
 2. Keyboard shortcut mappings
 3. On screen code navigation  
-4. Version control concerns
+4. Version control user account
 5. Timer  
 
 ## What editor/IDE to use?
@@ -62,14 +62,14 @@ Because there is latency between an instruction being given from the mob and the
 
 Instead, get used to working with absolute line numbers. Saying, move to line 45 is less error prone than move down 5 lines.
 
-## Version Control
+## Version control user account
 
 When mob programming, there is always the question of who do we check the code in as? Since the mob created the code, is it right to have a 'mob credential' that we commit the code against, or do we check it in as someone in the mob.
 
-If it is easy for you to create a mob user account for your code commits, there are benefits of identifying what code was written as a group vs. individual. 
+If it is easy for you to create a mob user account for your code commits, there are benefits of identifying what code was written as a group vs. individual. For instance, often the rules change for reviewing code when mob programming. If you are in a team that has a formal code review process, you may not see the need to formally review 'mob' code (since the review was done while the code was being written) but still see the need to formally review 'solo' code. Being able to easily identify mob code from solo code is beneficial in this case.
 
-For instance, often the rules change for reviewing code when mob programming compared to solo and pair programming. If you are in a team that has a formal code review process, you may not see the need to formally review 'mob' code (since the review was done while the code was being written) but still see the need to formally review 'solo' code. 
-
-If it looks like there will be to much red tape to achieve this, then commit the code in as one of the people in the mob, and follow your normal review process. Once mob programming becomes a permanent thing in the team you can re-look at the workflows.
+Be careful though, don't get caught up in too many discussions before proving mob programming as a practice your team will stick with. If it looks like there will be a lot of red tape, commit the code as one of the people in the mob and follow your normal review process. If the code was written well, it will fly through the review stage. Once mob programming becomes a permanent thing in your team you can re-look at differentiating the workflows.
 
 ## Timer
+
+Having
