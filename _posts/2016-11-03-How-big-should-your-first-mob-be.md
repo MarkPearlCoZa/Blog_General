@@ -13,7 +13,7 @@ While starting off small and growing the size of the mob as people in your team 
 
 Whenever a mob starts, your will see some social 'storming' (if you are not familiar with [Tuckmans stages of group development](http://blog.markpearl.co.za/Tuckmans-Model), it worth reading up on). If you are not able to get past the storming, it can kill the future of mob programming for your team.
 
-Fundamentally, large mobs have more storming because there are more people. When starting, avoid a large initial mob - you are asking for trouble. How large is large? I've found as soon as your start going over 5 people in a mob you see significantly more storming.
+Fundamentally, large mobs go through more storming because there are more people (and thus more social dynamics). When starting, avoid a large initial mob - you are asking for trouble. How large is large? I've found as soon as your start going over 5 people in a mob you see significantly more storming.
 
 ## Too small 
 
