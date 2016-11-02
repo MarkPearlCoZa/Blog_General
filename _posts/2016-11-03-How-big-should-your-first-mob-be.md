@@ -27,6 +27,6 @@ If you come from a team that is not familiar with pair or mob programming, shoul
 
 ## Just right
 
-While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. Often, individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break. Them leaving the mob risk's your mob becoming a pair. That's why I prefer an initial mob of four. This gives you enough redundancy that should someone need to pop out, you still have the benefits of more than two people working on the problem..
+While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. A big aspect of mob programming flow. When individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break you risk loosing flow. I prefer an initial mob of four. This gives you enough redundancy that should someone need to pop out, you still have the benefits of more than two people working on the problem..
 
 
