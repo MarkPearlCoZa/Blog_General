@@ -23,18 +23,18 @@ If you are going to risk a large initial mob, consider getting a facilitator who
 
 Mob programming is not pair programming. The experience when two people program together (pair programming) is different to the experience when more than two people program together. While pair programming is a great entry drug for mob programming, it should not be confused with being the same thing. At a minimum, mob programming is three or more.
 
+While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. A big aspect of mob programming is flow. When individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break you risk loosing flow or becoming a pair. 
+
 ### For those that haven't done pair programming
 
 If you come from a team that has not done pair programming, should you first attempt pair programming before tackling mob programming? 
 
 I've seen teams that have successfully skipped pair programming and gone straight to mob programming. In fact, in many situations it is easier to get mob programming working than pair programming. 
 
-One of the challenges with pair programming is you can reach a stale mate - when there is only two of you this can be a challenge. With mob programming you generally have a tie breaker - it isn't as confrontational.
+One of the challenges with pair programming is it's easy to reach a stale mate (when there is only two of you, who make the final call). With mob programming you generally have a built in tie breaker and it is less personal.
 
 ## Just right
 
-While mob programming needs at least three people for a 'mob' to really exist, three people may sometimes still be too small. A big aspect of mob programming is flow. When individuals have meetings, are sick for a day, get an urgent phone call, or just need to have a quick break you risk loosing flow or becoming a pair. 
+That's why I prefer an initial mob of four. Four gives you enough people redundancy that should someone need to pop out, you still have flow and the benefits of more than two people working on the problem. Four is also small enough that the storming you will go through is still managable. 
 
-That's why I prefer an initial mob of four. Four gives you enough people redundancy that should someone need to pop out, you still have flow and the benefits of more than two people working on the problem.
-
-
+Whether four is the magic number or not for you depends on your teams personal circumstances.
