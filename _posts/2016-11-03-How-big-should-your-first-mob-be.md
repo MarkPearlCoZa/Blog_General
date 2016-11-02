@@ -25,7 +25,9 @@ Mob programming is not pair programming. The experience when two people program 
 
 ### For those that haven't done pair programming
 
-If you come from a team that has not done pair programming, should you first attempt pair programming before tackling mob programming? I've seen teams that have not done either pair or mob programming that have successfully skipped pair programming and gone straight to mob programming. In fact, I think in many situations it is easier to get mob programming working than pair programming. With pair programming you can often reach a stale mate, with mob programming you generally have a tie breaker.
+If you come from a team that has not done pair programming, should you first attempt pair programming before tackling mob programming? 
+
+I've seen teams that have not done either pair or mob programming before that have successfully skipped pair programming and gone straight to mob programming. In fact, in many situations it is easier to get mob programming working than pair programming. One of the challenges with pair programming is you can reach a stale mate - when there is only two of you this can be a challenge. With mob programming you generally have a tie breaker - it isn't as confrontational.
 
 ## Just right
 
