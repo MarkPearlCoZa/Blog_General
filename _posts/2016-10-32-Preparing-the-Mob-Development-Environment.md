@@ -2,7 +2,7 @@
 layout: post
 title: Preparing the Mob Development Environment 
 tags: Mobbing
-category: Unpublished
+category: General 
 ---
 
 Before you start your first mob session, spend time setting up the mob development environment (MDE). Having an development environment that works well reduces the reluctance many people have of rotating into the typist role, which in return improves the overall experience a new mob has. 
