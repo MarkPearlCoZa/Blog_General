@@ -21,11 +21,11 @@ Encourage people to give feedback. Be comfortable with a few moments of awkward 
 
 Once a headline is written, put the post-it note in a place where the entire mob can see it. If you have a whiteboard by the mobbing station, often this is a good place to put them. 
 
-In future mob programming sessions, often the same area becomes a place for people in the mob to write topics to discuss at the end of a session.
+In future mob programming sessions, often the same area becomes a place for people in the mob to write topics to discuss during the end of a session retro.
 
 ## Try and get to the heat
 
-Asking about physical layouts, while important, is less important than getting to heat - I call this getting to the heat.
+Asking about physical layouts, while important, is less important than getting to what I like to call the heat. 
 
 Usually the heat is around how people communicated and interacted during the session.
 
@@ -33,6 +33,11 @@ Usually the heat is around how people communicated and interacted during the ses
 - Where there situations where you felt there was unnecessary friction, why do you think there was this friction?
 - Where there situations where you felt you were talking over someone else, what can you do differently next time?
 
-## Agree on what to change for the next time 
+If there is no real heat, or people aren't in a good place to go there, don't push too hard. Mob programming can be extremely tiring, sometimes people just need some time to recover and think. If your mob is in this state, suggest doing a quick retro when the team starts their next mobbing session and close the session.
+
+## Handling suggested adjustments
+
+
+
 
 
