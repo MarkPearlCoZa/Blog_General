@@ -11,9 +11,20 @@ At the end of your first mob programming session it is important to do a post mo
 
 Start the retro with an easy question, something that everyone is comfortable commenting on (often once a person makes an initial contribution, you will see them contributing through out the retro).
 
-I like to start witht the question:
+I like to start with...
 
-> Does the layout work for you?
+> Did the physical layout work for you?
+
+Make sure a headline for each suggestions or improvement someone makes is written on a post-it note.
+
+## Put outcomes where the entire mob can see
+
+Put these post-it notes in a place where the entire mob will see during next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place.
+
+
+
+## Agree on what to change for the next session
+
 
 
 
