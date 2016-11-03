@@ -5,7 +5,7 @@ tags: Mobbing
 category: Unpublished
 ---
 
-At the end of your first mob programming session do a post mob retrospective. This is where everyone who just participated in the session get's to share how they found the session. Your first post mob retro should not take too long - try keep it under 15 minutes.
+At the end of your first mob programming session it is important to do a post mob retrospective. This is where everyone who just participated in the mobbing session get's to share how they found the session. Your first post mob retro should not take too long - try keep it under 15 minutes.
 
 ## Start with an easy question
 
