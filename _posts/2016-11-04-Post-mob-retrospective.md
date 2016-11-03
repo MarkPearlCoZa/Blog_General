@@ -35,7 +35,7 @@ Usually the heat is around how people communicated and interacted during the ses
 - Were there situations where you felt there was unnecessary friction, why do you think there was this friction?
 - Were there situations where you felt you were talking over someone else, what can you do differently next time?
 
-If there is no real heat, or people aren't in a good place to go there, don't push too hard. Mob programming can be extremely tiring, sometimes people just need some time to recover and think. If your mob is in this state, suggest doing a quick retro when the team starts their next mobbing session and close the session.
+If there is no real heat, or people aren't in a good place to go there, don't push too hard. Mob programming can be extremely tiring. Sometimes people just need some time to recover and think. If your mob is in this state, suggest moving the retro to when the team starts their next mobbing session. If the majority of the mob is happy with this, end the session but make sure you do the retro before you start the next mob programming session.
 
 ## Handling suggested adjustments
 
