@@ -47,7 +47,7 @@ Whether you decide to get consensus, or whether you will try something if you ge
 
 ## How often should you have a retro
 
-When a group starts mob programming for the first time, you want to have regular retrospectives. When adopting mob programming, you usually start off with a one or two hour session - I would recommend doing a retro straight after the first session.
+When trying mob programming for the first time, you usually start off with a one or two hour mob programming session. Do your first retrospective straight after the first session.
 
 As your team adopts mob programming as a daily practice, it may be more natural to have a retrospective at the end of each day after the last mob session. 
 
