@@ -23,11 +23,11 @@ Once a headline is written, put the post-it note in a place where the entire mob
 
 In future mob programming sessions, often the same area becomes a place for people in the mob to write topics to discuss at the end of a session.
 
-## Establish social rules
+## Try and get to the heat
 
-Asking about physical layouts, while important, is less important than getting to heat - how people communicated and interacted during the session.
+Asking about physical layouts, while important, is less important than getting to heat - I call this getting to the heat.
 
-The really interesting questions you want to get to include
+Usually the heat is around how people communicated and interacted during the session.
 
 - Did everyone feel engaged, what stopped you from feeling engaged?
 - Where there situations where you felt there was unnecessary friction, why do you think there was this friction?
