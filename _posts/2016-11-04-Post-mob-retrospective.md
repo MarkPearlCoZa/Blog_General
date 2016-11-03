@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post mob retrospective
+title: The post mob retrospective
 tags: Mobbing
 category: Unpublished
 ---
