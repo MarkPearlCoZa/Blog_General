@@ -41,6 +41,14 @@ If there is no real heat, or people aren't in a good place to go there, don't pu
 
 Before you close the retro, go through all the new suggested ideas and changes. You want to frame these suggestions as 'experiments' - something the mob can try, and if it doesn't work relook at.
 
-Be careful not to adopt too many experiements at once. Having too many experiments going on at the same time makes it hard to gauge which things are working and which are not. My rule of thumb is 1 to 3 experiments is fine, anything more than that and I want to park some to come back to later.
+Be careful not to adopt too many experiements at once. Having too many experiments going on at the same time makes it hard to gauge what experiments are working and what experiments are not. My rule of thumb is 1 to 3 experiments is fine, anything more than that and I want to park some to come back to later.
+
+Whether you decide to get consensus, or whether you will try something if you get a majority depends on the dynamics of the mob. My preference is consensus, this is in line with a core tenant of mob programming which is treat everyone with kindness, consideration and respect. Make a clear distinction between the experiments you want to try, and the other suggestions that are parked. Having a section on you white board titled "current experiments" is often a nice way to distinguish between the two categories.
 
 ## How often should you have a retro
+
+When a group starts mob programming for the first time, you want to have regular retrospectives. When adopting mob programming, you usually start off with a one or two hour session - I would recommend doing a retro straight after the first session.
+
+As your team adopts mob programming as a daily practice, it may be more natural to have a retrospective at the end of each day after the last mob session. 
+
+At some point the mob will begin to flow,
