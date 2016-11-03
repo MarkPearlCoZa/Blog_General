@@ -17,7 +17,7 @@ I like to start with...
 
 Encourage people to give feedback. Be comfortable with a few moments of awkward silence. As people give feedback, look out for suggestions on what to change. If you identify one, write a headline for it on a post-it note.
 
-## Put outcomes where the entire mob can see
+## Make suggestions visible to the mob
 
 Once a headline is written, put the post-it note in a place where the entire mob can it during their next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place to keep them. 
 
