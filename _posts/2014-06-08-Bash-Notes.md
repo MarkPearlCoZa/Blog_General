@@ -79,6 +79,16 @@ tar -c -z -v -f directoryName
 ~~~
 -z means to zip it up
 
+### Decompressing a File
+
+~~~
+tar -xzf file.tar
+~~~
+
+-x Extract to disk  
+-z Zip/compress
+-f Filename
+
 ------------------------------------------------------------------------------------------------
 
 ## Navigating Directories 
@@ -670,6 +680,12 @@ complete -F _kbcommands kbc
 Use okular
 
 ------------------------------------------------------------------------------------------------
+
+### Display disk space
+
+~~~
+df
+~~~
 
 ### References 
 
