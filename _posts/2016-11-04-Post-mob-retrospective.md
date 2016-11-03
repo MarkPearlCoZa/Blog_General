@@ -5,7 +5,7 @@ tags: Mobbing
 category: Unpublished
 ---
 
-For a new mob, it is important to do a post mob retrospective when starting out. This is where everyone who participated in mobbing get's to share how they found it and put forward suggestions on what to change next time. 
+For a teams new to mob programming, the post mob retrospective is really important. This is where everyone who participated in mobbing get's to share how they found it and put forward suggestions on what to change next time. 
 
 Your first post mob retro should not take too long - try keep it under 15 minutes.
 
