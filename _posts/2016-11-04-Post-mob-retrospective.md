@@ -15,7 +15,7 @@ I like to start with...
 
 > Did the physical layout work for you?
 
-Encourage people to give feedback. Be comfortable with a few moments of awkward silence. As people give feedback, look out for suggestions on what to change. If you identify a suggestion or potential improvement write a headline for it on a post-it note.
+Encourage people to give feedback. Be comfortable with a few moments of awkward silence. As people give feedback, look out for suggestions on what to change. If you identify one, write a headline for it on a post-it note.
 
 ## Put outcomes where the entire mob can see
 
