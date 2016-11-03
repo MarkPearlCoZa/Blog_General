@@ -19,16 +19,17 @@ Encourage people to give feedback. Be comfortable with a few moments of awkward 
 
 ## Put outcomes where the entire mob can see
 
-Put these post-it notes in a place where the entire mob will see during next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place.
+Once a headline is written, put the post-it note in a place where the entire mob can it during their next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place to keep them. 
 
 ## Establish social rules
 
-Asking about physical layouts, while important, is less important than establishing how people communicate and interact.
+Asking about physical layouts, while important, is less important than getting to heat - how people communicated and interacted during the session.
 
 The really interesting questions you want to get to include
 
-- Did everyone feel engaged
-- Where there any situations where you felt there was unnecessary friction
+- Did everyone feel engaged, what stopped you from feeling engaged?
+- Where there situations where you felt there was unnecessary friction, why do you think there was this friction?
+- Where there situations where you felt you were talking over someone else, what can you do differently next time?
 
 ## Agree on what to change for the next time 
 
