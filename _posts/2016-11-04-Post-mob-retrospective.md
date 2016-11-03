@@ -21,6 +21,8 @@ Encourage people to give feedback. Be comfortable with a few moments of awkward 
 
 Once a headline is written, put the post-it note in a place where the entire mob can see it during their next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place to keep them. 
 
+In future mob programming sessions, often the same area becomes a place for people in the mob to write topics to discuss at the end of a session.
+
 ## Establish social rules
 
 Asking about physical layouts, while important, is less important than getting to heat - how people communicated and interacted during the session.
