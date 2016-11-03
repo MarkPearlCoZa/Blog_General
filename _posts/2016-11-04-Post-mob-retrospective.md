@@ -21,15 +21,15 @@ Make sure a headline for each suggestions or improvement someone makes is writte
 
 Put these post-it notes in a place where the entire mob will see during next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place.
 
+## Establish social rules
+
+Asking about physical layouts, while important, is less important than establishing how people communicate and interact.
+
+The really interesting questions you want to get to include
+
+- Did everyone feel engaged
+- Where there any situations where you felt there was unnecessary friction
+
+## Agree on what to change for the next time 
 
 
-## Agree on what to change for the next session
-
-
-
-
-Things you want to cover in this session include:
-
-1. Does the layout work for everyone
-2. Did everyone feel engaged
-3. Where there any situations where you felt there was unnecessary friction
