@@ -32,8 +32,8 @@ Asking about physical layouts, while important, is less important than getting t
 Usually the heat is around how people communicated and interacted during the session.
 
 - Did everyone feel engaged, what stopped you from feeling engaged?
-- Where there situations where you felt there was unnecessary friction, why do you think there was this friction?
-- Where there situations where you felt you were talking over someone else, what can you do differently next time?
+- Were there situations where you felt there was unnecessary friction, why do you think there was this friction?
+- Were there situations where you felt you were talking over someone else, what can you do differently next time?
 
 If there is no real heat, or people aren't in a good place to go there, don't push too hard. Mob programming can be extremely tiring, sometimes people just need some time to recover and think. If your mob is in this state, suggest doing a quick retro when the team starts their next mobbing session and close the session.
 
