@@ -15,7 +15,7 @@ I like to start with...
 
 > Did the physical layout work for you?
 
-Encourage people to give feedback. Be comfortable with a few moments of awkward silence. As people give feedback, look out for suggestions on what to change. If you identify one, write a headline for it on a post-it note.
+Encourage people to give feedback. Be comfortable with a few moments of awkward silence. As people give feedback, look out for suggestions and ideas on what to change. If you identify one, write a headline for it on a post-it note.
 
 ## Make suggestions visible to the mob
 
@@ -37,7 +37,6 @@ If there is no real heat, or people aren't in a good place to go there, don't pu
 
 ## Handling suggested adjustments
 
+Before you close the retro, go through all the new suggested ideas and changes. You want to frame these suggestions as 'experiments' - something the mob can try, and if it doesn't work relook at.
 
-
-
-
+Be careful not to adopt too many experiements at once. 
