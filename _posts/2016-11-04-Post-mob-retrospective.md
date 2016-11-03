@@ -19,7 +19,7 @@ Encourage people to give feedback. Be comfortable with a few moments of awkward 
 
 ## Make suggestions visible to the mob
 
-Once a headline is written, put the post-it note in a place where the entire mob can see it during their next mob programming session. If you have a whiteboard by the mobbing station, often this is a good place to keep them. 
+Once a headline is written, put the post-it note in a place where the entire mob can see it. If you have a whiteboard by the mobbing station, often this is a good place to put them. 
 
 In future mob programming sessions, often the same area becomes a place for people in the mob to write topics to discuss at the end of a session.
 
