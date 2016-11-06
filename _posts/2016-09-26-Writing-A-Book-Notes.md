@@ -77,6 +77,29 @@ How do you get a ISBN Number?
 - Consulting engagements  
 - Book sales  
 
+-------------------------------------------------------------------------------
+
+## Sections of a book
+
+- Half title page [title only] (page i)  
+- Title page (page iii)  
+- Copyright (page iv)  
+- Dedication   
+- Epigraph (or before main text)  
+- Table of contents  
+
+- Foreword (not "forward" or "foreward")  
+- Editor's preface  
+- Author's preface, or  
+- Preface and Acknowledgments  
+
+[What is the difference between a preface, a foreward, and an introduction](http://www.writersandeditors.com/preface__foreword__or_introduction__57375.htm)
+
+### Preface
+
+
+### Foreward
+
 #### References 
 
 [Writing & Marketing a Book by Jason Alba](https://app.pluralsight.com/library/courses/writing-marketing-book)  
