@@ -93,12 +93,25 @@ How do you get a ISBN Number?
 - Author's preface, or  
 - Preface and Acknowledgments  
 
-[What is the difference between a preface, a foreward, and an introduction](http://www.writersandeditors.com/preface__foreword__or_introduction__57375.htm)
+[What is the difference between a preface, a foreward, and an introduction](http://www.writersandeditors.com/preface__foreword__or_introduction__57375.htm)  
+[What's the difference between a Foreword, Preface, and Introduction?](http://www.bpsbooks.com/BPS-Books-blog/bid/21727/What-s-the-Difference-Between-a-Foreword-Preface-and-Introduction)  
 
 ### Preface
 
+Author briefly explains why they wrote the book  
+Establish credibility indicating experience in the topic of their book
+
 
 ### Foreward
+
+Most often written by someone other than the author (an expert in the field, a writer of a similar book)  
+Forewards help the publisher market the book
+
+### Introduction
+
+About the content of the book  
+Sets the overall theme of the book
+
 
 #### References 
 
