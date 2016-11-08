@@ -19,7 +19,7 @@ Find something the mob is interested in. If the mob is interested in kata's, do 
 
 Avoid work that is repetetive, unchallenging and requires no thought - this work is boring in it's very nature and does not demonstrate the benefits of mob programming.
 
-At some point the mob will do boring, repetetive items - for now though, you don't want people to get mob programming is boring because the work they are doing is boring.
+At some point the mob will do boring, repetetive items - for now though, you don't want people to think mob programming is boring because the work they are doing is boring.
 
 ## Everyone should be able to contribute
 
