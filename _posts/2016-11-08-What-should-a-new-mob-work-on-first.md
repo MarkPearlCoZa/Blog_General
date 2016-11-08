@@ -23,7 +23,7 @@ At some point the mob will do boring, repetetive items - for now though, you don
 
 ## Everyone should be able to contribute
 
-Work that is particularly deep that only one individual has experience with is hard for new mobs to work on. This is because rotation in the mob is slightly different with this type of work and there is more emphasis on directing the person currently typing. Rather look for work that everyone can contribute to that relies on skills best suited for the whole mob.
+Work that is particularly deep that only one individual has experience with is hard for new mobs to work on. This is because rotation in the mob is slightly different with this type of work and there is more emphasis on directing the person currently typing. Rather, look for work that everyone can contribute to that relies on skills best suited for the whole mob.
 
 ## It should be small, but not too small
 
