@@ -27,7 +27,7 @@ Work that is particularly deep that only one individual has experience with is h
 
 ## It should be small, but not too small
 
-Look for work that is small, but not too small. If you plan for your first mob session to be 2 hours, avoid works that can be completed in a few minutes. Likewise, avoid work that can only be completed in several days. Rather look for work that will span 2-3 two hour sessions. You will find this gives the mob enough time to get comfortable with the problem and the satisfaction of completing something.
+Look for work that is small, but not too small. If you plan for your first mob session to be 2 hours, avoid work that can be completed in a few minutes. Likewise, avoid work that can only be completed in several days. Rather look for work that will span 2-3 two hour sessions. You will find this gives the mob enough time to get comfortable with the problem and the satisfaction of completing something.
 
 ## It should not have a hard tight deadline
 
