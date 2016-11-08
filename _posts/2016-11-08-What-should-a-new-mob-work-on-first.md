@@ -46,7 +46,7 @@ If you are in the unfortunate situation where your team is not interested in kat
 
 If you currently don't have work like this but in the near future you will have work that matches the above, it may be worth postponing your first mob programming session until you get to that work. When going this route, ask yourself how many days till you will get work like this? If it means delaying mob programming for a couple days, that's fine - rather wait for a better moment than create a negative first impression.
 
-If however, you are looking at many weeks or months before you will come across work like this, I would recommend to not delay mobbing. Just pick something off your current backlog and attempt it as a mob. I suggest this because one of two things will happen:  
+If however, you are looking at many weeks or months before you will come across work like this, I would recommend to not delay mobbing. Just pick something off your current backlog and attempt it as a mob. This because one of two things will happen:  
 
 - You may still get value from the session  
 - You may find out that mob programming is not a good fit for what your team does  
