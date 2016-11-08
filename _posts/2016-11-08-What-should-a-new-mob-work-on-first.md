@@ -33,7 +33,7 @@ Rather look for work that will span 2-3 two hour sessions. You will find this gi
 
 ## It should not have a hard tight deadline
 
-Work that has a hard tight deadline can be difficult for new mob to work on. The upfront mob storming get's in the way and is enhanced by the deadline. For teams that are already under pressure to 'get something in production', working on this type of work might cause them to abandon mob prematurely. 
+Work that has a hard tight deadline can be difficult for new mob to work on. The upfront storming get's in the way and is enhanced by the deadline. Teams that are already under pressure to 'get something in production' will abandon new practices when under pressure and revert to their default mode.
 
 ## What if you can't find appropriate work?
 
