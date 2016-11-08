@@ -10,7 +10,7 @@ There is no one specific type of work that is right or wrong for a mob, only att
 
 - It should be interesting  
 - Everyone should be able to contribute
-- It should be small
+- It should be small, but not too small  
 - It should not have a hard tight deadline
 
 ## It should be interesting
