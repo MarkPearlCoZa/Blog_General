@@ -39,12 +39,19 @@ Work that has a hard tight deadline can be difficult for new mob to work on. The
 
 If you are in the unfortunate situation where your team is not interested in kata's and you do not have work that meets the above criteria, you have a decision to make:  
 
-- Delay mob programming to a later date
+- Delay mob programming for a few days
 - Or pick an existing work item closest to the above
 
-If you currently don't have work like this but in the near future you will have work that matches the above, it may be worth postponing your first mob programming session until you get to that work. If it means delaying mob programming for a couple days, that's fine - rather wait for a better moment than create a negative first impression.
+### Delay mob programming for a few days
 
-If however, you are looking at weeks or months before you will come across work like this, I would recommend just picking something off your current backlog and attempting it as a mob. You may be surprised that you still get value from the session. You may also find out that mob programming is not a good fit for what your team does, in which case you have recieved some useful feedback.
+If you currently don't have work like this but in the near future you will have work that matches the above, it may be worth postponing your first mob programming session until you get to that work. When going this route, ask yourself how many days till you will get work like this? If it means delaying mob programming for a couple days, that's fine - rather wait for a better moment than create a negative first impression.
+
+If however, you are looking at many weeks or months before you will come across work like this, I would recommend to not delay mobbing. Just pick something off your current backlog and attempt it as a mob. I suggest this because one of two things will happen:  
+
+- You may still get value from the session  
+- You may find out that mob programming is not a good fit for what your team does  
+
+Either way you can move forward.
 
 ## Should all work be like this?
 
