@@ -16,7 +16,7 @@ So here's my latest list of recommended readings... As I come across new things 
 #### Videos ####
 
 [Demanding Professionalism in Software Development by Uncle Bob](https://www.youtube.com/watch?v=p0O1VVqRSK0)  
-[Technical Debt Metaphor explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)
+[Technical Debt Metaphor explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
 [The Techical Debt Trap by Doc Norton](https://vimeo.com/97507576), [see notes](http://blog.markpearl.co.za/The-Technical-Debt-Trap)  
 [TDD, Where did it all go wrong by Ian Cooper](https://vimeo.com/68375232)  
 [Software Design: Why, When & How by Kent Beck](https://vimeo.com/105771493), [see notes](http://blog.markpearl.co.za/Software-Design-Why-When-How)  
@@ -27,3 +27,4 @@ So here's my latest list of recommended readings... As I come across new things 
 [3 Productivity Hacks for Tech Teams](https://www.youtube.com/watch?v=ZO8hN6Nvl5Y)  
 [The Timeless Way of Building by John Athayde](https://youtu.be/DJJbIjlLmLM)  
 [Run with a Rebel Wild Pack by Lois Kelly](https://www.youtube.com/watch?v=WGcrwz7X4B0), [see notes](http://blog.markpearl.co.za/Dealing-with-change)  
+[Managing by the Book by Kent Beck](https://www.youtube.com/watch?v=I3tTCuhO6ho)  
