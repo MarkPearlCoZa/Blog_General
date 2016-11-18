@@ -13,6 +13,7 @@ tagline: my thoughts and comments
 <li><a href="#media" data-toggle="tab">Media</a></li>
 <li><a href="#misc" data-toggle="tab">Misc</a></li>
 </ul>
+
 <div id="my-tab-content" class="tab-content">
 
 	{% assign alphabeticalPosts = site.posts | sort:"title" %}
@@ -55,7 +56,7 @@ tagline: my thoughts and comments
 	</div>
 	<div class="tab-pane" id="media">
 		<ul>
-		  {% for post in site.posts %}
+		  {% for post in alphabeticalPosts %}
 			{% if post.category == 'Media' %}
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 			{% endif %}
@@ -64,7 +65,7 @@ tagline: my thoughts and comments
 	</div>
 	<div class="tab-pane" id="misc">
 		<ul>
-		  {% for post in site.posts %}
+		  {% for post in alphabeticalPosts %}
 			{% if post.category == 'Misc' %}
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 			{% endif %}
