@@ -2,7 +2,7 @@
 layout: page
 title: Software Development
 tagline: my thoughts and comments
-permalink: /tech/
+permalink: /people/
 ---
 {% include setup %}
 
