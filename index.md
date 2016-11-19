@@ -5,72 +5,32 @@ tagline: my thoughts and comments
 ---
 {% include setup %}
 
-<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
-<li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
-<li><a href="#tech" data-toggle="tab">Tools & Technology</a></li>
-<li><a href="#soft" data-toggle="tab">Teams & People</a></li>
-<li><a href="#process" data-toggle="tab">Processes & Techniques</a></li>
-<li><a href="#media" data-toggle="tab">Media</a></li>
-<li><a href="#misc" data-toggle="tab">Misc</a></li>
-</ul>
+{% assign alphabeticalPosts = site.posts | sort:"title" %}
 
-<div id="my-tab-content" class="tab-content">
-
-	{% assign alphabeticalPosts = site.posts | sort:"title" %}
-
-	<div class="tab-pane active" id="blog">
-		<ul>
-		  {% for post in site.posts %}
-			{% if post.category == 'General' %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
-	<div class="tab-pane" id="tech">
-		<ul>
-		  {% for post in alphabeticalPosts  %}
-			{% if post.category == 'Tech' %}
-			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
-	<div class="tab-pane" id="soft">
-		<ul>
-		  {% for post in alphabeticalPosts %}
-			{% if post.category == 'Soft' %}
-			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
-	<div class="tab-pane" id="process">
-		<ul>
-		  {% for post in alphabeticalPosts %}
-			{% if post.category == 'Process' %}
-			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
-	<div class="tab-pane" id="media">
-		<ul>
-		  {% for post in alphabeticalPosts %}
-			{% if post.category == 'Media' %}
-			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
-	<div class="tab-pane" id="misc">
-		<ul>
-		  {% for post in alphabeticalPosts %}
-			{% if post.category == 'Misc' %}
-			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endif %}
-		  {% endfor %}
-		</ul>
-	</div>
+<div class="tab-pane active" id="blog">
+    <ul>
+      {% for post in site.posts %}
+        {% if post.category == 'General' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
 </div>
-
+<div class="tab-pane" id="tech">
+    <ul>
+      {% for post in alphabeticalPosts  %}
+        {% if post.category == 'Tech' %}
+        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+</div>
+<div class="tab-pane" id="soft">
+    <ul>
+      {% for post in alphabeticalPosts %}
+        {% if post.category == 'Soft' %}
+        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+</div>
