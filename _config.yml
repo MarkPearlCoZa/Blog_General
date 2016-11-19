@@ -27,7 +27,7 @@ JB :
 
   BASE_PATH : false
 
-  ASSET_PATH : /assets/themes/pearltheme
+  ASSET_PATH : /assets
 
   archive_path: /archive.html
   categories_path : /categories.html
