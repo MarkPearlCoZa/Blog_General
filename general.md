@@ -4,7 +4,7 @@ title: Software Development
 tagline: my thoughts and comments
 permalink: /blog/
 ---
-{% include JB/setup %}
+{% include setup %}
 {% assign alphabeticalPosts = site.posts | sort:"title" %}
 
 <ul>

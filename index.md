@@ -3,7 +3,7 @@ layout: page
 title: Software Development
 tagline: my thoughts and comments
 ---
-{% include JB/setup %}
+{% include setup %}
 
 <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
 <li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
