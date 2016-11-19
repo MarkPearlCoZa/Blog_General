@@ -18,7 +18,7 @@ tagline: my thoughts and comments
 
 	{% assign alphabeticalPosts = site.posts | sort:"title" %}
 
-	<div class="tab-pane active hiddex-sm" id="blog">
+	<div class="tab-pane active hiddex-sm hidden-xs" id="blog">
 		<ul>
 		  {% for post in site.posts %}
 			{% if post.category == 'General' %}
