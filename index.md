@@ -5,14 +5,16 @@ tagline: my thoughts and comments
 ---
 {% include JB/setup %}
 
-<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
-<li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
-<li><a href="#tech" data-toggle="tab">Tools & Technology</a></li>
-<li><a href="#soft" data-toggle="tab">Teams & People</a></li>
-<li><a href="#process" data-toggle="tab">Processes & Techniques</a></li>
-<li><a href="#media" data-toggle="tab">Media</a></li>
-<li><a href="#misc" data-toggle="tab">Misc</a></li>
-</ul>
+<div class="hidden-sm hidden-md">
+    <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+    <li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
+    <li><a href="#tech" data-toggle="tab">Tools & Technology</a></li>
+    <li><a href="#soft" data-toggle="tab">Teams & People</a></li>
+    <li><a href="#process" data-toggle="tab">Processes & Techniques</a></li>
+    <li><a href="#media" data-toggle="tab">Media</a></li>
+    <li><a href="#misc" data-toggle="tab">Misc</a></li>
+    </ul>
+</div>
 
 <div id="my-tab-content" class="tab-content">
 
