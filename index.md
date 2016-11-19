@@ -6,7 +6,7 @@ tagline: my thoughts and comments
 {% include JB/setup %}
 
 <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
-<li class="active hiddex-sm hidden-xs"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
+<li class="active"><a href="#blog" data-toggle="tab">Blog Posts</a></li>
 <li><a href="#tech" data-toggle="tab">Tools & Technology</a></li>
 <li><a href="#soft" data-toggle="tab">Teams & People</a></li>
 <li><a href="#process" data-toggle="tab">Processes & Techniques</a></li>
@@ -18,7 +18,7 @@ tagline: my thoughts and comments
 
 	{% assign alphabeticalPosts = site.posts | sort:"title" %}
 
-	<div class="tab-pane active hiddex-sm hidden-xs" id="blog">
+	<div class="tab-pane active" id="blog">
 		<ul>
 		  {% for post in site.posts %}
 			{% if post.category == 'General' %}
