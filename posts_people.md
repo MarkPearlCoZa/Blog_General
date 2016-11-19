@@ -10,7 +10,7 @@ permalink: /people/
 
 <ul>
   {% for post in alphabeticalPosts  %}
-    {% if post.category == 'People' %}
+    {% if post.category == 'Soft' %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
