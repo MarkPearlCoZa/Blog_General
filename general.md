@@ -6,8 +6,4 @@ permalink: /blog/
 ---
 {% include setup %}
 
-<div id="my-tab-content" class="tab-content">
-
-
-</div>
-
+<p>this is some example text</p>
