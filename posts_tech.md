@@ -6,12 +6,12 @@ permalink: /tech/
 ---
 {% include setup %}
 
-<div class="tab-pane active" id="blog">
-    <ul>
-      {% for post in alphabeticalPosts  %}
-        {% if post.category == 'Tech' %}
-        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-</div>
+{% assign alphabeticalPosts = site.posts | sort:"title" %}
+
+<ul>
+  {% for post in alphabeticalPosts  %}
+    {% if post.category == 'Tech' %}
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
