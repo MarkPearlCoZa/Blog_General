@@ -4,9 +4,7 @@ title: Software Development
 tagline: my thoughts and comments
 ---
 {% include JB/setup %}
-
-
-	{% assign alphabeticalPosts = site.posts | sort:"title" %}
+{% assign alphabeticalPosts = site.posts | sort:"title" %}
 
 		<ul>
 		  {% for post in site.posts %}
@@ -15,5 +13,4 @@ tagline: my thoughts and comments
 			{% endif %}
 		  {% endfor %}
 		</ul>
-</div>
 
