@@ -6,9 +6,6 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  padding-top: 65px;
-  margin-bottom: 60px;
 }
 
 .footer {
@@ -30,7 +27,10 @@ body {
 
 body > .container {
   padding: 60px 15px 0;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
 }
+
 .container .text-muted {
   margin: 20px 0;
 }
