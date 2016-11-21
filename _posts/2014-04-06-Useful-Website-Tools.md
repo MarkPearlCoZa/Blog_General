@@ -24,3 +24,4 @@ Below are a list of websites that I have found useful in the past for programmin
 - [Colors.co](https://coolors.co) - Creating color palletes  
 - [Online Latex Equation Editor](http://www.sciweavers.org/free-online-latex-equation-editor) - Great for generating math equations as images  
 - [Browserstack](https://www.browserstack.com/) - Access to all real mobile and desktop browsers in the cloud (see how things look in all browsers)  
+- [Free custom email domain with gmail](https://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/)  
