@@ -26,3 +26,4 @@ category: Tech
 #### References ####
 
 [Liquid Reference](https://shopify.github.io/liquid/)  
+[Cheat Shee](http://cheat.markdunkley.com/)  
