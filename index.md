@@ -8,7 +8,8 @@ tagline: my thoughts and comments
 <ul>
   {% for post in site.posts %}
     {% if post.category == 'General' %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li class="desktop hidden-sm hidden-xs"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li class="mobile visible-sm visible-xs"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
