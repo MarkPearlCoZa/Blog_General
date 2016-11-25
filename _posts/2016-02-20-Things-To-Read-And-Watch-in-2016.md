@@ -15,6 +15,8 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
+[Anticipating the Future - an introduction to value chain mapping by Simon Wardley](https://www.youtube.com/watch?v=NnFeIt-uaEc)  
+[Adopting continous delivery by Jezz Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4)  
 [Demanding Professionalism in Software Development by Uncle Bob](https://www.youtube.com/watch?v=p0O1VVqRSK0)  
 [Technical Debt Metaphor explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
 [The Techical Debt Trap by Doc Norton](https://vimeo.com/97507576), [see notes](http://blog.markpearl.co.za/The-Technical-Debt-Trap)  
