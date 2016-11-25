@@ -7,7 +7,7 @@ tagline: my thoughts and comments
 
 {% assign generalPosts = site.posts %}
 {% for post in generalPosts %}
-    <div class="mobile visible-sm visible-xs"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
 <ul>
