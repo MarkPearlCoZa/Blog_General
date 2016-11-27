@@ -5,11 +5,6 @@ tagline: my thoughts and comments
 ---
 {% include setup %}
 
-{% assign generalPosts = site.posts %}
-{% for post in generalPosts %}
-    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
-
 <ul>
   {% for post in site.posts %}
     {% if post.category == 'General' %}
