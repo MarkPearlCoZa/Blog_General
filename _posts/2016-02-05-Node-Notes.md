@@ -85,6 +85,7 @@ Also called NTier Pattern
 ### Hosting
 
 [Running Node as a background service](http://stackoverflow.com/questions/4018154/node-js-as-a-background-service/29042953#29042953)  
+[Latest Running Node as a background service](https://certsimple.com/blog/deploy-node-on-linux#shrinkwrap)  
 
 #### Express References 
 
