@@ -112,6 +112,9 @@ Forewards help the publisher market the book
 About the content of the book  
 Sets the overall theme of the book
 
+### Potential Editors
+
+Ricky Hunt - hunt.ricky@gmail.com  
 
 #### References 
 
