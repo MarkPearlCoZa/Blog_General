@@ -15,6 +15,7 @@ So here's my latest list of recommended readings... As I come across new things 
 
 #### Videos ####
 
+[Lean from the Trenches - Henrik Kniberg](https://vimeo.com/52390115)  
 [Anticipating the Future - an introduction to value chain mapping by Simon Wardley](https://www.youtube.com/watch?v=NnFeIt-uaEc)  
 [Adopting continous delivery by Jezz Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4)  
 [Demanding Professionalism in Software Development by Uncle Bob](https://www.youtube.com/watch?v=p0O1VVqRSK0)  
