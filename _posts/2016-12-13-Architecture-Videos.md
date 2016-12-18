@@ -12,3 +12,7 @@ I thought it would be a good idea to put a collection of media for people intere
 
 [Enterprise Integration Patterns: Past, Present, Future by Gregor Hohpe](https://www.youtube.com/watch?v=Xwi1DU6KoQ4)  
 [The Enterpirse Architect by Gregor Hohpe](https://vimeo.com/113080623)   
+
+#### Additional Resources
+
+[Smart Decisions - A Software Architecture Design Game](http://smartdecisionsgame.com/)  
