@@ -1,0 +1,62 @@
+<script type="text/javascript">
+
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name,"",-1);
+}
+
+$(function(){
+    console.log(window.location.pathname);
+    console.log(readCookie("menu"));
+
+    switch (window.location.pathname) {
+        case '/':
+            createCookie("menu","main_posts");
+            break;
+
+        case '/tech/':
+            createCookie("menu","tech_posts");
+            break;
+
+        case '/people/':
+            createCookie("menu","soft_posts");
+            break;
+
+        case '/processes/':
+            createCookie("menu","process_posts");
+            break;
+
+        case '/media/':
+            createCookie("menu","media_posts");
+            break;
+
+        case '/misc/':
+            createCookie("menu","misc_posts");
+            break;
+    }
+
+    var active_menu = readCookie("menu");
+    $("#" + active_menu).addClass('active');
+})
+
+</script>
