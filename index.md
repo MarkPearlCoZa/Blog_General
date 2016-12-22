@@ -15,11 +15,14 @@ category: General
     {% assign current_post_date =  post.date | date: "%m%y" %}
 
     {% if current_post_date != previous_post_date %}
-        <br>
         <h2> {{ post.date | date: "%B, %Y" }} </h2>
     {% endif %}
 
     <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br>
+
+    {% if current_post_date != previous_post_date %}
+        <br>
+    {% endif %}
     <div class="mobile visible-sm visible-xs"><br></div>
 
     {% assign previous_post_date = current_post_date %}

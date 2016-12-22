@@ -24,19 +24,29 @@
   </head>
 
   <body>
-    <div class="container">
         {% include navbar.html %}
-        <div class='col-md-8'>
-            {{ content }}
-        </div>
-        <!-- {% include sideinfo.html %} -->
-    </div>
-    <footer class="footer">
         <div class="container">
-            <p class="text-muted">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} </p>
+            <div hidden class="alert alert-danger bs-alert-old-docs">
+                 <strong>Heads up!</strong> Sign up and get . <a href="http://getbootstrap.com/css/">Check out the latest version of Bootstrap!</a>
+            </div>
+            <div class="row">
+                <div class="col-md-4 visible-sm visible-xs">
+                    {% include topinfo %}
+                </div>
+                <div class="col-md-8">
+                    <!--Body content-->
+                    {{ content }}
+                </div>
+                <div class="col-md-4 hidden-sm hidden-xs">
+                    {% include sideinfo %}
+                </div>
+            </div>
         </div>
-    </footer>
-    {% include analytics %}
-    {% include scripts %}
+
+        <footer class="footer">
+            <p class="text-muted">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} </p>
+        </footer>
+        {% include analytics %}
+        {% include scripts %}
   </body>
 </html>
