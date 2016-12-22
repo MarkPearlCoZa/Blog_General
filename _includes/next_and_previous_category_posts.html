@@ -1,6 +1,5 @@
-    {% assign category = page.categories[0] %}
-    {% assign posts = site.categories[category] %}
-
+{% assign category = page.categories[0] %}
+{% assign posts = site.categories[category] %}
 
 {% if page.categories %}
   {% for post in posts %}
@@ -19,21 +18,21 @@
   {% endfor %}
 {% endif %}
 
-
-    <!-- Next / Previous Buttons -->
+<div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-xs-6">
           {% if next_category_post  %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ next_category_post.url }}" title="{{ next_category_post.title }}">&larr; Next Post</a>
+            <a href="{{ BASE_PATH }}{{ next_category_post.url }}">&larr; Next Post</a>
           {% else %}
-            <a class='btn btn-info btn-block disabled' >&larr; Next Post</a>
+            <a class='disabled' >&larr; Next Post</a>
           {% endif %}
         </div>
-        <div class="col-md-4 col-md-offset-4">
+        <div class="col-xs-6 text-right">
           {% if prev_category_post %}
-            <a class='btn btn-info btn-block' href="{{ BASE_PATH }}{{ prev_category_post.url }}" title="{{ prev_category_post.title }}">Previous Post &rarr;</a>
+            <a href="{{ BASE_PATH }}{{ prev_category_post.url }}">Previous Post &rarr;</a>
           {% else %}
-            <a class='btn btn-info btn-block disabled' >Previous Post &rarr;</a>
+            <a class='disabled'>Previous Post &rarr;</a>
           {% endif %}
         </div>
     </div>
+</div>

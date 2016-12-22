@@ -19,7 +19,7 @@ category: General
         <h2> {{ post.date | date: "%B, %Y" }} </h2>
     {% endif %}
 
-    &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br>
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br>
     <div class="mobile visible-sm visible-xs"><br></div>
 
     {% assign previous_post_date = current_post_date %}
