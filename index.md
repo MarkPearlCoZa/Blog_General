@@ -20,11 +20,12 @@ category: General
 
     <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br>
 
-    {% if current_post_date != previous_post_date %}
-        <br>
-    {% endif %}
     <div class="mobile visible-sm visible-xs"><br></div>
 
     {% assign previous_post_date = current_post_date %}
+
+    {% if current_post_date != previous_post_date %}
+        <br>
+    {% endif %}
   {% endfor %}
 </ul>
