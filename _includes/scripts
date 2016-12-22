@@ -26,31 +26,28 @@ function eraseCookie(name) {
 }
 
 $(function(){
-    console.log(window.location.pathname);
-    console.log(readCookie("menu"));
-
-    switch (window.location.pathname) {
-        case '/':
+    switch ($("#menu").text()) {
+        case 'General':
             createCookie("menu","main_posts");
             break;
 
-        case '/tech/':
+        case 'Tech':
             createCookie("menu","tech_posts");
             break;
 
-        case '/people/':
+        case 'Soft':
             createCookie("menu","soft_posts");
             break;
 
-        case '/processes/':
+        case 'Process':
             createCookie("menu","process_posts");
             break;
 
-        case '/media/':
+        case 'Media':
             createCookie("menu","media_posts");
             break;
 
-        case '/misc/':
+        case 'Misc':
             createCookie("menu","misc_posts");
             break;
     }

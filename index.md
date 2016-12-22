@@ -2,7 +2,9 @@
 layout: page
 title: Software Development
 tagline: my thoughts and comments
+category: General
 ---
+{% include menu_placeholder %}
 {% include setup %}
 
 {% assign previous_post_date = "0000" %}

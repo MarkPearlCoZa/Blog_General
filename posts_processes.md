@@ -3,7 +3,9 @@ layout: page
 title: Software Development
 tagline: my thoughts and comments
 permalink: /processes/
+category: Process
 ---
+{% include menu_placeholder %}
 {% include setup %}
 
 {% assign alphabeticalPosts = site.posts | sort:"title" %}
