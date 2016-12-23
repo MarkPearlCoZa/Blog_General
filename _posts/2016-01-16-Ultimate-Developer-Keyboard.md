@@ -250,6 +250,8 @@ See the discussion on [Quora regarding ultimate programmer keyboard](https://www
 [Happy Hacking Keyboard](https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b) - $?  
 [Noppoo-Nano75](http://www.banggood.com/Noppoo-Nano75-s-60-Cherry-MX-Red-Switch-Mechanical-Gaming-Keyboard-p-966287.html) -$90  
 [DAS Keyboard](http://www.daskeyboard.com/) - $100 to $150  
+[Planck Keyboard](https://olkb.com/planck/) - ?  
+Pok3r Keyboard - ?  
 
 ### Which mechanical keyboard switches should I use? ###
 
