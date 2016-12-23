@@ -30,7 +30,7 @@ category: General
   {% endfor %}
 
   <br>
-  <a href="{{ HOME_PATH }}general/all">see full history of blog posts...</a>
+  <strong><a href="{{ HOME_PATH }}general/all">see full history of blog posts...</a></strong>
   <br>
   <br>
 </ul>
