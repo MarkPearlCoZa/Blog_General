@@ -18,6 +18,24 @@ The art of software prose...
 1) What it is  
 2) What it’s for  
 
+#### Choose long names for long scopes and short names for short scopes
+
+Originally from clean code book
+
+#### Different things
+
+- Data collections
+- Processing / actions a system performs
+
+#### Find a commong name
+
+Having a universally accepted name for things is useful.
+
+http://schema.org/
+
+#### Meaningless is better than misleading
+
+A name that has no meaning is better than a name that is misleading. Calling something blah is better than parseFile if parseFile actually doesn't parse file but does more or different behavior.
 
 #### Common Names to look out for ####
 
