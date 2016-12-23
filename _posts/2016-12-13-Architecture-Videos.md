@@ -16,3 +16,8 @@ I thought it would be a good idea to put a collection of media for people intere
 #### Additional Resources
 
 [Smart Decisions - A Software Architecture Design Game](http://smartdecisionsgame.com/)  
+
+#### Books to Read
+
+[Documenting Software Architectures by Felix Bachmann](https://www.amazon.com/Documenting-Software-Architectures-Views-Beyond/dp/0321552687/)   
+[Software System Architecture by Nick Rozanski](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X/)  

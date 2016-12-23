@@ -15,6 +15,11 @@ Technical architect identifies the most suitable technology stack and frameworks
 
 Challenges the development team to help them implement a better design.
 
+#### How much architecture should you have? ####
+
+> Just enough architecture
+
+
 #### References ####
 
 [The role of a TA in Development](https://www.simple-talk.com/opinion/opinion-pieces/the-role-of-the-technical-architect-in-development/?utm_source=simpletalk&utm_medium=email-main&utm_content=architectrole-20141027&utm_campaign=opinion)
