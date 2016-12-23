@@ -26,11 +26,13 @@
   <body>
         {% include navbar %}
         <div class="container">
-            <div hidden class="alert alert-danger bs-alert-old-docs">
-                 <strong>Heads up!</strong> Sign up and get . <a href="http://getbootstrap.com/css/">Check out the latest version of Bootstrap!</a>
-            </div>
             <div class="row">
                 <div class="col-md-4 visible-sm visible-xs">
+                    <div class="alert alert-danger bs-alert-old-docs">
+                        <p>Want to get my personal insights on what I learn as I learn it? Subscribe now!</p>
+                        <br>
+                        {% include subscribe %}
+                    </div>
                     {% include topinfo %}
                 </div>
                 <div class="col-md-8">
