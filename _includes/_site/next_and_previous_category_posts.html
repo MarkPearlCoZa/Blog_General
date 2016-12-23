@@ -1,0 +1,38 @@
+{% assign category = page.categories[0] %}
+{% assign posts = site.categories[category] %}
+
+{% if page.categories %}
+  {% for post in posts %}
+    {% if post.url == page.url %}
+      {% assign post_index0 = forloop.index0 %}
+      {% assign post_index1 = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  {% for post in posts %}
+    {% if post_index0 == forloop.index %}
+      {% assign next_category_post = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+      {% assign prev_category_post = post %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div>
+    <div class="row">
+        <div class="col-xs-6">
+          {% if next_category_post  %}
+            <a href="{{ BASE_PATH }}{{ next_category_post.url }}">&larr; Next Post</a>
+          {% else %}
+            <a class='disabled' >&larr; Next Post</a>
+          {% endif %}
+        </div>
+        <div class="col-xs-6 text-right">
+          {% if prev_category_post %}
+            <a href="{{ BASE_PATH }}{{ prev_category_post.url }}">Previous Post &rarr;</a>
+          {% else %}
+            <a class='disabled'>Previous Post &rarr;</a>
+          {% endif %}
+        </div>
+    </div>
+</div>

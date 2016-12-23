@@ -11,7 +11,7 @@ category: General
 {% assign general_posts = site.posts | where: "category", "General" %}
 
 <ul>
-  {% for post in  general_posts %}
+  {% for post in  general_posts limit:20 %}
     {% assign current_post_date =  post.date | date: "%m%y" %}
 
     {% if current_post_date != previous_post_date %}
@@ -28,4 +28,9 @@ category: General
         <br>
     {% endif %}
   {% endfor %}
+
+  <br>
+  <a href="{{ HOME_PATH }}general/all">see full history of blog posts...</a>
+  <br>
+  <br>
 </ul>
