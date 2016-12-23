@@ -35,6 +35,13 @@ Thinking about context, oracles and the heuristic test strategy model.
 
 --------------------------------------------------------------------------------------------
 
+### PVT / Production Verification Testing
+
+- Ensure that the live build is working as intended in its new and final environment  
+- All new functionality introduced is exercised  
+
+--------------------------------------------------------------------------------------------
+
 ### Exploratory Testing  
 
 - <a href="{{ site.url }}/assets/documents/exploratory-testing-with-playing-cards.pdf">Exploratory testing exercise with playing cards</a>  
