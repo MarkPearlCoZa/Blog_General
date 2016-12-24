@@ -10,6 +10,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 #### Videos  
 
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
+- [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
 
 #### Books
 
