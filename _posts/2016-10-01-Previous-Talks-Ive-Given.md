@@ -13,12 +13,17 @@ I have found that speaking on things I have personal experience with leads to de
 
 I've had the opportunity to speak in the following cities around the world...  
 
+- South Jordan, Utah, USA  
+- Auckland, New Zealand
 - Cape Town, South Africa  
 - Durban, South Africa  
 - Johannesburg, South Africa    
-- South Jordan, Utah, USA  
 
 ## Conferences / Events I've spoken at...
+
+### 2016
+
+- [MYOB Brown Bag](https://www.youtube.com/watch?v=0Y0ge-d2KsQ) Auckland: topic "Getting the best of everyone into all the code"  
 
 ### 2015
 
