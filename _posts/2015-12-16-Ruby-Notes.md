@@ -112,8 +112,11 @@ end
 
 #### Substitute / Replace Regex Match
 
+Performs substitution of text inline.
+
 ~~~
-"some text".gsub(/text/,'foo') # returns some foo
+"some text".gsub(/text/,'foo') # returns 'some foo'
+"123456789".gsub(/[1-5]/, 'X' # return XXXXX6789
 ~~~
 
 #### String Interpolation
