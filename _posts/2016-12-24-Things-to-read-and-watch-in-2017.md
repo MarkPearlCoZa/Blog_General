@@ -7,10 +7,17 @@ category: General
 
 Each year I put a list of things I believe are worth reading and watching in the year. Here is my list for 2017.
 
-#### Videos  
+#### General Videos  
 
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
 - [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
+- [Seeing Spaces by Bret Victor](https://vimeo.com/97903574)  
+
+#### Programmer Videos  
+
+- [Seven ineffective coding habits of many programmers by Kevlin Henney at NDC2014](https://vimeo.com/97329157)  
+- [Code that fits your brain by Adam Tornhill at NDC2014](https://vimeo.com/97471514)  
+- [Functional Programming Patterns by Scott Wlaschin at NDC2014](https://vimeo.com/ndcconferences#/app/video/2311)  
 
 #### Books
 
