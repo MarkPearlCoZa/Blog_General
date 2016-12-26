@@ -7,7 +7,7 @@ category: Soft
 
 # High level view 
 
-## Two way street 
+## Experience matters
 
 * Candidates experience of the interview process is important, regardless if the candidate is right or not for the company. If it is not working out in an interview, you should still be thoughtful of the candidates opinion. The candidate should have a positive experience regardless of whether they are a good match or not.
 
