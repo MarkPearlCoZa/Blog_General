@@ -126,6 +126,14 @@ num_cars = 10
 msg = "I own #{num_cars} cars."
 ~~~
 
+#### Chomp
+
+~~~
+"hello".chomp("llo")    #=> "he"
+"hello\r\n".chomp()     #=> "hello"
+"hello\r".chomp()       #=> "hello"
+~~~
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Working with Arrays
