@@ -11,6 +11,14 @@
         {% include subscribe %}
     </div>
 </div>
+<div class='thumbnail'>
+    <div class='caption'>
+        <a href="https://leanpub.com/GettingStartedWithMobProgramming" target="_blank">
+            <img class="img-responsive img-center" alt="Getting Started with Mob Programming eBook" width='240' height='312'  src="{{ site.url }}/assets/images/Getting_Started_with_Mob_Programming_eBook.jpg">
+            <p class="text-center">Buy the eBook on LeanPub now!</p>
+        </a>
+    </div>
+</div>
 {% if page.tags %}
 <div class='thumbnail'>
     <div class='caption'>
