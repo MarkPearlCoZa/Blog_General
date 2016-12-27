@@ -5,11 +5,13 @@ tags: Web
 category: Tech
 ---
 
-#### Basics ####
+# Bootstrap 3 
+
+## Basics 
 
 Bootstrap works on a 12 column grid  
 
-##### Column Basics #####
+### Column Basics 
 
 ~~~
 <div class='container'>
@@ -19,7 +21,7 @@ Bootstrap works on a 12 column grid
 </div>
 ~~~
 
-##### Empty Columns #####
+### Empty Columns
 
 ~~~
 <div class='col-md-1 col-md-offset-1'>
@@ -27,7 +29,7 @@ Bootstrap works on a 12 column grid
 </div>
 ~~~
 
-##### Working on smaller screens (small and extra small) #####
+### Working on smaller screens (small and extra small) 
 
 Small screens...
 
@@ -41,13 +43,13 @@ Extra small screens...
 col-xs-*
 ~~~
 
-##### Removing an offset #####
+### Removing an offset 
 
 ~~~
 col-cs-offset-0
 ~~~
 
-##### Hiding elements in 1 or more screen sizes #####
+#### Hiding elements in 1 or more screen sizes 
 
 ~~~
 hidden-xs
@@ -55,7 +57,7 @@ hidden-md
 hidden-lg
 ~~~
 
-##### Showing elements in 1 or more screen sizes #####
+#### Showing elements in 1 or more screen sizes 
 
 ~~~
 visible-xs  
@@ -63,13 +65,13 @@ visible-md
 visible-lg  
 ~~~
 
-##### Overiding Fonts #####
+#### Overiding Fonts 
 
 ~~~
 <p class='lead'>Make your way to space...</p>
 ~~~
 
-##### Centering Text #####
+#### Centering Text 
 
 ~~~
 <p class='text-center'>This text is centered</div>
@@ -80,13 +82,13 @@ visible-lg
 .text-center  
 .text-left  
 
-##### Adding Icons #####
+#### Adding Icons 
 
 ~~~
 <i class='glyphicon glyphicon-briefcase'></i>
 ~~~
 
-##### Increasing Font Size of Icons #####
+#### Increasing Font Size of Icons 
 
 Add a custom css file, with your specific customizations
 
@@ -102,7 +104,17 @@ In the css file have the following...
 <i class='features glyphicon-briefcase'></i>
 ~~~
 
-#### References #### 
+----------------------------------------------------------------------------------------------------------------
+
+# Bootstrap 4
+
+## What's new
+
+* Typographic units of measure now in rem  
+* Extra breakpoint at 480px for smaller screens  
+* A new sm grid tier   
+
+### References 
 
 [Bootstrap](http://getbootstrap.com/)  
 [Example Code from Code School Slides](https://github.com/codeschool/BlastingOffWithBootstrapDemo)  
@@ -112,3 +124,5 @@ In the css file have the following...
 [Glyphicons](http://getbootstrap.com/components/#glyphicons)  
 [Free Bootstrap Themes](http://startbootstrap.com/)  
 [Customize Bootstrap Library](http://getbootstrap.com/customize/)  
+
+[DNC Magazine Dec 2016](https://dncmagazine.blob.core.windows.net/edition27/DNCMag-Issue27.pdf)  
