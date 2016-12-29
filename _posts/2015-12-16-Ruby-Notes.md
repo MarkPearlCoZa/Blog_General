@@ -147,6 +147,14 @@ values = [1, 2, 3]          # declares a simple array
 maxValue = [1, 2, 3].max    # gets the largest value 
 ~~~
 
+#### Basic access
+
+~~~
+values = [2, 4, 6]          # declares a simple array
+values.at(0)                #=> 2
+values.at(1)                #=> 4
+~~~
+
 ### Enumerable Methods
 
 #### Select 
@@ -452,7 +460,13 @@ end
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Blocks
+### Working with Ruby Hashes
+
+A hash is a collection of key value pairs. It is similar to an array, except that indexing is done via arbitrary keys of any object type, not an integer index.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+### Working with Blocks
 
 #### Multi Line Blocks
 

@@ -19,6 +19,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Code that fits your brain by Adam Tornhill at NDC2014](https://vimeo.com/97471514)  
 - [Functional Programming Patterns by Scott Wlaschin at NDC2014](https://vimeo.com/ndcconferences#/app/video/2311)  
 - [The deep synergy between testability and good design by Michael Feathers at NDC2010](https://www.youtube.com/watch?v=4cVZvoFGJTU)  
+- [Crafting by Michael Feathers at SCNA2016](https://vimeo.com/191197571)  
 
 #### Books
 
@@ -26,3 +27,4 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Lean UX: Applying Lean Principles to Improve User Experience by Eric Ries](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)  
 - [All I really need to know I learned in Kindergarten by Robert Fulghum](https://www.amazon.com/Really-Need-Know-Learned-Kindergarten/dp/034546639X)  
 - [Refactoring to Patterns by Joshua Kerievsky](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)  
+- [Antifragile by Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
