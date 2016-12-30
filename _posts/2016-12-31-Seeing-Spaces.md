@@ -61,7 +61,7 @@ Some of what we are talking about is probably going to be expensive or an engine
 But 3D printers and space shuttles are also expensive and engineering challenges and we have decided as a culture that those things are important things we want to have. 
 So really the main thing that is needed here is the recognition of how important seeing is and the will to do something about it.
 
-> Recognition of how important seeing is and the will to do something about it.
+> We need recognition of how important seeing is and the will to do something about it.
 
 What different types of tools are good for: 
 
