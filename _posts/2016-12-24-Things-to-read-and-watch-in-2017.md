@@ -11,7 +11,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
 - [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
-- [Seeing Spaces by Bret Victor](https://vimeo.com/97903574)  
+- [Seeing Spaces by Bret Victor](https://vimeo.com/97903574), [see notes](http://blog.markpearl.co.za/Seeing-Spaces)  
 - [8th Lights Video on Craftmanship](https://www.youtube.com/watch?v=VZkuMJZx-6o)  
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
 
