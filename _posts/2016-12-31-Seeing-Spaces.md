@@ -35,13 +35,13 @@ Historically people were surrounded by construction tools which are for taking m
 
 To do this you need to get into the head of the things. What you need are seeing tools. The few seeing tools we use nowdays are very primative with tiny rectangles that sit on our desks.
 
+<img class="img-responsive" alt="Craftsman Workshop" src="{{ site.url }}/assets/images/california-energy-electricity-grid-operator-control-room.jpg">
+
 Some companies take seeing very seriously, for instance:  
 
 * NASA's control center    
 * Control room at Fermilad particle accelerator  
 * California power grid control center  
-
-<img class="img-responsive" alt="Craftsman Workshop" src="{{ site.url }}/assets/images/california-energy-electricity-grid-operator-control-room.jpg">
 
 If you are wanting to launch a space shuttle, you typically have a room like NASA's. Everything that is going on in a complex system is being displayed in a room.
 
