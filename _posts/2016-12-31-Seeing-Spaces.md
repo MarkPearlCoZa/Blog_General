@@ -9,13 +9,12 @@ These notes are based on Bret Victor's talk on "[Seeing Spaces](https://vimeo.co
 
 -----------------------------------------------------------------------------------------------------------------
 
-How can someone creating complex things see the behavior.
+* How can someone creating complex things see the behavior?
+* What are powerful ways of seeing so that you can understand what the thing is doing?
 
-What are powerful ways of seeing so that you can understand what the thing is doing.  
+Software based tools typically mean tools locked into a tiny rectangle that sits on your desk (a monitor). This is frustrating!
 
-Software based tools typically mean the tools is locked into a tiny rectangle that sits on your desk (a monitor). This frustrates Bret.
-
-If you think about a lot of the traditional forms of craftmanship, they take place in a spacial environment, a room, that is designed for that purpose. Where a worker is surrounded with tools, where they can walk around and use their body, use their hands and think spatially. The room itself becomes the macro tool they are embedded inside. It becomes an extension of their body.
+If you think about a lot of the traditional forms of craftmanship, they take place in a spacial environment, a room, that is designed for that purpose; where a worker is surrounded with tools, where they can walk around and use their body, use their hands and think spatially. The room itself becomes the macro tool they are embedded inside. It becomes an extension of their body.
 
 > The room becomes an extension of their body.
 
