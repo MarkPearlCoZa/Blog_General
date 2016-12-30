@@ -67,4 +67,10 @@ What different types of tools are good for:
 * Conceptual Tools (Tinkering & Engineering)
 * Seeing Tools (Tinkering, Engineering & Science) 
 
-People need to work in a space that **moves them away from the kinds of non scientific thinking that you do when you can't see what you doing** and **moves them towards deeply understanding what they are doing**.
+## Move away from
+
+People need to work in a space that **moves them away from the kinds of non scientific thinking that you do when you can't see what you doing** 
+
+## Move towards
+
+People need to work in a space that **moves them towards deeply understanding what they are doing**.
