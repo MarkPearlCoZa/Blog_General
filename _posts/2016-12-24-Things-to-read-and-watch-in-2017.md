@@ -21,6 +21,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Code that fits your brain by Adam Tornhill at NDC2014](https://vimeo.com/97471514)  
 - [Functional Programming Patterns by Scott Wlaschin at NDC2014](https://vimeo.com/ndcconferences#/app/video/2311)  
 - [The deep synergy between testability and good design by Michael Feathers at NDC2010](https://www.youtube.com/watch?v=4cVZvoFGJTU)  
+- [The future of programming by Bret Victor](https://vimeo.com/71278954)  
 
 #### Books
 
