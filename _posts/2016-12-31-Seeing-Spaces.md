@@ -41,6 +41,8 @@ Some companies take seeing very seriously, for instance:
 * Control room at Fermilad particle accelerator  
 * California power grid control center  
 
+<img class="img-responsive" alt="Craftsman Workshop" src="{{ site.url }}/assets/images/california-energy-electricity-grid-operator-control-room.jpg">
+
 If you are wanting to launch a space shuttle, you typically have a room like NASA's. Everything that is going on in a complex system is being displayed in a room.
 
 These people know that if you are trying to design a system of such complexity that you have to understand in realtime, you have to build a room where you can go in there and understand everything that is going on.
