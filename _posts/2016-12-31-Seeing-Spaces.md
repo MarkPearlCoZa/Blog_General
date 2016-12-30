@@ -69,8 +69,8 @@ What different types of tools are good for:
 
 ## Move away from
 
-People need to work in a space that **moves them away from the kinds of non scientific thinking that you do when you can't see what you doing** 
+People need to work in a space that moves them away from **the kinds of non scientific thinking that you do when you can't see what you doing** .
 
 ## Move towards
 
-People need to work in a space that **moves them towards deeply understanding what they are doing**.
+People need to work in a space that moves them towards **deeply understanding what they are doing**.
