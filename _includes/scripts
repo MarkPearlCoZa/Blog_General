@@ -1,5 +1,9 @@
 <script type="text/javascript">
 
+$.get( "https://maxcutsoftware.help", function( data ) {
+    $("#codewarspoints").text(data);
+});
+
 function createCookie(name,value,days) {
     if (days) {
         var date = new Date();
