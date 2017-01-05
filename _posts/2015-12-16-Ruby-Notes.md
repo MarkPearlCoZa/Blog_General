@@ -393,6 +393,12 @@ class TheClass
 end
 ~~~
 
+#### Instantiation
+
+~~~
+let newInstance = className.new
+~~~
+
 #### Monkey Patching
 
 Google it...

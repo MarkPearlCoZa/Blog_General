@@ -132,6 +132,8 @@ while getopts "b:s:r" opt; do
 done
 ~~~
 
+[Small tutorial on GetOpts](http://wiki.bash-hackers.org/howto/getopts_tutorial)  
+
 ### Variables in Scripts
 
 #### Looping variables
