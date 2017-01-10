@@ -16,9 +16,11 @@
     {% include buy_the_book %}
 </div>
 
-<div class='thumbnail'>
+<!--
+    <div class='thumbnail'>
     <p id='codewarspoints'>-</p>
 </div>
+-->
 
 {% if page.tags %}
 <div class='thumbnail'>
