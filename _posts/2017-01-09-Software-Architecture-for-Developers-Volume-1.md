@@ -43,8 +43,25 @@ Difference between
 
 Some organizations things that having an architect code is expensive, and that less paid people (developers should do coding), would not recommend you take this approach, but on the other side you should not be coding all the time as this will prevent you from focussing on non-coding areas.
 
+# Software Architects should be master builders
 
+Here he goes on to explain what a master builder is, and how this would include "engineering" and "architectural" roles if we looked at building houses. In modern society this has separated so that building architects and engineers are two separate roles. 
 
+Comparing software architecture to building architecture is an unfortunate metaphor.
+
+# Broadening the T 
+
+> Software architectus are specilising generalists
+
+# Soft Skills an Architect Needs
+
+Goes through various soft skills...
+
+> A happy team is a team that delivers
+
+# Does Agile need architecture?
+
+Explains that agile almost took the extreme case of "not" needing architecture saying everything is emergent. This is probably not a safe place to be, and there is a happy medium somewhere in between.
 
 
 [Buy on LeanPub](https://leanpub.com/software-architecture-for-developers)
