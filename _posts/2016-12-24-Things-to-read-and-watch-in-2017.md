@@ -14,6 +14,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Seeing Spaces by Bret Victor](https://vimeo.com/97903574), [see notes](http://blog.markpearl.co.za/Seeing-Spaces)  
 - [8th Lights Video on Craftmanship](https://www.youtube.com/watch?v=VZkuMJZx-6o)  
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
+- [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
 
 #### Programmer Videos  
 
