@@ -21,9 +21,15 @@ I've had the opportunity to speak in the following cities around the world...
 
 ## Conferences / Events I've spoken at...
 
+### 2017
+
+- TradeMe Brown Bag Auckland: topic "Getting the best of everyone into all the code using Mob Programming"  
+
 ### 2016
 
+- [Auckland University of Technology Panel Discussion](https://www.youtube.com/watch?v=5sHlGi90fhA) Auckland: topic "Careers in IT"  
 - [MYOB Brown Bag](https://www.youtube.com/watch?v=0Y0ge-d2KsQ) Auckland: topic "Getting the best of everyone into all the code"  
+- TradeMe Brown Bag Auckland: topic "What is technical debt"  
 
 ### 2015
 
