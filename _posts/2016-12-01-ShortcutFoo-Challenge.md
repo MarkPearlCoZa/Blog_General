@@ -2,7 +2,7 @@
 layout: post
 title: ShortcutFoo Challenge
 tags: 
-category: Misc
+category: General 
 ---
 Learning the keyboard shortcuts for your IDE of choice is useful for navigating code at speed. [Shortcut Foo](https://www.shortcutfoo.com/) is a great online tool for learning shortcuts.
 
