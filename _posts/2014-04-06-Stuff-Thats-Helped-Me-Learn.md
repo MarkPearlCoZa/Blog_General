@@ -17,6 +17,7 @@ Books to read..
 - [Working effectively with legacy code by Michael Feathers](http://bookreviews.markpearl.co.za/Working-Effectively-With-Legacy-Code/)  
 - [Code Complete by Steve McConnell](http://bookreviews.markpearl.co.za/programming/2011/06/27/Code-Complete/)  
 - [The Art of Unit Testing by Roy Osherove](http://bookreviews.markpearl.co.za/programming/2011/02/15/The-Art-of-Unit-Testing/)  
+- [Continous Delivery by Jez Humble & David Farley]()  
 
 Video resources to watch..
 
