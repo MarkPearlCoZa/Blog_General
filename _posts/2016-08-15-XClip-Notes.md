@@ -7,6 +7,8 @@ category: Tech
 
 ## Basic Use ##
 
+XClip is intended for linux, for Mac use PBCopy
+
 ### Copy text to clipboard  
 
 ~~~
