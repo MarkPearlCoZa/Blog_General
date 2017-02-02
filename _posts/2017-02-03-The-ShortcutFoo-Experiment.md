@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The ShortcutFoo Challenge Feedback from Experiement
+title: The ShortcutFoo Challenge Feedback 
 tags: 
 category: General
 ---

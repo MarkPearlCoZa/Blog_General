@@ -5,7 +5,7 @@ tags: Linux
 category: Tech
 ---
 
-## Basic Use ##
+## Basic Use
 
 XClip is intended for linux, for Mac use PBCopy
 

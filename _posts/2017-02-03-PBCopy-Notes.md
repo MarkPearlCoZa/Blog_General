@@ -5,7 +5,7 @@ tags:
 category: Tech
 ---
 
-## Basic Use ##
+## Basic Use
 
 PBCopy is intended for mac, for linux use xclip
 
