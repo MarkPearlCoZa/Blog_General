@@ -15,6 +15,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [8th Lights Video on Craftmanship](https://www.youtube.com/watch?v=VZkuMJZx-6o)  
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
 - [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
+- [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
 
 #### Programmer Videos  
 
