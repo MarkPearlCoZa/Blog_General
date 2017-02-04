@@ -22,12 +22,21 @@ The first Friday nobody was ready to challenge each other because nobody spent t
 
 Over the weeks different participants began to do ShortcutFoo, although because they started at different times (in ShortcutFoo you have different stages) - this meant that unless participants challenging each other agreed to challenge at the right level it would be incredibly hard for someone on a lower level to beat someone on a higher level.
 
-# Net result
+Another issue we had was during the time the challenge was happening we had new dev join the team. Nobody in our team has access to the company credit card - it sits with the Dev Managaer - which proved a challenge to get. In the end the new dev ended up paying for access on the service on their own. A team having access to a credit card would have made this a lot easier.
 
-Ultimately one member of the team really enjoyed ShortcutFoo and completed the challenges, however there is still work in moving them applying this in the actual editor.
-Other members of the team dabbled with it but really didn't really get into it as much as I would have liked. In speaking to them, reasons were that we were learning Webstorm shortcuts, when at the time we moved on to C# work (which meant we were working in VS).
+# What was the outcome?
 
-I think giving people an opportunity to learn shortcuts as individuals is a good idea, but to get a team to learn would be hard unless we had dedicated time during the day for the whole team to practice (which just feels to much like school).
+Ultimately one member of the team really enjoyed ShortcutFoo and completed the challenges; however while they are doing well knowing the shortcuts in ShortcutFoo, there is still work in moving them applying this in the actual editor.
 
+Other particpants dabbled with ShortcutFoo but never really got into it as much as I would have liked. In speaking to them, multiple reasons were given:
+
+* We were learning Webstorm shortcuts, at the time we moved on to C# work (which meant we were working in VS).
+* Some participants had other things they felt were more important and battled to get into a routine
+
+# Learnings
+
+* Giving people an opportunity to learn shortcuts as individuals is a good idea, getting a team to learn is hard.  
+* If we had dedicated time during the day for the whole team to practice we probably have seen more uptake (but this feels to much like babying people).  
+* Having easier access to a credit card and not needing to get approval to use it would also make handling team changes better.  
 
 
