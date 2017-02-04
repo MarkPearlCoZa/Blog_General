@@ -8,9 +8,13 @@ Over the last 2 months we tried an experiment in my team to improve our muscle m
 
 > Two years ago I invested personal time to learn the shortcuts of my IDE (which was Visual Studio with Resharper at the time) and in doing so discovered a ton of useful features that I was not aware of. 
 
+# How do it work?
+
+The experiment was marketed as an internal team challenge - we called it the [ShortCutFoo Challenge](http://blog.markpearl.co.za/ShortcutFoo-Challenge). The basic idea was for people to practice during the week using ShortcutFoo and then challenge each other on the Friday; at the end of two months a champion woudl be decided. 
+
 # So, how did the experiment go?
 
-The original experiment was in a challenge form - I called it the [ShortCutFoo Challenge](http://blog.markpearl.co.za/ShortcutFoo-Challenge). The idea was for people to practice during the week and then challenge each other on the Friday. The first Friday nobody was ready to challenge each other - nobody had spent time learning shortcuts.
+It had mixed result. The first Friday nobody was ready to challenge each other - nobody had spent time learning shortcuts.
 
 In one on ones I encouraged people to spend ten minutes learning shortcuts each day, the following week one person had spent time actively learning shortcuts - everyone else still refused to participate in challenges because they had not spent enough time on shortcuts.
 
