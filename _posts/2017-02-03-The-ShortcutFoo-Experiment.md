@@ -6,7 +6,7 @@ category: General
 ---
 Over the last 2 months we tried an experiment in my team to improve our muscle memory on keyboard shortcuts. The motivation for this was my belief that being able to navigate one's development IDE's / tools without using a mouse leads to a more fluid development experience and helps you discover functionality that you IDE has that you are not aware of.
 
-> Two years ago I invested personal time to learn the shortcuts of my IDE (which was Visual Studio with Resharper at the time) and in doing so discovered a ton of useful features that I was not aware of up till then. In my team we have great developers and many of them have not yet invested the time to "commit to muscle memory" the keyboard shortcuts of our current tools.
+> Two years ago I invested personal time to learn the shortcuts of my IDE (which was Visual Studio with Resharper at the time) and in doing so discovered a ton of useful features that I was not aware of. 
 
 # So, how did the experiment go?
 
