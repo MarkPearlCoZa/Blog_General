@@ -20,7 +20,7 @@ The first Friday nobody was ready to challenge each other because nobody spent t
 
 > I really liked the idea of "fight a friend", however it still needs substantial work to make it more enjoyable. A potential business model I would suggest to the people behind ShortcutFoo is to make their "Fight a friend" feature free, and use this as a mechanism to encourage people to sign up to the paid for service - just an idea.
 
-Over the weeks different people began to do shortcuts, although at different levels (in ShortcutFoo you have different stages) - this meant that unless people challenging each other agreed to challenge at the right level it would be incredibly hard for someone on a lower level to beat someone on a higher level.
+Over the weeks different participants began to do ShortcutFoo, although because they started at different times (in ShortcutFoo you have different stages) - this meant that unless participants challenging each other agreed to challenge at the right level it would be incredibly hard for someone on a lower level to beat someone on a higher level.
 
 # Net result
 
