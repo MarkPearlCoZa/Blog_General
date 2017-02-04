@@ -14,9 +14,9 @@ The experiment was marketed as an internal team challenge - we called it the [Sh
 
 # So, how did the experiment go?
 
-It had mixed results. The first Friday nobody was ready to challenge each other - nobody had spent time learning shortcuts.
+It had mixed results. The first Friday nobody was ready to challenge each other because nobody spent time learning shortcuts.
 
-In one on ones I encouraged people to spend ten minutes learning shortcuts each day, the following week one person had spent time actively learning shortcuts - everyone else still refused to participate in challenges because they had not spent enough time on shortcuts.
+In the weekly one-on-ones I encouraged those in the challenge to spend just ten minutes each day learning shortcuts. The following week one person had spent time actively learning shortcuts, everyone else still had not spent sufficient time and thus refused to participate in the 'fight the friend'.
 
 Also, the challenge experience in ShortcutFoo was buggy, we needed to open the browser in "incognito mode" to be able to "fight a friend". I really like the idea of "fight a friend", however it still needs substantial work to make it more enjoyable.
 
