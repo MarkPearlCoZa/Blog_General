@@ -18,9 +18,9 @@ It had mixed results. The first Friday nobody was ready to challenge each other 
 
 In the weekly one-on-ones I encouraged those in the challenge to spend just ten minutes each day learning shortcuts. The following week one person had spent time actively learning shortcuts, everyone else still had not spent sufficient time and thus refused to participate in the 'fight the friend'.
 
-Also, the challenge experience in ShortcutFoo was buggy, we needed to open the browser in "incognito mode" to be able to "fight a friend". I really like the idea of "fight a friend", however it still needs substantial work to make it more enjoyable.
+We also discovered that the experience in ShortcutFoo for 'fighting a friend' was buggy; we needed to open the browser in "incognito mode" to be able to get it to work. 
 
-A potential business model I would suggest to ShortcutFoo is to make their "Fight a friend" feature free, and use that as a mechanism to encourage people to sign up to the paid service - just an idea.
+> I really liked the idea of "fight a friend", however it still needs substantial work to make it more enjoyable. A potential business model I would suggest to the people behind ShortcutFoo is to make their "Fight a friend" feature free, and use this as a mechanism to encourage people to sign up to the paid for service - just an idea.
 
 Over the weeks different people began to do shortcuts, although at different levels (in ShortcutFoo you have different stages) - this meant that unless people challenging each other agreed to challenge at the right level it would be incredibly hard for someone on a lower level to beat someone on a higher level.
 
