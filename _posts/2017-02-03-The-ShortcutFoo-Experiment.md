@@ -10,11 +10,11 @@ Over the last 2 months we tried an experiment in my team to improve our muscle m
 
 # How do it work?
 
-The experiment was marketed as an internal team challenge - we called it the [ShortCutFoo Challenge](http://blog.markpearl.co.za/ShortcutFoo-Challenge). The basic idea was for people to practice during the week using ShortcutFoo and then challenge each other on the Friday; at the end of two months a champion woudl be decided. 
+The experiment was marketed as an internal team challenge - we called it the [ShortCutFoo Challenge](http://blog.markpearl.co.za/ShortcutFoo-Challenge). The basic idea was that everybody participating put $10 in th pot. Participants would then have during the week to practice using ShortcutFoo. On the Friday we would challenge each other using the 'Fight the Friend' feature; at the end of two months a champion would be crowned. 
 
 # So, how did the experiment go?
 
-It had mixed result. The first Friday nobody was ready to challenge each other - nobody had spent time learning shortcuts.
+It had mixed results. The first Friday nobody was ready to challenge each other - nobody had spent time learning shortcuts.
 
 In one on ones I encouraged people to spend ten minutes learning shortcuts each day, the following week one person had spent time actively learning shortcuts - everyone else still refused to participate in challenges because they had not spent enough time on shortcuts.
 
