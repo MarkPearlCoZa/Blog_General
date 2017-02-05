@@ -74,6 +74,10 @@ To start your test framework enter the following...
 npm test  
 ~~~
 
+#### Working with Dates
+
+The [Moment.js](https://momentjs.com/) library a good library for handling dates in js.
+
 #### General
 
 Also called NTier Pattern
