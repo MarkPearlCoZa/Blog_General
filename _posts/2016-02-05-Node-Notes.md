@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Node Notes
-tags: 
+tags: Node
 category: Tech
 ---
 
