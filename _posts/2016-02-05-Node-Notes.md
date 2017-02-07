@@ -85,6 +85,49 @@ Also called NTier Pattern
 #### Node References 
 
 [Structuring NodeJs Projects](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
+
+### Modules
+
+#### Old approach
+
+In you module file doSomethingModule.js...
+
+~~~
+module.exports = {
+    doSomething: function() {
+        return "something";
+    }
+}
+~~~
+
+in the file you want to consume it from...
+
+~~~
+var obj = require("../doSomethingModule.js");
+console.log(obj.doSomething());                     // return something
+~~~
+
+#### New approach
+
+In you module file doSomethingModule.js...
+
+~~~
+module.exports = class TheClass{
+    
+    doSomething() {
+        return -1;
+    }
+}
+~~~
+
+in the file you want to consume it from...
+
+~~~
+var objType = require("../doSomethingModule.js");
+var theObject = new objType();
+theObject.doSomething();                            // return something
+~~~
+
 ### Express 
 
 ### Hosting
