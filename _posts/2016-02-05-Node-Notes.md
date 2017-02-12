@@ -44,7 +44,7 @@ npm init create an empty node project, which is a package.json file. The file wi
 }
 ~~~
 
-#### Adding Test Framework
+#### Adding Test Framework for specific location
 
 We use mocha with chai. 
 
@@ -72,6 +72,16 @@ To start your test framework enter the following...
 
 ~~~
 npm test  
+~~~
+
+#### Adding Test Framework for file convention
+
+The following runs all tests under the src folder that match the file extension .test.js
+
+~~~
+  "scripts": {
+    "test": "find ./src -iregex '.*.test.js' | xargs mocha -u tdd --reporter spec"
+  },
 ~~~
 
 #### Working with Dates
