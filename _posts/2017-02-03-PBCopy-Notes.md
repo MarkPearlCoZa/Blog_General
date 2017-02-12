@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PBCopy Notes
-tags: 
+tags: Copy
 category: Tech
 ---
 

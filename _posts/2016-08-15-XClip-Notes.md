@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XClip Notes
-tags: Linux
+tags: Linux, Copy
 category: Tech
 ---
 
