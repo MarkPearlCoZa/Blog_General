@@ -16,6 +16,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
 - [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
 - [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
+- [Integrated tests are a scam by J.B. Rainsberger](https://vimeo.com/80533536)  
 - [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
 
 #### Programmer Videos  
