@@ -24,25 +24,25 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
-- Aconex Melbourne: topic "Mob Programming"  
-- MYOB Melbourne: topic "Mob Programming"  
-- CarSales.com Melbourne: topic "Mob Programming"  
-- TradeMe Auckland: topic "Mob Programming"    
+- Aconex Melbourne, Australia: topic "Mob Programming"  
+- MYOB Melbourne, Australia: topic "Mob Programming"  
+- CarSales.com Melbourne, Australia: topic "Mob Programming"  
+- TradeMe Auckland, New Zealand: topic "Mob Programming"    
 
 ### 2016
 
-- [Auckland University of Technology Panel Discussion](https://www.youtube.com/watch?v=5sHlGi90fhA) Auckland: topic "Careers in IT"  
-- MYOB Auckland: topic ["Getting the best of everyone into all the code using Mob Programming"](https://www.youtube.com/watch?v=0Y0ge-d2KsQ&index=1)  
-- TradeMe Brown Bag Auckland: topic "What is technical debt"  
+- [Auckland University of Technology Panel Discussion](https://www.youtube.com/watch?v=5sHlGi90fhA) Auckland, New Zealand: topic "Careers in IT"  
+- MYOB Auckland, New Zealand: topic ["Getting the best of everyone into all the code using Mob Programming"](https://www.youtube.com/watch?v=0Y0ge-d2KsQ&index=1)  
+- TradeMe Auckland, New Zealand: topic "What is technical debt"  
 
 ### 2015
 
-- [Let's Test](http://lets-test.com/) Johannesburg: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
-- [Agile Roots](http://www.agileroots.com/) Utah: topic "Team Tourism"  
-- [DeveloperUG](http://www.developerug.org.za/) Johannesburg: topic "All about code"  
-- [Agile Africa](http://agileafricaconf.com/), Johannesburg: topic "The natural order of progression for technical practices"  
-- JoziJug, Johannesburg: topic "Speaking to Geeks"  
-- Scrum Gathering, Johannesburg: topic "How Super Hero's make Toast"  
+- [Let's Test](http://lets-test.com/) Johannesburg, South Africa: topic "Story mapping - the art of contextualizing stories into thin slices of deliverable value"  
+- [Agile Roots](http://www.agileroots.com/) Utah, USA: topic "Team Tourism"  
+- [DeveloperUG](http://www.developerug.org.za/) Johannesburg, South Africa: topic "All about code"  
+- [Agile Africa](http://agileafricaconf.com/), Johannesburg, South Africa: topic "The natural order of progression for technical practices"  
+- JoziJug, Johannesburg, South Africa: topic "Speaking to Geeks"  
+- Scrum Gathering, Johannesburg, South Africa: topic "How Super Hero's make Toast"  
 
 ### 2014
 
