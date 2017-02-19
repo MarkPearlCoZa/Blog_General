@@ -14,6 +14,7 @@ I have found that speaking on things I have personal experience with leads to de
 I've had the opportunity to speak in the following cities around the world...  
 
 - South Jordan, Utah, USA  
+- Melbourne, Australia  
 - Auckland, New Zealand
 - Cape Town, South Africa  
 - Durban, South Africa  
@@ -23,7 +24,11 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
-- TradeMe Brown Bag Auckland: topic "Getting the best of everyone into all the code using Mob Programming"  
+- Aconex Brown Bag Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
+- MYOB Brown Bag Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
+- CarSales.com Brown Bag Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
+- MYOB Brown Bag Auckland: topic "Getting the best of everyone into all the code using Mob Programming"  
+- TradeMe Brown Bag Auckland: topic "Getting the best of everyone into all the code using Mob Programming"    
 
 ### 2016
 
