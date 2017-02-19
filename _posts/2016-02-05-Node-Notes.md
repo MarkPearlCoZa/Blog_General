@@ -147,6 +147,22 @@ theObject.doSomething();                            // return something
 
 ### Sessions
 
+app.js
+~~~
+app.use(express.cookieParser());
+app.use(express.session({secret: '1234567890QWERTY'}));
+~~~
+
+in your routing...
+~~~
+var session = require('express-session');
+
+app.get('/awesome', function(req, res) {
+  req.session.lastPage = '/awesome';
+  res.send('Your Awesome.');
+});
+~~~
+
 [Using sessions in express](https://blog.xervo.io/nodejs-and-express-sessions)  
 
 #### Express References 
