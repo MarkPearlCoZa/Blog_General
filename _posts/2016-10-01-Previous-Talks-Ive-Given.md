@@ -24,16 +24,15 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
-- Aconex Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
-- MYOB Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
-- CarSales.com Melbourne: topic "Getting the best of everyone into all the code using Mob Programming"  
-- [MYOB Auckland: topic "Getting the best of everyone into all the code using Mob Programming"](https://www.youtube.com/watch?v=0Y0ge-d2KsQ&index=1)  
-- TradeMe Auckland: topic "Getting the best of everyone into all the code using Mob Programming"    
+- Aconex Melbourne: topic "Mob Programming"  
+- MYOB Melbourne: topic "Mob Programming"  
+- CarSales.com Melbourne: topic "Mob Programming"  
+- TradeMe Auckland: topic "Mob Programming"    
 
 ### 2016
 
 - [Auckland University of Technology Panel Discussion](https://www.youtube.com/watch?v=5sHlGi90fhA) Auckland: topic "Careers in IT"  
-- [MYOB Brown Bag](https://www.youtube.com/watch?v=0Y0ge-d2KsQ) Auckland: topic "Getting the best of everyone into all the code"  
+- MYOB Auckland: topic ["Getting the best of everyone into all the code using Mob Programming"](https://www.youtube.com/watch?v=0Y0ge-d2KsQ&index=1)  
 - TradeMe Brown Bag Auckland: topic "What is technical debt"  
 
 ### 2015
