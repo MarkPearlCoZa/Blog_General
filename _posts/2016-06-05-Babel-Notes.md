@@ -86,6 +86,10 @@ Your Package.json file should look as follows:
 }
 ~~~
 
+#### Getting Babel as part of NPM Build Pipeline
+
+[How to use babel for production](https://medium.com/@Cuadraman/how-to-use-babel-for-production-5b95e7323c2f#.u9v8j0k0e)  
+
 #### References ####
 
 [Pluralsight Babel Course](https://www.pluralsight.com/courses/babel-get-started)  
