@@ -24,8 +24,9 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
+- [Auckland .Net User Group Auckland, New Zealand]: topic "Mob Programming"]()  
 - Aconex Melbourne, Australia: topic "Mob Programming"  
-- MYOB Melbourne, Australia: topic "Mob Programming"  
+- [MYOB Melbourne, Australia: topic "Mob Programming"](https://youtu.be/ckTxWKtGrgQ)  
 - [CarSales.com Melbourne, Australia: topic "Mob Programming"](https://youtu.be/A2USKP18ac0)  
 - TradeMe Auckland, New Zealand: topic "Mob Programming"    
 
