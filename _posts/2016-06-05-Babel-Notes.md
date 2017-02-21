@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Babel Notes
-tags: Web
+tags: Web JavaScript
 category: Tech
 ---
 
