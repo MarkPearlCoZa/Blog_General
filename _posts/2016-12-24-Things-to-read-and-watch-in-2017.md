@@ -9,15 +9,19 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### General Videos  
 
-- [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
-- [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
 - [Seeing Spaces by Bret Victor](https://vimeo.com/97903574), [see notes](http://blog.markpearl.co.za/Seeing-Spaces)  
 - [8th Lights Video on Craftmanship](https://www.youtube.com/watch?v=VZkuMJZx-6o)  
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
 - [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
+- [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
+
+#### General Development Videos
+
+- [The rationale of Continous Delivery by Dave Farley](https://www.youtube.com/watch?v=nauFRW6gYjc&list=TLGG3nAqaM5nIukwMjAzMjAxNw)  
+- [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
+- [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
 - [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
 - [Integrated tests are a scam by J.B. Rainsberger](https://vimeo.com/80533536)  
-- [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
 
 #### Programmer Videos  
 
