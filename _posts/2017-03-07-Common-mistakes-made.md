@@ -5,29 +5,29 @@ tags: Code
 category: General
 ---
 
-# Separate Domain from Presentation Logic
+#### Separate Domain from Presentation Logic
 
 Keep domain classes separate from GUI classes. The larger the system, the more clear the separation should be. 
 
-# Strucutre solution to reveal domain intent
+#### Strucutre solution to reveal domain intent
 
 The structure of the solution should reveal the domain that the system is used in instead of the technologies it will leverage.
 
-# Abstract collections
+#### Abstract collections
 
 If a method return's a collection, make it return the most abstract instance of the collection. 
 
 Enumerables > ReadOnly > List 
 
-# Remove unnecessary comments
+#### Remove unnecessary comments
 
 Prefer naming things to reveal intent than using comments. Whenever there is a comment question its existance and what value it adds
 
-# Remove regions
+#### Remove regions
 
 Regions hide complexity, avoid them
 
-# Replace nested conditionals with guard clauses
+#### Replace nested conditionals with guard clauses
 
 ~~~
 public bool doSomething(DataStream stream)
@@ -59,11 +59,11 @@ public bool doSomething(DataStreamDecoder decoder)
 }
 ~~~
 
-# Avoid Large Methods
+#### Avoid Large Methods
 
 Large methods are an indication that the method is doing too much or has too many responsibilities. Large methods should be broken down into smaller more focussed methods with self-explaining names.
 
-# Avoid Public Static Classes
+#### Avoid Public Static Classes
 
 * Hard to isolate from where they are being consumed
 * Tight coupling
