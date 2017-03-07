@@ -26,6 +26,17 @@ category: Misc
 5. Evil coder 
 6. No Constrains / Pair up with original partner  
 
+### General Session Ideas
+
+1. Vanilla
+2. Evil Coder  
+3. Code like its 1969
+4. Ping Pong  
+5. No Primitives across method boundaries  
+6. Tests for customers first  
+7. 4 Line methods  
+8. No conditional branching  
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Company Internal Code Retreats
@@ -63,6 +74,21 @@ category: Misc
 3:25 - 4:10	- Sixth Session  
 4:10 - 4:20	- Retro of the Day  
 4:20 - 4:30	- Closing Retro (Big Circle)  
+
+### Things facilitator to prepare for the day
+
+* A3 Poster Conways Game of Life  
+* A3 Poster on 4 Rules of Simple Design  
+* Welcome Poster with things people should do - "Write name and languages comfortable in on sticker"
+* Time Program to run on projector
+* Flash sticks with testing frameworks and tools like resharper etc.
+* Box of sharpies for attendees to write with
+* Post it notes and tape (if the notes don't stick)
+* Stickers for name tages
+
+### Things attendees should do before the day  
+
+* Setup machine with test framework of choice (MSTest, NUnit, etc)  
 
 -------------------------------------------------------------------------------------------------------------
 
