@@ -11,3 +11,4 @@ In reading the [Pragmatic Programmer](http://blog.markpearl.co.za/The-Pragmatic-
 
 So what is a Software Craftsman? I believe it is someone who doesn’t just care whether the problem they were given is solved, but also how it is solved and how that will impact things in the future. A craftsman has a level of pragmatism in the decisions they make and in how they do their work. A craftsman understands how to use his/her tools properly. A craftsman realizes they can learn from anyone.
 
+[Sign the Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)  
