@@ -1,11 +1,9 @@
 ---
 layout: post
-title: What does software craftmanship mean to me
+title: What does software craftmanship mean to me?
 tags: Craftmanship
 category: General
 ---
-
-What does software craftsmanship mean to me?
 
 I think the first time I came across the concept of a software craftsman was when I read the Pragmatic Programmer. Up till then I was all about the technology, and facing all the pains of tightly coupled non-cohesive code. That book was a life changer for me and the start of a journey.  In reading the Pragmatic Programmer I heard of the concept of a journey man. At the same time I had started listening to podcasts, in particular DotNet Rocks. I happened to hear an interview done with Corey Haines where he spoke about his experiences travelling the world learning how to code better.  Luck had it that soon after that Corey visited South Africa and we managed to meet. In meeting him, he introduced me to the concept of Code Retreats. I learnt more about crafting software at my first Code Retreat than I had learned in the last 10 years of being framework chasing developer.  
 
