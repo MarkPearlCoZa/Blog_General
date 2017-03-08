@@ -118,4 +118,6 @@ Ricky Hunt - hunt.ricky@gmail.com
 
 #### References 
 
-[Writing & Marketing a Book by Jason Alba](https://app.pluralsight.com/library/courses/writing-marketing-book)  
+[Writing & Marketing a Book by Jason Alba](https://app.pluralsight.com/library/courses/writing-marketing-book)    
+[Book Marketing Plan 0 the definitive checklist](https://booklaunch.com/book-marketing-checklist/)  
+[Writing Advice Archive](http://janefriedman.com/writing-advice-archive/)  
