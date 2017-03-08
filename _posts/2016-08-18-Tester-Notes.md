@@ -60,3 +60,4 @@ Thinking about context, oracles and the heuristic test strategy model.
 
 [Weekend Testing](http://weekendtesting.com/)  
 [Testing Challenges](http://testing-challenges.org/)  
+[Lego Automation](https://www.ministryoftesting.com/masters-of-the-ministry/courses/lego-automation/)  
