@@ -126,6 +126,6 @@ In short, if you want to see a more optimistic, more positive, more energetic te
 
 ## How to say No Nicely
 
-[How to say no]({{ site.url }}/assets/documents/bash-cheatsheet.pdf)  
+[How to say no nicely pdf]({{ site.url }}/assets/documents/done4you_sayno.pdf)  
 
 
