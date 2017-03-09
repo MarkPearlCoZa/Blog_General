@@ -103,3 +103,13 @@ When I could give clear feedback to developers well, wonderful things happened s
 
 Learning to give timely, specific feedback well is a key skill of being a great tech leader.  Are you seeing the benefits of it?
 
+# When you see something amiss, don't pretend it didn't happen.
+
+* Maybe a developer isn't following the process.
+* Maybe your boss is micro-managing your team.
+* Maybe someone is coming late to every meeting.
+* Maybe someone isn't paying close attention to code reviews.
+
+Pretending it didn't happen won't fix the problem.  It will, in fact, send the message that either you approve of the behavior or blind to it.
+Instead, have a conversation.  Say something.  Pull them aside and seek to understand the situation.  Directly give someone correction that "What I just saw isn't okay here."  
+

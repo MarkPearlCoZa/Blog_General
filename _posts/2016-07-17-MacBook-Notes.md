@@ -17,9 +17,16 @@ Command (Four Leaf Clover) - Windows
 Delete - Backspace  
 Return - Enter  
 
-#### Other useful Shortcuts ####
+#### Other useful Shortcuts 
 
 Control + Shift + Power - Lock Account
+
+#### Excel for MacBook
+
+Delete row ctrl + -
+
+
+[Learning shortcut keys in OSX Max Excel](http://jeromyanglim.tumblr.com/post/35046966513/learning-shortcut-keys-in-osx-mac-excel)
 
 #### References ####
 
