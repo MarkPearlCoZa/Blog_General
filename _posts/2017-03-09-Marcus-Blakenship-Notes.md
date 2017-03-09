@@ -5,14 +5,14 @@ tags:
 category: Soft
 ---
 
-# What got you in management?
+## What got you in management?
 
 In the tech world most people became team leads because they were great coders and got a promotion, which then  meant you got to do less coding and attend more meetings.
 Alternatively you started a tech business and the product did well and suddenly you started to have to hire other developers.
 
 > I kept trying to be a manager without letting go of my programmer identity.  
 
-# Five essential concepts to most managers need to know and implement
+## Five essential concepts to most managers need to know and implement
 
 1. Keep your eye on the entire project - you need to know all the moving parts
 2. Call BS on idealism and shortsightedness - easy to underestimate how long something will take and overestimate your skills  
@@ -22,29 +22,29 @@ Alternatively you started a tech business and the product did well and suddenly 
 
 > It’s easy to get caught in the trap of reacting to every problem that comes through. Get your head above the fray and find real leadership solutions.  
 
-# What do you loose when you become a manager and don't stop programming 
+## What do you loose when you become a manager and don't stop programming 
 
-1. Communication
+### Communication
 
 Checking in with your team members and other principals is the heart of your work. But chaining yourself to your computer stops that cold. Everyone loses when you’ve cut off any discussions about quality, progress, or individual development.
 
-2. Connection
+### Connection
 
 Jumping in to correct someone else’s work not only short-circuits their learning process, it teaches them to do substandard work. Pretty soon they only turn in partially completed work because they figure you’ll just redo it anyway. They lose their drive, you lose their trust, and projects start to suffer.
 
-3. Momentum
+### Momentum
 
 When you move back into production mode, there’s no one available to keep team moving forward. Essential work like status updates, work review, and new project preparation is completely out the window until you pick your head up. And when you get back to the work that’s been piling up on your desk, you’ve got to dig out all over again.
 
-4. Sustainability
+### Sustainability
 
 Let’s be honest. It feels great to be a hero, swooping in to save a burning building with a brilliant solution. But the cost is just too high. “Quick fixes” often take hours longer, often late or early, and being in chronic firefighter mode is exhausting.
 
-# Feedback
+## Feedback
 
 > Learn to give feedback well is important. People remember your feedback much longer than you do.  
 
-# Truths in every software development project
+## Truths in every software development project
 
 * Deadlines shift.
 * Clients want more.
@@ -52,13 +52,13 @@ Let’s be honest. It feels great to be a hero, swooping in to save a burning bu
 * The design fails.
 * Someone develops (another!) web framework that’s going to change the world.
 
-# What happens when you have regular one on one meetings
+## What happens when you have regular one on one meetings
 
 * You’re signaling to your team that you are dependable 
 * You have substantially fewer surprises in workflow because you get a peek into future potential issues, the one on one meeting gives them a hook point to communciate with you  
 * You have a chance to make genrle corrections by nudging people in the right direction
 *  
-# Your managers keep booking over your calendar items
+## Your managers keep booking over your calendar items
 
 Maybe it's time to say...
 
@@ -66,7 +66,7 @@ Maybe it's time to say...
 Sorry, I won't be able to attend your meeting due to a conflict. I always keep my calendar up-to-date, so feel free to check my calendar for open time slots.
 ~~~
 
-# Biggest challenges team leads face
+## Biggest challenges team leads face
 
 "Balancing development with being able to delegate responsibility."  
 "Balancing management tasks with actual work"  
@@ -76,7 +76,7 @@ Sorry, I won't be able to attend your meeting due to a conflict. I always keep m
 "Managing myself!"  
 "Time management"  
 
-# You need to get feedback from your team
+## You need to get feedback from your team
 
 You need their feedback because...
 1. You're not perfect, not even close.  No one is!  
@@ -89,7 +89,7 @@ Only you can explain why you want feedback.
 Only you can become humble enough to ask for it sincerely.
 Only you can care enough to ask repeatedly, in different ways
 
-# Why you need to be able to give feedback to your team members
+## Why you need to be able to give feedback to your team members
 
 When I could give clear feedback to developers well, wonderful things happened such as...
 
@@ -103,7 +103,7 @@ When I could give clear feedback to developers well, wonderful things happened s
 
 Learning to give timely, specific feedback well is a key skill of being a great tech leader.  Are you seeing the benefits of it?
 
-# When you see something amiss, don't pretend it didn't happen.
+## When you see something amiss, don't pretend it didn't happen.
 
 * Maybe a developer isn't following the process.
 * Maybe your boss is micro-managing your team.
