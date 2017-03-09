@@ -113,3 +113,13 @@ Learning to give timely, specific feedback well is a key skill of being a great 
 Pretending it didn't happen won't fix the problem.  It will, in fact, send the message that either you approve of the behavior or blind to it.
 Instead, have a conversation.  Say something.  Pull them aside and seek to understand the situation.  Directly give someone correction that "What I just saw isn't okay here."  
 
+## What your team sees
+
+> Your team sees their work, and the company, through you.  Your words and attitude carry a lot of weight.  
+
+* When you are negative, they probably will be too.
+* When you are positive, they probably will be too.
+* When you complain, they probably will too.
+* When you are optimistic, they probably can be too. 
+
+In short, if you want to see a more optimistic, more positive, more energetic team, start by looking in the mirror.
