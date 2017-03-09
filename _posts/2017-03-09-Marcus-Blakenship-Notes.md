@@ -123,3 +123,7 @@ Instead, have a conversation.  Say something.  Pull them aside and seek to under
 * When you are optimistic, they probably can be too. 
 
 In short, if you want to see a more optimistic, more positive, more energetic team, start by looking in the mirror.
+
+## How to say No Nicely
+
+
