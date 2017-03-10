@@ -11,6 +11,13 @@ category: Soft
 
 # Let people be seen and heard
 
+# Help people feel engaged
+
+- Keep things simple, focus on one thing at a time
+- Keep people engaged  
+
+[We are making engagement way to complicated](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=3fcd3409bf&e=807b678eab)  
+
 # People have a need to belong
 
 Culture is the backbone of innovation - (Sarah Prevette) - It's not enough to want an innovation culture. You need to be dedicated to hearing honest feedback and championing ideas that your staff have.
