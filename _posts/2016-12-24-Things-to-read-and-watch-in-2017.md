@@ -14,6 +14,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
 - [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
 - [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
+- [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)  
 - [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo&__s=ohjot84xzmakrcobj4ka)  
 
 #### General Development Videos
