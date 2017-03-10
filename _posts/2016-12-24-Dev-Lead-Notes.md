@@ -9,6 +9,10 @@ category: Soft
 
 - Great people in the morning, ask how they are doing and care about their answers. 
 
+1. Consistently hold meaningful one-on-one meetings   
+2. Make it safe for them to give you honest feedback  
+3. Offer them feedback and correction so they can improve  
+
 # Let people be seen and heard
 
 # Help people feel engaged
