@@ -40,3 +40,4 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [All I really need to know I learned in Kindergarten by Robert Fulghum](https://www.amazon.com/Really-Need-Know-Learned-Kindergarten/dp/034546639X)  
 - [Refactoring to Patterns by Joshua Kerievsky](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)  
 - [Antifragile by Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
+- [Design It - from Programmer to Software Architect](https://pragprog.com/book/mkdsa/design-it)  
