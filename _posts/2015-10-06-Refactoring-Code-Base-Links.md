@@ -17,6 +17,16 @@ category: Misc
 6. When adding new features, try to “go with the flow.”  
 7. If you need to take the code in a new direction, isolate your changes and use the Adapter Pattern to integrate.  
 
+#### Questions to ask before refactoring code
+
+1. What is my goal in doing the refactor project?  
+2. How will I know if I've accomplished the goal?  
+3. What will be different if I accomplish the goal?  
+4. How much time and money should be invested in this goal?  
+5. What is the ramifications if I postpone the refactoring project for six months?  
+
+Source: Marcus Blakenship
+
 #### Characterisation Tests
 
 These are useful for nailing down the behavior of the existing code. They are different from test driven tests - revealing intent is not necessarily a primary objective.

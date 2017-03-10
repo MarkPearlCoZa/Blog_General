@@ -5,15 +5,19 @@ tags:
 category: Soft
 ---
 
+People are depend on you–for direction, for validation, for encouragement.
+
 # Care about your team
 
 - Great people in the morning, ask how they are doing and care about their answers. 
+
+# When getting started  
 
 1. Consistently hold meaningful one-on-one meetings   
 2. Make it safe for them to give you honest feedback  
 3. Offer them feedback and correction so they can improve  
 
-# Let people be seen and heard
+> Let people be seen and heard
 
 # Help people feel engaged
 
@@ -49,7 +53,7 @@ Culture is the backbone of innovation - (Sarah Prevette) - It's not enough to wa
 * Having tech skills is good to have 
 * Should have at least basic understanding of the technologies  
 * Should contribute to the team by bringing fresh perspective and skills to the team 
- 
+ #
 # Potential interview questions for a Dev Lead
 
 * Give them a case scenario where the team is stressed and ask them how will they respond to it.
