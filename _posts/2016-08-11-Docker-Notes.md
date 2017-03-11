@@ -30,3 +30,4 @@ There are various tools that ops needs for managing containers in production inc
 
 [Docker Hub](https://hub.docker.com)  
 [Docker & Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture)  
+[Working with container basics](https://www.simple-talk.com/sysadmin/virtualization/working-windows-containers-docker-basics/)  
