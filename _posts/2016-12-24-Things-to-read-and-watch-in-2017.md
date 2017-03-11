@@ -42,3 +42,4 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Refactoring to Patterns by Joshua Kerievsky](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)  
 - [Antifragile by Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
 - [Design It - from Programmer to Software Architect](https://pragprog.com/book/mkdsa/design-it)  
+- [Discover to Deliver](http://www.discovertodeliver.com)  
