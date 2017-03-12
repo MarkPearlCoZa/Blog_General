@@ -16,6 +16,8 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
 - [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)  
 - [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo&__s=ohjot84xzmakrcobj4ka)  
+- [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
+- [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
 
 #### General Development Videos
 
