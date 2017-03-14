@@ -28,8 +28,8 @@ SELECT * FROM Users WHERE Name ='Scott' AND Pass ='Tiger'
 
 Now, if someone changes the user name and password to the following:
 
-username : 'or '1'='1
-password : 'or '1'='1
+username : 'or '1'='1  
+password : 'or '1'='1  
 
 SQL generated would be as follows:  
 
