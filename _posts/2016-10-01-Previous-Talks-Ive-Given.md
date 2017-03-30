@@ -24,6 +24,8 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
+- AUT Lecture on Mob Programming, Auckland, New Zealand  
+- [DevConf 2017, Johannesburg, South Africa](https://www.youtube.com/watch?v=hJ5kdv28pgI)  
 - [Agile Auckland Meetup, Auckland, New Zealand](https://www.meetup.com/Agile-Auckland/events/237711745/)  
 - [Auckland .Net User Group Auckland, New Zealand: topic "Mob Programming"](https://www.youtube.com/watch?v=CBaHirLsvQk)  
 - Aconex Melbourne, Australia: topic "Mob Programming"  
