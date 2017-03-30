@@ -8,6 +8,7 @@ category: Tech
 ## Outline
 
 - [Manipulating Files](#manipulating-files)  
+- [Directory Structure](#directory-structure)  
 - [Navigating Directories](#navigating-directories)  
 - [Searching](#searching)  
 - [Manipulating Output](manipulating-output)  
@@ -88,6 +89,20 @@ tar -xzf file.tar
 -x Extract to disk  
 -z Zip/compress
 -f Filename
+
+------------------------------------------------------------------------------------------------
+
+## Directory Structure
+
+~~~
+sudo apt-get install tree
+~~~
+
+### Show all directories except one
+
+~~~
+tree -d -I "dirToIgnore"
+~~~
 
 ------------------------------------------------------------------------------------------------
 
