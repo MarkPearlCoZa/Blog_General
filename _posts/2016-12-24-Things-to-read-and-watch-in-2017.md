@@ -18,6 +18,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo&__s=ohjot84xzmakrcobj4ka)  
 - [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
 - [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
+- [How will you measure your life - Clay Christensen](https://www.youtube.com/watch?v=tvos4nORf_Y)  
 
 #### General Development Videos
 
