@@ -19,6 +19,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
 - [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
 - [How will you measure your life - Clay Christensen](https://www.youtube.com/watch?v=tvos4nORf_Y)  
+- [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
 
 #### General Development Videos
 
