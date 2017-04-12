@@ -12,14 +12,20 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Seeing Spaces by Bret Victor](https://vimeo.com/97903574), [see notes](http://blog.markpearl.co.za/Seeing-Spaces)  
 - [8th Lights Video on Craftmanship](https://www.youtube.com/watch?v=VZkuMJZx-6o)  
 - [We are Pluralsight - 2 rules of the company](https://www.youtube.com/watch?v=9KylNaaesM4)  
-- [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
-- [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
+
+#### People & Life
+
 - [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)  
+- [Inside the mind of a master procrastinator by Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)  
 - [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo&__s=ohjot84xzmakrcobj4ka)  
-- [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
-- [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
+- [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
 - [How will you measure your life - Clay Christensen](https://www.youtube.com/watch?v=tvos4nORf_Y)  
-- [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
+- [The Power Paradox: How we gain and lose](https://www.youtube.com/watch?v=HS9VHBlYklc)  
+
+#### Leadership
+
+- [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
+- [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
 
 #### General Development Videos
 
@@ -28,6 +34,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
 - [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
 - [Integrated tests are a scam by J.B. Rainsberger](https://vimeo.com/80533536)  
+- [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
 
 #### Programmer Videos  
 
