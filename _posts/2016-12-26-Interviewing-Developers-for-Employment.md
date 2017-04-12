@@ -28,6 +28,21 @@ It is just as important to learn about the candidate as it is for them to learn 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Technical Assesment
+
+* Bring up their code solution and work through what they have done?  
+* Is there anything in the code you don't like?  
+* What point of coupling did you decide on
+
+## Cultural Assesment
+
+* What do you hope to learn from working here?  
+* What experience do you want to gain?  
+* How long do you imagine working here?
+* 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Interview Process
 
 ## Before the face to face and team interviews
