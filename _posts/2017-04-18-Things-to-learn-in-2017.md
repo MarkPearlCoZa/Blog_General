@@ -7,7 +7,7 @@ category: General
 
 Each year there is this proliferation of things to learn. 
 
-In an effort to focus my learning around certain topics here's my list of tools / technologies I would like to have some experience in:
+In an effort to focus my learning around certain topics here's my list of tools / technologies I would like to have some experience in by the end of the year:
 
 * Docker  
 * Basic Ruby  
