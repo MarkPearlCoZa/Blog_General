@@ -9,11 +9,11 @@ I believe there are at least 4 traps every programmer needs to avoid.
 
 # The first is pride
 
-Pride is the trap of convincing yourself that you don't need any help from anyone. You believe you can do it all by yourself. You say things like: "I got this." "I'm the architect." "I'm better than them". The truth of the matter is you are only as strong as the people you surround yourself with; if you don't believe me, ask a weight lifter.
+Pride is the trap of convincing yourself that you don't need any help from anyone. You believe you can do it all by yourself. You say things like: "I got this." "I'm the architect." "I'm better than them". The truth of the matter is you are only as strong as the people you worth with; if you don't believe me, ask a weight lifter.
 
 # The second is ignorance 
 
-Ignorance on the surface is not really a bad thing, but there's a difference between not knowing and not knowing what you don't know. This is unconscious incompetence. You can avoid this trap by investing time in learning things beyond the problem at hand, asking questions and not pretending you know something when you don't know (especially when you think you should know). To avoid this invest time in your growth and ask others, have the mantra that the only dumb question is the one you don't ask; because if you don't ask, you're still dumb because you don't know.
+Ignorance on the surface is not really a bad thing, but there's a difference between not knowing and not knowing what you don't know. This is unconscious incompetence. You can avoid this trap by investing time in learning things beyond the problem at hand; asking questions and not pretending you know something when you don't know (especially when you think you should know). To avoid this invest time in your growth and ask others, have the mantra that the only dumb question is the one you don't ask; because if you don't ask, you're still dumb because you don't know.
 
 # The third is laziness
 
