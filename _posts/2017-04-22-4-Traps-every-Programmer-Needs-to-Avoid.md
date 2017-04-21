@@ -23,6 +23,8 @@ Whereas with ignorance, we don't know or pretend to know, with laziness, we refu
 
 The fourth trap is the apathy trap. It's adopting an attitude of "I don't care". It's when you don't care enough to refactor the code; when you don't care enough to keep things tidy; or you don't care enough to make the test pass.
 
+# What makes a great programmer
+
 All of these traps, if not avoided, can jeopardize any system. We can't always avoid them, but we should always be aware of them. A great programmer isn't one who doesn't make mistakes; a great programmer is one who learns from them and doesn't repeat them.
 
 #### References
