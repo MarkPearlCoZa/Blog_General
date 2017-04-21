@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Traps every Programmer Needs to Avoid
+title: 4 Traps Every Programmer Needs to Avoid
 tags: 
 category: General
 ---
@@ -13,7 +13,7 @@ Pride is the trap of convincing yourself that you don't need any help from anyon
 
 # The second is ignorance 
 
-Ignorance on the surface is not really a bad thing, but there's a difference between not knowing and not knowing what you don't know. This is unconscious imcompetence. You can avoid this trap by investing time in learning things beyond the problem at hand, asking questions and not pretending you know something when you don't know (especially when you think you should know). To avoid this invest time in your growth and ask others, have the mantra that the only dumb question is the one you don't ask; because if you don't ask, you're still dumb because you don't know.
+Ignorance on the surface is not really a bad thing, but there's a difference between not knowing and not knowing what you don't know. This is unconscious incompetence. You can avoid this trap by investing time in learning things beyond the problem at hand, asking questions and not pretending you know something when you don't know (especially when you think you should know). To avoid this invest time in your growth and ask others, have the mantra that the only dumb question is the one you don't ask; because if you don't ask, you're still dumb because you don't know.
 
 # The third is laziness
 
