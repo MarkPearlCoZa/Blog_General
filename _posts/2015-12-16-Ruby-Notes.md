@@ -26,6 +26,14 @@ m = /.*/.match("some input text")
 
 Exlamation Points - methods may have exclamation points in their name, which just means to impact the current data rather than making a copy.  
 
+#### Scope or variables
+
+$ a global variable  
+@ an instance variable  
+[a-z] or _ a local variable  
+[A-Z] a constant  
+@@ a class variable  
+
 ## Operators
 
 #### Tenary Operator 
