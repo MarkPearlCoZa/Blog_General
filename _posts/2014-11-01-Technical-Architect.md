@@ -5,15 +5,24 @@ tags: Architecture
 category: Soft
 ---
 
+#### What's the difference between Architect & a normal Developer?
+
 > Software architecture is about the significant design decisions, where significance is measured by cost of change”
 
-#### What's the difference between Architect & Developer?
+I see the difference between a normal developer and a software architect being that a normal developer primarily has a high involvment in maintenance and development of the system at hand. The architect still has a level of involvement in maintenance and development at hand, but also is a key player in providing guidance to a team when they are looking at significant design decisions. 
 
-Difference between normal developer and software architect is that a developer is only given responsibility at a component level of the system (i.e. dev makes sure the at a component level the system stays open for changes). Software architect is responsible for technical direction of the system and making sure it stays open for changes.
+I also see part of the role of the architect to get involved in 
 
-* Has accountability for identifying and balancing the functional requirements of the system (scalability, compatability, performance, etc).  
-* Software architect identifies the most suitable technology stack and frameworks for the system.  
+* Championing cross cutting concerns between systems
 * Challenges the development team to help them implement a better design.
+* Championing and identifying and balancing functional requirements a system (scalability, compatability, performance, etc).  
+* Championing and identifying suitable technology stacks and frameworks for a system
+
+#### Mentoriship & Knowledge Share
+
+* Architect should be providing technical leadership in teams, they should be helping teams identify technical areas of improvment at a regular cadence
+* Provide regular (weekly) 1-on-1 mentorship for one or two experienced developers 
+* Reguarly pair/mob with teams to provide hands on mentorship in crafting code, TDD, design, etc
 
 #### How much architecture should you have? 
 
