@@ -38,6 +38,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### Programmer Videos  
 
+- [All the little things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)  
 - [Seven ineffective coding habits of many programmers by Kevlin Henney at NDC2014](https://vimeo.com/97329157)  
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)  
 - [Code that fits your brain by Adam Tornhill at NDC2014](https://vimeo.com/97471514)  
