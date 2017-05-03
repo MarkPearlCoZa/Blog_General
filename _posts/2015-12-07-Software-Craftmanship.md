@@ -47,6 +47,10 @@ Recipes = Patterns & Practices
 Chef strives for a great tase  
 Chef strives for high nutrition  
 
+#### Books on Craftmanship
+
+* [Good Reads on Craftmanship](http://www.goodreads.com/list/show/8379.Software_Craftsmanship)  
+
 #### References ####
 
 [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)  
