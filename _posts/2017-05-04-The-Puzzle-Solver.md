@@ -23,6 +23,6 @@ By now a two years have passed by. You look back over the puzzles you have solve
 
 So, you ask your work for a different type of puzzle to solve. Your boss tells you that you are really good at solving your type of puzzles, but that you don't have enough experience solving other types of puzzles for it to make sense for them to move you on to those. The only way you are going to get to solve a different type of puzzle is to find a different place to work.
 
-You look around and find another company looking for professional puzzle solvers. You find a place looking for a professional puzzle solving. The puzzles they solve are a little different to the ones you are used to, and you find that interesting. You quit your job and join the new company, but now you know how the game works - you've got a year or two of fun with this type of puzzle before you are going to have to find a new company to work for.
+You look around and find another company looking for professional puzzle solvers. The puzzles they solve are a little different to the ones you are used to, and you find that interesting. You quit your job and join the new company, but now you know how the game works - you've got a year or two of fun with this type of puzzle before you are going to have to find a new company to work for.
 
 And that is how the puzzle solver's life goes.
