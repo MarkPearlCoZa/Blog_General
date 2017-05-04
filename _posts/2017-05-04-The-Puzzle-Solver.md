@@ -15,9 +15,9 @@ Lucky for you there is a company down the road that pays people to solve puzzles
 
 Your first few weeks as a professional puzzle solver are amazing, you get your first puzzle, it's a lot more complicated than the puzzles you did at home, but you put your best effort in and eventually manage to finish it. You feel really fulfilled.
 
-You then get your second puzzle. It's pretty similar to the first one, you manage to finish it slightly faster than it took you to do the first - you have a sense of achievement that you are doing great work. 
+You then get your second puzzle. It's pretty similar to the first one - still pretty complicated for you but you are a quick learner and manage to finish it slightly faster than it took you to do the first - you have a sense of achievement that you are doing great work and growing in your puzzle solving abilities. 
 
-You then get the third puzzle, it's pretty much the same as the previous two puzzles - this time you manage to do in a couple of days but it is not really feeling like a challenge - your boss tells you that you you are getting a reputation for being really good at solving these types of puzzles. 
+You then get the third puzzle, it's pretty much the same as the previous two puzzles - you are surpised by this - this time you manage to do in a couple of days but it is not really feeling like a challenge - your boss tells you that you you are getting a reputation for being really good at solving these types of puzzles. 
 
 You get the fourth puzzle, it's identical to the first! You do the puzzle, but to keep it challenging you only use your left hand to place the pieces.
 
