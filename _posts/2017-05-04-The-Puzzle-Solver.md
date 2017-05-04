@@ -13,7 +13,7 @@ Your first few weeks as a professional puzzle solver are amazing, you get your f
 
 You then get your second puzzle. It's pretty similar to the first one - still pretty complicated for you but you are a quick learner and manage to finish it slightly faster than it took you to do the first - you have a sense of achievement that you are doing great work and growing in your puzzle solving abilities. 
 
-You then get the third puzzle, it's pretty much the same as the previous two puzzles - you are surprised by this. This time you manage to do in a couple of days but it is not really feeling like a challenge. Your boss tells you that you you are getting a reputation for being really good at solving these types of puzzles. 
+You then get the third puzzle, it's pretty much the same as the previous two puzzles - you are surprised by this. This time you manage to finish it in a couple of days but it is not really feeling like a challenge. Your boss tells you that you you are getting a reputation for being really good at solving these types of puzzles. 
 
 You get the fourth puzzle, it's identical to the first you did! You do the puzzle, but to keep it challenging you only use your left hand to place the pieces. It's a little boring, but doing it this way makes it more interesting.
 
