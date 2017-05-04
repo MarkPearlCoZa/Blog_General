@@ -19,8 +19,14 @@ You then get your second puzzle. It's pretty similar to the first one - still pr
 
 You then get the third puzzle, it's pretty much the same as the previous two puzzles - you are surpised by this. This time you manage to do in a couple of days but it is not really feeling like a challenge. Your boss tells you that you you are getting a reputation for being really good at solving these types of puzzles. 
 
-You get the fourth puzzle, it's identical to the first! You do the puzzle, but to keep it challenging you only use your left hand to place the pieces.
+You get the fourth puzzle, it's identical to the first you did! You do the puzzle, but to keep it challenging you only use your left hand to place the pieces. It's a little boring, but only using your left hand makes it more interesting.
 
-And so as the months go on you keep getting the same type of puzzles over an over again. 
+And so as the months go on you keep getting the same type of puzzles over an over again. You try find different ways of keeping it interesting. You find a book that was recommended to you by a colleague that has different patterns for solving puzzles in it. You try every pattern in the book on your next puzzle. Solve the puzzle with no eyes, solve the puzzle upside down, solve the puzzle with no hands. 
 
-Yes the pictures are not identical, and the pieces in each puzzle are slightly different, but essentially it's the same puzzle.
+By now a two years have passed by. You look back over the puzzles you have solved and realize that essentially all the puzzles you have solved up to now are the same. Yes the pictures on the puzzle are not identical, and sometimes the pieces in each puzzle are slightly different shapes, but essentially it's the same type of puzzle. You are bored.
+
+So, you ask your work for a different type of puzzle to solve. Your boss tells you that you are really good at solving your type of puzzles, but that you don't have enough experience solving other types of puzzles for it to make sense for them to move you on to those. The only way you are going to get to solve a different type of puzzle is to find a different place to work.
+
+You look around and find another company looking for professional puzzle solvers. You find a place looking for a professional puzzle solving. The puzzles they solve are a little different to the ones you are used to, and you find that interesting. You quit your job and join the new company, but now you know how the game works - you've got a year or two of fun with this type of puzzle before you are going to have to find a new company to work for.
+
+And that is how the puzzle solver's life goes.
