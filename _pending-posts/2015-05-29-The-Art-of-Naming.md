@@ -90,3 +90,4 @@ Patterns provide a base for names. For technical level solutions use well known 
 - [Good naming is a progress not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step)  
 - Excerpt From: The Pragmatic Bookshelf. “PragPub 2016-09: Issue #87.” The Pragmatic Bookshelf, LLC, 2016-09-01. iBooks.  
 - [Folklore and science of naming practices](http://michalplachta.com/2017/01/22/folklore-and-science-of-naming-practices/)  
+- [Ottingers Rules for Variable & Class Naming](http://www.maultech.com/chrislott/resources/cstyle/ottinger-naming.html)  
