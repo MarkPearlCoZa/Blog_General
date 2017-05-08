@@ -21,6 +21,18 @@ So why software apprenticeships?
 
 # How do we want people to learn?
 
+We want apprentices to learn in multiple ways:
 
+* Hands on while doing the work with more experienced practitioners either pairing or mobbing
+* Formal education points
+* Growing mindset
+
+# Mentors
+
+It starts with a mentor, someone who has more experience and is willing to share that experience with a mentee. Mentors should be committed to mentoring. This means they should be dedicating time each week to their mentee.
+
+How much time is enough time? 
+
+Mentors should be skilled in the feedback process.
 
 People starting out need a mentor. Mentoring takes effort.
