@@ -97,7 +97,13 @@ For a more complete breakdown of topics covered view the [following post](http:/
 
 # Supervision
 
+A graduate is supervised by a mentor. 
 
+Because the graduate will be in a team (the mentors team), the graduate will have the normal interactions that any other team member would have with the teams leadership (At MYOB these interactions would typically happen on a weekly cadence in one-on-ones).
+
+We see a need for graduates to get together and share experiences as a larger group of peers, this will be done at a fortnightly cadence.
+
+Finally, there will be someone allocated to oversee the graduate program in a locality. They will meet in person with graduates and mentors at a four-week cadence.
 
 ## From Graduate to Employee
 
