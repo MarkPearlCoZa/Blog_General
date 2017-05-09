@@ -97,7 +97,7 @@ Graduates will also have work to do for the Jedi academy, they should take time 
 
 We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis and that for some it may be appropriate to make longer or shorter (from 4 to 9 months).
 
-Part of a graduate becoming a professional is having an opportunity to work in different teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting a graduate. 
+Part of a graduate becoming a professional is having an opportunity to work in different teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting/exchanging graduates. 
 
 To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months.
 
