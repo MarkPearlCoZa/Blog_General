@@ -103,7 +103,7 @@ To provide useful interactions for future mentor/graduate selections, graduates 
 
 ### The Jedi academy
 
-The Jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The Jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by an expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
+The Jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The Jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by an expert who's aim is to provide attendees hands on exposure to certain software practices. Sessions can be up to 4 hours, with pre and post session work.
 
 Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc. For a more complete breakdown of topics covered view the [following post on content for the Jedi academy](http://blog.markpearl.co.za/Jedi-Academy)
 
@@ -127,7 +127,7 @@ We see the need to invest time in producing content for new mentors to get start
 
 ## From Graduate to Software Professional
 
-Assemble a team of 8 or so people for a review board. Graduate is given a mixture of experiences/projects to complete within a short time frame. These should necessitate new learning, demonstrate acquired skills. There will be a review day when a presentation and "defense of challenges" is done. The review board makes a decision
+Assemble a team of 8 or so people for a review board. A graduate is given a mixture of experiences/projects to complete within a short time frame. These should necessitate new learning, demonstrate acquired skills. There will be a review day when a presentation and "defense of challenges" is done. The review board makes a decision
 
-Yes - renew contract
-No - part ways / extend graduate
+Yes - renew contract  
+No - part ways / extend graduate  
