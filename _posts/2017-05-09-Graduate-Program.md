@@ -45,7 +45,7 @@ The mentors team should be in a place where it can provide a supporting environm
 * Do team members work together, or alone (prefer teams that work together)
 * Is the mentors team in a good position to support the mentor 
 
-### Identifying which graduates to take on
+### Identifying candidates to take on as graduates 
 
 Good graduates should show the following attributes:
 
