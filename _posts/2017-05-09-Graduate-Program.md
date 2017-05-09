@@ -75,7 +75,7 @@ Opportunities to interact with potential candidates before an actual selection o
 * Pairing with candidates at Code Retreats
 * Interacting with candidates while they are "interns"
 
-*Once a mentor has selected a graduate, the graduate joins the mentors team.*
+*Once a mentor has selected a graduate, the graduate joins the mentors team. It is important that the team is happy to support the mentor*
 
 ### What interactions does a mentor have with a graduate
 
