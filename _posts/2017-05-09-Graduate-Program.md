@@ -101,7 +101,7 @@ To provide useful interactions for future mentor/graduate selections, graduates 
 
 ### The Jedi academy
 
-The Jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The Jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by different expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
+The Jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The Jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by an expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
 
 Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc
 
