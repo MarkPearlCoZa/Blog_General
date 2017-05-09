@@ -58,7 +58,7 @@ We would recommend when looking at potential graduates that one should look at t
 
 ### How does a graduate get a mentor and a team?
 
-Because mentors are heavily invested in their graduates and will be investing several hours a week with them (we believe this could range from anywhere between 3 to 5 hours a week) the mentor should be involved in choosing a graduate to work with and should make the final choice on which graduate they work with.
+Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved in choosing a graduate to work with and should make the final choice on which graduate they work with.
 
 Once a mentor has selected a graduate, the graduate joins the mentors team.
 
