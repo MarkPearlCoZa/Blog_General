@@ -52,8 +52,9 @@ Graduates will also have work to do for the Jedi academny, they should take time
 # The Jedi Academy
 
 The Jedi Academy is a supporting structure to provide increase graduates knowledge in being a professional software developer. Jedi academy will meet every two weeks to focus on a a fundamental area of development.
+Each session is facilitated by different expert in the organization. Sessions can be up to 4 hours, with pre and post session work.
 
-Initial fortnigtly topics include:
+Some of the fortnigtly topics include:
 
 * Crafting Code - can they create a simple application without any assistance  
 * TDD - Unit Testing & Acceptance Testing   
@@ -72,7 +73,7 @@ Initial fortnigtly topics include:
 * Community Involvement - Blogs, User Groups, Conferences
 * Collective Ownership - Cleaning the code, follow conventions
 
-Each session is facilitated by different experts in the organization. Sessions can be up to 4 hours, with pre and post session work.
+For a more complete breakdown of topics covered view the [following post]()
 
 # Identifying Graduate Candidates
 
