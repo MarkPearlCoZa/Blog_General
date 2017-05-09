@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graduate Program
+title: The Graduate Program
 tags: 
 category: Misc
 ---
