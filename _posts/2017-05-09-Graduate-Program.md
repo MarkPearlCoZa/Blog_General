@@ -47,7 +47,7 @@ Because mentors are heavily invested in their graduates and will be investing se
 
 Once a mentor has selected a graduate, the graduate joins the mentors team.
 
-## What interactions does a mentor have with a mentee
+## What interactions does a mentor have with a graduate
 
 * At least one 1-on-1 a week
 * pair programming with the graduate on learning material
@@ -66,24 +66,7 @@ Graduates will also have work to do for the Jedi academny, they should take time
 The Jedi Academy is a supporting structure to provide increase graduates knowledge in being a professional software developer. Jedi academy will meet every two weeks to focus on a a fundamental area of development.
 Each session is facilitated by different expert in the organization. Sessions can be up to 4 hours, with pre and post session work.
 
-Some of the fortnigtly topics include:
-
-* Crafting Code - can they create a simple application without any assistance  
-* TDD - Unit Testing & Acceptance Testing   
-* Refactoring - Identifying smelly code, improving design, staying green    
-* Design principles - SOLID, Package Principles  
-* Object Oriented Design Patterns - Identify common patterns, apply patterns, aware of costs and benefits of patterns  
-* Pair & Mob Programming - Driver/Navigator, Working in a Mob
-* Continous Delivery - Build Scripts, Build Servers, Feature Toggles
-* Version Control - Getting Git from the console
-* Agile Software Process (Scrum) - Iterations, Feedback Loops, Stand-ups, Retrospectives
-* Agile Software Process (Kanban) - WIP Limits, Continous Delivery  
-* Estimating - Commit to task and timeframe, techniques for estimation
-* Customer Collaboration - Working with customers, understanding our users  
-* Polyglot - Familiarity with variety of language constructs, OO vs. Functional, Static vs Dynamic
-* Communication Skills - Engaging live presentation, clear writing
-* Community Involvement - Blogs, User Groups, Conferences
-* Collective Ownership - Cleaning the code, follow conventions
+Some of the fortnigtly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc
 
 For a more complete breakdown of topics covered view the [following post](http://blog.markpearl.co.za/Jedi-Academy)
 
