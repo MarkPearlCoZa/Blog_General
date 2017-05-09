@@ -78,7 +78,7 @@ Opportunities to interact with potential candidates before an actual selection o
 
 *Once a mentor has selected a graduate, the graduate joins the mentors team. It is important that the team is happy to support the mentor*
 
-### What interactions does a mentor have with a graduate
+### What interactions does a mentor have with their graduate
 
 * At least one 1-on-1 a week
 * pair programming with the graduate on learning material
