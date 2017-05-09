@@ -45,7 +45,7 @@ Good graduates should show the following attributes:
 
 ### How does a graduate get a mentor and a team?
 
-Because mentors are heavily invested in their graduates and will be investing several hours a week with them (we believe this could range from anywhere between 3 to 5 hours a week) the mentor should be involved in choosing a graduate to work with and should make the final choice on their mentee.  
+Because mentors are heavily invested in their graduates and will be investing several hours a week with them (we believe this could range from anywhere between 3 to 5 hours a week) the mentor should be involved in choosing a graduate to work with and should make the final choice on which graduate they work with.
 
 Once a mentor has selected a graduate, the graduate joins the mentors team.
 
