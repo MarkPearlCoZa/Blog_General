@@ -80,9 +80,10 @@ Opportunities to interact with potential candidates before an actual selection o
 
 ### What interactions does a mentor have with their graduate
 
-* At least one 1-on-1 a week
-* pair programming with the graduate on learning material
-* discussions around reading & blog posts
+* At least one 1-on-1 a week  
+* Pair programming with the graduate on learning material from the jedi academy  
+* Interactions when doing team work (pairing and mobbing)  
+* Discussions around reading & blog posts  
 
 ### What does a graduate work on
 
