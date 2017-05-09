@@ -61,9 +61,15 @@ We would recommend when looking at potential graduates that one should look at t
 
 ### How does a graduate get a mentor and a team?
 
-Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved in choosing a graduate to work with and should make the final choice on which graduate they work with.
+Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved as much as possible in filtering candidates. The mentor also has the final choice in choosing a graduate to take on. No mentor should be forced to take on a graduate they have concerns about.
 
 Once a mentor has selected a graduate, the graduate joins the mentors team.
+
+We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting a graduate. Opportunities to interact with potential candidates before an actual selection occurs could include:
+
+* Working with candidates at hackathons
+* Pairing with candidates at Code Retreats
+* Interacting with candidates while they are "interns"
 
 ### What interactions does a mentor have with a graduate
 
