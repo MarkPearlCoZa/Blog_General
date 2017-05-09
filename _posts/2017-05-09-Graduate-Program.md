@@ -123,7 +123,7 @@ Good mentors are grown, not found. Equiping new mentors with the skills to be ef
 
 We see the need to invest time in producing content for new mentors to get started. MYOB already has a program for helping people to give good feedback. In addition, for first time mentors it may be appropriate to have a co-mentor model, where an experienced mentor works with an inexperienced mentor to grow them.
 
-## From Graduate to Employee
+## From Graduate to Software Professional
 
 Assemble a team of 8 or so people for a review board. Graduate is given a mixture of experiences/projects to complete within a short time frame. These should necessitate new learning, demonstrate acquired skills. There will be a review day when a presentation and "defense of challenges" is done. The review board makes a decision
 
