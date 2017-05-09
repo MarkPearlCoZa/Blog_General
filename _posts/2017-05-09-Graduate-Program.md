@@ -85,9 +85,15 @@ Opportunities to interact with potential candidates before an actual selection o
 
 *The graduate learns by doing*
 
-The work that graduates does should focus on what the graduate needs to learn
-Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team
-Graduates will also have work to do for the Jedi academny, they should take time each day to work on their Jedi academy work during off peak team times
+The work that graduates does should focus on what the graduate needs to learn.  
+Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team.  
+Graduates will also have work to do for the Jedi academny, they should take time each day to work on their Jedi academy work during off peak team times.  
+
+### How long does a graduate stay with their mentor / team
+
+We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis. Part of a graduate becoming a seasoned professional is having an opportunity to work in other teams. 
+
+
 
 ### The jedi academy
 
@@ -101,11 +107,11 @@ For a more complete breakdown of topics covered view the [following post](http:/
 
 A graduate is supervised by a mentor. 
 
-Because the graduate will be in a team (the mentors team), the graduate will have the normal interactions that any other team member would have with the teams leadership (At MYOB these interactions would typically happen on a weekly cadence in one-on-ones).
+Because a graduate will be in a team (the mentors team), the graduate will have the normal interactions that any other team member would have with the teams leadership (At MYOB these interactions would typically happen on a weekly cadence in one-on-ones).
 
-We see a need for graduates to get together and share experiences as a larger group of peers, this will be done at a fortnightly cadence.
+We see a need for graduates to get together and share experiences as a larger group of peers, this will be done at a fortnightly cadence. We see this as a platform for graduates to support each other and share experiences.
 
-Finally, there will be someone allocated to oversee the graduate program in a locality. They will meet in person with graduates and mentors at a four-week cadence.
+Finally, there will be someone allocated to oversee the graduate program in a locality. They will meet in person with graduates and mentors at a four-week cadence. They are also the alternative point of contact should there be an issue between graduate and mentor.
 
 ## From Graduate to Employee
 
