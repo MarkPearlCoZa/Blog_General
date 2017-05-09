@@ -15,7 +15,7 @@ We believe to have a successful graduate program you need the following:
 
 *The goal of the graduate program is not to get the get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
 
-While we believe that graduates can and should produce valuable work, we see the graduate program as a platform for creating the people we want to work with.
+While we believe that graduates can and should produce valuable work, we see the graduate program as a platform for creating the people we want to work with. We are optimizing for learning and growth.
 
 # Structure 
 
