@@ -107,6 +107,8 @@ Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design p
 
 # Supervision
 
+## Supervising Graduates 
+
 A graduate is supervised by a mentor. 
 
 Because a graduate will be in a team (the mentors team), the graduate will have the normal interactions that any other team member would have with the teams leadership (At MYOB these interactions would typically happen on a weekly cadence in one-on-ones).
@@ -114,6 +116,12 @@ Because a graduate will be in a team (the mentors team), the graduate will have 
 We see a need for graduates to get together and share experiences as a larger group of peers, this will be done at a fortnightly cadence. We see this as a platform for graduates to support each other and share experiences.
 
 Finally, there will be someone allocated to oversee the graduate program in a locality. They will meet in person with graduates and mentors at a four-week cadence. They are also the alternative point of contact should there be an issue between graduate and mentor.
+
+## Growing Mentors
+
+Good mentors are grown, not found. Equiping new mentors with the skills to be effective is crucial to the success of the program. 
+
+We see the need to invest time in producing content for new mentors to get started. MYOB already has a program for helping people to give good feedback. In addition, for first time mentors it may be appropriate to have a co-mentor model, where an experienced mentor works with an inexperienced mentor to grow them.
 
 ## From Graduate to Employee
 
