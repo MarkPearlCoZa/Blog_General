@@ -33,7 +33,7 @@ We are referring to the type of mentorship where an experienced software develop
 
 Mentors should be people you want more of, they should be the best of the best.
 
-## Identifying Graduate Candidates
+## Identifying which graduate to take on
 
 Good graduates should show the following attributes:
 
