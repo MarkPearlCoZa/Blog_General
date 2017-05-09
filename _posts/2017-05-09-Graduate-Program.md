@@ -74,6 +74,7 @@ Opportunities to interact with potential candidates before an actual selection o
 * Working with candidates at hackathons
 * Pairing with candidates at Code Retreats
 * Interacting with candidates while they are "interns"
+* Interacting with candidates on graduate recruitment activities  
 
 *Once a mentor has selected a graduate, the graduate joins the mentors team. It is important that the team is happy to support the mentor*
 
