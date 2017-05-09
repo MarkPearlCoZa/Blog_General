@@ -31,16 +31,19 @@ We believe there are two main areas to keep in mind when trying to identify good
 
 #### Attributes of the mentor
 
+Mentors should be people you want more of, they should be the best of the best.
+
 * Who would you like to clone?
 * Who is always willing to help other people out?
 * Who has their own good skills and disciplines?
 
-Mentors should be people you want more of, they should be the best of the best.
-
 #### Attributes of the mentors team
 
-* What is the current size of the mentors team, we don't want teams to be too big
-* Is the mentors team in a good position to support the mentor
+The mentors team should be in a place where it can provide a supporting environment for mentorship.
+
+* What is the current size of the mentors team (we don't want teams to be too big)
+* Do team members work together, or alone (prefer teams that work together)
+* Is the mentors team in a good position to support the mentor 
 
 ### Identifying which graduates to take on
 
