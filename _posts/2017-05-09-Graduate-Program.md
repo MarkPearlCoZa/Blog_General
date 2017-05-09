@@ -23,15 +23,24 @@ The foundation to a successful graduate program is effective mentorship. All oth
 
 ### What type of mentorship are we referring to?
 
-We are referring to the type of mentorship where an experienced software developer takes an inexperienced software developer (graduate) under their wing in order to teach them the skills necessary to become a professional software developer. In effect, the mentor is akin to the tour guide that takes a person through a foreign city showing them the best of what the city has to offer and bypassing the uninteresting and unsafe parts.
+We are referring to the type of mentorship where an experienced software developer takes an inexperienced software developer (graduate) under their wing in order to teach them the skills necessary to become a professional. In effect, the mentor is akin to the tour guide that takes a person through a foreign city showing them the best of what the city has to offer and bypassing the uninteresting and unsafe parts.
 
 ### Identifying mentors in your organization
+
+We believe there are two main areas to keep in mind when trying to identify good mentors in your organization, the mentor and the team the mentor is in.
+
+#### Attributes of the mentor
 
 * Who would you like to clone?
 * Who is always willing to help other people out?
 * Who has their own good skills and disciplines?
 
 Mentors should be people you want more of, they should be the best of the best.
+
+#### Attributes of the mentors team
+
+* What is the current size of the mentors team, we don't want teams to be too big
+* Is the mentors team in a good position to support the mentor
 
 ### Identifying which graduates to take on
 
@@ -41,9 +50,11 @@ Good graduates should show the following attributes:
 * A doer, can the person get things done  
 * A self-motivated learner, there is no spoon-feeding in learning  
 * Humble, there should be no ego   
-* Committed, they should push through the resistance of tough problems  
+* Committed, they should be the type to push through the resistance of tough problems  
 * A hacker, they should already tried to write some software, software should be their thing  
 * Live our values, they should be aligned to MYOB 6 core values  
+
+We would recommend when looking at potential graduates that one should look at the trajectory of the graduate rather than measuring them on their current state. For instance, rather than examining the current state of a candidates code, give them an opportunity to present what their current state, then provide feedback for improvement and gauge the rate of improvement.
 
 ### How does a graduate get a mentor and a team?
 
