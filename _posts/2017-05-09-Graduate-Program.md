@@ -19,7 +19,7 @@ We believe to achieve this we need:
 
 ## It begins with a mentor
 
-We believe central to making the graduate program a success is having effective mentors. All other structures are there to support a mentor/mentee relationship.
+The foundation to a successful graduate program is effective mentorship. All other structures are there to support the mentor/mentee relationship and enhance it.
 
 ### What type of mentorship are we referring to?
 
