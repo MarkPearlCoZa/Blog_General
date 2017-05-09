@@ -5,9 +5,7 @@ tags:
 category: Misc
 ---
 
-Graduates have several touch points:
-
-We believe to achieve this we need:
+We believe to have a successful graduate program you need the following:
 
 * Long term outlook  
 * Structure  
