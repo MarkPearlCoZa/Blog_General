@@ -73,7 +73,7 @@ Some of the fortnigtly topics include:
 * Community Involvement - Blogs, User Groups, Conferences
 * Collective Ownership - Cleaning the code, follow conventions
 
-For a more complete breakdown of topics covered view the [following post]()
+For a more complete breakdown of topics covered view the [following post](www.google.com)
 
 # Identifying Graduate Candidates
 
