@@ -59,7 +59,7 @@ Good graduates should show the following attributes:
 * A hacker, they should already tried to write some software, software should be their thing  
 * Live our values, they should be aligned to MYOB 6 core values  
 
-We would recommend when looking at potential graduates that one should look at the trajectory of the graduate rather than measuring them on their current state. For instance, rather than examining the current state of a candidates code, give them an opportunity to present what their current state, then provide feedback for improvement and gauge the rate of improvement.
+We would recommend when looking at potential graduates that one should look at the trajectory of the graduate rather than measuring them on their current state. For instance, rather than examining the current state of a candidates code, give them an opportunity to present their current state, measure and provide feedback for improvement, give them some time to learn and apply what they have learnt and then gauge the rate of improvement.
 
 ### How does a graduate get a mentor and a team?
 
