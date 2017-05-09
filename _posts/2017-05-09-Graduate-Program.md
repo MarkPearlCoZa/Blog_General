@@ -85,10 +85,9 @@ The work that graduates does should focus on what the graduate needs to learn
 Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team
 Graduates will also have work to do for the Jedi academny, they should take time each day to work on their Jedi academy work during off peak team times
 
-### The Jedi Academy
+### The jedi academy
 
-The Jedi Academy is a supporting structure to provide increase graduates knowledge in being a professional software developer. Jedi academy will meet every two weeks to focus on a a fundamental area of development.
-Each session is facilitated by different expert in the organization. Sessions can be up to 4 hours, with pre and post session work.
+The jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by different expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
 
 Some of the fortnigtly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc
 
