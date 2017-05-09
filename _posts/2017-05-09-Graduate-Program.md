@@ -19,6 +19,8 @@ We believe to achieve this we need:
 
 ## It begins with a mentor
 
+We believe central to making the graduate program a success is having effective mentors. All other structures are there to support a mentor/mentee relationship.
+
 ### What type of mentorship are we referring to?
 
 We are referring to the type of mentorship where an experienced software developer takes an inexperienced software developer (graduate) under their wing in order to teach them the skills necessary to become a professional software developer. In effect, the mentor is akin to the tour guide that takes a person through a foreign city showing them the best of what the city has to offer and bypassing the uninteresting and unsafe parts.
