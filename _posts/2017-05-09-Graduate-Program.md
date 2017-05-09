@@ -15,7 +15,7 @@ We believe to achieve this we need:
 
 # Long term outlook
 
-*The goal of the graduate program is not to get the most immediate value out of the work out of the graduate or to get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
+*The goal of the graduate program is not to get the get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
 
 # Structure 
 
