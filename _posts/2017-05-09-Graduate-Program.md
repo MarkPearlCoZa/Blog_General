@@ -87,19 +87,21 @@ Opportunities to interact with potential candidates before an actual selection o
 
 The work that graduates does should focus on what the graduate needs to learn.  
 Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team.  
-Graduates will also have work to do for the Jedi academny, they should take time each day to work on their Jedi academy work during off peak team times.  
+Graduates will also have work to do for the Jedi academy, they should take time each day to work on their Jedi academy work during off peak team times.  
 
 ### How long does a graduate stay with their mentor / team
 
-We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis. Part of a graduate becoming a seasoned professional is having an opportunity to work in other teams. 
+We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis and that for some it may be appropriate 
 
+Part of a graduate becoming a professional is having an opportunity to work in other teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting a graduate. 
 
+To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months.
 
-### The jedi academy
+### The Jedi academy
 
-The jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by different expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
+The Jedi academy is a supporting program to increase a graduates knowledge in being a professional software developer. The Jedi academy will meet every two weeks to focus on a fundamental areas of software development. Each session is facilitated by different expert who's aim is to provide attendees hands on exposure to certain practices. Sessions can be up to 4 hours, with pre and post session work.
 
-Some of the fortnigtly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc
+Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc
 
 For a more complete breakdown of topics covered view the [following post](http://blog.markpearl.co.za/Jedi-Academy)
 
