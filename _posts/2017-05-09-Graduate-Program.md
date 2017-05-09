@@ -65,9 +65,9 @@ We would recommend when looking at potential graduates that one should look at t
 
 ### How does a graduate get a mentor and a team?
 
-Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved as much as possible in filtering candidates. The mentor also has the final choice in choosing a graduate to take on. No mentor should be forced to take on a graduate they have concerns about.
+Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved as much as possible in filtering candidates. The mentor also has the final choice in choosing a graduate to take on. 
 
-We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager.
+We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about.
 
 Opportunities to interact with potential candidates before an actual selection occurs could include:
 
