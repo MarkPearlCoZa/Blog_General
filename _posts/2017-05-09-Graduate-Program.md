@@ -29,6 +29,18 @@ We are referring to the type of mentorship where an experienced software develop
 
 Mentors should be people you want more of, they should be the best of the best.
 
+# Identifying Graduate Candidates
+
+Good graduates should show the following attributes:
+
+* Smart, we want people with natural intelligence  
+* A doer, can the person get things done  
+* A self-motivated learner, there is no spoon-feeding in learning  
+* Humble, there should be no ego   
+* Committed, they should push through the resistance of tough problems  
+* A hacker, they should already tried to write some software, software should be their thing  
+* Live our values, they should be aligned to MYOB 6 core values  
+
 ## How does a graduate get a mentor and a team?
 
 Because mentors are heavily invested in their graduates and will be investing several hours a week with them (we believe this could range from anywhere between 3 to 5 hours a week) the mentor should be involved in choosing a graduate to work with and should make the final choice on their mentee.  
@@ -73,18 +85,7 @@ Some of the fortnigtly topics include:
 * Community Involvement - Blogs, User Groups, Conferences
 * Collective Ownership - Cleaning the code, follow conventions
 
-For a more complete breakdown of topics covered view the [following post](www.google.com)
-
-# Identifying Graduate Candidates
-
-Candidates should show the following attributes:
-
-* Smart, we want people with natural intelligence  
-* A doer, can the person get things done  
-* A self-motivated learner, there is no spoon-feeding in learning  
-* Humble, there should be no ego   
-* Committed, they should push through the resistance of tough problems  
-* A hacker, they should already tried to write some software, software should be their thing  
+For a more complete breakdown of topics covered view the [following post](http://blog.markpearl.co.za/Jedi-Academy)
 
 # From Graduate to Employee
 
