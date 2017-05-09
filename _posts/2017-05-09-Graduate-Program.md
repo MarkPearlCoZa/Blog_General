@@ -7,13 +7,15 @@ category: Misc
 
 Graduates have several touch points:
 
-*The goal of the graduate program is not to get the most immediate value out of the work out of the graduate or to get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
-
 We believe to achieve this we need:
 
+* Long term outlook  
 * Structure  
 * Supervision  
-* Long term outlook  
+
+# Long term outlook
+
+*The goal of the graduate program is not to get the most immediate value out of the work out of the graduate or to get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
 
 # Structure 
 
