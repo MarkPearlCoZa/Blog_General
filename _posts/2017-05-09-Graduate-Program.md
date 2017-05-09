@@ -93,7 +93,7 @@ Graduates will also have work to do for the Jedi academy, they should take time 
 
 ### How long does a graduate stay with their mentor / team
 
-We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis and that for some it may be appropriate 
+We believe that a healthy period of time that a graduate should stay with a mentor is about 6 months although we believe this should be handled on a case by case basis and that for some it may be appropriate to make longer or shorter (from 4 to 9 months).
 
 Part of a graduate becoming a professional is having an opportunity to work in other teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting a graduate. 
 
