@@ -95,9 +95,9 @@ We believe identifying potential mentors and involving them early on in activiti
 
 *The graduate learns by doing*
 
-The work that graduates does should focus on what the graduate needs to learn.  
-Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team.  
-Graduates will also have work to do for the Jedi academy, they should take time each day to work on their Jedi academy work during off peak team times.  
+* The work that graduates does should focus on what the graduate needs to learn.  
+* Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team.  
+* Graduates will also have work to do for the Jedi academy, they should take time each day to work on their Jedi academy work during off peak team times.  
 
 ### How long does a graduate stay with their mentor / team
 
