@@ -51,10 +51,6 @@ The mentors team should be in a place where it can provide a supporting environm
 * Do team members work together, or alone (prefer teams that work together)
 * Is the mentors team in a good position to support the mentor 
 
-#### The software competancy continuim
-
-<img class="img-responsive" alt="software competancy continuim" src="{{ site.url }}/assets/images/software-competancy-continuim.jpg">
-
 ## The graduates
 
 ### Identifying candidates to take on as graduates 
