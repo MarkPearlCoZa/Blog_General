@@ -71,11 +71,11 @@ We would recommend when looking at potential graduates that one should look at t
 
 Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved as much as possible in filtering candidates. The mentor also has the final choice in choosing a graduate to take on. 
 
-If you have a graduate who would like to become a 'developer', they should have a mentor who is a developer. Likewise, if a graduate is trying analysis, their mentor should be practicing in that role. It would not make sense for a graduate to be doing 'coding' work and have a mentor that is a business analyst etc.
+If you have a graduate who would like to become a 'developer', they should have a mentor who is a developer. Likewise, if a graduate is trying analysis, their mentor should be practicing in that role. It would not make sense for a graduate to be doing 'coding' work and have a mentor that is a business analyst as the mentor is not equiped to pass down the learnings past a superficial level.
 
-We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about.
+We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about. 
 
-Opportunities to interact with potential candidates before an actual selection occurs could include:
+We believe identifying potential mentors and involving them early on in activities where they will get exposure to potential graduates will ultimately lead to better matching of mentors/mentees. Opportunities to interact with potential candidates before an actual selection occurs could include:
 
 * Working with candidates at hackathons
 * Pairing with candidates at Code Retreats
