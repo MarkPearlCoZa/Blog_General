@@ -39,6 +39,10 @@ Mentors should be people you want more of, they should be the best of the best.
 * Who is always willing to help other people out?
 * Who has their own good skills and disciplines?
 
+The willingines of someone to be a mentor is important, but not the only qualifying requirement. Mentors should be endorsed by the leadership of the organization. Remember, the graduate is largely going to learn and mimic the behaviors of the mentors. 
+
+Mentors should also be able to dedicate sufficient time to a graduate, which would mean several hours a week of dedicated time. 
+
 #### Attributes of the mentors team
 
 The mentors team should be in a place where it can provide a supporting environment for mentorship.
