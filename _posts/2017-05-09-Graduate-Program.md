@@ -105,7 +105,11 @@ We believe that a healthy period of time that a graduate should stay with a ment
 
 Part of a graduate becoming a professional is having an opportunity to work in different teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting/exchanging graduates. 
 
-To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months. During these exchanges they should be primarily pairing with people in the team. They should not be left to do work on their own. Teams that have had graduates for an exchange should give feedback on whether they b
+To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months. During these exchanges they should be primarily pairing with people in the team. They should not be left to do work on their own. Teams that have had graduates for an exchange should give feedback on whether they believe the graduate would be a good fit for the team.
+
+### How many graduates should be in a team
+
+There is no one size fits all rule when getting the balance between graduates and more experienced developers in a team. That said, because a graduate will place a load on a team, we would recommend that a team have only one graduate at a time. We do not want teams to have multiple graduates unless the team feels it has enough depth to support multiple graduates.
 
 ### The Jedi academy
 
