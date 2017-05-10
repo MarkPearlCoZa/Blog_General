@@ -39,6 +39,8 @@ Mentors should be people you want more of, they should be the best of the best.
 * Who is always willing to help other people out?
 * Who has their own good skills and disciplines?
 
+If you have a graduate who would like to become a 'developer', they should have a mentor who is a developer. Likewise, if a graduate is trying analysis or quality analysis work, their mentor should be practicing in that role. It would not make sense for a graduate to be doing 'coding' work and have a mentor that is a business analyst etc.
+
 #### Attributes of the mentors team
 
 The mentors team should be in a place where it can provide a supporting environment for mentorship.
