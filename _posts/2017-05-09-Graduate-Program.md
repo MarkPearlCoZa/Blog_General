@@ -25,7 +25,7 @@ The foundation to a successful graduate program is effective mentorship. All oth
 
 ### What type of mentorship are we referring to?
 
-We are referring to the type of mentorship where an experienced software developer takes an inexperienced software developer (graduate) under their wing in order to teach them the skills necessary to become a professional. In effect, the mentor is akin to the tour guide that takes a person through a foreign city showing them the best of what the city has to offer and bypassing the uninteresting and unsafe parts.
+We are referring to the type of mentorship where an experienced software developer takes an inexperienced software developer (graduate) under their wing in order to teach them the skills necessary to become a professional. The focus is on experiential learning, the process of learning through doing and reflecting on what has been done. 
 
 ### Identifying mentors in your organization
 
@@ -41,15 +41,19 @@ Mentors should be people you want more of, they should be the best of the best.
 
 The willingines of someone to be a mentor is important, but not the only qualifying requirement. Mentors should be endorsed by the leadership of the organization. Remember, the graduate is largely going to learn and mimic the behaviors of the mentors. 
 
-Mentors should also be able to dedicate sufficient time to a graduate, which would mean several hours a week of dedicated time. 
+Mentors should also be able to dedicate sufficient time to a graduate, which would mean several hours a week of dedicated time.
 
 #### Attributes of the mentors team
 
 The mentors team should be in a place where it can provide a supporting environment for mentorship.
 
-* What is the current size of the mentors team (we don't want teams to be too big)
-* Do team members work together, or alone (prefer teams that work together)
-* Is the mentors team in a good position to support the mentor 
+* What is the current size of the mentors team (we don't want teams to be too big)  
+* Do team members work together, or alone (prefer teams that work together)  
+* Is the mentors team in a good position to support the mentor  
+
+### Skills of a mentor
+
+Mentors mentoring graduates who want to become "developers" should be "developers" themselves. Likewise, if a graduate in the program to become an analysis, their mentor should be currently practicing in that area. It would not make sense for a graduate to be doing 'coding' work and have a mentor that is not currently coding and is not equiped to pass down the learnings past a superficial level.
 
 ## The graduates
 
@@ -63,26 +67,26 @@ Good graduates should show the following attributes:
 * Humble, there should be no ego   
 * Committed, they should be the type to push through the resistance of tough problems  
 * A hacker, they should already tried to write some software, software should be their thing  
-* Have alignment with MYOB core values
+* Be someone you want to work with  
 
-We would recommend when looking at potential graduates that one should look at the trajectory of the graduate rather than measuring them on their current state. For instance, rather than examining the current state of a candidates code, give them an opportunity to present their current state, measure and provide feedback for improvement, give them some time to learn and apply what they have learnt and then gauge the rate of improvement.
+When evaluating potential candidates for the graduate program, you should look at the trajectory of the candidate rather than measuring them on their current state. For instance, rather than examining the current state of a candidates code, give them an opportunity to present their current state, measure and provide feedback for improvement, give them some time to learn and apply what they have learnt and then gauge the rate of improvement. 
 
 ### How does a graduate get a mentor and a team?
 
-Because mentors are heavily invested in their graduates and will be investing several hours a week with them (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor should be involved as much as possible in filtering candidates. The mentor also has the final choice in choosing a graduate to take on. 
+Because mentors will be investing several hours a week in their graduates (this could range from anywhere between 3 to 5 hours a week of one on one time, and many more hours of team interaction) the mentor and the mentors team has the final choice in choosing a graduate to take on. 
 
-If you have a graduate who would like to become a 'developer', they should have a mentor who is a developer. Likewise, if a graduate is trying analysis, their mentor should be practicing in that role. It would not make sense for a graduate to be doing 'coding' work and have a mentor that is a business analyst as the mentor is not equiped to pass down the learnings past a superficial level.
-
-We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about. 
-
-We believe identifying potential mentors and involving them early on in activities where they will get exposure to potential graduates will ultimately lead to better matching of mentors/mentees. Opportunities to interact with potential candidates before an actual selection occurs could include:
+Providing mentors, their teams and potential graduates as much time as possible to interact and to get to know each other before formalizing a graduate/mentor relationship is important. Opportunities to interact with potential candidates before an actual selection occurs could include:
 
 * Working with candidates at hackathons
 * Pairing with candidates at Code Retreats
 * Interacting with candidates while they are "interns"
 * Interacting with candidates on graduate recruitment activities  
 
-*Once a mentor has selected a graduate, the graduate joins the mentors team. It is important that the team is happy to support the mentor.*
+*Once a mentor and their team has selected a graduate, the graduate joins the mentors team.*
+
+
+We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about. 
+
 
 ### How many graduates should be in a team
 
