@@ -87,7 +87,6 @@ Providing mentors, their teams and potential graduates as much time as possible 
 
 We think the ratio of candidates to actual graduates will be high, so it is fine to do some upstream filtering prior to a mentor meeting potential graduates, however we do not believe a graduate should be selected and allocated to a mentor by someone in HR or by a manager. No mentor should be forced to take on a graduate they have concerns about. 
 
-
 ### How many graduates should be in a team
 
 There is no one size fits all rule when getting the balance between graduates and more experienced developers in a team. That said, because a graduate will place a load on a team, we would recommend that a team have only one graduate at a time. In the exceptional circumstance where a team feels it has enough depth to support multiple graduates, the rule that a mentor should only have one graduate at a time applies.
@@ -99,13 +98,29 @@ There is no one size fits all rule when getting the balance between graduates an
 * Interactions when doing team work (pairing and mobbing)  
 * Discussions around reading & blog posts  
 
-### What does a graduate work on
+## The curriculum (aka what does a graduate work on)
 
-*The graduate learns by doing*
+*The graduate learns by doing, the work that graduates does should focus on what the graduate needs to learn.*
 
-* The work that graduates does should focus on what the graduate needs to learn.  
-* Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do, they should pair/mob on high value items with their mentor and the rest of their mentors team.  
-* Graduates will also have work to do for the Jedi academy, they should take time each day to work on their Jedi academy work during off peak team times.  
+There are three areas of things that a graduate works on:
+
+1. self-studying & building things to learn 
+2. group projects with other graduates & interns
+3. working in a production team
+
+### Self-studying / building breakable toys
+
+* Graduates will also have work to do for the Jedi academy, they should take time each day to work on their academy work during off peak team times.  
+
+The MYOB software craftmanship academy is a supporting program to increase a graduates knowledge in being a professional software developer. The academy meets every two weeks to focus on a core areas of software development. Each session is facilitated by an expert who's aim is to provide attendees hands on exposure to certain essential software craftmanship practices. Sessions can be up to 4 hours, with pre and post session work.
+
+Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc. For a more complete breakdown of topics covered view the [following post on content for the Jedi academy](http://blog.markpearl.co.za/Jedi-Academy)
+
+### Working in a production team
+
+* Graduates should **not** be treated like 2nd class citizens and given the 'dirty' jobs to do when working in a production team.
+* Graduates will typically pair/mob on high value items with their mentor and the rest of their mentors team.  
+* Graduates will participate in all the team activities (stand up, retro's, etc)
 
 ### How long does a graduate stay with their mentor / team
 
@@ -114,12 +129,6 @@ We believe that a healthy period of time that a graduate should stay with a ment
 Part of a graduate becoming a professional is having an opportunity to work in different teams. When it becomes appropriate for a graduate to change mentors (and teams), the same care and consideration should be put into a new mentor selecting/exchanging graduates. 
 
 To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months. During these exchanges they should be primarily pairing with people in the team. They should not be left to do work on their own. Teams that have had graduates for an exchange should give feedback on whether they believe the graduate would be a good fit for the team.
-
-### The MYOB software craftmanship academy
-
-The MYOB software craftmanship academy is a supporting program to increase a graduates knowledge in being a professional software developer. The academy meets every two weeks to focus on a core areas of software development. Each session is facilitated by an expert who's aim is to provide attendees hands on exposure to certain essential software craftmanship practices. Sessions can be up to 4 hours, with pre and post session work.
-
-Some of the fortnightly topics include Crafting Code, TDD, Refactoring, Design principles, Object Oriented Design Patterns, etc. For a more complete breakdown of topics covered view the [following post on content for the Jedi academy](http://blog.markpearl.co.za/Jedi-Academy)
 
 # Supervision
 
