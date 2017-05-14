@@ -156,3 +156,7 @@ There will be a review day when a presentation and "defense of challenges" is do
 
 Yes - move from graduate to developer
 No - part ways / extend graduate mentoring
+
+#### References
+
+* [Role Model Craftmanship Academy](http://www.craftsmanshipacademy.com/about/)  
