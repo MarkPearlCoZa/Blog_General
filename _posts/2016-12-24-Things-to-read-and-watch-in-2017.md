@@ -21,6 +21,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Millenials in the Workplace by Simon Sinek](https://www.youtube.com/watch?v=hER0Qp6QJNU)  
 - [How will you measure your life - Clay Christensen](https://www.youtube.com/watch?v=tvos4nORf_Y)  
 - [The Power Paradox: How we gain and lose](https://www.youtube.com/watch?v=HS9VHBlYklc)  
+- [The danger of silence](https://www.ted.com/talks/clint_smith_the_danger_of_silence)  
 
 #### Leadership
 
