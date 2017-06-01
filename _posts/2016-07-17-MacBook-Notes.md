@@ -21,6 +21,10 @@ Return - Enter
 
 Control + Shift + Power - Lock Account
 
+#### Chrome Shortcuts
+
+Search bar / address bar - command + l
+
 #### Excel for MacBook
 
 Delete row ctrl + -
