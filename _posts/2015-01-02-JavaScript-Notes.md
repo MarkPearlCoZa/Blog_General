@@ -394,6 +394,10 @@ Circle.prototype.describe = function () {
 };
 ~~~
 
+#### Private Methods
+
+* [See S/O Post](https://stackoverflow.com/questions/55611/javascript-private-methods)  
+
 -------------------------------------------------------------------------------------------
 
 ### Json Objects
