@@ -138,6 +138,10 @@ var theObject = new objType();
 theObject.doSomething();                            // return something
 ~~~
 
+### Module Patterns
+
+[Module Patterns Slides](https://darrenderidder.github.io/talks/ModulePatterns)  
+
 ### Express 
 
 ### Hosting
