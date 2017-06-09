@@ -12,3 +12,7 @@ category: Tech
 * SELECT transforms the filters aggregated data set
 * ORDER BY sorts the transformed data set
 * LIMIT .. OFFSET frames the sorted data set
+
+#### References
+
+[Do you really understand SQL's GROUP BY and HAVING clauses](https://blog.jooq.org/2014/12/04/do-you-really-understand-sqls-group-by-and-having-clauses/)  
