@@ -19,22 +19,23 @@ psql DBName
 ~~~
 Opens the specific db
 
-#### Change a table name ####
+### Psql
 
+Show databases in postgres
 ~~~
-ALTER TABLE oldTableName RENAME TO newTableName;
+\l
 ~~~
 
-#### Show tables in a db ####
-
+Show tables in a db
 ~~~
+\dt
+
 SELECT * FROM pg_catalog.pg_tables;
 ~~~
 
-or in psql
-
+Change a table name
 ~~~
-\dt
+ALTER TABLE oldTableName RENAME TO newTableName;
 ~~~
 
 #### Display Indexes ####
