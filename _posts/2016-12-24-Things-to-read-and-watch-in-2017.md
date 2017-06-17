@@ -59,3 +59,6 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Antifragile by Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
 - [Design It - from Programmer to Software Architect](https://pragprog.com/book/mkdsa/design-it)  
 - [Discover to Deliver](http://www.discovertodeliver.com)  
+
+#### Articles
+- [The half life of code](https://www.sandimetz.com/blog/2017/6/1/the-half-life-of-code)  
