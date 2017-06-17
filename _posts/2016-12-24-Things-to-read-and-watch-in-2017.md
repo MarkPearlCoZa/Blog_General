@@ -37,6 +37,8 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
 - [Integrated tests are a scam by J.B. Rainsberger](https://vimeo.com/80533536)  
 - [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
+- [XP at 20 - Kent Beck](https://www.youtube.com/watch?v=VDnOuK9JVms)  
+- [Explaining Agile - Martin Fowler and Neal Ford](https://www.youtube.com/watch?v=GE6lbPLEAzc)  
 
 #### Programmer Videos  
 
