@@ -5,7 +5,7 @@ tags: Design
 category: General
 ---
 
-*Originally this was stored on http://notonlyoo.org/ however the sites seems to be down and because I believe it's valuable I've replicated it here...*
+*Originally this was stored on [http://notonlyoo.org/](http://notonlyoo.org) however the sites seems to be down and because I believe it's valuable I've replicated it here...*
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
