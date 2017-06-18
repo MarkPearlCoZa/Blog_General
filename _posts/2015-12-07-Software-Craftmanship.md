@@ -55,5 +55,6 @@ Chef strives for high nutrition
 
 [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)  
 [My Review on the book 'The Software Craftman"](http://blog.markpearl.co.za/The-Software-Craftsman)  
+[How to make your culture work with Agile, Kanban, & Software Craftmanship](http://www.methodsandtools.com/archive/agileculture.php)  
 
 
