@@ -40,6 +40,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [XP at 20 - Kent Beck](https://www.youtube.com/watch?v=VDnOuK9JVms)  
 - [Explaining Agile - Martin Fowler and Neal Ford](https://www.youtube.com/watch?v=GE6lbPLEAzc)  
 - [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8)  
+- [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)  
 
 #### Programmer Videos  
 
