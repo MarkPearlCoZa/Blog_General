@@ -31,6 +31,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### General Development Videos
 
+- [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
 - [The rationale of Continous Delivery by Dave Farley](https://www.youtube.com/watch?v=nauFRW6gYjc&list=TLGG3nAqaM5nIukwMjAzMjAxNw)  
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
 - [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
@@ -44,6 +45,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### Programmer Videos  
 
+- [Talking Arcitecture by Kevlin Henney](https://m.youtube.com/watch?feature=youtu.be&v=Y6B4jYBR4Y8)  
 - [All the little things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)  
 - [Seven ineffective coding habits of many programmers by Kevlin Henney at NDC2014](https://vimeo.com/97329157)  
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)  
