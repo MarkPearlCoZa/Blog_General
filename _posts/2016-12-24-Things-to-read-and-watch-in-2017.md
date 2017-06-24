@@ -39,7 +39,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
 - [XP at 20 - Kent Beck](https://www.youtube.com/watch?v=VDnOuK9JVms)  
 - [Explaining Agile - Martin Fowler and Neal Ford](https://www.youtube.com/watch?v=GE6lbPLEAzc)  
-- [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8)  
+- [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8), [see notes](http://blog.markpearl.co.za/Managing-Manager-less-Processes-by-Fred-George)  
 - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)  
 
 #### Programmer Videos  
