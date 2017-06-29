@@ -67,6 +67,14 @@ from INFORMATION_SCHEMA.COLUMNS where table_name = '<name of table>';
 select cities.*, country_name From cities inner join countries on cities.country_code = countries.country_code;
 ~~~
 
+#### Replacing a value with another value
+
+~~~
+-- clan is a column in the sourc table
+-- if clan is 'something' replace the result with [no clan specified]
+COALESCE(NULLIF(clan,'something'), '[no clan specified]')
+~~~
+
 #### Importing Sql ####
 
 in psql
