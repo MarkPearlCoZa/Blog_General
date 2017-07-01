@@ -13,6 +13,8 @@ Yes, that's right... you need to remove the wheel.
 
 <img class="img-responsive" alt="Dodge Stratus Battery" src="{{ site.url }}/assets/images/Complex_Engineering_Dodge_Stratus_Battery.jpg">
 
+We are not alone in overly complex or poorly thought out deisng in the software industry...
+
 #### References
 
 [Dodge Stratus Battery Replacement](http://bobdavis321.blogspot.co.nz/2012/03/dodge-stratus-battery-replacement.html)  
