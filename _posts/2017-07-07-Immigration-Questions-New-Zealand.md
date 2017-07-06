@@ -33,18 +33,20 @@ Fridges etc are significantly more expensive in NZ, if you have stuff you would 
 
 # Car
 
-What do cars cost?
+> What do cars cost?
 
 Second hand cars are cheap in NZ. If you are happy with a japanese second hand car you will find many bargains. European cars tend to be more expensive
 
 # Housing
 
-What am I looking at for housing.
+> What am I looking at for housing?  
 
 Finding a place to stay is a real challenge. There are many crappy New Zealand houses out there. Once you find a place to rent you need a deposit. We needed four weeks deposit to put down for a place which is a significant amount converted to rands and I had to spend time trying to find a place (it was $2400 = R24000 deposit).
 Generally they won't rent a place to you before you have seen it so it is unlikely you will be able to sign a rental before you arrive.
 
 # Most difficult adjustments
+
+> What were your most difficult adjustments?  
 
 Most difficult adjustments were not having extended family around. We had to be really intentional about "putting ourselves out there" and meeting new people, taking every opportunity to interact. We still miss having close friends but are working at it. Housing was the other big adjustment, the houses are different here and it took time adjusting to that.
 
@@ -52,15 +54,23 @@ Most difficult adjustments were not having extended family around. We had to be 
 
 ## High School
 
+> How do your kids get in to High School  
+
 Regarding high school, my understanding is there would be some sort of assessment done to establish where your kids were at educationally, and then they would put them in the appropriate class. I've had conversations with various friends with kids in high school, some have a great experience - others have it really tough. You would be eligible to apply to any high school zoned for your area. Different schools have different intake waiting times, so it would really depend on where you live. In general education is really good here.
 
 # Selling House in SA
+
+> What if I haven't sold my house before I leave?  
 
 We sold our house before we left. My guess is if you sold it while in NZ you would just need to sign documents, it costs about R600 to get documents across.
 
 # Working at MYOB
 
+> When will I get my salary?  
+
 * Salary is paid monthly, around the 15th. 
+
+> What is the dress code at MYOB?  
 
 * Dress code is casual, I wear Jeans and a TShirt, which is the norm. I would recommend stocking up on Jeans and Shirts before you leave, they are substantially more expensive in New Zealand as far as I can remember.
 
