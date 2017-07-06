@@ -5,13 +5,11 @@ tags:
 category: Misc
 ---
 
-# Taking your stuff over...
 
-Our biggest unknown is getting our stuff across... Is it worth shipping major appliances and furniture? I'm not sure how much stuff you took across, but do you have any recommendations for shipping companies and scheduling this stuff?
 
 # Bank Account
 
-I'll need to have a bank account open in NZ before I start work - should I (or can I even) get the ball rolling on that ahead of time?
+> I'll need to have a bank account open in NZ before I start work - should I (or can I even) get the ball rolling on that ahead of time?
 
 * I opened a bank account the first day over. It took about 30 minutes.   
 * I used my South African credit card before that.  
@@ -20,16 +18,18 @@ I'll need to have a bank account open in NZ before I start work - should I (or c
 
 # Living Expenses
 
-* What sort of living expenses can I expect?
+> What sort of living expenses can I expect?
 
 We spend $6500 per month for a family of 4
 Our biggest expense is housing, we pay $600 per month, typically you can get a place for between $550 & $650, but housing is tight and can be a challenge
 
 # Container / Bringing your stuff over
 
-Should I bring my stuff over?
+> Should I bring my stuff over? Is it worth shipping major appliances and furniture? 
 
 Fridges etc are significantly more expensive in NZ, if you have stuff you would like to bring over and can afford to do so I would recommend it. Be careful though, you may battle to get it to fit into your place, i.e. we brought a Fridge/Freezer combo over and were very very lucky we found a place that could accomodate it.
+
+> Do you have any recommendations for shipping companies and scheduling this stuff?
 
 # Car
 
