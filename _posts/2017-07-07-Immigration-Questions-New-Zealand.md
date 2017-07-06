@@ -74,4 +74,20 @@ We sold our house before we left. My guess is if you sold it while in NZ you wou
 
 * Dress code is casual, I wear Jeans and a TShirt, which is the norm. I would recommend stocking up on Jeans and Shirts before you leave, they are substantially more expensive in New Zealand as far as I can remember.
 
+# Misc Costs Breakdown
 
+> What sort of Misc Costs did you have?
+
+- How much do we pay in donations to Daniel's school a year - $100 to $200  
+- How much do we pay per month for medical aid - $80  
+- How much did Daniel's school uniform cost - $80 to $90 per set  
+- How much does daycare cost per week (under 3 years) - $20 p/h  
+- Once they hit 3 they get 20 hours free a week  
+- Free for children but you need to register with a doctor (including script)  
+- Rent $600 p/w deposit of 4 weeks on 12 month lease  
+- Car insurance $50 p/m  
+- Internet $90 per month  
+- Basic Household Insurance $30 per month  
+- Food costs about double $800 per month  
+- Degree certified (R8000)  
+- English tests (R4000 per person)  
