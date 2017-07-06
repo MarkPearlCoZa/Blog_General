@@ -13,7 +13,7 @@ category: Misc
 
 * I opened a bank account the first day over. It took about 30 minutes.   
 * I used my South African credit card before that.  
-* You just need your passport and a letter from wherever you stay.   
+* You just need your passport and a letter from wherever you stay - a letter from your landlord or hotel is sufficient.  
 * I would recommend only opening up a bank account when you arrive as an MYOB perk is that you have zero bank charges at ANZ.   
 
 # Living Expenses
