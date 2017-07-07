@@ -52,6 +52,8 @@ An expletive is a place holding word such as it, there, and what that fills a va
 
 [see Ch 9 of Keys to Great Writing Revised Expanded for more info](https://www.amazon.com/Keys-Great-Writing-Revised-Expanded/dp/1440345805)
 
+#### 
+
 #### References ####
 
 [Wiki](http://en.wikipedia.org/wiki/J_curve)  
