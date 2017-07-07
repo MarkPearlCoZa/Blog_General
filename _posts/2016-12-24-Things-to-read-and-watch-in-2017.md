@@ -22,7 +22,8 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [How will you measure your life - Clay Christensen](https://www.youtube.com/watch?v=tvos4nORf_Y)  
 - [The Power Paradox: How we gain and lose](https://www.youtube.com/watch?v=HS9VHBlYklc)  
 - [The danger of silence](https://www.ted.com/talks/clint_smith_the_danger_of_silence)  
-- [The power of vulnerability - Brene Brown](https://www.ted.com/talks/brene_brown_on_vulnerability)  
+- [The power of vulnerability - Brene Brown](https://www.ted.com/talks/brene_brown_on_vulnerability)    
+- [The power of empathy - Helen Riess](https://www.youtube.com/watch?v=baHrcC8B4WM)  
 
 #### Leadership
 
