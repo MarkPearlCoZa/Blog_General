@@ -23,6 +23,8 @@ category: Misc
 We spend $6500 per month for a family of 4
 Our biggest expense is housing, we pay $600 per month, typically you can get a place for between $550 & $650, but housing is tight and can be a challenge
 
+[Useful calculator for living expenses based on income](http://insights.nzherald.co.nz/article/rental-affordability/)  
+
 # Container / Bringing your stuff over
 
 > Should I bring my stuff over? Is it worth shipping major appliances and furniture? 
