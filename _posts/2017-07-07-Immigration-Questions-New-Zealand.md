@@ -33,6 +33,10 @@ Fridges etc are significantly more expensive in NZ, if you have stuff you would 
 
 > Do you have any recommendations for shipping companies and scheduling this stuff?
 
+We used Brytons (http://www.brytons.co.za/)
+
+We found they were fine, pretty much the same experience that everyone else had with shipping. One word of advice is be prepared on the day of them boxing things for all hell to break loose. They bring a crew in and they just do their own thing, no pointing out what you want packed and what you don't. My advice would be that you move everything you don't want packed/shipped into a locked room and you don't let them in that room until everything else is packed.
+
 # Car
 
 > What do cars cost?
