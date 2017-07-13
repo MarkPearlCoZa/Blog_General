@@ -12,3 +12,4 @@ Everybody on the team has different ideas on how to do things and those differen
 
 - [High costs of pair programming](http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/)   
 - Excerpt From: Brown, Simon. “Software Architecture for Developers : Volume 1.”  
+- [Pair Programming Illuminated](http://dl.acm.org/citation.cfm?id=548833)  
