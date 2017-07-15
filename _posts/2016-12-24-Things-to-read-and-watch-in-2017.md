@@ -47,12 +47,16 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8), [see notes](http://blog.markpearl.co.za/Managing-Manager-less-Processes-by-Fred-George)  
 - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)  
 
-#### Programmer Videos  
+#### Architecture
 
 - [Talking Arcitecture by Kevlin Henney](https://m.youtube.com/watch?feature=youtu.be&v=Y6B4jYBR4Y8)  
+- [Why we need architects and architecture by Rebecca Wirfs-Brock at YOW! 2011](https://www.youtube.com/watch?v=vF86yrydQwM)  
+- [Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)  
+
+#### Programmer Videos  
+
 - [All the little things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)  
 - [Seven ineffective coding habits of many programmers by Kevlin Henney at NDC2014](https://vimeo.com/97329157)  
-- [Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)  
 - [Code that fits your brain by Adam Tornhill at NDC2014](https://vimeo.com/97471514)  
 - [Functional Programming Patterns by Scott Wlaschin at NDC2014](https://vimeo.com/ndcconferences#/app/video/2311)  
 - [The deep synergy between testability and good design by Michael Feathers at NDC2010](https://www.youtube.com/watch?v=4cVZvoFGJTU)  
