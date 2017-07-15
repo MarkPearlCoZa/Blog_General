@@ -32,6 +32,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### General Development Videos
 
+- [Creating space to be awesome](https://www.infoq.com/presentations/science-people-management)  
 - [How to make your culture work with agile - Schneider Model](https://www.youtube.com/watch?v=wIbCcfxzc2A)  
 - [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
 - [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
@@ -41,7 +42,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Learning Velocity by Jeff Patton](https://www.youtube.com/watch?v=Ma2z9bDVjWM)   
 - [Integrated tests are a scam by J.B. Rainsberger](https://vimeo.com/80533536)  
 - [Software Craftmanship - Sandro Macuso](https://www.youtube.com/watch?v=9OhXqBlCmrM)  
-- [XP at 20 - Kent Beck](https://www.youtube.com/watch?v=cGuTmOUdFbo)
+- [XP at 20 - Kent Beck](https://www.youtube.com/watch?v=cGuTmOUdFbo)  
 - [Explaining Agile - Martin Fowler and Neal Ford](https://www.youtube.com/watch?v=GE6lbPLEAzc)  
 - [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8), [see notes](http://blog.markpearl.co.za/Managing-Manager-less-Processes-by-Fred-George)  
 - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)  
