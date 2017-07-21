@@ -83,6 +83,9 @@ Name the responsibility, not the thing. For example, if you think in terms of re
 
 Patterns provide a base for names. For technical level solutions use well known pattern names if they match with what you are using. These are the ubiquotous names for the industry.
 
+**Prag Pub Writers Quote**
+
+This is why really experienced developers often talk to each other using metaphors—the ambiguity and imagery in a metaphor allows them to communicate nuances better
 
 #### References ####
 
