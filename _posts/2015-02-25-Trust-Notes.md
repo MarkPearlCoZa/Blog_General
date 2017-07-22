@@ -17,6 +17,14 @@ category: Soft
 
 “Start becoming aware of what you tell people, and hear them as the promises that they are. It doesn’t matter if you’re using the words “I promise” — you’re still creating a social contract. Breaking your promise will always harm your relationship.”
 
+#### How to maintain trust
+
+* Be consistent, follow through with what you are saying you will do  
+* Maintain open access  
+* Don't keep secrets, that means don't tell people things and then demand they don't tell the person that you have told them  
+* Keep them in the loop, let them know what's going on etc.  
+* Trust them  
+
 #### References ####
 
 [The Secret Ingredient that makes teams better than others](http://ideas.ted.com/the-secret-ingredient-that-makes-some-teams-better-than-others/)  
