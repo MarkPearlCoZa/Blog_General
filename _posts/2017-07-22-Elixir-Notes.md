@@ -52,3 +52,16 @@ Anything that starts with : is an atom
 ~~~
 SomeModule.some_function(:some_atom)
 ~~~
+
+#### String Interpolation
+
+~~~
+name = "Mark"
+"Hello #{name}, how are you"
+~~~
+
+#### Print to screen
+
+~~~
+IO.puts "Hello world"
+~~~
