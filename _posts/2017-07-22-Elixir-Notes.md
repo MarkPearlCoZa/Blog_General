@@ -45,6 +45,14 @@ The <> symbol in Elixir is a string concatenation operator.
 
 The above snippet matches last_name with "Valim"
 
+#### Tenary
+
+Elixir doesn't have a tenary operator, but we can use something sorta similar
+
+~~~
+condition && trueValue || falseValue
+~~~
+
 #### Atoms
 
 Anything that starts with : is an atom
