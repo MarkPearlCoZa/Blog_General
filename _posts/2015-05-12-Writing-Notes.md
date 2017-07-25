@@ -52,7 +52,16 @@ An expletive is a place holding word such as it, there, and what that fills a va
 
 [see Ch 9 of Keys to Great Writing Revised Expanded for more info](https://www.amazon.com/Keys-Great-Writing-Revised-Expanded/dp/1440345805)
 
-#### 
+#### On Writing Well
+
+Week 1: Please read the Introduction, Chapter 6, "Purpose," and Chapter 11, "The Writing Process."
+
+Week 2: Chapters 8, 9, and 10: Organization, Support, and Coherence
+
+Week 3: Chapters 1, 2, and 3: Economy, Precision, and Action
+
+Week 4: Chapters 4, 5, and 7: Music, Personality, and Point of View
+
 
 #### References ####
 
