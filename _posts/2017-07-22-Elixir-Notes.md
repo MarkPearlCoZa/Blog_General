@@ -68,6 +68,43 @@ name = "Mark"
 "Hello #{name}, how are you"
 ~~~
 
+#### Anonymous Functions
+
+Functions can:  
+* be assigned to variables  
+* be passed around as variables  
+
+Anonymous functions have:  
+* No name  
+* No module  
+* created using arrow syntax fn ->  
+
+~~~
+max_balance = fn(amount) -> "Max: #{amount}" end
+~~~
+
+Invoking anon functions use .() syntax
+
+~~~
+max_balance.(500)
+~~~
+
+Anon functions can be split into multiple clauses using pattern matching
+
+~~~
+account_transaction = fn
+    (balance, amount, :deposit) -> balance + amount
+    (balance, amount, :withdrawl) -> balance - amount
+end
+~~~
+
+There is a shorthand for anon functions using the & symbol
+
+~~~
+deposit = fn(balance, amount) -> balance + amount end
+deposit = &(&1, &2)
+~~~
+
 #### Print to screen
 
 ~~~
