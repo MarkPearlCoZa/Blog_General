@@ -110,3 +110,9 @@ deposit = &(&1 + &2)
 ~~~
 IO.puts "Hello world"
 ~~~
+
+#### Map to tuple
+
+~~~
+@number_map Enum.into( Enum.zip( (0..20), ~w(zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty)), %{} )
+~~~
