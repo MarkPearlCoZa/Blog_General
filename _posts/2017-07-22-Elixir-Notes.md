@@ -102,7 +102,7 @@ There is a shorthand for anon functions using the & symbol
 
 ~~~
 deposit = fn(balance, amount) -> balance + amount end
-deposit = &(&1, &2)
+deposit = &(&1 + &2)
 ~~~
 
 #### Print to screen
