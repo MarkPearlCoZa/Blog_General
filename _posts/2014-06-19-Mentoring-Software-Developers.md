@@ -6,6 +6,8 @@ category: Misc
 tags: Career
 ---
 
+> Intellectual humility is a core part of mentoring and being mentored
+
 ### Making it intentional 
 
 Recently we started a mentoring programme - nothing rigid or too formal, but intentional.  
@@ -46,9 +48,8 @@ Mentoring is a professional developmental partnership. The mentor shares knowled
 * Overwhelm
 * Not sharing common moral / ethical grounding
 
-#
-
 #### Sources / Additional Reading ####
+[Mentoring Junior Engineers](https://www.youtube.com/watch?v=qAMJASlrPjM)   
 [The Secret Of Being A Great Mentor](http://www.skorks.com/2009/09/the-secret-of-being-a-great-mentor/)  
 [Seven tips on mentoring entry-level developers](http://www.techrepublic.com/blog/software-engineer/seven-tips-on-mentoring-entry-level-developers/#)  
 [Dreyfus Model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)  
