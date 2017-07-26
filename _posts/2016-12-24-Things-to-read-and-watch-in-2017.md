@@ -46,6 +46,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Explaining Agile - Martin Fowler and Neal Ford](https://www.youtube.com/watch?v=GE6lbPLEAzc)  
 - [Managing a managerless project - Fred George](https://www.youtube.com/watch?v=Zop0wTPrbk8), [see notes](http://blog.markpearl.co.za/Managing-Manager-less-Processes-by-Fred-George)  
 - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)  
+- [Rethinking the Developer Career Path - Randall Koutnik at The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs&index=14)  
 
 #### Architecture
 
