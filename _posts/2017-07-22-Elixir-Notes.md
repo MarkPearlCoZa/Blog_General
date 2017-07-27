@@ -105,6 +105,44 @@ deposit = fn(balance, amount) -> balance + amount end
 deposit = &(&1 + &2)
 ~~~
 
+#### Working with lists
+
+Cons operator is |, it is used to split a list into head and tail (remaining elements)
+
+~~~
+languages = ["Elixir", "JavaScript", "Ruby", "C#"]
+[first, second, third, fourth] = languages
+
+[head | tail] = languages
+[head | _ ] = languages
+~~~
+
+#### Recursion
+
+Below is an example of a recursive call on a collection...
+
+~~~
+defModule Language do
+    def print_list(head | tail) do
+        IO.puts head
+        print_list(tail)
+    end
+
+    def print_list([]) do
+    end
+end
+~~~
+
+#### Optional Parameters
+
+~~~
+defModule Examples do
+    def balance(transactions, options \\ [])
+        ...
+    end
+end
+~~~
+
 #### Print to screen
 
 ~~~
