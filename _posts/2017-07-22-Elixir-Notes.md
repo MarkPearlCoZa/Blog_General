@@ -143,6 +143,15 @@ defModule Examples do
 end
 ~~~
 
+~~~
+defmodule Printer do
+  def greet(name, options \\ []) do
+    greeting = options[:prefix] || "Hello"
+    ...
+  end
+end
+~~~
+
 #### Print to screen
 
 ~~~
