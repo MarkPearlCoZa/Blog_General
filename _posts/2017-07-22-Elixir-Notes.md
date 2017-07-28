@@ -161,5 +161,21 @@ IO.puts "Hello world"
 #### Map to tuple
 
 ~~~
-@number_map Enum.into( Enum.zip( (0..20), ~w(zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty)), %{} )
+@number_map Enum.into(Enum.zip( (0..20), ~w(zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty)), %{} )
 ~~~
+
+#### Get a element of a tuple
+
+~~~
+{:ok, "hello"} |> elem(1)   # returns hello
+~~~
+
+#### Map Examples
+
+~~~
+person = %{ "name" => "Brooke", "age" => 42 } # Creates a map
+
+Map.fetch(person, "name") # returns the tuple
+Map.fetch!(person, "name") # returns the value, not the tuple
+~~~
+
