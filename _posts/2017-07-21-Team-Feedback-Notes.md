@@ -29,3 +29,11 @@ Recently we had a session with our coach on team feedback. The following "models
 #### Resources
 
 [Better: Fearless Feedback for Software Teams - Erika Carlson](https://www.youtube.com/watch?v=RsfNS9HSWQs)  
+
+#### Books to read
+
+* Thanks for the feeback: the science and art of receiving feedback well by Douglas Stone & Sheila Heen  
+* The 5 keys to mindful communication by Gillis Chapman  
+* Crucial conversations by Kerry Patterson  
+* What we say matters: practicing nonviolent communication by Ike Lasater  
+
