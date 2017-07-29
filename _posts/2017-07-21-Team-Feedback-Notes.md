@@ -26,3 +26,6 @@ Recently we had a session with our coach on team feedback. The following "models
 
 <img class="img-responsive" alt="Team Success Factors" src="{{ site.url }}/assets/images/Team-Success-Factors.png">
 
+#### Resources
+
+[Better: Fearless Feedback for Software Teams - Erika Carlson](https://www.youtube.com/watch?v=RsfNS9HSWQs)  
