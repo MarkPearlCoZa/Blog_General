@@ -179,3 +179,16 @@ Map.fetch(person, "name") # returns the tuple
 Map.fetch!(person, "name") # returns the value, not the tuple
 ~~~
 
+#### For Loops
+
+~~~
+for count <- 1..(length(a) - 1) do
+  with {head, tail} <- Enum.split(a, count) do
+    [Enum.join(head, " "), Enum.join(tail, " ")]
+  end
+end
+~~~
+
+#### Naming Conventions
+
+* [Read naming conventions](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/pages/Naming%20Conventions.md)  

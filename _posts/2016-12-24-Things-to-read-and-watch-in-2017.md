@@ -35,10 +35,10 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Better: Fearless Feedback for Software Teams - Erika Carlson](https://www.youtube.com/watch?v=RsfNS9HSWQs)  
 - [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
 - [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
+- [Creating space to be awesome by Meri Williams](https://www.infoq.com/presentations/science-people-management)  
 
 #### General Development Videos
 
-- [Creating space to be awesome](https://www.infoq.com/presentations/science-people-management)  
 - [How to make your culture work with agile - Schneider Model](https://www.youtube.com/watch?v=wIbCcfxzc2A)  
 - [The rationale of Continous Delivery by Dave Farley](https://www.youtube.com/watch?v=nauFRW6gYjc&list=TLGG3nAqaM5nIukwMjAzMjAxNw)  
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
@@ -78,4 +78,5 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Discover to Deliver](http://www.discovertodeliver.com)  
 
 #### Articles
+
 - [The half life of code](https://www.sandimetz.com/blog/2017/6/1/the-half-life-of-code)  
