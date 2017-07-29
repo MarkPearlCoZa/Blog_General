@@ -18,3 +18,6 @@ Mentor's work in pairs to help challenge and grow their apprentice. It's inteniv
 Taking this approach has also given 8th Light a unique opportunity, they are able to take on extremely talented, intelligent people who do not have the necessary experience to get a junior developer job somewhere else and give them an opportunity to "change" careers. Most of the people I spoke to during the week had post graduate degrees in some other field than software engineering (Science, Maths, Social Science, etc). While they seem to be attracting really great candidates, a degree is not a requirement to join 8th Light's apprenticeship program, essentially what they look for is people with intellecutal humility; if you are willing to learn and put the hours in, they are generally willing to take you on.
 
 I hope to share some of the learnings in the coming months of how they grow their apprentices, but for now I just wanted to thank 8th Light for an amazing week! 8th Light is one of several companies where I have had an opportunity to be a [team tourist](http://blog.markpearl.co.za/Team-Tourism). 
+
+<img class="img-responsive" alt="Me at 8th Light" src="{{ site.url }}/assets/images/8th-Light.jpg">
+
