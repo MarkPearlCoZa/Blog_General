@@ -29,6 +29,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 - [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
 - [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
+- [The constant life of a tech lead - Patrick Kua](https://www.youtube.com/watch?v=9jd_vpcLK50)  
 
 #### Team Improvement
 
