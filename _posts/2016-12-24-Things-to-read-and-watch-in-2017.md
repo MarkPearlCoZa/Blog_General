@@ -30,12 +30,16 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Interview with Edgar Schein - Culture, Leadership & Humble Inquiry](https://www.youtube.com/watch?v=7MwebWXtKBs)  
 - [Edgar Schein - Humble Inquiry](https://www.youtube.com/watch?v=BOw0IDrKvuw)    
 
+#### Team Improvement
+
+- [Better: Fearless Feedback for Software Teams - Erika Carlson](https://www.youtube.com/watch?v=RsfNS9HSWQs)  
+- [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
+- [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
+
 #### General Development Videos
 
 - [Creating space to be awesome](https://www.infoq.com/presentations/science-people-management)  
 - [How to make your culture work with agile - Schneider Model](https://www.youtube.com/watch?v=wIbCcfxzc2A)  
-- [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
-- [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
 - [The rationale of Continous Delivery by Dave Farley](https://www.youtube.com/watch?v=nauFRW6gYjc&list=TLGG3nAqaM5nIukwMjAzMjAxNw)  
 - [Modern Agile by Joshua Keriesky at AgileNZ 2016](https://www.youtube.com/watch?v=rhCCxx0CXEc)   
 - [Lean from the Trenches by Henrik Kniberg](https://vimeo.com/52390115)  
