@@ -189,6 +189,11 @@ for count <- 1..(length(a) - 1) do
 end
 ~~~
 
+~~~
+ String.graphemes(s)
+|> Enum.with_index(1)
+~~~
+
 #### Naming Conventions
 
 * [Read naming conventions](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/pages/Naming%20Conventions.md)  
