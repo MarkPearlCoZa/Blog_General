@@ -194,6 +194,18 @@ end
 |> Enum.with_index(1)
 ~~~
 
+#### Public vs Private Functions
+
+~~~
+defp some_function do  # a private function
+...
+end
+
+def some_other_function do # a public function
+...
+end
+~~~
+
 #### Naming Conventions
 
 * [Read naming conventions](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/pages/Naming%20Conventions.md)  
