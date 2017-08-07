@@ -36,3 +36,6 @@ Tom Demarco on flow or "the zone" in Peopleware...
 Flow is a condition of deep, nearly meditative involvement. In this state, there is a gentle sense of euphoria, and one is largely unaware of the passage of time... There is no consciousness of effort; the work just seems to, well, flow... Not all work roles require that you attain a state of flow in order to be productive, but for anyone involved in engineering design, development, writing, or similar tasks, flow is a must. These are high-momentum tasks. It's only when you're in a flow that work goes well.
 ~~~
 
+## Chapter 3 - The Seven Synergistic Behaviors of Pair Programming
+
+
