@@ -48,6 +48,7 @@ Apprenticeship is a long term investment
 
 [8th Light Apprenticeship Checklist](http://dougbradbury.com/AgileAfrica.pdf)
 
+[Everyday Life and Learning with Jean Lave](https://www.youtube.com/watch?v=FAYs46icCFs)  
 [Growing and Apprenticeship Program by Dave Hooper](https://www.youtube.com/watch?v=dewCpjRXiHU)  
 [Slides on Developing Software Developers](https://www.slideshare.net/redsquirrel/developing-softwaredevelopers-14010658)  
 [Wikipedia on Apprenticeship](https://en.wikipedia.org/wiki/Apprenticeship)  

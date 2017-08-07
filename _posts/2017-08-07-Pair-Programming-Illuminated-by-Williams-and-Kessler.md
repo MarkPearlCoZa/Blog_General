@@ -38,4 +38,22 @@ Flow is a condition of deep, nearly meditative involvement. In this state, there
 
 ## Chapter 3 - The Seven Synergistic Behaviors of Pair Programming
 
+1. Pair Pressure, put positive pressure on each person to do their best  
+2. Pair Negotiation, arrive at the best solution together  
+3. Pair Courage, having a partner gives you courage to do things you wouldn't do on your own  
+4. Pair Reviews, you pick up defects earlier and don't miss the obvious  
+5. Pair Debugging, problems are resolved through the act of explaining them to another  
+6. Pair Learning, knowledge is constantly being passed between partners, from tool usage to programming language rules, to design  
+7. Pair Trust,  pairs begin to trust each other  
+
+## Chapter 4 - Overcoming Management REsistance ot Pair Programming  
+
+Managers need to know that pairing will help them achieve their objectives  
+
+What's in it for managers:
+* I want to complete my projects on time with high-quality code  
+* I want to reduce my risk of losing a key person  
+* I want my employees to be happy  
+* I want to reduce the amount of time it takes to train a new person  
+* I want my teams to work well together and to communicate more effectively and efficiently with each other  
 
