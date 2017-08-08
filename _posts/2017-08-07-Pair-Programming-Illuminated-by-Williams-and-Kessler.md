@@ -46,7 +46,7 @@ Flow is a condition of deep, nearly meditative involvement. In this state, there
 6. Pair Learning, knowledge is constantly being passed between partners, from tool usage to programming language rules, to design  
 7. Pair Trust,  pairs begin to trust each other  
 
-## Chapter 4 - Overcoming Management REsistance ot Pair Programming  
+## Chapter 4 - Overcoming Management Resistance to Pair Programming  
 
 Managers need to know that pairing will help them achieve their objectives  
 
@@ -57,3 +57,17 @@ What's in it for managers:
 * I want to reduce the amount of time it takes to train a new person  
 * I want my teams to work well together and to communicate more effectively and efficiently with each other  
 
+## Chapter 5 - Gaining support and acceptance from your peers
+
+Start small, get buy in with small groups and then re-evaluate once you have seen value
+Not too much else in this chapter
+
+## Chapter 6 - Transitioning to Pair Programming by Choice
+
+* Mentions a Pair Programming readiness survey
+
+Developers are more satisfied with using software development innovations if:  
+* they have increased choice in when to use that innovation  
+* they have decreased process control in how to use that innovation
+* their manager encouraged them to use the innovative technique
+* 
