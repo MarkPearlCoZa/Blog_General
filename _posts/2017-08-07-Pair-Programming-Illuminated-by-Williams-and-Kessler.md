@@ -83,4 +83,7 @@ Technique for adopting, get senior respected technical person to try it and get 
 * Concentration, some people struggle to concentrate and be creative when working with a partner
 * Disagreements, people disagree and it get's heated  
 * Rushing, sometimes having a pair can encourage you to rush to completion
-* Skill imbalances  
+* Skill imbalances, can be frustrating to work with someone slower than you are  
+* Maintenance required, sustained pairing needs coaching and encouragement from leaders
+
+
