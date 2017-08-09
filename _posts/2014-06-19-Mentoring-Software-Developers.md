@@ -14,6 +14,10 @@ Recently we started a mentoring programme - nothing rigid or too formal, but int
 In essence each person in the company has picked someone else in the company as a formal mentor and they have committed to meet at regular intervals. Formal developer mentoring is new to us and with that in mind we are still not exactly sure how it will work. For now we have committed to doing independent short experiments and then to get together as a company and share what worked and what hasn't.
 To help with the process here are a few notes we found from various sources regarding mentoring and what a developer mentor should do. (Credit goes to [Janco](https://twitter.com/jancowol) for compiling the majority of these items).
 
+### Pairing
+
+Get the mentee to do most of the driving, they learn more when they are typing things in, than when they are listening to the expert telling them what they are doing.  
+
 ### Johanna Rothmans Ideas on Mentoring 
 
 Mentoring is a professional developmental partnership. The mentor shares knowledge, skills, information & perspective. The aim is to foster personal and professional growth of someone else. 

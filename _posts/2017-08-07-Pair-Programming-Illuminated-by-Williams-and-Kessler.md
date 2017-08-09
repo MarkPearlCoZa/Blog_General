@@ -69,5 +69,18 @@ Not too much else in this chapter
 Developers are more satisfied with using software development innovations if:  
 * they have increased choice in when to use that innovation  
 * they have decreased process control in how to use that innovation
-* their manager encouraged them to use the innovative technique
-* 
+* their manager encouraged them to use the innovative technique (getting balance between "not forcing" and "not caring" is tough)  
+
+Technique for adopting, get senior respected technical person to try it and get them convinced this is the way to go. If they are convinced then get them to prepare a tutorial around it. Find early adopters to experiment. Evaluate and collect data. Propose organizational guidelines for use of technique (e.g. times to do it etc).  
+
+## Problem, Problems  
+
+* Dependency, you get used to it and it is hard working alone  
+* Scheduling, getting everyone's schedules to match can be a challenge  
+* The Ever Popular Expert, people want to pair with experts when they are doing certain things. Can reduce the benefit of learning / flattening out knowledge  
+* Co-location, people need to be together although there are tools to do remote pairing  
+* Noise & Facilities, pairs are noiser than solo's and require larger work areas than cubicles  
+* Concentration, some people struggle to concentrate and be creative when working with a partner
+* Disagreements, people disagree and it get's heated  
+* Rushing, sometimes having a pair can encourage you to rush to completion
+* Skill imbalances  
