@@ -73,7 +73,7 @@ Developers are more satisfied with using software development innovations if:
 
 Technique for adopting, get senior respected technical person to try it and get them convinced this is the way to go. If they are convinced then get them to prepare a tutorial around it. Find early adopters to experiment. Evaluate and collect data. Propose organizational guidelines for use of technique (e.g. times to do it etc).  
 
-## Problem, Problems  
+## Chapter 7 - Problem, Problems  
 
 * Dependency, you get used to it and it is hard working alone  
 * Scheduling, getting everyone's schedules to match can be a challenge  
@@ -86,4 +86,15 @@ Technique for adopting, get senior respected technical person to try it and get 
 * Skill imbalances, can be frustrating to work with someone slower than you are  
 * Maintenance required, sustained pairing needs coaching and encouragement from leaders
 
+## Chapter 8 - Workplace layout  
 
+* People need to be able to sit comfortably side by side  
+* If people need to move seat positions, then they possibly don't have a good view of the screen in the first place (you may want to address this)  
+* Big focus on layout not costing any more money (not sure if I agree with this)  
+* Kent Beck suggested Caves & Commons (big open area for working together, and small sound proof rooms for working on your own)  
+* Effective pairs communicate every minute, thus more noise  
+* Navigator should not point on the screen with their fingers cause it get paw prints on screen (use stylus instead)
+
+# Chapter 9 - Pair rotation
+
+* 
