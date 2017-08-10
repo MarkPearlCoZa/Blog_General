@@ -97,4 +97,8 @@ Technique for adopting, get senior respected technical person to try it and get 
 
 # Chapter 9 - Pair rotation
 
-* 
+* Concern that pair rotation creates generalist instead of specialists  
+* Pair rotation may seem rigid and prescribed, in actuality it often occurs casually without formal schedule  
+* Trust and strong bonds can be created as long as the rotating team is not larger than ten
+* It is dangerous to have all knowledge in any area of the system known to only one person  
+* Invaluable knowldege can be distributed through out the org just by people speaking to each other  
