@@ -5,7 +5,7 @@ tags:
 category: Misc
 ---
 
-
+** Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand **
 
 # Bank Account
 
@@ -50,6 +50,15 @@ Second hand cars are cheap in NZ. If you are happy with a japanese second hand c
 Finding a place to stay is a real challenge. There are many crappy New Zealand houses out there. Once you find a place to rent you need a deposit. We needed four weeks deposit to put down for a place which is a significant amount converted to rands and I had to spend time trying to find a place (it was $2400 = R24000 deposit).
 Generally they won't rent a place to you before you have seen it so it is unlikely you will be able to sign a rental before you arrive.
 
+## Where to live
+
+### North Shore
+
+A lot of South Africans settle on the North Shore, partly because it feels very similar to South Africa, partly because there are already a lot of South Africans in the area.  
+Travelling from North Shore to Town can take a while during peak hours, right now I travel to work before 6:00am and while there is traffic it flows. Coming back in the evenings, traffic starts to hit stand still around 5:00pm to 6:00pm.
+
+You can take the bus, there is an express lane for the bus. Be aware that parking near the bus stop is a pain as there is not enough parking near many of the bus stop areas.
+
 # Most difficult adjustments
 
 > What were your most difficult adjustments?  
@@ -57,6 +66,19 @@ Generally they won't rent a place to you before you have seen it so it is unlike
 Most difficult adjustments were not having extended family around. We had to be really intentional about "putting ourselves out there" and meeting new people, taking every opportunity to interact. We still miss having close friends but are working at it. Housing was the other big adjustment, the houses are different here and it took time adjusting to that.
 
 # Kids
+
+## Primary School (age 5 upwards)
+
+Kids can start school as soon as they turn 5 which is different from South Africa. If they turn 5 mid year, they start mid year in a bridging class  
+A lot of schools are zoned, which means if you live in the zone you can attend the school, if not you have to apply.  
+Schools are rated by deciles currently, although there is talk about adjusting this.   
+We've found very little difference between a decile 4 and a decile 6 school and were happy with our son at both. 
+We noticed at the decile 4 school the kids got a lot more sponsored "stuff".  
+School uniforms are expensive, $100 NZD per uniform. Not all schools have uniforms so it depends on where you settle. 
+
+## Intermediate
+
+Don't know much about this...
 
 ## High School
 
