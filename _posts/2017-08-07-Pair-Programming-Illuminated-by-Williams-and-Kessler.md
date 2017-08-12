@@ -95,10 +95,50 @@ Technique for adopting, get senior respected technical person to try it and get 
 * Effective pairs communicate every minute, thus more noise  
 * Navigator should not point on the screen with their fingers cause it get paw prints on screen (use stylus instead)
 
-# Chapter 9 - Pair rotation
+## Chapter 9 - Pair rotation
 
 * Concern that pair rotation creates generalist instead of specialists  
 * Pair rotation may seem rigid and prescribed, in actuality it often occurs casually without formal schedule  
 * Trust and strong bonds can be created as long as the rotating team is not larger than ten
 * It is dangerous to have all knowledge in any area of the system known to only one person  
 * Invaluable knowldege can be distributed through out the org just by people speaking to each other  
+* Pair rotation can be used for training - move from a pull to a push (previously people had to ask if they didn't know something)  
+* Suggestion to split a team between training and progress group, training group is aimed at helping people learning, progress group is aimed at progressing through the system  
+* Suggested formular for Training Effor = Assimilation Time * (1 + Mentoring Time), survey showed training effort can be reuced by a factor of two through the use of pair programming  
+
+## Chapter 10 - Other Issues to Consider
+
+* How are performance apparaisals done, suggested peer review getting several people in the team to give feedback  
+* Group size, pair programming scales in a way similar to the way solog programming scales, however pair rotation doesn't make sense if you rotate with 200 people. You never get to know things..., rather keep the group small 10-12 people. People can develop personal relationshps with teammates and the code can be understood by the entire group  
+* Quality assurance (code review, design review, etc.), these may still be useful but pairing alleviates the need for many of these things  
+* Functional & System Testing, pair in groups to test things  
+
+## Chapter 11 - Tips n Tricks  
+
+* Give the Driver some time to correct his/her own mistakes (a few seconds), especially with things like spelling etc.  
+* If your partner or you are bored, drive
+* If you are both bored, go for a brief walk and break the work up into small bits with frequent breaks  
+* Start each paring session with a 'negotiation', basically explain the things that bug you when pairing and find out the things that bug him when pairing  
+
+### Conflict in design
+
+* as the navigator sees issues, write them on cards and them come back to them later
+* try time boxed separations to explore different design approaches  
+* sometimes just ask for 5 minutes to show the direction, and after that if there is still disagreement you can try the alternative  
+* have someone (team leader / coach / manager) who resolves partner issues that cannot be resolved on their own  
+* use a coding standard, this eliminates partner disagreement due to style
+* test driven development works well with pairing
+* Talk a lot, Talk about what you are doing. It helps your partner understand your logic
+* If you don't understand what your partner is doing, then stop and ask. If you still don't understand, ask again. Ask until you understand
+* "Trust me, it'll work" is not an acceptable answer when you ask a question  
+
+~~~
+There needs to be balance between holdings one's ground and compromise. 
+Be assertive without being aggressive. 
+A partner who always gives in to his or her partner's suggestion, is doing a great disservice to the team.
+A partner who never gives in or never gives his or her partner's ideas a fair chance may as well not be pairing.
+Pair's that insist on debating every single issue are impeding progress.
+Choose your battles wisely; save them for issues that really matter
+Practice active listening by acknowledging, restating, and summarizing ideas and discussion points
+Be empathetic toward your partner
+~~e
