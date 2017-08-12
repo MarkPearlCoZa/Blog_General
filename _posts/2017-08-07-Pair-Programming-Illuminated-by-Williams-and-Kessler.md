@@ -149,11 +149,65 @@ I am combining these into smaller sections, this covers chapters 12 to 23
 
 ### Expert-Expert Pairing
 
+#### Benefits 
+
+* Get the most complex job done well
+* Move fast  
+* Experts bring different skills to the pair  
+* Leads to well functioning integration  
+* Experts learn from each other  
+
+#### Challenges
+
+* Management might feel it is overkill  
+* Sometimes challenge is strong opinions  
+
 ### Expert-Average Pairing
+
+Two types of average programmers... ones that are happy with being average, and others that are currently average but on their way to expert. 
+Pairing an expert with average programmer that has no intention of improving is not effective.  
+Pairing an expert with an average on the way up programmer is effective  
+Recommend to first learn how to pair before learning tools, language, etc. Learning both at the same time can be ineffective.  
+
+#### Benefits
+
+* To get the average job done well, while raising the skill level of one of the pair  
+* Average programmer has enough knowledge about the problem/tech/language to have a meaningful conversation  
+* Expert can share tips and tricks to moving faster  
+
+#### Challenges
+
+* When average programmer has no intention to learn is a waste of the expert programmers time  
+* Average programmer is not confident enough to ask the expert questions  
 
 ### Expert-Novice Pairing  
 
+To get the easier job done well, while training a novice programmer  
+
+#### Benefits  
+
+* Novice accelerates learning by watching how an expert does things  
+* The novice helps the expert do a better job just by being there and them having the explain what they are doing  
+* Slows the expert down, which sometimes can be beneficial in helping expert think things through properly  
+
+#### Challenges
+
+* Requires the expert being able to interact with the novice  
+* Expert needs attributes of patience, willingness to explain, and the ability to articulate clearly
+* Novice can be too intimitated to ask questions which dramatically impacts learning  
+
 ### Novice-Novice Pairing  
+
+To produce production code in a relatively noncomplex area of the project giving valuable experience to both programmers in the process  
+
+#### Benefits
+
+* Novices can help each other because they are working at the same pace  
+
+#### Challenges
+
+* Needs to be a coach available should the novices get stuck for too long  
+* Easy for novices to go down the wrong path and "waste" time  
 
 ### Extrovert-Extrovert Pairing  
 
