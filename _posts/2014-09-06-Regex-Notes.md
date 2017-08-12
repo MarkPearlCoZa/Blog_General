@@ -282,6 +282,12 @@ Match any word that isn't rock
 [Oracle Regex Pocket Reference](https://www.safaribooksonline.com/library/view/oracle-regular-expressions/0596006012/) - regex for DB's  
 [Regular Expression Part VI](http://www.lunametrics.com/blog/2006/10/04/regular-expressions-part-vi-or/)  
 
+#### Match first letter of each word
+
+~~~
+/\b(\w)/g    // Joe Blogs => J B
+~~~
+
 ### Books ###
 
 [Learn RegEx the Hard Way](http://regex.learncodethehardway.org/book/)  
