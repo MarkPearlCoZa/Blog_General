@@ -142,3 +142,32 @@ Choose your battles wisely; save them for issues that really matter
 Practice active listening by acknowledging, restating, and summarizing ideas and discussion points
 Be empathetic toward your partner
 ~~~
+
+## Pair Programming Partner Picking Principles
+
+I am combining these into smaller sections, this covers chapters 12 to 23
+
+### Expert-Expert Pairing
+
+### Expert-Average Pairing
+
+### Expert-Novice Pairing  
+
+### Novice-Novice Pairing  
+
+### Extrovert-Extrovert Pairing  
+
+### Extrovert-Introvert Pairing  
+
+### Introvert-Introvert Pairing  
+
+### Gender Nonissue  
+
+### Culture Nonissue  
+
+### The Professional Driver Problem  
+
+### My partner is a total loser and other excess ego problems  
+
+### My partner is SO smart and other too little ego problems  
+
