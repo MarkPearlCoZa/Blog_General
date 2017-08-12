@@ -2,7 +2,7 @@
 layout: post
 title: The Mob Member Mindset
 tags: Collaboration  
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+category: General
 ---
 The following was inspired by [Pair Programming Illuminated](http://blog.markpearl.co.za/Pair-Programming-Illuminated-by-Williams-and-Kessler)  
 
