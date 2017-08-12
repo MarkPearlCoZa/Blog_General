@@ -141,4 +141,4 @@ Pair's that insist on debating every single issue are impeding progress.
 Choose your battles wisely; save them for issues that really matter
 Practice active listening by acknowledging, restating, and summarizing ideas and discussion points
 Be empathetic toward your partner
-~~e
+~~~
