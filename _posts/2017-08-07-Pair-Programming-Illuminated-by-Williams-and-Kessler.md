@@ -211,7 +211,35 @@ To produce production code in a relatively noncomplex area of the project giving
 
 ### Extrovert-Extrovert Pairing  
 
+After long, thoughtful, constructive discussions, an excellent creative solution is created  
+
+#### Benefits
+
+* Often there will be lots of friendly banter
+* Often openly questions decisions
+
+#### Challenges
+
+* Can be loud and full of laughter which may destract others  
+* Easy to get side tracked into just general conversations  
+* Some extroverts just can't stop talking never getting to actual code  
+
 ### Extrovert-Introvert Pairing  
+
+To allow each partner to draw on his or her strengths and to improve upon his or her weaknesses  
+
+**A lot of programmers are introverts**
+
+#### Benefits
+
+* When balanced contribution can be a good experience  
+
+#### Challenges
+
+* Each partner must give up a little to learn to pair together.  
+* Extrovert must back off from talking all of the time
+* Introvert must learn to speak up about whatever issue is at hand  
+* Pairing will not work if both do not give a little  
 
 ### Introvert-Introvert Pairing  
 
