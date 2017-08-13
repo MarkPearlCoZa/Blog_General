@@ -243,6 +243,21 @@ To allow each partner to draw on his or her strengths and to improve upon his or
 
 ### Introvert-Introvert Pairing  
 
+Many programmers are introverted to some degree, there are no hard statistics on it but it is thought that the majority of programmers are of Meyers-Briggs personalit type INT (Keirsey 1998, Keirsey 2002)
+Introverts can be fairly quiet and private.
+Introverts are quick to listen and slow to speak.  
+Extroverts are quick to speak and slow to listen.  
+
+* Having two introverts solving a problem together can be really successful if you can overcome their natural tendency not to communicate with their partner.
+* The natural intensity of introverts makes interaction a low priority. 
+* Pairing an introvert with and introvert is a good way to start pair programming.  
+* Introverts may find pairing with an extrovert overwhelming or find it hard to get a word in.  
+
+#### Challenges
+
+* Introverts can be very poor communicators  
+* A lot of introverts would prefer to work on their own  
+
 ### Gender Nonissue  
 
 ### Culture Nonissue  
