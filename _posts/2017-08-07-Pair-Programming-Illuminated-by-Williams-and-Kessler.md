@@ -260,11 +260,26 @@ Extroverts are quick to speak and slow to listen.
 
 ### Gender Nonissue  
 
+Gender is not an issue. Challenges with pairing are based on personality types / flaws rather than gender.  
+The one exception is gender disrepect.  
+
 ### Culture Nonissue  
+
+Having pairs with different culrutal backgrounds is wonderful for building trust and communication within the team as long as there is communication the pair can succeed.
+Focus on how to communicate effectively, be aware of accents that make communication harder.  
 
 ### The Professional Driver Problem  
 
+Bad drivers:  
+* Do not give up control of the keyboard  
+* Unwilling to listen very much (or at all) to their partner
+
+Be aware that:
+* Some unconfident navigators may encourage their partner to stay by the keyboard all the time  
+
 ### My partner is a total loser and other excess ego problems  
+
+
 
 ### My partner is SO smart and other too little ego problems  
 
