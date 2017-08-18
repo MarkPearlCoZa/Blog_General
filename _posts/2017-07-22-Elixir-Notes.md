@@ -209,3 +209,48 @@ end
 #### Naming Conventions
 
 * [Read naming conventions](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/pages/Naming%20Conventions.md)  
+
+### Managing State
+
+#### Agents
+
+~~~
+defmodule ExampleState do
+    @name __MODULE__
+    def start_link() do
+        Agent.start_link(fn-> 1 end, @name)
+    end
+
+    def get_state() do
+        Agent.get(@name, fn(x)-> x end)
+    end
+
+    def some_def() do
+        case start_link do
+          {:ok, _}       -> some_def
+          {:error, _}    -> get_state
+        end
+    end
+end
+~~~
+
+Sometimes you want to have multiple state in a module, you can do this by...
+
+~~~
+defmodule ExampleState do
+    def start_link() do
+        Agent.start_link(fn-> 1 end, name:StateStore)
+    end
+
+    def get_state() do
+        Agent.get(StateStore, fn(x)-> x end)
+    end
+
+    def some_def() do
+        case start_link do
+          {:ok, _}       -> some_def
+          {:error, _}    -> get_state
+        end
+    end
+end
+~~~
