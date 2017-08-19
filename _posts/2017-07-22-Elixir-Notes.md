@@ -254,3 +254,21 @@ defmodule ExampleState do
     end
 end
 ~~~
+
+#### Skipping Tests
+
+~~~
+defmodule Api.Router.Test do
+  use ExUnit.Case, async: true
+  use Plug.Test
+
+  @tag :skip
+  test "authenticates requests" do
+    conn = conn(:get, "/api/pomodoro/fgsd73n")
+             |> put_req_header("cookie", "not a valid cookie")
+             |> Api.Router.call([])
+
+    assert conn.status == 401
+  end
+end
+~~~
