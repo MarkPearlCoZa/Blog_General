@@ -213,6 +213,13 @@ The below code square c to the power of 2
 c ** 2
 ~~~
 
+#### Check if object is a number, but exclude booleans
+
+~~~
+var s = "1";
+return isNaN(s = parseFloat(s)) ? false : true;
+~~~
+
 #### Performant way to check if number is odd
 
 ~~~
