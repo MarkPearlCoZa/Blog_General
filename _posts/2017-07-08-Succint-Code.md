@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Succint Code
+title: Succinct Code
 tags: 
 category: General
 ---
 
-Often the beauty of code is in it being succint without loosing it's meaning. 
+Often the beauty of code is in it being succinct without loosing it's meaning. 
 
 Compare the following two equivalent poems... see which one holds more beauty to you?
 
