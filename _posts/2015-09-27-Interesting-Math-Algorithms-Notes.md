@@ -56,7 +56,7 @@ const powerOf = (n, y) => {
 }
 ~~~
 
-#### Exponential Growth & Decay ####
+#### Exponential Growth & Decay 
 
 Assume Foo grew by 15% every year. Foo would be experiencing exponential growth. Exponential growth can be represented using the following equation :   
 
@@ -69,6 +69,19 @@ Assume Foo grew by 15% every year. Foo would be experiencing exponential growth.
 
 [Math Is Fun Explanation](http://www.mathsisfun.com/algebra/exponential-growth.html)  
 [Wiki Explanation](https://en.wikipedia.org/wiki/Exponential_decay)  
+
+#### Compounded Interest
+
+<img class='img-thumbnail' src="{{ site.url }}/assets/images/Math_Compound_Interest.png">
+
+where
+    P = future value  
+    C = initial deposit  
+    r = interest rate (expressed as a fraction: eg. 0.06)  
+    n = # of times per year interest is compounded  
+    t = number of years invested  
+
+[The compound interest equation](http://www.math.com/tables/general/interest.htm)
 
 ------------------------------------------------------------------------------------------------
 
