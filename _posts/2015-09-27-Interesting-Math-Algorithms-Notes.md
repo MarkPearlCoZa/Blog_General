@@ -81,7 +81,9 @@ where
     n = # of times per year interest is compounded  
     t = number of years invested  
 
-[The compound interest equation](http://www.math.com/tables/general/interest.htm)
+[The compound interest equation](http://www.math.com/tables/general/interest.htm)  
+
+[The relationship between exponential growth and compound interest](https://www.quora.com/What-is-the-relationship-between-compound-interest-and-exponential-growth)  
 
 ------------------------------------------------------------------------------------------------
 
