@@ -306,6 +306,12 @@ Using RegExp
 "This is a string value".match(new RegExp(key,'gi'));
 ~~~
 
+Replacing a string with regex
+
+~~~
+str.replace(/.*/, "replaceing text");
+~~~
+
 -------------------------------------------------------------------------------------------
 
 ### Object Oriented JavaScript ###

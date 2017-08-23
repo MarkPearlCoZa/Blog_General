@@ -39,3 +39,6 @@ Highly open individuals have a broad rather than narrow range of interests, are 
 
 * [Five factor model of personality](http://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0120.xml)  
 * [The five factor model explained](http://www.personalityresearch.org/bigfive.html)  
+* [personality and team performance](http://epdoc.utsp.utwente.nl/58072/1/personality_and_team_performance.pdf)
+
+* [a big five personality test](https://www.123test.com/personality-test/)  
