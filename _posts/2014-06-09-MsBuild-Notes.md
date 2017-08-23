@@ -13,7 +13,7 @@ File extension .build
 
 ~~~
 <?xml version="1.0" encoding="utf-8"?>  
-<project xmlns="http://schemas.microsoft.com/developers/msbuild/2003"  
+<project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"  
 	ToolsVersion="4.0">  
 </project> 
 ~~~
@@ -22,7 +22,7 @@ File extension .build
 
 ~~~
 <?xml version="1.0" encoding="utf-8"?>  
-<project xmlns="http://schemas.microsoft.com/developers/msbuild/2003"  
+<project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"  
 	ToolsVersion="4.0" 
 	DefaultTargets="TargetName">  
 </project>
