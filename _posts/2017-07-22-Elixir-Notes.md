@@ -277,3 +277,58 @@ defmodule Api.Router.Test do
   end
 end
 ~~~
+
+------------------------------------------------------------------------------------
+
+## Mix Tool
+
+Mix is a build tool
+
+#### Create a new project
+
+~~~
+mix new build
+~~~
+
+#### Run a function within a project
+
+Runs the  current_balance function in the budget model with the params 100, 200 and outputs the result to the screen
+
+~~~
+mix run -e "Budget.current_balance(100,200) |> IO.puts" 
+~~~
+
+### Difference between .ex files and .exs files
+
+.ex files
+* Generates production artifacts 
+* Examples: lib files  
+
+.esx files
+* Does not generate production artifacts  
+* Examples: configuration files, test files
+
+### Declaring dependencies
+
+Use mix.esx file to declare library dependencies 
+
+#### Defining dependencies
+
+~~~
+defmodule Budget.Mixfile do
+
+    ...
+    
+    defp deps do 
+        [{:httpoison, "~> 0.10.0"}, {:poison, "~> 3.0"}[
+    end
+end
+~~~
+
+#### Install dependencies
+
+~~~
+mix deps.get
+~~~
+
+
