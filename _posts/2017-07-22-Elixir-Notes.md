@@ -255,6 +255,11 @@ defmodule ExampleState do
 end
 ~~~
 
+#### Case vs Cond
+
+Use case to check multiple patterns
+Use cond to check multiple conditions
+
 #### Skipping Tests
 
 ~~~
