@@ -58,3 +58,4 @@ Mentoring is a professional developmental partnership. The mentor shares knowled
 [Seven tips on mentoring entry-level developers](http://www.techrepublic.com/blog/software-engineer/seven-tips-on-mentoring-entry-level-developers/#)  
 [Dreyfus Model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)  
 [The Religious Tradesmen, pages 217 onwards](https://archive.org/details/religioustrades00steegoog)  
+[Struggling to find great senior javascript developers? Mentorship is the answer](https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb)  
