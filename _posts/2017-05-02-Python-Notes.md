@@ -14,6 +14,18 @@ Python is interpreted language
 
 Python has two types of numbers, ints and floats
 
+Division returns a float
+
+~~~
+4 / 2 = 2.0
+~~~
+
+We can use integer division which requires a //
+
+~~~
+4 // 2 = 2
+~~~
+
 #### Variables
 
 ~~~
@@ -47,3 +59,25 @@ converting numbers to strings
 name_and_age = "Mark Pearl" + str(35)
 ~~~
 
+Strings are arrays
+
+~~~
+name = "hello_boy"
+name[0]             # Returns the first element from the string - h
+name[0:2]           # Slices name from 0 index to 2 index and returns he
+name[:2]            # Shorthand for slicing from 0 to 2
+name[2:]            # Shorthand for slicing from 2 to end of word
+~~~
+
+#### Classes
+
+~~~
+class ClassName:
+
+    def __init__(self, name):
+        self.name = name
+
+
+anObject = ClassName("this object")
+print(anObject.name)
+~~~
