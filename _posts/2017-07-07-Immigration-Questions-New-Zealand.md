@@ -119,3 +119,5 @@ We sold our house before we left. My guess is if you sold it while in NZ you wou
 - Food costs about double $800 per month  
 - Degree certified (R8000)  
 - English tests (R4000 per person)  
+
+[Here's a useful link to a fairly realistic budget](http://satonz.nz/thread/general-budgets/)  
