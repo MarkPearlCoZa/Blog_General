@@ -10,6 +10,15 @@ Python is interpreted language
 >>> means entering code into interpretor
 ~~~
 
+Python is white space specific
+
+#### Console
+
+~~~
+print("hello world")
+age = input("Enter your age")
+~~~
+
 #### Numbers
 
 Python has two types of numbers, ints and floats
@@ -67,6 +76,30 @@ name[0]             # Returns the first element from the string - h
 name[0:2]           # Slices name from 0 index to 2 index and returns he
 name[:2]            # Shorthand for slicing from 0 to 2
 name[2:]            # Shorthand for slicing from 2 to end of word
+~~~
+
+#### Conitionals
+
+~~~
+<       # Less than
+<=      # Less or equal to
+==      # Equal
+>=      # Greater or equal
+>       # Greater
+!=      # Not equal to
+~~~
+
+If statements
+
+~~~
+num = 4
+
+if num < 1:
+    doSomething()
+elif num < 5:
+    doSomethingMore()
+else:
+    doSomethingElse()
 ~~~
 
 #### Classes
