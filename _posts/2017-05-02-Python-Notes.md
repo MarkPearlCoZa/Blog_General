@@ -114,3 +114,14 @@ class ClassName:
 anObject = ClassName("this object")
 print(anObject.name)
 ~~~
+
+#### Lists & Dictionaries
+
+~~~
+my_list = ["one", "two", "three"]
+my_list.append("four")                  # one, two, three, four
+my_list.delete("four")                  # one, two, three
+del mylist(2)                           # one, two 
+~~~
+
+
