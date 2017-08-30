@@ -115,13 +115,43 @@ anObject = ClassName("this object")
 print(anObject.name)
 ~~~
 
-#### Lists & Dictionaries
+#### Lists 
 
 ~~~
+mixed_list = ["one", 2 , "three"]       # one, 2, three
 my_list = ["one", "two", "three"]
 my_list.append("four")                  # one, two, three, four
 my_list.delete("four")                  # one, two, three
 del mylist(2)                           # one, two 
 ~~~
 
+list equality requires each element in the list to be the same and the order to be the same
 
+~~~
+[1, 2, 3] == [3, 2, 1]      # return False
+[1, 2, 3] == [1, 2, 3]      # return True
+~~~
+
+Getting the average of an list of numbers
+
+~~~
+def find_average(array):
+    return sum(array) / len(array) if array else 0
+~~~
+
+#### Dictionaries
+
+~~~
+example_dict = {'key1':'value1', 'key2':'value2'}
+print(example_dict['key1'])                         # prints value1
+
+example_dict['key2'] = 'new value'                  
+print(example_dict['key2'])                         # prints new value
+del example_dict['key2']                            # deletes key value pair key2 from dictionary
+
+result = example_dict['unknown key']                # result gets value None
+if result:
+    print(result)
+else:
+    print("key does not exist")
+~~~
