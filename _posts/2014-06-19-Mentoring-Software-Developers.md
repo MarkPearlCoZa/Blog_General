@@ -60,3 +60,4 @@ Mentoring is a professional developmental partnership. The mentor shares knowled
 [The Religious Tradesmen, pages 217 onwards](https://archive.org/details/religioustrades00steegoog)  
 [Struggling to find great senior javascript developers? Mentorship is the answer](https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb)  
 [ThoughtBots Mentorship Handbook](https://github.com/thoughtbot/apprenticeship/blob/master/mentor-handbook.md)  
+[Mentoring & Giving Feedback at 8th Light](https://8thlight.com/blog/mike-jansen/2013/01/13/mentoring-and-giving-feedback.html)  
