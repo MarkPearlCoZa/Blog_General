@@ -154,4 +154,7 @@ if result:
     print(result)
 else:
     print("key does not exist")
+
+
+example_dict['new key'] = 'something new'           # adds a new key value pair to the dict
 ~~~
