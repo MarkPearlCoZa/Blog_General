@@ -52,6 +52,14 @@ Mentoring is a professional developmental partnership. The mentor shares knowled
 * Overwhelm
 * Not sharing common moral / ethical grounding
 
+#### You’re confusing teaching with managing
+
+The traditional career path is linear, which often means pushing top talent down a management track, supervising others. Leaders may notice that one of their people enjoys teaching others, and then assume that they’d enjoy managing others.
+Mentoring and managing might seem similar, but they’re entirely different skills. Management is really about getting work done through others, which makes it highly people-focused. Mentoring or instructing–especially when it comes to software development–is more about a knowledge-transfer of technical skills.
+Be careful not to mistake a technical expert who enjoys teaching for one who enjoys managing. Instead, offer your best senior engineers more than just one kind of leadership opportunity; carve out a separate path for technical experts to advance up the ranks based on how well they help their junior colleagues “skill up”–even if that doesn’t involve managing their work.
+
+[This is why your best developers keep leaving](https://www.fastcompany.com/40443084/this-is-why-your-best-developers-keep-quitting)  
+
 #### Sources / Additional Reading ####
 [Mentoring Junior Engineers](https://www.youtube.com/watch?v=qAMJASlrPjM)   
 [The Secret Of Being A Great Mentor](http://www.skorks.com/2009/09/the-secret-of-being-a-great-mentor/)  
