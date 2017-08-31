@@ -158,3 +158,16 @@ else:
 
 example_dict['new key'] = 'something new'           # adds a new key value pair to the dict
 ~~~
+
+Dictionary equality requires each element in the dictionary to be the same but does not require the order to be the same
+
+~~~
+dict_1 = {1:1, 2:2, 3:3, 4:4}
+dict_2 = {4:4, 3:3, 2:2, 1:1}
+dict_1 == dict2                                 # return true
+~~~
+
+~~~
+[1, 2, 3] == [3, 2, 1]      # return False
+[1, 2, 3] == [1, 2, 3]      # return True
+~~~
