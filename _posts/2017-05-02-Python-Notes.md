@@ -171,3 +171,9 @@ dict_1 == dict2                                 # return true
 [1, 2, 3] == [3, 2, 1]      # return False
 [1, 2, 3] == [1, 2, 3]      # return True
 ~~~
+
+#### Conditionals
+
+~~~
+return "A" if x > 1 else "B"
+~~~
