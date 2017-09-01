@@ -177,3 +177,5 @@ dict_1 == dict2                                 # return true
 ~~~
 return "A" if x > 1 else "B"
 ~~~
+
+#### Loops
