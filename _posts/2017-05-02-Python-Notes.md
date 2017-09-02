@@ -178,4 +178,25 @@ dict_1 == dict2                                 # return true
 return "A" if x > 1 else "B"
 ~~~
 
-#### Loops
+#### For Loops
+
+~~~
+for n in range(50):
+    ...
+~~~
+
+Looping through a dictionary
+
+~~~
+for key,item in dictionary.items():
+    ...
+~~~
+
+#### While Loops
+
+~~~
+while x != 3:
+    x = x + 1
+~~~
+
+
