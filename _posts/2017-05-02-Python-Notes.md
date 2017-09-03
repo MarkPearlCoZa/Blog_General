@@ -199,4 +199,29 @@ while x != 3:
     x = x + 1
 ~~~
 
+or
 
+~~~
+while (True):
+    if (x == 3): break
+~~~
+
+#### Object Orientation
+
+#### Classes
+
+Declaring a class with inheritance
+
+~~~
+class parent_class:
+	pass
+   
+class child_class(parent_class): 
+	pass
+~~~
+
+Instantiating a class
+
+~~~
+object = child_class()
+~~~
