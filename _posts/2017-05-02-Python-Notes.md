@@ -206,6 +206,23 @@ while (True):
     if (x == 3): break
 ~~~
 
+#### Functions
+
+~~~
+def function_name(param1):
+  ...
+  return ...
+~~~
+
+Main function - not required but a good pracice
+
+~~~
+def main():
+    ...
+
+main()
+~~~
+
 #### Object Orientation
 
 #### Classes

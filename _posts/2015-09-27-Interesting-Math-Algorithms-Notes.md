@@ -388,6 +388,12 @@ To get the root of a number - for instance the square root can be calculated as 
 let result = Math.pow(9, 1/2);
 ~~~
 
+or 
+
+~~~
+sqrt = n ** 0.5
+~~~
+
 You can apply the same approach to any root, the cubed root can be calculated as follows  
 
 ~~~
