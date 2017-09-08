@@ -78,6 +78,12 @@ name[:2]            # Shorthand for slicing from 0 to 2
 name[2:]            # Shorthand for slicing from 2 to end of word
 ~~~
 
+Reversing strings
+
+~~~
+'hello world'[::-1]     # Returns 'dlrow olleh'
+~~~
+
 #### Conitionals
 
 ~~~
