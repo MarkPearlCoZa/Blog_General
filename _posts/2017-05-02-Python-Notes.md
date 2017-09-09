@@ -255,3 +255,28 @@ Instantiating a class
 ~~~
 object = child_class()
 ~~~
+
+#### Writing with files
+
+~~~
+file_stream = open('file.txt', 'w')         # mode w overrites the existing file, a appends to an existing file
+file_stream.write("Write something"
+file_stream.close()
+~~~
+
+#### Reading from files
+
+~~~
+file_stream = open('file.txt', 'r')
+print(file_stream.readline())
+file_stream.close()
+~~~
+
+#### Exceptions
+
+~~~
+try:
+  schedule_file = open('schedule.txt', 'r')
+except FileNotFoundError as err:
+  print(err)
+~~~
