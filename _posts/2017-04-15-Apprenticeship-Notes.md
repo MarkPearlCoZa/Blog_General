@@ -53,3 +53,4 @@ Apprenticeship is a long term investment
 [Slides on Developing Software Developers](https://www.slideshare.net/redsquirrel/developing-softwaredevelopers-14010658)  
 [Wikipedia on Apprenticeship](https://en.wikipedia.org/wiki/Apprenticeship)  
 [The Modern Software Apprenticeship - Doug Bradbury](https://www.youtube.com/watch?v=ZKRghzP9H7M)  
+[Junior, Intern or Apprentice](http://josephmastey.com/apprenticeship/2017/05/06/intern-junior-or-apprentice/)  
