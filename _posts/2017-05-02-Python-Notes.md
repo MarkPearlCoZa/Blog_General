@@ -229,6 +229,13 @@ def main():
 main()
 ~~~
 
+#### Lambdas
+
+~~~
+f = lambda x, y: x + y
+f(1,2)                      # returns 3
+~~~
+
 #### Object Orientation
 
 #### Classes
