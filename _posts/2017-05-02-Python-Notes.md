@@ -84,6 +84,19 @@ Reversing strings
 'hello world'[::-1]     # Returns 'dlrow olleh'
 ~~~
 
+Filling space
+
+~~~
+"123".rjust(6,"0")  # 000123
+"123".ljust(6,"0")  # 123000
+~~~
+
+Converting case
+
+~~~
+"This is a message".upper()     # THIS IS A MESSAGE
+~~~
+
 #### Conitionals
 
 ~~~
@@ -280,3 +293,11 @@ try:
 except FileNotFoundError as err:
   print(err)
 ~~~
+
+#### Modules
+
+~~~
+pip install modulename
+~~~
+
+
