@@ -35,6 +35,12 @@ We can use integer division which requires a //
 4 // 2 = 2
 ~~~
 
+Make sure a number is within a range of 0 to 255
+
+~~~
+min(255, max(x, 0))
+~~~
+
 #### Variables
 
 ~~~
