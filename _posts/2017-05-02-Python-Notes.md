@@ -291,6 +291,13 @@ print(file_stream.readline())
 file_stream.close()
 ~~~
 
+#### Checking Types
+
+~~~
+number = 123
+if not isinstance(number, int) ...      # return true or false depending if the variable is an instance consumable of the function
+~~~
+
 #### Exceptions
 
 ~~~
