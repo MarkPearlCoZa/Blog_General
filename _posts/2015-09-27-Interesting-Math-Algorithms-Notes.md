@@ -291,6 +291,13 @@ def isPrime2(n):
     return True
 ~~~
 
+Or...
+
+~~~
+def isprime(n):
+    return n > 1 and all(n % i for i in xrange(2, n))
+~~~
+
 -------------------------------------------------------------------------------------------------
 
 ### Lowest Common Denominator / Greatest Common Denominator ###
