@@ -41,6 +41,13 @@ Make sure a number is within a range of 0 to 255
 min(255, max(x, 0))
 ~~~
 
+#### Range
+
+~~~
+range(10)               # 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+range(10,1,-1)          # 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+~~~
+
 #### Variables
 
 ~~~
