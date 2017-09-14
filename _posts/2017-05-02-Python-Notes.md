@@ -314,6 +314,14 @@ except FileNotFoundError as err:
   print(err)
 ~~~
 
+#### Regex
+
+~~~
+import re
+
+updatedsample = re.sub("regexpatter", "replacementtext", "sample")
+~~~
+
 #### Modules
 
 ~~~
