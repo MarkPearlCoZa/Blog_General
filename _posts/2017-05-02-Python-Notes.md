@@ -361,4 +361,14 @@ squared = list(map(lambda x: x**2, items))
 pip install modulename
 ~~~
 
+#### Counting
 
+~~~
+print collections.Counter(['a', 'b', 'c', 'a', 'b', 'b'])
+
+c = collections.Counter('abcdaab')
+for letter in 'abcde':
+    print '%s : %d' % (letter, c[letter])
+~~~
+
+[Read more](https://pymotw.com/2/collections/counter.html)
