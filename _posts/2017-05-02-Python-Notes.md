@@ -322,6 +322,21 @@ import re
 updatedsample = re.sub("regexpatter", "replacementtext", "sample")
 ~~~
 
+#### Sets
+
+~~~
+mylist = [1, 2, 3, 4, 1, 2, 3, 4]
+myset = set(mylist)                 # 1, 2, 3, 4
+back_to_list = list(myset)          # converts set to list
+~~~
+
+#### Map
+
+~~~
+items = [1, 2, 3, 4, 5]
+squared = list(map(lambda x: x**2, items))
+~~~
+
 #### Modules
 
 ~~~
