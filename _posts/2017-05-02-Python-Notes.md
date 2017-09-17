@@ -330,6 +330,16 @@ import re
 updatedsample = re.sub("regexpatter", "replacementtext", "sample")
 ~~~
 
+Find all matches in text
+
+~~~
+import re
+
+re.search('(?<=abc)def', 'abcdef')
+~~~
+
+[Read more](https://docs.python.org/2/library/re.html#re.RegexObject.search)  
+
 #### Sets
 
 ~~~
