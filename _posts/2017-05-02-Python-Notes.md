@@ -335,7 +335,7 @@ Find all matches in text
 ~~~
 import re
 
-re.search('(?<=abc)def', 'abcdef')
+re.findall('[a-z]', 'ab12cd')     # ['a', 'b', 'c', 'd']
 ~~~
 
 [Read more](https://docs.python.org/2/library/re.html#re.RegexObject.search)  
