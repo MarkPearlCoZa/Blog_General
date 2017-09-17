@@ -171,6 +171,14 @@ def find_average(array):
     return sum(array) / len(array) if array else 0
 ~~~
 
+Sorting lists
+
+~~~
+items = [1, 3, 2, 4]
+sorted_items = sorted(items)                            # 1, 2, 3, 4
+reverse_sorted_items = sorted(items, reverse = True)    # 4, 3, 2, 1
+~~~
+
 #### Dictionaries
 
 ~~~
