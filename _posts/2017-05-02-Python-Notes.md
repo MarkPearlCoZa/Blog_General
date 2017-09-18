@@ -372,3 +372,15 @@ for letter in 'abcde':
 ~~~
 
 [Read more](https://pymotw.com/2/collections/counter.html)
+
+#### Method Parameters
+
+Handle variable length method parameters
+
+~~~
+def doSomething(*multiple):
+  params = list(multiple)           # 1, 2, 3
+  return params
+
+doSomething(1, 2, 3)
+~~~
