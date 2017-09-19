@@ -218,6 +218,16 @@ dict_1 == dict2                                 # return true
 return "A" if x > 1 else "B"
 ~~~
 
+#### Enumerate
+
+~~~
+seasons = ['Spring', 'Summer', 'Fall', 'Winter']
+list(enumerate(seasons))
+[(0, 'Spring'), (1, 'Summer'), (2, 'Fall'), (3, 'Winter')]
+~~~
+
+[read more](https://docs.python.org/2/library/functions.html#enumerate)  
+
 #### For Loops
 
 ~~~
