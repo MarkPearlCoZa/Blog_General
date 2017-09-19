@@ -18,6 +18,10 @@ To help with the process here are a few notes we found from various sources rega
 
 Get the mentee to do most of the driving, they learn more when they are typing things in, than when they are listening to the expert telling them what they are doing.  
 
+### Breakable Toys
+
+[Read about the concept](http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)  
+
 ### Johanna Rothmans Ideas on Mentoring 
 
 Mentoring is a professional developmental partnership. The mentor shares knowledge, skills, information & perspective. The aim is to foster personal and professional growth of someone else. 
