@@ -261,6 +261,8 @@ Math.pow(25, 1/2) == 5
 
 -------------------------------------------------------------------------------------------------
 
+[see prime number sequence](https://oeis.org/A000040)  
+
 ### Calculating Prime ###
 
 When calculating primes you do not need to traverse every single number. You only need to check up to the sqrt of a number.
