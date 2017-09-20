@@ -74,3 +74,4 @@ Be careful not to mistake a technical expert who enjoys teaching for one who enj
 [ThoughtBots Mentorship Handbook](https://github.com/thoughtbot/apprenticeship/blob/master/mentor-handbook.md)  
 [Mentoring & Giving Feedback at 8th Light](https://8thlight.com/blog/mike-jansen/2013/01/13/mentoring-and-giving-feedback.html)  
 [How to mentor software developers by Daniel Irvine](https://dev.to/d_ir/how-to-mentor-developers)  
+[Mentoring & Apprenticeships for Software Engineers](http://mrdanadams.com/2012/mentoring-apprenticeship-software-engineers)  
