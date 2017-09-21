@@ -6,6 +6,7 @@ category: Tech
 ---
 
 Python is interpreted language
+
 ~~~
 >>> means entering code into interpretor
 ~~~
