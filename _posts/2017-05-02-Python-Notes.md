@@ -180,6 +180,13 @@ sorted_items = sorted(items)                            # 1, 2, 3, 4
 reverse_sorted_items = sorted(items, reverse = True)    # 4, 3, 2, 1
 ~~~
 
+Any
+
+~~~
+listitems = ['aa', 'bb', 'cc,' baa']
+any(item = 'baa' for item in listitems)                 # returns true
+~~~
+
 #### Dictionaries
 
 ~~~
