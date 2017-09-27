@@ -7,7 +7,7 @@ category: Tech
   
 #### Default Prefix Key  
   
-<C-b> or control b, we represent this as <P> going forward  
+C-b or control b, we represent this as <P> going forward  
   
 #### Create sessions  
 
