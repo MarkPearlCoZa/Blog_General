@@ -160,15 +160,15 @@ We sold our house before we left. My guess is if you sold it while in NZ you wou
 
 # Working at MYOB
 
-##  When will I get my salary?  
+>  When will I get my salary?  
 
-* Salary is paid monthly, around the 15th. 
+Salary is paid monthly, around the 15th. 
 
-##  What is the dress code at MYOB?  
+>  What is the dress code at MYOB?  
 
-* Dress code is casual, I wear Jeans and a TShirt, which is the norm. I would recommend stocking up on Jeans and Shirts before you leave, they are substantially more expensive in New Zealand as far as I can remember.
+Dress code is casual, I wear Jeans and a TShirt, which is the norm. I would recommend stocking up on Jeans and Shirts before you leave, they are substantially more expensive in New Zealand as far as I can remember.
 
-## Getting to the Office
+### Getting to the Office
  
 The MYOB Auckland office is located at 12 Normanby Rd, Mount Eden, Auckland 1024. It is relatively convenient to get to the office by public transportation. The closet train station is Mt Eden.
  
