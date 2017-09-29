@@ -7,6 +7,27 @@ category: Misc
 
 ** Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand **
 
+# Arrival in Auckland
+ 
+What to avoid bringing into New Zealand
+New Zealand has strict biosecurity procedures at the airports; fresh food, honey and dairy products are generally challenging to get through immigration. Following is a link that you might find useful - https://www.mpi.govt.nz/travel-and-recreation/arriving-in-new-zealand/.
+ 
+## Auckland Airport  
+
+At the arrival hall (level 1), you will be greeted with food outlets (more on Level 2), mobile providers, money changers, and car rental companies. Cabs and other public transportation are located outside the airport.
+ 
+## Getting from Airport to CBD
+
+There are many ways to travel from the Airport to Auckland CBD. The three popular options are Skybus (https://www.skybus.co.nz/), Airport Shuttle (https://www.supershuttle.co.nz), and Cab.
+ 
+The Skybus takes you from the airport to Auckland CBD; stopping at major landmarks along the way. It does not take you directly to your hotel / accommodation. This is generally a cheaper option if you are traveling alone, but it might be less cost effective if you have a group of two or more. It is less expensive if you booked your tickets for the Skybus online.
+ 
+Airport shuttle on the other hand takes you from airport to your accommodation. The single price for this service is more costly than Skybus, but might be more cost effective for group travels. Have a look at their website for prices and booking information.
+ 
+There are many cab companies that operate from the airport and can take you to Auckland CBD. Cabs are metered and metered costs are similar. However, if you booked your ride online via http://www.cheaptaxi.co.nz/booking/, rates are less expensive; this is just one of the many cab providers.
+
+# Living in Auckland
+
 ## Bank Account
 
 > I'll need to have a bank account open in NZ before I start work - should I (or can I even) get the ball rolling on that ahead of time?
