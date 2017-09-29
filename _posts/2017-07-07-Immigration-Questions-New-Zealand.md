@@ -5,7 +5,7 @@ tags:
 category: Misc
 ---
 
-** Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand **
+**Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand**
 
 # Arrival in Auckland
  
