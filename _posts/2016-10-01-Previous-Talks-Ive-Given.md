@@ -24,10 +24,10 @@ I've had the opportunity to speak in the following cities around the world...
 
 ### 2017
 
-- [MYOB Richmond Modern Day Apprentices](https://youtu.be/nWYn00ohNjM)  
+- [MYOB Richmond, Melbourne, Australia: topic "Modern Day Apprentices"](https://youtu.be/nWYn00ohNjM)  
 - AUT Lecture on Mob Programming, Auckland, New Zealand  
-- [DevConf 2017, Johannesburg, South Africa](https://www.youtube.com/watch?v=hJ5kdv28pgI)  
-- [Agile Auckland Meetup, Auckland, New Zealand](https://www.meetup.com/Agile-Auckland/events/237711745/)  
+- [DevConf 2017, Johannesburg, South Africa: topic "Mob Programming"](https://www.youtube.com/watch?v=hJ5kdv28pgI)  
+- [Agile Auckland Meetup, Auckland, New Zealand: topic "Mob Programming"](https://www.meetup.com/Agile-Auckland/events/237711745/)  
 - [Auckland .Net User Group Auckland, New Zealand: topic "Mob Programming"](https://www.youtube.com/watch?v=CBaHirLsvQk)  
 - Aconex Melbourne, Australia: topic "Mob Programming"  
 - [MYOB Melbourne, Australia: topic "Mob Programming"](https://youtu.be/ckTxWKtGrgQ)  
