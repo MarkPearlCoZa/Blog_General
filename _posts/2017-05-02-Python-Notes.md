@@ -187,7 +187,7 @@ listitems = ['aa', 'bb', 'cc,' baa']
 any(item = 'baa' for item in listitems)                 # returns true
 ~~~
 
-#### Dictionaries
+### Dictionaries
 
 ~~~
 example_dict = {'key1':'value1', 'key2':'value2'}
@@ -218,6 +218,16 @@ dict_1 == dict2                                 # return true
 ~~~
 [1, 2, 3] == [3, 2, 1]      # return False
 [1, 2, 3] == [1, 2, 3]      # return True
+~~~
+
+#### Copying Dictionaries
+
+~~~
+dict1 = {'1' : '1', '2':'2' }
+dict2 = {'3' : '3', '4':'4' }
+
+matches = dict1.copy()
+matches.update(dict2)
 ~~~
 
 #### Conditionals
@@ -329,6 +339,10 @@ file_stream.close()
 ~~~
 number = 123
 if not isinstance(number, int) ...      # return true or false depending if the variable is an instance consumable of the function
+isinstance("this is text", str) ...     # return true
+isinstance(True, bool) ...              # retrun true
+isinstance(True, int) ...               # !! return true, boolean is considered a sub instance of integer
+isinstance(2.4, float) ...              # return true
 ~~~
 
 #### Exceptions
