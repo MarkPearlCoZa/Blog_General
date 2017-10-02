@@ -68,6 +68,12 @@ import math
 math.ceil(1.23)
 ~~~
 
+importing specific methods from modules
+
+~~~
+from socket import gethostname as method_name           # calling method_name will execute gethostname method from socket
+~~~
+
 #### Strings
 
 single or double quotes indicate a string
