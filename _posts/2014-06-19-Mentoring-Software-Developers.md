@@ -75,3 +75,4 @@ Be careful not to mistake a technical expert who enjoys teaching for one who enj
 [Mentoring & Giving Feedback at 8th Light](https://8thlight.com/blog/mike-jansen/2013/01/13/mentoring-and-giving-feedback.html)  
 [How to mentor software developers by Daniel Irvine](https://dev.to/d_ir/how-to-mentor-developers)  
 [Mentoring & Apprenticeships for Software Engineers](http://mrdanadams.com/2012/mentoring-apprenticeship-software-engineers)  
+[4 tips for mentoring developers](https://dev.to/d_ir/4-tips-for-mentoring-developers-894)
