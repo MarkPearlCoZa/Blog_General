@@ -368,6 +368,15 @@ import re
 updatedsample = re.sub("regexpatter", "replacementtext", "sample")
 ~~~
 
+Another way to use regex
+
+~~~
+parm = "some string to search"
+regexpression = '(.*)\/(.*)'
+compiled = re.compile(regexpression)
+result = compiled.match(parm)
+~~~
+
 Find all matches in text
 
 ~~~
