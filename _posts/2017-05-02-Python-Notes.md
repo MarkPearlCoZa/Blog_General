@@ -74,6 +74,17 @@ importing specific methods from modules
 from socket import gethostname as method_name           # calling method_name will execute gethostname method from socket
 ~~~
 
+#### String Interpolation
+
+Python doesn't have string interpolation perse, but it does have something similar called format...
+
+~~~
+denominator = 123
+numerator = 456
+
+print("{a}/{b}".format(a = numerator, b = denominator))         # prints "456/123"
+~~~
+
 #### Strings
 
 single or double quotes indicate a string
