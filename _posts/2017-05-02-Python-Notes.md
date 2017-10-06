@@ -335,6 +335,17 @@ Instantiating a class
 object = child_class()
 ~~~
 
+#### Dynamic Objects
+
+~~~
+class TheObject:
+    pass
+
+def makeit():
+    dynamicObject = TheObject()
+    dynamicObject.someproperty = "this is dynamically set"
+~~~
+
 #### Writing with files
 
 ~~~
