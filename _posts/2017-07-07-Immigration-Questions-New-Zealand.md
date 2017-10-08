@@ -7,6 +7,38 @@ category: Misc
 
 **Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand**
 
+# Before you make the leap
+
+## How long did the process of emigrating take from conception to arrival?
+
+For us it was fairly quick. We got our work visa within 2 months of applying, and I was in Auckland within 5 months. There is a difference between getting a work visa and residency. If we were waiting for residency it would have taken a lot longer. It seems that the general pattern is that people get the work visa first, come over and work and apply for residency once in the country.
+
+## If you are offered a job, what availability is expected by the employers. 
+
+**Do they expect you to be available within a month for two? If so, is it better to start the process prior to looking for a job?**
+
+Generally they would like you as soon as possible. I believe it varies from employer to employer. For me my employer was patient and waited the few months it took.  
+
+I would recommend going the work visa route first... which means not starting the process until you have work.  
+
+## Can you update your application at a later stage to reflect that you have found work after submitting your EOI
+
+**I see that you are able to submit an expression of interest without having a job. Do you know if you can update your application at a later stage to reflect that you have found one? Would an application without a job prejudice a later application?**
+
+I don't believe you can. But I'm not sure. You can always re-submit but there may be charges for this. Again I'm not sure.
+
+## What about pets?
+
+**Did you take any pets with you? Is it feasible, on a single salary, to find a property around Auckland with a garden able to house them? (I don't mind a longer commute if it is further out).**
+
+I did not take pets. I believe it is expensive to get them over. It's also substantially harder to find rentals that allow you to take pets. Last I heard a rentals were costing $20 more per week for pets. But again I'm not sure because I didn't have one.
+
+## Do you use a consultant for immigrating
+
+**Do I recall correctly that you managed the process yourself and did not use a consultant/agent? Is this because you had a job offer quite early in the process. Do you know if it is advisable to use a consultant? They claim to provide better outcomes**
+
+We used a consultant to help us with the work visa. We did the residency visa application on our own. It was useful having someone show us what to fill in where. It's a cost vs. effort thing. If the cost is not a big factor I would go the consultant route. That said, it is possible to do it all on your own - just can be a little daunting.
+
 # Arrival in Auckland
  
 What to avoid bringing into New Zealand
