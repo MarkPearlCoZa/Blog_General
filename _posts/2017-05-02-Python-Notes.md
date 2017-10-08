@@ -277,6 +277,17 @@ for key,item in dictionary.items():
     ...
 ~~~
 
+Enumerating in pairs...
+
+~~~
+stuff = [1,2,3,4,5,6]
+for (a,b) in enumerate(stuff):
+    print(a)
+    print(b)
+
+# 0 1 1 2 2 3 3 4 4 5 5 6
+~~~
+
 #### While Loops
 
 ~~~
