@@ -33,6 +33,8 @@ I don't believe you can. But I'm not sure. You can always re-submit but there ma
 
 I did not take pets. I believe it is expensive to get them over. It's also substantially harder to find rentals that allow you to take pets. Last I heard a rentals were costing $20 more per week for pets. But again I'm not sure because I didn't have one.
 
+To summarise, there are places that takes pets - but they are few and far between.  
+
 ## Do you use a consultant for immigrating
 
 **Do I recall correctly that you managed the process yourself and did not use a consultant/agent? Is this because you had a job offer quite early in the process. Do you know if it is advisable to use a consultant? They claim to provide better outcomes**
