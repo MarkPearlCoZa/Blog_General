@@ -68,6 +68,23 @@ P-Space                             # Cycle through different pane arrangements
 P-x                                 # Close a pane
 ~~~
 
+### Tmuxinator
+
+~~~
+tmuxinator open development         # opens the default project configuration for tmuxinator
+tmuxinator development              # starts tmux with the development environment
+tmuxinator debug development        # displays the script that tmuxinator will use
+tmuxinator list                     # Lists all current projects.
+tmuxinator copy source destination  # Copies a project configuration.  
+tmuxinator implode                  # Deletes all current projects.  
+tmuxinator doctor                   # Looks for problems with the tmuxinator and system configuration.
+tmuxinator delete [name]            # Deletes the specified project.
+~~~
+
+default config files for tmuxinator are located at ~/.tmuxinator
+
+
+
 #### References  
 
 [Basic tmux tutorial](https://www.youtube.com/watch?v=BHhA_ZKjyxo)  
