@@ -83,7 +83,30 @@ tmuxinator delete [name]            # Deletes the specified project.
 
 default config files for tmuxinator are located at ~/.tmuxinator
 
+### Working with clipboard
 
+~~~
+P-[                                 # enters copy mode
+P-]                                 # pastes current buffer context
+P-=                                 # lists all paste buffers and pastese selected buffers contents
+~~~
+
+#### Copy mode movement keys
+
+~~~
+ctrl-b                              # move a page up
+ctrl-f                              # move a page down
+~~~
+
+#### Commands 
+
+~~~
+show-buffer                         # Displays current buffer contents
+capture-pane                        # Captures the selected panes visible contents to a new buffer
+list-buffers                        # Lists all pane buffers
+choose-buffer                       # Shows paste buffers and pastes contents of the one you select
+save-buffer [filename]              # Saves the buffers contents to a specific file
+~~~
 
 #### References  
 
