@@ -37,6 +37,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Patterns of Effective Teams by Dan North at Goto 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY&t=800s)  
 - [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
 - [Creating space to be awesome by Meri Williams](https://www.infoq.com/presentations/science-people-management)  
+- [Systems Thinking by Peter Senge](https://www.youtube.com/watch?v=su4dDeKQZ80)  
 
 #### General Development Videos
 
