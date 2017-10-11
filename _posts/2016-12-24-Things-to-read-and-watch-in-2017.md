@@ -70,6 +70,10 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [The case against TDD by Eric Smith at 8th Light University](https://www.youtube.com/watch?v=nRdn5k5jKyY)  
 - [The future of programming by Bret Victor](https://vimeo.com/71278954)  
 
+#### Collaboration
+
+- [Improv comedy will change your life](https://www.youtube.com/watch?v=LyxHujdRIpk&authuser=0)  
+
 #### Books
 
 - [Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019)  
