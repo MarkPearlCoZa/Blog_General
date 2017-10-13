@@ -508,6 +508,16 @@ list = [0,1,2,3,5,8,13, 13]
 count(list,{|item| item == 13})
 ~~~
 
+or
+
+~~~
+def max list, &block
+    list.max{|a,b| block.call(a,b)}
+end
+
+max(list){|a, b| a <=> b}
+~~~
+
 #### Check if block is given
 
 ~~~
@@ -521,6 +531,7 @@ end
 ~~~
 
 [Read blocks demystified](http://www.skorks.com/2013/04/ruby-ampersand-parameter-demystified/)  
+[Read about using blocks](https://www.tutorialspoint.com/ruby/ruby_blocks.htm)  
 
 -----------------------------------------------------------------------------------------------------------------------------
 
