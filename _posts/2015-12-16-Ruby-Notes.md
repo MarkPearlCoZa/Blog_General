@@ -110,6 +110,17 @@ text = "hello"
 text.chars() # ['h','e','l','l','o']
 ~~~
 
+#### Slicing
+
+~~~
+ array[index]                -> obj      or nil
+ array[start, length]        -> an_array or nil
+ array[range]                -> an_array or nil
+ array.slice(index)          -> obj      or nil
+ array.slice(start, length)  -> an_array or nil
+ array.slice(range)          -> an_array or nil
+~~~
+
 #### Checking variable is an array
 
 ~~~
