@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Four rules of simple design
-tags: Design
-category: Programming
+tags: Tech 
+category: Misc
 ---
 #### General Notes ####
 
