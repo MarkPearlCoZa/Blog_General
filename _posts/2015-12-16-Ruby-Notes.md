@@ -119,6 +119,7 @@ text.chars() # ['h','e','l','l','o']
  array.slice(index)          -> obj      or nil
  array.slice(start, length)  -> an_array or nil
  array.slice(range)          -> an_array or nil
+ array.take(n)               -> an_array
 ~~~
 
 #### Checking variable is an array
