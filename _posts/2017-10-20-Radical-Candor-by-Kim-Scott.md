@@ -37,4 +37,6 @@ Four things you can do
 
 Changing behavior is hard, pick one or two things you would like to change  
 
+#### References
 
+[Radical Candor Website](https://www.radicalcandor.com)  
