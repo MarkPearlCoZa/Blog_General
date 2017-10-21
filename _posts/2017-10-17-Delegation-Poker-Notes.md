@@ -15,3 +15,4 @@ We played the game, some notes on what we could do better:
 
 [Notes on delegation poker game](https://management30.com/practice/delegation-board/)  
 [Video on the roles](https://management30.com/practice/delegation-board/)  
+[Empowering People with Delegation Poker](https://medium.com/@markbarbs/empowering-people-with-delegation-poker-f0a1d637b74d)  
