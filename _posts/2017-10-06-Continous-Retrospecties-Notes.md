@@ -2,7 +2,7 @@
 layout: post
 title: Continous Retrospecties Notes
 tags: 
-category: General
+category: Process
 ---
 
 Email Linda Rising to get the power point of this talk
