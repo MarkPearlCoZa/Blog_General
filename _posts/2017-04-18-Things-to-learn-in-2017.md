@@ -14,6 +14,7 @@ In an effort to focus my learning around certain topics here's my list of tools 
 * Basic Python
 * Elixir
 * React
-* Tmux
+* Tmux  
+* Quick check  
 
 And go...
