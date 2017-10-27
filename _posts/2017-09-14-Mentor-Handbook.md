@@ -13,6 +13,16 @@ Purpose of mentoring is:
 * Foster networking and sharing of knowledge  
 * Assist with retention of high performing team members  
 
+
+Things to establish:  
+* What are the core things we are going to discuss each time we meet  
+* What, if any are the limits to the scope of the discussion  
+* How often we will meet  
+* How do we ensure that the mentees line manager is supportive  
+* When will we check if this is right for us  
+* What technical skills do I need to develop  
+
+
 The mentor is responsibile for facilitating the mentees learning and developing and raising the bar in relation to his/her potential. The mentor provides information, guidance, support, encouragement and constructive feedback.  
 
 Graduates will be in your team, their objective is to learn. 
