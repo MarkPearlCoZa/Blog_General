@@ -5,6 +5,16 @@ tags:
 category: Unpublished
 ---
 
+Purpose of mentoring is:  
+
+* Provide growth opportunities (either personal or professional)  
+* Support with career planning  
+* Build confidence and self-esteem  
+* Foster networking and sharing of knowledge  
+* Assist with retention of high performing team members  
+
+The mentor is responsibile for facilitating the mentees learning and developing and raising the bar in relation to his/her potential. The mentor provides information, guidance, support, encouragement and constructive feedback.  
+
 Graduates will be in your team, their objective is to learn. 
 Graduates will also attend the academy once every two weeks, they will get tasks they need to which will take up some of their day  
 They learn by doing stuff with you, and by deepening their knowledge of core principles. 
@@ -14,7 +24,6 @@ If they are spending all their time on delivery items they have the balance wron
 If they are spending all their time on academy work they have the balance wrong
 
 They should be spending one to two hours a day on those tasks. This should be done outside of core team time (meaning retrospectives, stand ups, opportunities to learn on the job)
-
 
 When they are working on a problem, let them get stuck for a while, but don't let them get stuck on something too long.
 The value is in finding problems that stretch them just enough so that they grow without overwhelming them
