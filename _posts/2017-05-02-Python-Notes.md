@@ -464,3 +464,7 @@ def doSomething(*multiple):
 
 doSomething(1, 2, 3)
 ~~~
+
+#### References
+
+- [Video - What does it take to be an expert in Python?](https://youtu.be/7lmCu8wz8ro)  
