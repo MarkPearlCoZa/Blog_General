@@ -13,6 +13,7 @@ I have found that speaking on things I have personal experience with leads to de
 
 I've had the opportunity to speak in the following cities around the world...  
 
+- Chicago, Illinois, USA
 - South Jordan, Utah, USA  
 - Melbourne, Australia  
 - Auckland, New Zealand
@@ -25,6 +26,9 @@ I've had the opportunity to speak in the following cities around the world...
 ### 2017
 
 - [MYOB Richmond, Melbourne, Australia: topic "Modern Day Apprentices"](https://youtu.be/nWYn00ohNjM)  
+- [MYOB Auckland, Auckland, New Zealand: topic 'Modern Day Apprenticeships & Software Craftsmanship"](https://www.meetup.com/MYOB-Auckland-Brown-Bags/events/242394804/)  
+- [8th Light University, Chicago, USA: 3 Years of Mob Programming](https://www.meetup.com/8th-light-university/events/24797329/)  
+- [Frontmatter Podcast - Mob Programming](https://leanpub.com/podcasts/frontmatter/mark-pearl-30-10-17)  
 - AUT Lecture on Mob Programming, Auckland, New Zealand  
 - [DevConf 2017, Johannesburg, South Africa: topic "Mob Programming"](https://www.youtube.com/watch?v=hJ5kdv28pgI)  
 - [Agile Auckland Meetup, Auckland, New Zealand: topic "Mob Programming"](https://www.meetup.com/Agile-Auckland/events/237711745/)  
