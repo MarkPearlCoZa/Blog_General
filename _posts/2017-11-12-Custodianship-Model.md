@@ -17,4 +17,12 @@ The custodian becomes the bottleneck. The team doing the contribution wants the 
 
 Having code inspections to check naming conventions are followed is useful as those contributing are not necessarily familiar with the style in the team.
 
+## Custodianship mindset
+
+What attributes do we need to have in place to be custodian ready in the custodian model of supporting a system.
+
+* Do the custodians have capacity for a member of the crew to pair with the contributing team for a day or two to help them get started  
+* Do the custodians have capacity to review the code  
+* Is there an example class that the contributors can use to check current naming conventions and code style  
+
 **Will add more info in the coming days...**
