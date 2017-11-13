@@ -26,3 +26,7 @@ What attributes do we need to have in place to be custodian ready in the custodi
 * Is there an example class that the contributors can use to check current naming conventions and code style  
 
 **Will add more info in the coming days...**
+
+#### References
+
+[See custodianship of code repositories](http://blog.markpearl.co.za/Custodianship-of-code-repositories)  
