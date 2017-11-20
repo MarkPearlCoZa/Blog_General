@@ -38,7 +38,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Continous Retrospectives by Linda Rising at Goto 2016](https://www.youtube.com/watch?v=kJBKYAVZf6o)  
 - [Creating space to be awesome by Meri Williams](https://www.infoq.com/presentations/science-people-management)  
 - [Systems Thinking by Peter Senge](https://www.youtube.com/watch?v=su4dDeKQZ80), [see notes](http://blog.markpearl.co.za/Systems-thinking-by-Peter-Senge)  
-- [5 Dysfunctions of a team by Patrick Lencioni](https://www.youtube.com/watch?v=w42Sfbh91vU)  
+- [5 Dysfunctions of a team by Patrick Lencioni](https://www.youtube.com/watch?v=w42Sfbh91vU), [see notes]()
 
 #### General Development Videos
 
