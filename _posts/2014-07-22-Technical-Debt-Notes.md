@@ -65,3 +65,4 @@ Everything (security, scalability, etc.) is a feature except for maintainability
 [Are bugs technical debt](http://programmers.stackexchange.com/questions/207060/are-bugs-part-of-technical-debt)  
 [The Technical Debt Trap by Doc Martin](http://blog.markpearl.co.za/The-Technical-Debt-Trap)   
 [Toward a Galvanizing Definition of Technical Debt](https://michaelfeathers.silvrback.com/toward-a-galvanizing-definition-of-technical-debt)  
+[Technical Debt Wheel of Fortune](https://goodenoughsoftware.net/2016/11/30/wheel-of-technical-debt/)  
