@@ -5,17 +5,17 @@ tags: People Conflict
 category: Soft
 ---
 
-### Conflict Resolution Matrix ###
+### Conflict Resolution Matrix 
 
 <img class="img-responsive" alt="Conflict Resolution Grid" src="{{ site.url }}/assets/images/Conflict-Resolution-Matrix.png">
 
-#### Tortoise - Withdrawing ####
+#### Tortoise - Withdrawing 
 
 Low value on goal, low value on relationship.
 
 You don't value the outcome, you also don't value the relationship with the person. You withdraw from the conflict.
 
-#### Shark - Forcing ####
+#### Shark - Forcing 
 
 High value on goal, low value on relationship.
 
@@ -23,18 +23,20 @@ You see high value on the goal, but low value on relationship. This may be appro
 
 i.e. bad service in a shop.  
 
-#### Teddy - Smoothing ####
+#### Teddy - Smoothing 
 
 Low value on goal, high value on relationship.
 
 The outcome isn't important, the relationship is more important.
 
-#### Fox - Compromising  ####
+#### Fox - Compromising  
 
 Moderate value on goal, moderate value on relationship.
 
-#### Owl - Problem Solving ####
+#### Owl - Problem Solving 
 
 High value on goal, high value on relationship.
 
+### References
 
+[Helping teams deal with conflict](http://nomad8.com/helping-teams-deal-with-conflict/)  
