@@ -106,3 +106,4 @@ category: Soft
 
 [Coaching Agile Teams Book](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
 [5 levels of conflict](https://dzone.com/articles/agile-managing-conflict)  
+[Want less conflict? Do nothing](https://vimeo.com/243801708)  
