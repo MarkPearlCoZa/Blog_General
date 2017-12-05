@@ -29,6 +29,18 @@ category: Soft
 3. Defensiveness  
 4. Stonewalling  
 
+## Reducing the feedback loop
+
+"The health of an organization is measured by the lag time between when you feel it and discuss it" - Josepth Grenny
+
+## Psychological Safe Meetings
+
+* Encourage everyone to contribute  
+* List to one another  
+* Review / repeat peoples points  
+* Avoid disrupting or interupting  
+* Be curious, caring and non-judgemental  
+
 #### References
 
 * [High Performance vs Psychological Safety by Joshua Kerievsky](https://vimeo.com/242220757)  
