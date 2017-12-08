@@ -25,3 +25,8 @@ I would like to...
 * Have a job where I can put my best 8 hours
 * Family is important and so having my evenings / time to spend with my family is important - 
 * Feel connected to a group where people are working together to create something  
+
+
+Things to do for next time...  
+* Figure out cost of delays
+* Figure out the business model behind the systems  
