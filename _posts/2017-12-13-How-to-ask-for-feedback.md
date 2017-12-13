@@ -21,6 +21,8 @@ Today I want to share some tips about what to get feedback on...
 
 Often people will tell you that they don't have any big issues... if someone tells you this, ask them for a small thing... everyone has something and the small things make the difference between good and great! 
 
+The final tip I want to share today is to ask these questions reguarly. You will find with many people the first couple times you ask them these questions they will tell you everything is fine. Often it isn't, they just don't trust you enough to get to the important stuff. If you work with someone daily it may be worth going through this with them every few weeks. You will find after a couple of times of giving you nothing they eventually start to share the real issues. At which point you can start moving the collaboration to the next level.
+
 #### References
 
 [Your employees want the negative feedback you hate to give](https://hbr.org/2014/01/your-employees-want-the-negative-feedback-you-hate-to-give)  
