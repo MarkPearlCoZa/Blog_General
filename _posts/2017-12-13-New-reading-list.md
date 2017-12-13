@@ -7,6 +7,7 @@ category: General
 
 Some books I want to read in the next few months...  
 
+* [Out of crisis by Demming](https://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/B000ZKEE84)  
 * Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy  
 * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom DeMarco (Broadway, 2002)](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)  
 * [Driving Fear out of the workplace](https://www.amazon.com/Driving-Fear-Out-Workplace-High-Performance/dp/0787939684) 
