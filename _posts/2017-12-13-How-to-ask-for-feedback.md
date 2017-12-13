@@ -18,3 +18,7 @@ Today I want to share some tips about what to get feedback on...
 3. Ask are there any gaps in your interactions that they feel you should focus on
 
 Often people will tell you that they don't have any big issues... if someone tells you this, ask them for a small thing... everyone has something! 
+
+#### References
+
+[Your employees want the negative feedback you hate to give](https://hbr.org/2014/01/your-employees-want-the-negative-feedback-you-hate-to-give)  
