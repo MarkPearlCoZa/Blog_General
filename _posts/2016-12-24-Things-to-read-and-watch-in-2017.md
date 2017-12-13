@@ -41,6 +41,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Systems Thinking by Peter Senge](https://www.youtube.com/watch?v=su4dDeKQZ80), [see notes](http://blog.markpearl.co.za/Systems-thinking-by-Peter-Senge)  
 - [5 Dysfunctions of a team by Patrick Lencioni](https://www.youtube.com/watch?v=w42Sfbh91vU), [see notes](http://blog.markpearl.co.za/5-dysfunctions-of-a-team-notes)  
 - [Psychological Safety & High Performance by Joshua Kerievsky](https://vimeo.com/242220757)  
+- [The Trick To Surviving A High-Stakes, High-Pressure Job? Try A Checklist](https://www.npr.org/2017/10/30/559996276/the-trick-to-surviving-a-high-stakes-high-pressure-job-try-a-checklist)  
 
 #### General Development Videos
 
