@@ -41,6 +41,18 @@ Take a drive along the stunning Awhitu Peninsula and climb the 120 stairs of the
 
 Classed as the number one most significant historical site in New Zealand, Otuatua Stonefields will transport you into another peaceful world—and yet it’s just minutes from from the hustle and bustle of city life. Circa 1300, there are three different walks to choose from. Also a site of contention, there is a barn with information about land rights that is free and worth checking out.
 
+## Raglan Beaches
+
+http://raglan.net.nz/things-to-see-do/raglan-beaches/
+
+## Hike on Rangitoto 
+
+Take fullers ferry to Rangitoto
+
+## Ninety mile beach
+
+Go to Ninety mile beach
+
 #### References  
 
 [30 of the best free things to do in Auckland](https://www.theurbanlist.com/auckland/a-list/30-of-the-best-free-things-to-do-in-auckland)  
