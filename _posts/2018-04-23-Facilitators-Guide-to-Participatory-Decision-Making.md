@@ -54,3 +54,25 @@ This whole chapter is great and worth a read.
 
 <img class="img-responsive" alt="two mind sets for problem solving" src="{{ site.url }}/assets/images/Two-mindsets-for-problem-solving.png">
 
+## Inclusive Solutions in Real Life 
+
+Examples case studies that you can use to stimulate conversations
+
+## Creative Reframing  
+
+<img class="img-responsive" alt="creative reframing" src="{{ site.url }}/assets/images/Creative-Reframing.png">
+
+## Facilitating in the divergent zone
+
+Starting postions - technique perfect to begin dealing with a contentious issue – especially when the conflict is fueled by many opposing perspectives
+
+Most groups will go along with almost anything a facilitator suggests in the Divergent Zone. For one thing, people generally appreciate the chance to talk. For another, most members are reluctant (at this stage) to challenge the facilitator. However, this compliance can be deceptive. Superficial or pat activities may get everyone talking – but most people will know, when the exercise is done, that they've just had a “fast food experience.”
+
+## Facilitating in the graon zone  
+
+Structured activities are directive, they're designed to let people follow clear procedures, and they pull for sincerity, earnestness and relationship building. All these characteristics can ground a group whose communication is poor.
+
+Those qualities can calm a troubled group and keep it focused – but getting agreement to do the activity is another matter. In the Groan Zone, when trust is low and tensions run high, everyone's ideas are easily misinterpreted – and yours will be too. You might be seen as pushing the group into feelings they don't want to share. Or as manipulating the group in the direction of your own secret biases. Or someone may simply think you're a control freak.
+
+So if you propose a structured activity in the Groan Zone, keep in mind that your role is to help, not to be “right.” Be patient, be tolerant, be flexible; don't be attached to what you suggest. Honor objections, and ask for suggestions – that's how to install a structured activity in this phase of work.
+
