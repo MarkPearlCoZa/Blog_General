@@ -5,6 +5,10 @@ tags:
 category: Media
 ---
 
+## Summary
+
+Possibly one of the best books I've read for understanding how to get teams to communicate effectively together. Hands on, easy to understand. This is a must read.
+
 ## Chartwriting Techniques
 
 ### Why use charts
