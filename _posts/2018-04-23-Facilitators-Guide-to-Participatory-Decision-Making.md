@@ -76,3 +76,11 @@ Those qualities can calm a troubled group and keep it focused – but getting ag
 
 So if you propose a structured activity in the Groan Zone, keep in mind that your role is to help, not to be “right.” Be patient, be tolerant, be flexible; don't be attached to what you suggest. Honor objections, and ask for suggestions – that's how to install a structured activity in this phase of work.
 
+## Facilitating the the convergent zone
+
+Convergent Zone spend much time engaged in structured thinking. The truth is the opposite. Convergent discussions are largely self-managing. For many facilitators, the hardest part of working in the Convergent Zone is learning to pick up the markers, face the flipchart, and otherwise stay out of the group's way!
+
+## Teaching a Group about Group Dynamics
+
+<img class="img-responsive" alt="Gradient of Agreement" src="{{ site.url }}/assets/images/Gradient-of-Agreement.png">
+
