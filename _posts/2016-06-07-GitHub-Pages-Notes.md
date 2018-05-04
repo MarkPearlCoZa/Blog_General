@@ -17,6 +17,8 @@ git subtree push --prefix docs origin gh-pages // Replace 'docs' by your folder 
 
 #### Querying Issues from PostMan
 
+"https://api.github.com/repos/<repo-owner>/<repo-name>/issues"
+
 If you have 2FA enabled, add the following header with your current 2FA code
 
 X-GitHub-OTP
