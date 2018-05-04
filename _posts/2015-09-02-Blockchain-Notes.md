@@ -5,5 +5,6 @@ tags:
 category: Tech
 ---
 
-#### References ####
-[The complete beginners guide to blockchain technology](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)  
+#### References
+
+[The complete beginners guide to blockchain technology](https://totalcrypto.io/blockstrap-beginner-course-blockchain/)  
