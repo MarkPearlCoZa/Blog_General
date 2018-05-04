@@ -23,5 +23,9 @@ If you have 2FA enabled, add the following header with your current 2FA code
 
 X-GitHub-OTP
 
+Increase number of items in page response
+
+per_page=100000
+
 #### References ####
 
