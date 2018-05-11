@@ -2,7 +2,7 @@
 layout: post
 title: Mob Programming Industry Survey Results 2017
 tags: 
-category: Unpublished
+category: Misc
 ---
 
 In 2017 over a two month period I hosted a Online Mob Programming Survey with the aim to get a wider community perspective on Mob Programming. 
