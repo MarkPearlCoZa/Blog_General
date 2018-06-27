@@ -23,11 +23,9 @@ The post then takes an interesting turn, Johannes says... "Only when he (Uncle B
 
 ### Being Non-Judgemental & Discerning
 
-Why am I blogging about this? I've recently spent some time trying to understand the concept of psychological safety in a team space. One of the ingrediants around creating psychological safety is to not be judgemental. 
+Why am I blogging about this? I've recently spent some time trying to understand the concept of psychological safety in a team space. One of the ingrediants around creating psychological safety is to not be judgemental. I've always wondered what this meant. Being able to judge whether something is good or not seemed useful - good code or bad code, good action or bad action and so on...
 
-I've always wondered what this meant. Being able to judge whether something is good or not seemed useful - good code / bad code, good action / bad action etc. 
-
-If being non-judgemental is important in creating high performing teams, does it mean we loose the ability to tell good from bad?
+If being non-judgemental is important in creating psychological safety, does it mean we loose the ability to tell good from bad?
 
 It wasn't until I came across [post by Raj Raghunathan titled Don't be Judgmental, Be Discerning](https://www.psychologytoday.com/us/blog/sapient-nature/201105/dont-be-judgmental-be-discerning) that the penny seemed to dropped for me. 
 
