@@ -11,7 +11,7 @@ I can't remember if we ever did get back together to review how the first experi
 
 In the next few months I would like to document so of the learning's I've had around software mentorship. I want to do this to provide a "thinking pad" to bounce ideas off others and to gain insights into where my thinking can be enhanced.
 
-## Two forms of mentorship 
+## Mentorship is a loaded word  
 
 The word "mentorship" is a loaded word, it means different things in different contexts to different people. I've seen software mentorship takes on two main forms:
 
