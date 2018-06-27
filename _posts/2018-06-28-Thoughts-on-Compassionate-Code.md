@@ -31,7 +31,7 @@ It wasn't until I came across [post by Raj Raghunathan titled Don't be Judgmenta
 
 Compare this to being judgemental where dirty code == bad programmer == bad person.
 
-### My Conclusion 
+### My Closing Thoughts
 
 While I have read Johannes's points around the challenges he has had with working with others and promoting clean code I don't believe it is because the concept of clean code is a bad one. I worry that in taking offense to Uncle Bob's political views Johannes has made the leap to taking offense to anything Uncle Bob... I worry he's moved across dimensions, it feels like it's moved from being discerning to being judgemental. 
 
