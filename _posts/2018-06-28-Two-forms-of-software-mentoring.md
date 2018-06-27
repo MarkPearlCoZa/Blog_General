@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two forms of mentoring
+title: Two forms of software mentoring
 tags: Mentoring
 category: General
 ---
