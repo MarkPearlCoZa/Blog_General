@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-I recently read a post by Johannes Brodwall titled ["Forget Clean Code, let's embrace Compassionate Code"](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/). I recommend it as a read, not because I necessarily agree with his points but because it made me think, and thinking is good!
+I recently read a post by Johannes Brodwall titled ["Forget Clean Code, let's embrace Compassionate Code"](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/). I recommend it as a read because it made me think, and thinking is good!
 
 First off, for those not familiar with the concept of Clean Code it was popularized and promoted by Robert C Martin (aka Uncle Bob). When I read Johannes's post these are the key points that came across:
 
