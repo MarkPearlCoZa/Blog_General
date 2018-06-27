@@ -33,4 +33,6 @@ Being discerning means you keep the difference on just the one dimension, it mea
 
 Compare this to being judgemental where dirty code == bad programmer == bad person.
 
+While I have read Johannes's points around the challenges he has had with working with others and promoting clean code I don't believe it is because the concept of clean code is a bad one. I worry that in taking offense to Uncle Bob's political views he's made the leap to taking offense to anything Uncle Bob... he's moved across dimensions, it's moved from being discerning to being judgemental. which I don't believe that helps anyone.
+
 
