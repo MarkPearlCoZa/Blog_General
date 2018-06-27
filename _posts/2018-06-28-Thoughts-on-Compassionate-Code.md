@@ -37,4 +37,4 @@ While I have read Johannes's points around the challenges he has had with workin
 
 In reflecting on the experiences he has shared it has just highlighted to me how as a industry we need to have balance - software is a team sport, the people element is key to being effective. Investing time in knowing how to write clean code is valuable... investing time in learning how to work with people is also valuable.
 
-I agree with Johannes's notion to embrace compassionate code. I really hope that at the same time it's clean.
+So I agree with Johannes's call to embrace compassionate code. I also really hope that the code is clean.
