@@ -9,7 +9,7 @@ The note said that "formal mentorship" was new to us (the us being the small con
 
 I can't remember if we ever did get back together to review how the first experiment with mentorship went. What I do remember is the experience I had with my mentor---the activity was deeply fulfilling. We met weekly and discussed all things software related. Those conversations have helped shape many of the views I have today on how to make software. Since that initial mentorship experience I've had several opportunities to set up software mentoring relationships. 
 
-In the next few months I would like to document so of the learning's I've had around software mentorship. I want to do this to provide a "thinking pad" to bounce ideas off others and to gain insights into where my thinking can be enhanced.
+In the next few months I would like to document some of the learning's I've had around software mentorship. I want to do this to provide a "thinking pad" to bounce ideas off others and to gain insights into where my thinking can be enhanced.
 
 ## Mentorship is a loaded word  
 
