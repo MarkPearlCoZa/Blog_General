@@ -27,12 +27,12 @@ Why am I blogging about this? I've recently spent some time trying to understand
 
 If being non-judgemental is important in creating psychological safety, does it mean we loose the ability to tell good from bad?
 
-It wasn't until I came across [post by Raj Raghunathan titled Don't be Judgmental, Be Discerning](https://www.psychologytoday.com/us/blog/sapient-nature/201105/dont-be-judgmental-be-discerning) that the penny seemed to dropped for me. 
-
-Being discerning means you keep the difference on just the one dimension, it means you can look at code and go... this code is good because of X or clean because of Y but not make any judgement beyond that...
+It wasn't until I came across [post by Raj Raghunathan titled Don't be Judgmental, Be Discerning](https://www.psychologytoday.com/us/blog/sapient-nature/201105/dont-be-judgmental-be-discerning) that the penny seemed to dropped for me. Being discerning means you keep the difference on just the one dimension, it means you can look at code and go... this code is good because of X or clean because of Y but not make any judgement beyond that...
 
 Compare this to being judgemental where dirty code == bad programmer == bad person.
 
-While I have read Johannes's points around the challenges he has had with working with others and promoting clean code I don't believe it is because the concept of clean code is a bad one. I worry that in taking offense to Uncle Bob's political views he's made the leap to taking offense to anything Uncle Bob... he's moved across dimensions, it's moved from being discerning to being judgemental. which I don't believe that helps anyone.
+While I have read Johannes's points around the challenges he has had with working with others and promoting clean code I don't believe it is because the concept of clean code is a bad one. I worry that in taking offense to Uncle Bob's political views he's made the leap to taking offense to anything Uncle Bob... he's moved across dimensions, it's moved from being discerning to being judgemental. which I don't believe that helps anyone. 
 
+In reflecting on the experiences he has shared it has just highlighted to me how as a industry we need to have balance - software is a team sport, the people element is key to being effective. Investing time in knowing how to write clean code is valuable... investing time in learning how to work with people is also valuable.
 
+I agree with Johannes's notion to embrace compassionate code. I really hope that at the same time it's clean.
