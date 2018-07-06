@@ -23,6 +23,10 @@ I've had the opportunity to speak in the following cities around the world...
 
 ## Conferences / Events I've spoken at...
 
+### 2018
+
+- [The Leadership Grind, Auckland, New Zealand: topic "Leveraging software mentorship to grow people"](https://youtu.be/trvcYzwJMvQ)  
+
 ### 2017
 
 - [MYOB Richmond, Melbourne, Australia: topic "Modern Day Apprentices"](https://youtu.be/nWYn00ohNjM)  
