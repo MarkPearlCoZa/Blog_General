@@ -13,7 +13,9 @@ For instance, when making a hiring decision for the team I wanted the whole team
 
 The challenge with setting this mindset was I soon discovered that different people in the team had different appetites for risk. While it was easy for certain team members who had high appetites of risk to give the green light, it was quite challenging to get other team members who had lower appetites for risk to give a "yes". 
 
-With these "skeptics" it seemed there was almost always some reservations around how the new person would work out and while we tried to resolve their reservations upfront some of the concerns were impossible to validate until you had the person in the team as a team member. The dilemma I had was I wanted these skeptics to feel heard and involved in the process but it always felt like they were reluctant to give their "yes".
+With these "skeptics" it seemed there was almost always some reservations around how the new person would work out and while we tried to resolve their reservations upfront some of the concerns were impossible to validate until you had the person in the team as a team member. 
+
+This left me with a dilemma, I wanted everyone in the team to feel heard and involved in the process but skeptics were reluctant to give a yes because they had concerns. At the time the way I solved this was saying "if it's a maybe are yes's", which just didn't feel write.
 
 Looking back at how we were handling the approval process I believe I was treating it all wrong. I was seeing the "do you want to bring this person into the team" as a "yes/no" answer when in actual fact it wasn't as clean cut as that.
 
