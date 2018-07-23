@@ -9,7 +9,7 @@ This last year I had the privilege of leading a development team where we had a 
 
 As the "official" leader, one of the things I wanted to get right early on was taking the team on a journey when making critical team decisions. For me critical team decision were any decisions that had a direct impact on how the team worked. Generally I wanted agreement from the whole team with these types of decisions before proceeding. 
 
-For instance, when making a hiring a new team member I wanted my team to be involved in the process of selection and making the call of hiring any proposed candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
+For instance, when making a hiring decisions for the team I wanted my team to be involved in the process of selection and making the call of hiring any proposed candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
 
 The challenge with setting this mindset was I soon discovered that different people in the team had different appetites for risk. While it was easy for certain team members who had high appetites of risk to give the green light, it was quite challenging to get other team members who had lower appetites for risk to give a "yes". 
 
