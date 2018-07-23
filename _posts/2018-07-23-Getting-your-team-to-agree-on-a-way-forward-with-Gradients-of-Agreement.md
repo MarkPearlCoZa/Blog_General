@@ -11,7 +11,7 @@ As the "official" leader, one of the things I wanted to get right early on was t
 
 For instance, when making a hiring a new team member I wanted my team to be involved in the process of selection and making the call of hiring any proposed candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
 
-The challenge with setting this mindset was I soon discovered that different people in the team had different appetites for risk. While it was easy to team members who had high appetites of risk to give the green light, it was quite challenging to get other team members who had lower appetites for risk to give a "yes". 
+The challenge with setting this mindset was I soon discovered that different people in the team had different appetites for risk. While it was easy for certain team members who had high appetites of risk to give the green light, it was quite challenging to get other team members who had lower appetites for risk to give a "yes". 
 
 With these people it seemed they generally had some sort of reservation around how the new person would work out---while we tried to resolve their reservations upfront some of the concerns were impossible to validate until you had the person in the team as a team member. The dilemma I had was I wanted these skeptics to feel heard and involved in the process but it always felt like they were reluctant to give their "yes".
 
