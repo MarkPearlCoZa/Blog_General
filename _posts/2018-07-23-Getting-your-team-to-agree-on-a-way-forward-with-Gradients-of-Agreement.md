@@ -19,7 +19,7 @@ This left me with a dilemma, I wanted everyone in the team to feel heard and inv
 
 Looking back at how we were handling the approval process I believe I was treating it all wrong. I was seeing the "do you want to bring this person into the team" as a "yes/no" answer when in actual fact it wasn't as clean cut as that.
 
-Post being in the team I've come across a book called the "[Facilitator's Guide to Participatory Decision Making](http://blog.markpearl.co.za/Facilitators-Guide-to-Participatory-Decision-Making)" which has introduced me to several powerful tools for participatory decision making. One of these tools I believe would have solved my dilemma on getting a yes/no from my team on these critical team decisions---it's called the "Gradient's of Agreement" chart.
+Post being in the team I've come across a book called the "[Facilitator's Guide to Participatory Decision Making](http://blog.markpearl.co.za/Facilitators-Guide-to-Participatory-Decision-Making)" which has introduced me to several powerful tools for participatory decision making. One of these tools I believe would have solved my dilemma of getting a yes/no from my team on these critical team decisions---it's called the "Gradient's of Agreement" chart.
 
 <img class="img-responsive" alt="Gradients of Agreement" src="{{ site.url }}/assets/images/Gradients-of-Agreement.png">  
 
