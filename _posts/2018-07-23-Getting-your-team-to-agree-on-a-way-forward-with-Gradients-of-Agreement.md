@@ -5,9 +5,9 @@ tags:
 category: General
 ---
 
-This last year I had the privilege of leading a development team where we had a mix of personalities and mindsets. It was incredibly useful to have this mix, different people in the team saw things from totally different angles which I believe led to us making better decisions as a team. 
+This last year I had the privilege of leading a development team where we had a mix of personalities and mindsets. It was incredibly useful to have this mix, different people in the team saw things from totally different angles which I believe led to us making better decisions as a team provided everyone's voice was heard.
 
-As the "official" leader, one of the things I wanted to get right in the team was taking them on a journey when we made critical team decisions that had a direct impact on how they worked. With these decisions I wanted agreement before proceeding. 
+As the "official" leader, one of the things I wanted to get right early on was taking the team on a journey when making critical team decisions. For me critical team decision were any decisions that had a direct impact on how the team worked. With critical team decisions generally I wanted agreement from the whole team before proceeding. 
 
 For instance, when making a hiring a new team member I wanted my team to be involved in the process of selection and making the call of hiring any proposed candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
 
