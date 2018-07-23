@@ -5,15 +5,15 @@ tags:
 category: General
 ---
 
-This last year I had the privilege of leading a development team where we had a mix of personalities and mindsets. It was incredibly useful to have this mix---different people in the team saw things from totally different angles, which I believe led to us making better decisions as a team provided everyone's voice was heard.
+I've recently had the privilege of leading a development team where we had a mix of personalities and mindsets. It was incredibly useful to have this mix---different people in the team saw things from totally different angles, which I believe led to us making better decisions as a team provided everyone's voice was heard.
 
 As the "official" leader, one of the things I wanted to get right early on was taking the team on a journey when making critical team decisions. For me critical team decision were any decisions that had a direct impact on how the team worked. Generally I wanted agreement from the whole team with these types of decisions before proceeding. 
 
-For instance, when making a hiring decision for the team I wanted the whole team to be involved in making the call of offering a postion to any proposed candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
+For instance, when making a hiring decision for the team I wanted the whole team to be involved in making the call of offering a postion to a candidate. A phrase I would often say is "If we don't all agree on bringing this person into the team then we are not going to offer them the position".
 
 The challenge with setting this mindset was I soon discovered that different people in the team had different appetites for risk. While it was easy for certain team members who had high appetites of risk to give the green light, it was quite challenging to get other team members who had lower appetites for risk to give a "yes". 
 
-With these people it seemed they generally had some sort of reservation around how the new person would work out---while we tried to resolve their reservations upfront some of the concerns were impossible to validate until you had the person in the team as a team member. The dilemma I had was I wanted these skeptics to feel heard and involved in the process but it always felt like they were reluctant to give their "yes".
+With these "skeptics" it seemed there was almost always some reservations around how the new person would work out---while we tried to resolve their reservations upfront some of the concerns were impossible to validate until you had the person in the team as a team member. The dilemma I had was I wanted these skeptics to feel heard and involved in the process but it always felt like they were reluctant to give their "yes".
 
 Looking back at how we were handling the approval process I believe I was treating it all wrong. I was seeing the "do you want to bring this person into the team" as a "yes/no" answer when in actual fact it wasn't as clean cut as that.
 
