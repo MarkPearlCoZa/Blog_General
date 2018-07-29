@@ -14,4 +14,5 @@ Each year I put a list of things I believe are worth reading and watching in the
 #### General Development Videos
 
 - [Beyond Developer by Dan North](https://www.youtube.com/watch?v=wYEk0y8LYfg)  
+- [TDD, where did it all go wrong by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)  
 
