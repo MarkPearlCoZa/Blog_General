@@ -24,7 +24,7 @@ So here's my latest list of recommended readings... As I come across new things 
 [Demanding Professionalism in Software Development by Uncle Bob](https://www.youtube.com/watch?v=p0O1VVqRSK0)  
 [Technical Debt Metaphor explained by Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE)  
 [The Techical Debt Trap by Doc Norton](https://vimeo.com/97507576), [see notes](http://blog.markpearl.co.za/The-Technical-Debt-Trap)  
-[The Fundamental Theorem of Agile Software Development by J. B. Rainsberger](https://vimeo.com/79106557)   
+[The Fundamental Theorem of Agile Software Development by J. B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA)   
 [What we actually know about Software Development, and why we believe it's true](https://vimeo.com/9270320), [see notes](http://blog.markpearl.co.za/What-We-Actually-Know-About-Software-Development-And-Why-We-Believe-It-Is-True)  
 [3 Productivity Hacks for Tech Teams](https://www.youtube.com/watch?v=ZO8hN6Nvl5Y)  
 [Managing by the Book by Kent Beck](https://www.youtube.com/watch?v=I3tTCuhO6ho)  
