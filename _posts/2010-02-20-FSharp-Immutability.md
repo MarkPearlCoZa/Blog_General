@@ -4,7 +4,7 @@ title: F# Immutability
 tags: 
 category: General
 ---
-I was reading a blog post by Chris Smith on F#. Firstly, a really good blog post and well worth a read if you are interested in learning the basics of F# as I am.
+I was reading a blog post by [Chris Smith](http://blogs.msdn.com/chrsmith/archive/2008/05/09/f-in-20-minutes-part-ii.aspx) on F#. Firstly, a really good blog post and well worth a read if you are interested in learning the basics of F# as I am.
 
 The first thing that struck me about F# and Chris’s blog was his explanation that in F# there typically wasn’t such a thing as a variable – because of the immutability of the “value” holders.
 
