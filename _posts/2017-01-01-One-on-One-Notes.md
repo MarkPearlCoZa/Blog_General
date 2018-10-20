@@ -39,3 +39,15 @@ If you ask this question and get blank stares, be prepared to share your own exp
 * He thinks everything is fine and we don't need to meet, because he's got nothing new to tell me."  
 
 [Doc Norton One on Ones](http://docondev.com/blog/2013/03/one-on-one-meetings)  
+
+## Georgia's take on 1 on 1's
+
+Firstly, know that you can’t cover all of the things below every time.  But being ready and prepared to, is what matters.  The time you have and priorities will dictate the content.  At a high level your preparation and/or template should have the following;
+ 
+Get through your task list.  Yes you will have short term, quick decisions and brief conversations that need to be had.  But don’t make the mistake that many make and just stay in this space the whole catch up.
+ 
+Give and receive feedback.  Set expectations that every time you meet you will share your observations about what’s working and what could be better.  Ask and expect them to do the same for you.  The themes will vary but the consistency of feedback shouldn’t.
+ 
+Have the career conversations.  Whether it’s focusing on those bi-annual or annual KPIs (that we often set and then forget) or where your people see themselves long term.  Don’t save this up for their performance reviews.  There is never enough time.  We can break it down into bite sized conversations and keep it in there at least monthly.
+ 
+Solve a problem by asking, not telling. Problem solving is a skill we all need to develop but rarely lead by example.  When people come to you with issues, we need to lean into responding with questions to help strengthen their thinking, to reduce their dependency and ideally come up with the best solution… together.
