@@ -496,6 +496,39 @@ def doSomething(*multiple):
 doSomething(1, 2, 3)
 ~~~
 
+#### Permutations
+
+~~~
+>>> import itertools
+>>> for p in itertools.permutations('ABCD'):
+...     print(p)
+
+('A', 'B', 'C', 'D')
+('A', 'B', 'D', 'C')
+('A', 'C', 'B', 'D')
+('A', 'C', 'D', 'B')
+('A', 'D', 'B', 'C')
+('A', 'D', 'C', 'B')
+('B', 'A', 'C', 'D')
+('B', 'A', 'D', 'C')
+('B', 'C', 'A', 'D')
+('B', 'C', 'D', 'A')
+('B', 'D', 'A', 'C')
+('B', 'D', 'C', 'A')
+('C', 'A', 'B', 'D')
+('C', 'A', 'D', 'B')
+('C', 'B', 'A', 'D')
+('C', 'B', 'D', 'A')
+('C', 'D', 'A', 'B')
+('C', 'D', 'B', 'A')
+('D', 'A', 'B', 'C')
+('D', 'A', 'C', 'B')
+('D', 'B', 'A', 'C')
+('D', 'B', 'C', 'A')
+('D', 'C', 'A', 'B')
+('D', 'C', 'B', 'A')
+~~~
+
 #### References
 
 - [Video - What does it take to be an expert in Python?](https://youtu.be/7lmCu8wz8ro)  
