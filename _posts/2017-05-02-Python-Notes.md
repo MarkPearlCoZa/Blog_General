@@ -545,6 +545,29 @@ Counter({'l': 3, 'o': 2, 'e': 1, 'd': 1, 'h': 1, 'r': 1, 'w': 1})
 [('l', 3), ('o', 2), ('e', 1)]
 ~~~
 
+#### Python List Comprehension
+
+~~~
+# Python's list comprehensions are awesome.
+
+vals = [expression 
+        for value in collection 
+        if condition]
+
+# This is equivalent to:
+
+vals = []
+for value in collection:
+    if condition:
+        vals.append(expression)
+
+# Example:
+
+>>> even_squares = [x * x for x in range(10) if not x % 2]
+>>> even_squares
+[0, 4, 16, 36, 64]
+~~~
+
 #### References
 
 - [Video - What does it take to be an expert in Python?](https://youtu.be/7lmCu8wz8ro)  
