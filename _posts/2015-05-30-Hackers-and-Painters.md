@@ -43,3 +43,4 @@ and poor countries are weak
 
 [Buy from Amazon](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)  
 ISBN-13: 978-1449389550
+[Rebuttal on Hackers & Painters, hilarious](http://idlewords.com/2005/04/dabblers_and_blowhards.htm)  
