@@ -21,3 +21,6 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [TDD, where did it all go wrong by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)  
 - [#NoEstimates by Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms)  
 
+#### Read
+
+[Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
