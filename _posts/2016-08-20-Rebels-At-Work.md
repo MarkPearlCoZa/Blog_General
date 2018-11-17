@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rebels at Work by L. Kelly & C. Medina"
+title: "Rebels at Work by L. Kelly and C. Medina"
 description: "A handbook for leading change from within"
 tags: Book Conflict
 category: Media
