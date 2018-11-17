@@ -1,6 +1,6 @@
 <div class='caption'>
-    <a href="https://leanpub.com/GettingStartedWithMobProgramming" target="_blank">
-        <img class="img-responsive img-center" alt="Getting Started with Mob Programming eBook" width='240' height='312'  src="{{ site.url }}/assets/images/Getting_Started_with_Mob_Programming_eBook.jpg">
-        <p class="text-center">Buy the eBook on LeanPub now!</p>
+    <a href="https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd" target="_blank">
+        <img class="img-responsive img-center" alt="Code with the Wisdom of the Crowd" width='240' height='312'  src="{{ site.url }}/assets/images/Code_with_the_Wisdom_of_the_Crowd.png">
+        <p class="text-center">Buy the book from the Pragmatic Bookshelf now!</p>
     </a>
 </div>
