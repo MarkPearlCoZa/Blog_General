@@ -9,7 +9,6 @@ title : RSS Feed
         <title>{{ site.title }}</title>
         <description>{{ site.title }} - {{ site.author.name }}</description>
         <link>{{ site.production_url }}{{ site.rss_path }}</link>
-        <link>{{ site.production_url }}</link>
         <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
         <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
         <ttl>1800</ttl>
@@ -17,7 +16,7 @@ title : RSS Feed
 {% for post in site.posts %}
         <item>
                 <title>{{ post.title }}</title>
-                <description>{{ post.content | xml_escape }}</description>
+                <description>{{ post.title | xml_escape }}</description>
                 <link>{{ site.production_url }}{{ post.url }}</link>
                 <guid>{{ site.production_url }}{{ post.id }}</guid>
                 <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
