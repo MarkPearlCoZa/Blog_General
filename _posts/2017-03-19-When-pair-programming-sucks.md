@@ -1,4 +1,4 @@
--http://dl.acm.org/citation.cfm?id=548833--
+---
 layout: post
 title: When pair programming sucks
 tags: 
