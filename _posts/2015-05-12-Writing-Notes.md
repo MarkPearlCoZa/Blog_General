@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Notes
-category: 
+category: Misc
 tags: 
 ---
 
