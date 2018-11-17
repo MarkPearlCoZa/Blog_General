@@ -2,7 +2,7 @@
 layout: post
 title: Static Named Constructors
 tags: Design Code
-category: 
+category: Tech
 ---
 
 #### Constructor Overloads  
