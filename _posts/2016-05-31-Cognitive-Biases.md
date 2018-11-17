@@ -1,9 +1,8 @@
-
 ---  
 layout: post  
 title: Cognitive Biases
 tags: People  
-category: Soft  
+category: Soft
 ---  
 #### Anchoring ####
 
