@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art & Icon Notes
+title: Art and Icon Notes
 tags: Media
 category: Tech
 ---

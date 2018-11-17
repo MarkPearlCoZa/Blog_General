@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Design - Why, When & How Notes
+title: Software Design - Why, When and How Notes
 tags: Design
 category: Media
 ---
