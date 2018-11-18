@@ -91,6 +91,6 @@ This is why really experienced developers often talk to each other using metapho
 
 - [15 Words you need to eliminate from your Vocabulary](http://time.com/3851004/bad-vocabulary-eliminate/)  
 - [Good naming is a progress not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step)  
-- Excerpt From: The Pragmatic Bookshelf. “PragPub 2016-09: Issue #87.” The Pragmatic Bookshelf, LLC, 2016-09-01. iBooks.  
 - [Folklore and science of naming practices](http://michalplachta.com/2017/01/22/folklore-and-science-of-naming-practices/)  
 - [Ottingers Rules for Variable & Class Naming](http://www.maultech.com/chrislott/resources/cstyle/ottinger-naming.html)  
+- [Peter Hilton on Naming](http://www.se-radio.net/2016/12/se-radio-episode-278-peter-hilton-on-naming/)  
