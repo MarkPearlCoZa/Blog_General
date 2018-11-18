@@ -19,21 +19,19 @@ So what causes this fear? It's definitely multifaceted. Some of the facets inclu
 
 <img class="img-responsive" alt="Your Knowledge" src="{{ site.url }}/assets/images/your-knowledge.png">
 
-Often they see everyone around them as an expert on everything, represented in the diagram above on the left. The reality is we all have our niches of expertise but are not experts in everything so our knowledge is more like the diagram on the right. 
+Often they see everyone around them as an expert on everything, looking something like the diagram on the left. The reality is we all have our niches of expertise but are not experts in everything so our knowledge is more like the diagram on the right. We know that, we know that others around us are experts in other things and so we are comfortable asking the "experts" the "novice" questions but they don't.
 
-We know that, we know that others around us are experts in other things and so we are comfortable asking the "experts" the "novice" questions.
+## What to do?
 
-## Why
+So, if asking questions sooner is better for their learning and growth, how do you get them to be comfortable to ask questions sooner?
 
-Yes, there needs to be some thought put behind the question but often  Asking the "dumb" questions is a great way to accelerate your learning and fill in the gaps quickly.
+### Make them aware of the value of asking questions
 
-So, if you are mentoring someone how do you get them to be comfortable to ask questions sooner?
+First off, make them aware of the value of asking questions early. If you feel they are holding off on asking valuable questions make them aware of it.
 
-One approach is to help them change their mindset on where we are all at. 
+### Make them an expert on something
 
+Next, help them change their mindset on seeing everyone as an expert on everything. Empower them to be an expert for a period of time on something.
 
-One approach I've heard is to reverse roles. 
-
-Put them in a position where they are an expert 
-One is to reverse roles, 
-
+One way to do this is to give them a topic that they are passionate about and get them research it and to present a talk on it. Make sure it is a topic that others know little or nothing about.
+They are now the expert. When they present the topic ask appropriate questions (keep it genuine).
