@@ -22,7 +22,11 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [TDD, where did it all go wrong by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)  
 - [#NoEstimates by Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms)  
 
-#### Read
+#### General Development Reading
+
+- [What to test and not to test by Mark Seemann](http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
+
+#### Leadership & Business Reading
 
 - [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
 - [Let's talk about start up costs](https://justinjackson.ca/costs)  
