@@ -24,4 +24,4 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 #### Read
 
-[Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
+- [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
