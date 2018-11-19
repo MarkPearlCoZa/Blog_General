@@ -10,6 +10,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 #### Leadership
 
 - [Awareness, assumptions, and actions -- why you do what you do by Steve Piscitelli](https://www.youtube.com/watch?v=HZQ2GEhoWYs)  
+- [Intensity vs Consistency (Culture)](https://www.youtube.com/watch?v=y5OV3RmXhbg)  
 
 #### Collaboration Videos
 
