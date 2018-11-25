@@ -30,3 +30,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 - [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
 - [Let's talk about start up costs](https://justinjackson.ca/costs)  
+
+#### Collaboration Reading
+
+- [Make up your minds, why two argumentative heads can be better than one](https://aeon.co/amp/essays/why-we-make-better-decisions-together-than-we-do-on-our-own)  
