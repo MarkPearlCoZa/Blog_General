@@ -25,6 +25,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 #### General Development Reading
 
 - [What to test and not to test by Mark Seemann](http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
+- [Deliberate Practice](https://medium.com/swlh/deliberate-practice-makes-perfect-how-to-become-an-expert-in-anything-ec30e0c1314e)  
 
 #### Leadership & Business Reading
 
