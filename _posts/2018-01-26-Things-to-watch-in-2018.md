@@ -32,6 +32,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 
 - [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)  
 - [Let's talk about start up costs](https://justinjackson.ca/costs)  
+- [Software Engineers at Different Levels](https://patreonhq.com/how-patreon-levels-engineers-a28a3491ae6a)   
 
 #### Collaboration Reading
 
