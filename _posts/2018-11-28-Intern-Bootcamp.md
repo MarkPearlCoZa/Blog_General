@@ -132,3 +132,4 @@ Documentation… is super-useful to reflect on your mentorship experience, too ;
 #### Resources
 
 [Summer of Tech Mentor Bootcamp 2018](https://www.slideshare.net/secret/e71JnnTM1iQC9f)  
+[Neuro Diversity](https://ed.ted.com/featured/DkvMWO46P)  
