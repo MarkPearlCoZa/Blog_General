@@ -35,6 +35,10 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Let's talk about start up costs](https://justinjackson.ca/costs)  
 - [Software Engineers at Different Levels](https://patreonhq.com/how-patreon-levels-engineers-a28a3491ae6a)   
 
+#### Personal
+
+- [The ultimate model for successful and long-lasting behavior change](https://betterhumans.coach.me/the-ultimate-model-for-successful-and-long-lasting-behavior-change-221e678c642b)  
+
 #### Collaboration Reading
 
 - [Make up your minds, why two argumentative heads can be better than one](https://aeon.co/amp/essays/why-we-make-better-decisions-together-than-we-do-on-our-own)  
