@@ -46,3 +46,5 @@ category: Soft
 #### References
 
 * [High Performance vs Psychological Safety by Joshua Kerievsky](https://vimeo.com/242220757)  
+* [Building a psychologically safe workplace by Amy Edmondson](https://www.youtube.com/watch?v=LhoLuui9gX8)  
+
