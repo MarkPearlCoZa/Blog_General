@@ -5,6 +5,8 @@ tags:
 category: Soft
 ---
 
+<img class="img-responsive" alt="Psychological Safety Quadrants" src="{{ site.url }}/assets/images/psychological-safety-quadrants.gif">
+
 ## Psychological safety exists when...
 
 * You can be yourself  
