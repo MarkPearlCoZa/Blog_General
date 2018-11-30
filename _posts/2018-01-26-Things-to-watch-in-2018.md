@@ -13,6 +13,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Intensity vs Consistency (Culture)](https://www.youtube.com/watch?v=y5OV3RmXhbg)  
 - [Neurodiversity](https://ed.ted.com/featured/DkvMWO46#review)  
 - [Building a psychologically safe workplace by Amy Edmondson](https://www.youtube.com/watch?v=LhoLuui9gX8)  
+- [Presence or Drama Triangle](https://www.youtube.com/watch?v=ovrVv_RlCMw)  
 
 #### Collaboration Videos
 
