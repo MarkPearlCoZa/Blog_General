@@ -12,6 +12,7 @@ Each year I put a list of things I believe are worth reading and watching in the
 - [Awareness, assumptions, and actions -- why you do what you do by Steve Piscitelli](https://www.youtube.com/watch?v=HZQ2GEhoWYs)  
 - [Intensity vs Consistency (Culture)](https://www.youtube.com/watch?v=y5OV3RmXhbg)  
 - [Neurodiversity](https://ed.ted.com/featured/DkvMWO46#review)  
+- [Building a psychologically safe workplace by Amy Edmondson](https://www.youtube.com/watch?v=LhoLuui9gX8)  
 
 #### Collaboration Videos
 
