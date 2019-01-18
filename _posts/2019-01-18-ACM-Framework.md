@@ -11,7 +11,7 @@ I was introduced to the ACM Framework while reading [@alan's manager readme](htt
 
 As Alan explains, if you look at the type of work software developers do you will find some of it is ambitious (new & challening work like learning a new framework), some of it are things you are already really good at (comfortable work, in my case refactoring messy c# code), and some of it is boring and mundane (work that just needs to get done like filling in timesheets).
 
-Alan goes on to explain that each week he wants his technical people to have some ambitious work that is grows them. He also wants to minimize their mundane work (often the mundane work may be someone else's ambitious work).
+Alan goes on to explain that each week he wants his technical people to have some ambitious work that grows them. He also wants to minimize their mundane work (as he says, often the mundane work may be someone else's ambitious work).
 
 # My thoughts on ACM work
 
