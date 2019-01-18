@@ -21,7 +21,6 @@ I believe actively identifying the categories of work and adjusting accordingly 
 
 # Optimising ACM work
 
-An exercise with this model is to simply list the work you do in a sprint (or in a 1-2 week period), and then classify it into the three categories. The list should have a balance of enough Ambitious work that you're not overwhelmed, and little or no Mundane work - with Comfortable work to fill the gap. 
+An exercise with this model is to simply list the work you do in a sprint (or in a 1-2 week period), and then classify it into the three categories. The list should have a balance of enough ambitious work that you're not overwhelmed, and little or no mundane work - with comfortable work to fill the gaps. 
 
-If the balance is off, we should discuss, as there's likely a way to find balance by shifting work around, discovering new work, or stopping work on some items entirely.
-
+As Alan says, if in reviewing that list the balance is off, we will discuss and try and find a way to get balance by shifting work around, discovering new work, or stopping work on some items entirely.
