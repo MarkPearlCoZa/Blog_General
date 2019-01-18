@@ -15,9 +15,9 @@ Alan goes on to explain that each week he wants his technical people to have som
 
 # My thoughts on ACM work
 
-I think this framework is a great way to spark conversation around helping people stay engaged in what they are doing. Yes, there will always be some mundane work that need to be done however too much mundane work leads to people getting bored and being unmotivated which in return results into poor quality and high turnover of staff.
+I think this framework is a great way to spark conversation around helping people stay engaged in what they are doing. Yes, there will always be some mundane work that needs to be done however too much mundane work leads to people getting bored and being unmotivated which in return results in poor quality and high turnover of staff.
 
-Actively identifying the categories of work leads to people being engaged and motivated.
+I believe actively identifying the categories of work and adjusting accordingly leads to people being engaged and motivated.
 
 # Optimising ACM work
 
