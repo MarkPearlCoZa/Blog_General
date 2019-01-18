@@ -7,7 +7,7 @@ category: General
 
 I've recently been thinking around retention in the software development world. Why do some companies have such great retention while others such poor retention. It's a complex topic but today I wanted to write about a little framework I came across called the ACM Framework.
 
-I came across the ACM Framework while reading [@alan's manager readme](https://github.com/angryweasel/managerreadme) on GitHub. It stands for "Ambitious, Comfortable, Mundane framework".
+I was introduced to the ACM Framework while reading [@alan's manager readme](https://github.com/angryweasel/managerreadme) on GitHub. ACM stands for "Ambitious, Comfortable, Mundane framework" and is a way for categorizing the typical work a technical person does.
 
 As Alan explains, the idea is if you look at the work a software developer does you will find some of the work is ambitious (or new & challening), some of it are things you are already really good at b(comfortable work), and some of it is boring and mundane (it just needs to get done).
 
