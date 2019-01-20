@@ -15,3 +15,7 @@ Here is my list for 2019. This list is adapted as the year progresses:
 
 [The Elusive Genius - Elizabeth Gilbert's](https://www.ted.com/talks/elizabeth_gilbert_on_genius?language=en)  
 [Circumambulation - Dr Jordon Peterson](https://www.youtube.com/watch?v=H5KvIgvwbwQ&t=7s)  
+
+#### Things to read
+
+[Engineering Management: the Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)  
