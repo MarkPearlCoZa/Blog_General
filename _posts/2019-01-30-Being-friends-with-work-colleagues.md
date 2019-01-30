@@ -9,9 +9,9 @@ As I've moved into a management role in a larger organization I've struggled wit
 
 At a leadership group a while back one of the presenters made the comment that as a manager you need to be friendly but not be friends. I've stuggled with this advice. Yes I can see how not being "friends" makes being a leader and making the hard decisions easier---the emotional impact when you need to do something hard is muted---however it also feels like it removes the connection I want from working with others.
 
-So the question I've been asking myself is can I be friends with someone who works for me, especially when my role may require me to withold information from them?  
+So the question I've been asking myself is can I be friends with someone who is in my reporting line, especially when my role may require me to withold information from them?  
 
-Right now I believe this is possible provided tread carefully.
+Right now I believe this is possible provided you tread carefully.
 
 In an ideal world when the friend/work mix happens you should be careful to make it clear how the friendship will work.
 
