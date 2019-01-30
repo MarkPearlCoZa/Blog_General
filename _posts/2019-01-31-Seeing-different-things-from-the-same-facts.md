@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seeing different things from the same data
+title: Seeing different things from the same facts
 tags: 
 category: General
 ---
