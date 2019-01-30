@@ -17,6 +17,6 @@ In an ideal world when the friend/work mix happens you should be careful to make
 
 I gleaned the following three tips from "[How to Be Friends with Someone Who Works for You](https://hbr.org/2018/02/how-to-be-friends-with-someone-who-works-for-you)". They suggest that:  
 
-1) You should set expectations at the start - you may not be able to share something with them upfront, you will never lie to them but you may choose to say I cannot discuss that.  
-2) Be clear when you are talking as a friend and when you are talking as your role at work. 
-3) Be transparent with others around your friendship and recuse yourself from decisions where it may be considered biased because of your friendship.  
+1. You should set expectations at the start - you may not be able to share something with them upfront, you will never lie to them but you may choose to say I cannot discuss that.  
+2. Be clear when you are talking as a friend and when you are talking as your role at work.  
+3. Be transparent with others around your friendship and recuse yourself from decisions where it may be considered biased because of your friendship.    
