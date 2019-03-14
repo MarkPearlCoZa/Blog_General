@@ -15,6 +15,7 @@ Here is my list for 2019. This list is adapted as the year progresses:
 
 [The Elusive Genius - Elizabeth Gilbert's](https://www.ted.com/talks/elizabeth_gilbert_on_genius?language=en)  
 [Circumambulation - Dr Jordon Peterson](https://www.youtube.com/watch?v=H5KvIgvwbwQ&t=7s)  
+[Predictably Irrational - basic human motivations -  Dan Ariely](https://www.youtube.com/watch?v=wfcro5iM5vw)  
 
 #### Things to read
 
