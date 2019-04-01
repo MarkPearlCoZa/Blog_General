@@ -19,7 +19,7 @@ Team members began spending time "learning" however the boundaries of what appro
 
 Since then my thoughts around team learning and having a learning culture have evolved. I believe teams need slack to learn and learning should be focussed. It doesn't help learning "other" things if you are not good at what your team needs you to be good at. Booking learning into the team routine is important, otherwise it is easy to fall into the "delivery rut". Adjusting the learning approach to the level and skill set of the team member is critical for growth.
 
-To make learning impactful, identify the key areas your team needs to be good at, what skills need to be developed and how they will be measured/assessed. Also identify where on the scale of maturity their skills sit (you will take a very different approach if someone is a novice vs an advanced beginner). Create slack in the system for team members to learn and provide date where their learning will be assessed.  
+To make learning impactful, identify the key areas your team needs to be good at, what skills need to be developed and how they will be measured/assessed. Also identify where on the scale of maturity their skills sit (you will take a very different approach if someone is a novice vs an advanced beginner). Create slack in the system for team members to learn and provide dates where their learning will be assessed. Leverage peer review as an effective form of assessment.
 
 #### References  
 
