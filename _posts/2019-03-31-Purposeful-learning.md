@@ -13,7 +13,7 @@ The approach had a minor impact on our learning culture. Those that were already
 
 With time and in a new organization I became a little more directive in trying to create a learning culture. I set aside Friday's as a day of reflection and learning for my team and said anything was appropriate to learn provided it was improving them in their general career. I found some improvement using this approach. 
 
-It team members began spending time "learning" however the boundaries of what appropriate learning were broad and the impact was muted. People studied topics they found interesting but often not what they or the team needed. Learning was fragmented and self-serving. In hindsight the value added to our work ecosystem was limited.
+Team members began spending time "learning" however the boundaries of what appropriate learning were broad and the impact was muted. People studied topics they found interesting but often not what they or the team needed. Learning was fragmented and self-serving. In hindsight the value added to our work ecosystem was limited.
 
 > Without accompanying changes in the way that work gets done, only the potential for improvement exists - HBR
 
