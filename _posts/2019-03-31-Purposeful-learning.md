@@ -1,0 +1,26 @@
+---
+layout: post
+title: Purposeful learning
+tags: 
+category: General
+---
+I have for a while believed that for an organisation to stay relevant and improve it needs to embrace a learning culture. My attempts to create that culture in the past have been mixed.
+
+Originally I thought that if I embraced learning myself and encouraged those around me to do the same it would be enough for us as an organisation to have a learning culture. 
+At the time I was operating my small software company and so I invested heavily on my own learning, and encouraged those around me to spend some time on their own learning. I would do this by suggesting books for them to read, and setting aside time once a month for us to learn as a group. 
+
+ What I found was this approach had a minor impact on our learning culture. Those that were already intentionally learning continued to do so, and those that were not continued to focus purely on delivery of features. Failed attempt!
+
+With time and in a new organization I became a little more directive in trying to create a learning culture. I set aside Friday's as a day of reflection and learning for my team and said anything was appropriate to learn provided it was improving them in their general career. 
+
+I found some improvement using this approach, it appeared that more people in the team were spending time "learning". Unfortunately the boundaries of what appropriate learning was were too broad. People studied topics they found interesting but what was interesting was not necessarily what they or the team needed. In my opinion, learning was fragmented and self-serving - people were investing time in learning but without the focus of what the team needed to understand. I don't think the value added to our work ecosystem was as impactful as it could have been. 
+
+> Without accompanying changes in the way that work gets done, only the potential for improvement exists - HBR
+
+Since then my thoughts around team learning and having a learning culture have evolved. I believe teams need slack to learn and learning should be focussed. It doesn't help learning "other" things if you are not good at what your team needs you to be good at. Booking learning into the team routine is important, otherwise it is easy to fall into the "delivery rut".
+
+To make learning impactful, identify the key areas your team needs to be good at, what skills need to be developed and how they will be measured/assessed. Create slack in the system for team members to learn and provide date where their learning will be assessed.  
+
+#### References  
+
+* [Building a learning organisation](https://hbr.org/1993/07/building-a-learning-organization)  
