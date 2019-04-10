@@ -24,6 +24,16 @@ What they found was the people in the fourth arm of the experiment weren't happy
 
 > In the fourth experiment people felt physically sick. They hated everything about it.
 
-## What parallels I can draw
+## The parallels I can make
 
+There are some parallels I can draw from this experiment and my own work experiences. I've worked in a place where our teams were given a lot of autonomy around how they did things. Teams were allowed to adjust processes, remove waste, customize their work environment to suit the members of the team. 
 
+In general this led to great results.  
+
+Then there was a shift in management. Managers left and other managers took over their roles. These managers saw the "chaos" in the teams. Teams were hard to report on because everyone did things differently. Managing was difficult. The managers pushed for standardization.
+
+If you asked these managers how they felt about the changes they were introducing they still felt they were creating a great workplace. They would reason "look at other companies and what equivalent teams are allowed to do, our teams still have it good". What they didn't realize was the people who really cared about their work felt overridden. They felt disempowered. 
+
+#### References
+
+* [The relative merits of lean, enriched, and empowered offices](https://adobe99u.files.wordpress.com/2013/07/2010+jep+space+experiments.pdf)
