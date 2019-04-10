@@ -32,7 +32,13 @@ In general this led to great results.
 
 Then there was a shift in management. Managers left and other managers took over their roles. These managers saw the "chaos" in the teams. Teams were hard to report on because everyone did things differently. Managing was difficult. The managers pushed for standardization.
 
-If you asked these managers how they felt about the changes they were introducing they still felt they were creating a great workplace. They would reason "look at other companies and what equivalent teams are allowed to do, our teams still have it good". What they didn't realize was the people who really cared about their work felt overridden. They felt disempowered. 
+If you asked these managers how they felt about the changes they were introducing they still felt they were creating a great workplace. They would reason "look at other companies and what equivalent teams are allowed to do, our teams still have it good". 
+
+What they didn't realize was the people who really cared about their work felt overridden. They felt hate towards the changes. This felt like a step back. They felt disempowered. 
+
+## Lessons learned
+
+The lesson learned is whenever removing autonomy from a group or individual realize the impact and the emotions those people will go through. Sometimes the change is unavoidable. In those instances just recognizing that you are causing pain and empathising with those involved can make a huge difference on how people feel about the situation. 
 
 #### References
 
