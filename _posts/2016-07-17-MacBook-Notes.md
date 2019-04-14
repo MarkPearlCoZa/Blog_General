@@ -5,6 +5,12 @@ tags: Mac
 category: Tech
 ---
 
+#### Most common
+
+Ctrl+Cmd+F - Go into fullscreen / exit out of fullscreen
+
+[Mac Shortcuts Comprehensive List](https://support.apple.com/en-us/HT201236)  
+
 #### Graphical Symbols
 
 <img class="img-responsive" alt="Macbook Keyboard Symbols" src="{{ site.url }}/assets/images/mac-keyboard-symbols.jpg">
