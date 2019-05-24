@@ -20,3 +20,7 @@ Here is my list for 2019. This list is adapted as the year progresses:
 #### Things to read
 
 [Engineering Management: the Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)  
+
+#### Things to watch
+
+[How Brazil Has Taken Workers' Rights to a New Level](https://www.youtube.com/watch?v=gG3HPX0D2mU)  
