@@ -11,7 +11,7 @@ At the time I was working on a Mob Programming book and wanted to see if others 
 
 My reasoning was as follows: there are groups of teams all over the world independently experimenting with Mob Programming. If there were patterns found amongst these independent groups it may help us find common themes that could further be investigated.
 
-I had 82 responses to the survey. 
+I had 82 responses to the survey. I've made the percentage responses public, which you can see here:  
 
 Q) My exposure to Mob Programming is...
 - 82.6%: I actively  participate in Mob Programming (at least once a month)
@@ -93,32 +93,35 @@ Q) How long have you been Mob Programming?
 - 4.9%: 5 years+
 
 Q) How often do you mob?
-- Most days
-- Usually at least once a week
-- Usually at least a few times a month
-- Sporadically
+- 51.2%: Most days
+- 25.6%: Sporadically
+- 14.6%: Usually at least once a week
+- 8.5%: Usually at least a few times a month
 
 Q) On the days that you do mob, how much of the day will you spend mobbing?
-- A few mintues
-- less than an hour
-- a couple hours
-- most of the day
+- 67.1%: most of the day
+- 30.5%: a couple hours
+- 0%: A few mintues
+- 0%: less than an hour
+- 2.4%: other
 
 Q) When you mob, how many people are usually in the mob at any one time?
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7 or more
-- it's different every time
+- 50%: 4
+- 19.5%: 3
+- 11%: 5
+- 11%: it's different every time
+- 3.7%: 7 or more
+- 2.4%: 2
+- 0%: 6
+- 2.4%: other
 
 Q) Some of the biggest benefits I get from Mob Programming are:
-- Increased code quality
-- Quicker to solve a problem
-- Learning from others
-- Sharing with others
-- Team participation
+- 23%: Learning from others
+- 20.5%: Increased code quality
+- 20.5%: Sharing with others
+- 18.9%: Team participation
+- 13.2%: Quicker to solve a problem
+- 3,8%: other
 
 Q) What challenges do you see with Mob Programming?
 
