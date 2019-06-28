@@ -14,77 +14,83 @@ My reasoning was as follows: there are groups of teams all over the world indepe
 I had 82 responses to the survey. 
 
 Q) My exposure to Mob Programming is...
-- I've heard about it before but haven't actually done it yet
-- I've dabbled with Mob Programming but don't do it currently
-- I actively  participate in Mob Programming (at least once a month)
+- 82.6%: I actively  participate in Mob Programming (at least once a month)
+- 15.2%: I've dabbled with Mob Programming but don't do it currently
+- 2.2%: I've heard about it before but haven't actually done it yet
 
 Q) I would best describe myself as a.
-- Strong Introvert
-- Introvert
-- Neither Introvert or Extrovert
-- Extrovert
-- Strong Extrovert
+- 37.8%: Introvert
+- 28%: Extrovert
+- 22%: Neither Introvert or Extrovert
+- 8.5%: Strong Introvert
+- 3.7%: Strong Extrovert
 
 Using [this explanation of what an introvert is](https://www.verywell.com/signs-you-are-an-introvert-2795427)  
 
 Q) If you were to pick one personality trait that has the biggest impact in being effective in a mob it would be?
-- Degree of extroversion
-- Agreeableness
-- Conscientiestiousness
-- Emotional Stability
-- Openness to experience
+- 56.5%: Openness to experience
+- 17.4%: Agreeableness
+- 13%: Conscientiestiousness
+- 2.2%: Emotional Stability
+- 0%: Degree of extroversion
 
 How more info on what each of these traits mean read https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
 Q) If you were to pick one personality trait that has the least impact in being effective in a mob it would be?
-- Degree of extroversion
-- Agreeableness
-- Conscientiestiousness
-- Emotional Stability
-- Openness to experience
+- 67.4%: Degree of extroversion
+- 13%: Conscientiestiousness
+- 10.9%: Emotional Stability
+- 8.7%: Agreeableness
+- 0%: Openness to experience
 
 For more info on what each of these traits mean read https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
 Q) What would best describe your role at your organisation?
-- Developer / Coder
-- QA / Tester
-- Business Analyst
-- Team Lead / Manager
+- 72%: Developer / Coder
+- 12.2%: Team Lead / Manager
+- 4.9%: QA / Tester
+- 1.2%: Business Analyst
+- 9.8%: Other
 
 Q) I see value in Mob Programming
-- Yes
-- No
+- 100%: Yes
+- 0%: No
 
 Q) How many people are in your team
-- 1 
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
+- 18.3%: 10 or more
+- 15.9%: 5
+- 14.6%: 8
+- 12.2%: 4
+- 9.8%: 6
+- 8.5%: 3
+- 8.5%: 7
+- 4.9%: N/A
+- 3.7%: 9
+- 1.2%: 2
+- 0%: 1 
+- 2.4%: other
 
 Q) What is your team composition
 
 Q) What process methodology would best describe how your team works
-- Scrum  
-- Kanban  
-- Waterfall
-- Don't know
+- 56.1%: Kanban  
+- 25.6%: Scrum  
+- 1.2%: Don't know
+- 0%: Waterfall
+- 17.1%: Other
 
 Q) When I work, I'm most often working...
-- on my own
-- in a pair
-- in a mob
+- 51.2%: in a mob
+- 32.9%: in a pair
+- 15.9%: on my own
 
 Q) How long have you been Mob Programming?
-- less than 3 months
-- 3-6 months
-- 6 months to a year
-- 1-2 years
-- 2-4 years
-- 5 years+
+- 24.4%: 1-2 years
+- 20.7%: 6 months to a year
+- 19.5%: 2-4 years
+- 18.3%: 3-6 months
+- 12.2%: less than 3 months
+- 4.9%: 5 years+
 
 Q) How often do you mob?
 - Most days
