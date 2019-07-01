@@ -56,6 +56,16 @@ Q) I consider myself "present" and listen well
 
 # Ask More, Tell Less
 
+While telling seems simple, it often feels really demotivating.
+To get the best out of our people we need to get better as asking questions.
+Don't assume what worked in the past will work in the future.
+Stop telling people, rather ask and listen
+POW Framework - Problem, Options, What Next
+
+Knowing that a manager is better at asking than telling
+
+
+
 # Career Conversations
 
 # Your Presence is your Present
