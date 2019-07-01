@@ -20,6 +20,7 @@ Here is my list for 2019. This list is adapted as the year progresses:
 #### Things to read
 
 [Engineering Management: the Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)  
+[The truth about boundaries, curiosity, and requests part 1 of 2](https://www.eventbrite.com/engineering/the-truth-about-boundaries-curiosity-and-requests-part-1-of-2/)  
 
 #### Things to watch
 
