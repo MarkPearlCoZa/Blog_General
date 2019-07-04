@@ -64,9 +64,15 @@ POW Framework - Problem, Options, What Next
 
 Knowing that a manager is better at asking than telling
 
-
-
 # Career Conversations
+
+* People don't know how to self manage their career
+* Don't understand how they know what is in their way of progressing
+
+Simple and powerful questions to help them manage their own careers
+
+Why don't we have them? Managers feel uncomfortable and managers avoid them, or don't know how to approach them.
+
 
 # Your Presence is your Present
 
