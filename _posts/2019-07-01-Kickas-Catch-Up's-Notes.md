@@ -73,6 +73,49 @@ Simple and powerful questions to help them manage their own careers
 
 Why don't we have them? Managers feel uncomfortable and managers avoid them, or don't know how to approach them.
 
+Transform your career conversations
+
+* It's not unusual for people to come to us and say they think they are ready for the next step
+
+There are 3 components to a Kich Ass Career Conversation
+1) Current State - where are they at in their current role
+2) Future State - where would they like to be in a future role
+3) Plan to get from Current to Future State
+
+Current state, what are their strengths, what are they good at.
+Future state, show an interest in their future, their ideas, dreams and ideals
+Plan to get from Current to Future State, advice on what they should do to get there
+
+Questions to ask to get the current state
+- What are you enjoying about your job?
+- How satisfied out of 10?
+- What's working for you? What isn't working for you?
+- What are you good at? What are your strengths?
+- What do previous Managers and reviews tell you?
+- What activities do you enjoy the most?
+- What motivates or energises you?
+- What skills do you like to use?
+- What are you passionate about that you're not pursuing?
+- What else?
+
+Questions around the future
+- What type of work would you like to be doing?
+- Where would you be working in terms of location?
+- Who would you be working for?
+- What does success look like to you?
+- Where do you see yourself in 1-2 years and beyong.
+- What kind of activities would you be doing on a daily basis?
+- What kind of things would you be responsibile for?
+- What problems do you like to solve?
+- What issues do you like to deal with?
+- If money was not an issue, what would you be doing?
+- Where are you playing it too safe?
+- What else?
+
+Current to Future State
+- Are there any roles internally that you can pursue
+- How can you raise your profile to be more visible
+- What can you do outside of the orga that would give you satisfaction?
 
 # Your Presence is your Present
 
