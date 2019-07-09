@@ -119,6 +119,19 @@ Current to Future State
 
 # Your Presence is your Present
 
+Listening to people makes them feel valued and respected, and interested in them.
+Being present requires focus.
+
+Mindfulness is about 
+* Being conscious of what YOU are thinking, feeling, doing, and saying. 
+* Being ware of what THEY are saying and doing. 
+* Observing what is going on in YOUR world... and THEIRS
+
+When was the last tie you had the solution to their problem before they shared their?o
+How many spot fires are we missing because we are not focussing on individuals and their needs
+
+[Ted talk on Mindfulness](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes/up-next?language=en)
+
 # Feedback Both Ways
 
 # Relationships Matter

@@ -26,3 +26,4 @@ Here is my list for 2019. This list is adapted as the year progresses:
 
 [How Brazil Has Taken Workers' Rights to a New Level](https://www.youtube.com/watch?v=gG3HPX0D2mU)  
 [Learning from a grand master of memory | Mattias Ribbing | TEDxLundUniversity](https://www.youtube.com/watch?v=_CFtPOUx7Hk)
+[All it takes is 10 mindful minutes](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes/up-next?language=en)  
