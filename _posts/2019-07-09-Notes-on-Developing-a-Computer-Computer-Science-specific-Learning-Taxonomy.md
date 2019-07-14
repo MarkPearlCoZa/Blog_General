@@ -16,6 +16,10 @@ Problems with Blooms Taxonomy
 
 # Review of Existing Taxonomies
 
+Critical Thinking Model...
+
+https://sites.google.com/site/qepcafe/modules/overview/facione
+
 ## Unified domain taxonomy
 
 ## Structure of the Observed Learning Outcome (SOLO)
