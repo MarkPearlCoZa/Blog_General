@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-Today I want to spend some time thinking through what to look for when hiring a graduate software developer. Prior to being involved in our graduate programme I never would have thought this was an interesting question. As I dig more into it I'm realizing what an interesting question it is.
+Today I want to spend some time thinking through what to look for when hiring a graduate software developer. Prior to being involved in our graduate programme I would never have thought this was an interesting question. As I dig more into it I'm realizing what an interesting question it is.
 
 ## Before interviewing graduate software developers...
 
