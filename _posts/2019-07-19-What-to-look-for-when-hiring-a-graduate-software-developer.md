@@ -13,7 +13,7 @@ Before I go into the evolution of interviewing graduate software developers let 
 
 The goal was to identify a candidate that would be contributing as soon as possible to the team that was also a good fit for the team. This process was used for experienced software engineers (people that had a couple of years under their belt) and was a 4 step process. We would look at:
 
-1) Cultural fit and software process mindset
+1) Cultural fit and software process mindset  
 2) Technology competency  
 3) Coding skills assessment  
 4) Team fit  
