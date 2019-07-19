@@ -54,9 +54,9 @@ When I moved into the graduate space our goal had changed. Instead of hiring exp
 
 With this change in hiring goals I suddenly had a problem. Most of my traditional measures for interviewing were no longer useful. 
 
-* Coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions), in depth discussions around code construction and design are often beyond the scope of their current abilities. 
-* Technology competency is largely irrelevant, they don't have technology experience so you realize that you will be teaching them most if not all of the technology. 
-* Team software process experience is minimal. Most candidates have worked in one or two group projects. Often at best a candidate would have a very theoretical idea of scrum or some software methodology. 
+* Measuirng existing coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions), in depth discussions around code construction and design are often beyond the scope of their current abilities. 
+* Level of technology competency is largely irrelevant. Because they are new in their career they don't have much technology experience. You realize very soon on that you will be teaching them most if not all of the technology. 
+* Team software process experience is minimal. Most candidates have worked in one or two group projects. Often at best a candidate will have a very theoretical idea of scrum or some software methodology. 
 * A specific team fit interview doesn't apply. Graduates are not hired into a specific team, instead because they are entering a graduate programme they are expected to 3-6 months with a team before having to move to another team.
 
 So how do you know who to hire? How do you know if someone has the potential to become a great software developer in our company and is worth investing vs someone else?
