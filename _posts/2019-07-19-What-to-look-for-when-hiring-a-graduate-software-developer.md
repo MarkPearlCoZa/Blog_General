@@ -26,7 +26,7 @@ Generally this would be an unscripted conversation. We would talk about what got
 
 ### Technology competency
 
-The next step was a technology competency assessment. Do they know the tech we use, how much of this tech did they really understand and at what level of understanding. Again this would be conversation style with the potential of a whiteboard. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
+The next step was a technology competency assessment. Do they know the tech we use, how much of this tech did they really understand and at what level of understanding. Again this would be conversation style with potential whiteboarding. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
 
 ### Coding skills assessment
 
