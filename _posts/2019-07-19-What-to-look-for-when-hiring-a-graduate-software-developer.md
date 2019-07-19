@@ -5,11 +5,11 @@ tags:
 category: General
 ---
 
-Today I want to spend some time thinking through what to look for when hiring a graudate software developer. Prior to being involved in our graduate programme I never would have thought this was an interesting question. As I dig more into it I'm realizing what an interesting question it is.
+Today I want to spend some time thinking through what to look for when hiring a graduate software developer. Prior to being involved in our graduate programme I never would have thought this was an interesting question. As I dig more into it I'm realizing what an interesting question it is.
 
 ## What I used to look for when interviewing software developers
 
-Before I go into the evolutin of graduates let me quickly go through what I used to look for when interviewing software developers. I'm not going to cover the whole evolution of this, I'll just share a snapshot of the normal checklist I covered around 2016.
+Before I go into the evolution of graduates let me quickly go through what I used to look for when interviewing software developers. I'm not going to cover the whole evolution of this, I'll just share a snapshot of the normal checklist I covered around 2016.
 
 When interviewing someone for a software developer the goal was to identify a candidate that would be contributing as soon as possible that was also a good fit for the team.  The interview process was usually a 4 step process:
 
@@ -32,9 +32,9 @@ Next up was the coding skills assessment. This was usually done using pair progr
 
 ### Team fit
 
-The final stage would be a team fit session. The candidate would get to meet the team. We woudl usually do a "agile game", something where we needed to build something together as a group and collaborate together followed by general Q&A from the team.
+The final stage would be a team fit session. The candidate would get to meet the team. We would usually do a "agile game", something where we needed to build something together as a group and collaborate together followed by general Q&A from the team.
 
-If a candidate did well in all these stages an offer would be made. The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. I'm also not sure how effective some of the steps were. To be honest, I don't think I got much out of the culture fit conversations or even the technology conversations. I was also never quite happy with the team fit session. Some of the quesitons being asked by team members were leading or ineffective.
+If a candidate did well in all these stages an offer would be made. The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. I'm also not sure how effective some of the steps were. To be honest, I don't think I got much out of the culture fit conversations or even the technology conversations. I was also never quite happy with the team fit session. Some of the questions being asked by team members were leading or ineffective.
 
 
 
@@ -53,7 +53,7 @@ Why this falls apart for very new software developers
 - You realize you will be teaching them the tech / how to code professionally
 - They have no references from people they have worked for in the past (no dev experience)
 - They have a very thin tech stack knowledge, generally they know names of a few frameworks, often they don't match up with what you are looking for
-- You don't know if they will actually enjoy being a software developer... code enduarence
+- You don't know if they will actually enjoy being a software developer... code endurance
 
 How does this change our approach to interviewing?
 - You can still focus on culture, do they add to our culture
