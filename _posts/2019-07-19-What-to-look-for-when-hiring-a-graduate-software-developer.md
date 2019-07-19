@@ -13,16 +13,16 @@ Before I go into the evolution of interviewing graduate software developers let 
 
 The goal was to identify a candidate that would be contributing as soon as possible to the team that was also a good fit for the team. This process was used for experienced software engineers (people that had a couple of years under their belt) and was a 4 step process. We would look at:
 
-1) Cultural fit  
+1) Cultural fit and software process mindset
 2) Technology competency  
 3) Coding skills assessment  
 4) Team fit  
 
 Let me dig into what we covered at each step.
 
-### Cultural fit
+### Cultural fit and software process mindset
 
-Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea. I would answer questions around our company values and how we see the world.
+Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea. We would also have a chat about team software processes. What does agile mean to them, when would you adopt a particular team process to making software (Scrum, Kanban, etc.) At the very end I would answer any questions around our company values and how we see the world or anything else they want to know about.
 
 ### Technology competency
 
@@ -46,23 +46,14 @@ I would rate the over all process as a 5 out of 10. Not terrible, but not great.
 
 ## Now you have to interview graduate software developers
 
-When I moved into the graduate space I suddenly had an interesting situation. Up till now we had largely been measuring what someone had to offer at a point in time. With graduates, most of my traditional measures were no longer useful.
+When I moved into the graduate space I suddenly had a problem. Most of my traditional measures were no longer useful. Coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, mangled messes and badly structured). Discussions around code construction and design are beyond the scope of their current abilities. Technology competency is irrelevant. You realize that you will be teaching most if not all the technology to the graduate once they join. 
 
-
-
-- Are they a good problem solver
-- Can they write great code
 - Do they have good software engineering practices (clean code, understand modern processes, pairing, refactoring, design)
-- Are they up to date with the tech stack
-- Do they fit/add to our culture
-- Does the team feel they can work with them
 - This is their career, they've proven that they are going to operate in this space effectively
 
-Goal, have someone contributing value from day 1*
 
 Why this falls apart for very new software developers
-- They have very little if not any professional coding experience, their code is academic, lots of comments and often badly structured
-- You realize you will be teaching them the tech / how to code professionally
+- - You realize you will be teaching them the tech / how to code professionally
 - They have no references from people they have worked for in the past (no dev experience)
 - They have a very thin tech stack knowledge, generally they know names of a few frameworks, often they don't match up with what you are looking for
 - You don't know if they will actually enjoy being a software developer... code endurance
