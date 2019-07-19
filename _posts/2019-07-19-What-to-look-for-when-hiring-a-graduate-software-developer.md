@@ -30,7 +30,7 @@ The next step was a technology competency assessment. Do they know the tech we u
 
 ### Coding skills assessment
 
-Next up was the coding skills assessment. This was usually done using pair programming. We would pick a code kata and see if they could solve it. We would use a form called strong pairing where they are the navigator and I am the driver. I would get a good idea if they write clean code, can they use a TDD approach, what they would be like to pair with.
+Next up was the coding skills assessment. This was usually done using pair programming. We would pick a code kata and see if they could solve it. We would use a form called strong pairing where the candidate would be the navigator and the interviewer the driver. This would give me a good idea on whether they write clean code. Do they use a TDD approach. What they would be like to pair with and so on.
 
 ### Team fit
 
