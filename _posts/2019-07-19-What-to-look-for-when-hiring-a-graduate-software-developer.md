@@ -34,9 +34,11 @@ Next up was the coding skills assessment. This was usually done using pair progr
 
 ### Team fit
 
-The final stage would be a team fit session. The candidate would get to meet the team. We would usually do a "agile game", something where we needed to build something together as a group and collaborate together followed by general Q&A from the team.
+The final step would be a team fit session. The candidate would get to meet the team. We would usually do a "agile game", something where we needed to build something together as a group and collaborate together followed by general Q&A from the team. Post the session the team would get together to share their thoughts. If the team was in favor of proceeding they would get an offer.
 
-If a candidate did well in all these stages an offer would be made. The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. I'm also not sure how effective some of the steps were. To be honest, I don't think I got much out of the culture fit conversations or even the technology conversations. I was also never quite happy with the team fit session. Some of the questions being asked by team members were leading or ineffective.
+### My retrospective thoughts about this process
+
+The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. I'm also not sure how effective some of the steps were. To be honest, I don't think I got much out of the culture fit conversations or even the technology conversations. I was also never quite happy with the team fit session. Some of the questions being asked by team members were leading or ineffective.
 
 
 
