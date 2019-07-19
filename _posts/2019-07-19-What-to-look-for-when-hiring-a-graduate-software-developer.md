@@ -9,7 +9,7 @@ Today I want to spend some time thinking through what to look for when hiring a 
 
 ## What I used to look for in pre hiring graduate software developers...
 
-Before I go into the evolution of graduates let me quickly go through what I used to look for when interviewing software developers. I'm not going to cover the whole evolution since the beginning of time of this, I'll just share a snapshot of the normal interview process we covered around 2016.
+Before I go into the evolution of interviewing graduate software developers let me quickly go through what I used to look for when interviewing software developers in general. This process has evolved with time, so I'm going to to just share a snapshot of my normal interview process at around 2016.
 
 When interviewing someone for a software developer the goal was to identify a candidate that would be contributing as soon as possible that was also a good fit for the team. These were for experienced software engineers (people that had a couple of years under their belt). The interview process was usually a 4 step process:
 
