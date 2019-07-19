@@ -59,16 +59,10 @@ With this change in hiring goals I suddenly had a problem. Most of my traditiona
 * Team software process experience was minimal. Most candidates had worked one or two group projects. Often at best they had a theoretical idea of scrum or some software methodology. 
 * A specific team fit interview didn't apply. Graduates are not hired into a specific team, instead because they are entering a graduate programme they are expected to 3-6 months with a team before having to move to another team.
 
-So how do you know if someone is worth taking a chance on? How do you know if someone has the potential to become a great software developer?
-
-
-
-- Do they have good software engineering practices (clean code, understand modern processes, pairing, refactoring, design)
-- This is their career, they've proven that they are going to operate in this space effectively
+So how do you know who to hire? How do you know if someone has the potential to become a great software developer in our company and is worth investing vs someone else?
 
 
 Why this falls apart for very new software developers
-- - You realize you will be teaching them the tech / how to code professionally
 - They have no references from people they have worked for in the past (no dev experience)
 - They have a very thin tech stack knowledge, generally they know names of a few frameworks, often they don't match up with what you are looking for
 - You don't know if they will actually enjoy being a software developer... code endurance
