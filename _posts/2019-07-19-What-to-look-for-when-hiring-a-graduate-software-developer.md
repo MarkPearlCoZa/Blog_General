@@ -20,7 +20,7 @@ When interviewing someone for a software developer the goal was to identify a ca
 
 Let me dig into what we covered at each step.
 
-### Cultural Fit
+### Cultural fit
 
 Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea.
 
