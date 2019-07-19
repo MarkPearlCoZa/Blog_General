@@ -13,18 +13,18 @@ Before I go into the evolution of graduates let me quickly go through what I use
 
 When interviewing someone for a software developer the goal was to identify a candidate that would be contributing as soon as possible that was also a good fit for the team. These were for experienced software engineers (people that had a couple of years under their belt). The interview process was usually a 4 step process:
 
-1) Cultural fit
-2) Technology 
-3) Coding skills assessment
-4) Team fit
+1) Cultural fit  
+2) Technology competency  
+3) Coding skills assessment  
+4) Team fit  
 
 ### Cultural Fit
 
 Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea.
 
-### Technology 
+### Technology competency
 
-The next step was a technology assessment. Again this would be conversation style with the potential of a whiteboard. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
+The next step was a technology competency assessment. Do they know the tech we use, how much of this tech did they really understand and at what level of understanding. Again this would be conversation style with the potential of a whiteboard. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
 
 ### Coding skills assessment
 
