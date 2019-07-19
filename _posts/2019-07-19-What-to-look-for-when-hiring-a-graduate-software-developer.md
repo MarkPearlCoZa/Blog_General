@@ -44,7 +44,7 @@ I'm also not sure how effective some of the steps were. To be honest, retrospect
 
 I would rate the over all process as a 5 out of 10. Not terrible, but not great.
 
-## Now you have to interview graduate software developers
+## Now I have to interview graduate software developers... now what!!!
 
 When I moved into the graduate space I suddenly had a problem. Most of my traditional measures were no longer useful. Coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, mangled messes and badly structured). Discussions around code construction and design are beyond the scope of their current abilities. Technology competency is irrelevant. You realize that you will be teaching most if not all the technology to the graduate once they join. 
 
