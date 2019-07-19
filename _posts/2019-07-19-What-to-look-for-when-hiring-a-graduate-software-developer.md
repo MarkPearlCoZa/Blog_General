@@ -61,12 +61,15 @@ With this change in hiring goals I suddenly had a problem. Most of my traditiona
 
 So how do you know who to hire? How do you know if someone has the potential to become a great software developer in our company and is worth investing vs someone else?
 
+## Interation 1 
 
 
 
 Why this falls apart for very new software developers
 - They have no references from people they have worked for in the past (no dev experience)
-- They have a very thin tech stack knowledge, generally they know names of a few frameworks, often they don't match up with what you are looking for
+
+
+
 - You don't know if they will actually enjoy being a software developer... code endurance
 
 How does this change our approach to interviewing?
