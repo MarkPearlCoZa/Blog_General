@@ -52,7 +52,12 @@ When I moved into the graduate space our goal had changed. Instead of hiring exp
 
 > The goal had changed, we would hire inexperienced people worth investing in and grow them into the software professionals we wanted.
 
-With this change in hiring goals I suddenly had a problem. Most of my traditional measures for interviewing were no longer useful. Coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions). In depth discussions around code construction and design are often beyond the scope of their current abilities or what we would even be looking for in a graduate software developer. Technology competency is largely irrelevant, they don't have much technology experience so you realize that you will be teaching them most if not all of the technology. To add to this they have very little team software process experience... maybe one or two group projects, a very theoretical idea of scrum. 
+With this change in hiring goals I suddenly had a problem. Most of my traditional measures for interviewing were no longer useful. 
+
+* Coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions), in depth discussions around code construction and design are often beyond the scope of their current abilities or what we would even be looking for in a graduate software developer. 
+* Technology competency is largely irrelevant, they don't have technology experience so you realize that you will be teaching them most if not all of the technology. 
+* Team software process experience was minimal. Most candidates had worked one or two group projects. Often at best they had a theoretical idea of scrum or some software methodology. 
+* A specific team fit interview didn't apply. Graduates are not hired into a specific team, instead because they are entering a graduate programme they are expected to 3-6 months with a team before having to move to another team.
 
 So how do you know if someone is worth taking a chance on? How do you know if someone has the potential to become a great software developer?
 
