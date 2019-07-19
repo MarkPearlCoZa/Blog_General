@@ -63,12 +63,24 @@ So how do you know who to hire? How do you know if someone has the potential to 
 
 ## Interation 1 
 
+As iteration 1, we took the approach that we wanted to hire passionate software developers that were great collaborators and problem solvers. Because we were going to invest in their technical skills we were not too concerned about current technical ability provided they had some basic coding skills and a passion to learn.
 
+We settled on a two part interview process which was done as a bulk interview. Following an initial CV scan we identified candidates we felt were worth interviewing. We then invited the top 20 candidates to a group interview day.
 
-Why this falls apart for very new software developers
-- They have no references from people they have worked for in the past (no dev experience)
+The interview day consisted of a group activity (building lego structures as a team) followed by a "cultural interview" where they were asked general questions around collaboration as well as their passion software. The cultural interview was done by two people. 
 
+At the end of the day all the interviewers would get together and share notes and we would pick our top candidates and make an offer.
 
+In the collaboration exercise we would look at:
+* How well candidates interacted with others
+* Their creativity in solving problems
+* Their ability to communicate with their group memebrs
+* How dominant / compliant they were, did they override team members decisions, etc.
+
+In the cultural interview we would:
+* Ask questions around working in a team
+* Their passion around software development
+* Why they wanted to work for our company.
 
 - You don't know if they will actually enjoy being a software developer... code endurance
 
