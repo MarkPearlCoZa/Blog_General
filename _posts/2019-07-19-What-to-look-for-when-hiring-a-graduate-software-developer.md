@@ -22,7 +22,7 @@ Let me dig into what we covered at each step.
 
 ### Cultural fit
 
-Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea.
+Generally this would be an unscripted conversation. We would talk about what got them into software. What they look for in a team. Why they are leaving their current team / position. How they handle conflict. You get the idea. I would answer questions around our company values and how we see the world.
 
 ### Technology competency
 
