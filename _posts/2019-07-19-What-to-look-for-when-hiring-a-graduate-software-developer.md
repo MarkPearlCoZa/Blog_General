@@ -9,9 +9,9 @@ Today I want to spend some time thinking through what to look for when hiring a 
 
 ## What I used to look for when interviewing software developers
 
-Before I go into the evolution of graduates let me quickly go through what I used to look for when interviewing software developers. I'm not going to cover the whole evolution of this, I'll just share a snapshot of the normal checklist I covered around 2016.
+Before I go into the evolution of graduates let me quickly go through what I used to look for when interviewing software developers. I'm not going to cover the whole evolution since the beginning of time of this, I'll just share a snapshot of the normal interview process we covered around 2016.
 
-When interviewing someone for a software developer the goal was to identify a candidate that would be contributing as soon as possible that was also a good fit for the team.  The interview process was usually a 4 step process:
+When interviewing someone for a software developer the goal was to identify a candidate that would be contributing as soon as possible that was also a good fit for the team. These were for experienced software engineers (people that had a couple of years under their belt). The interview process was usually a 4 step process:
 
 1) Cultural fit
 2) Technology 
