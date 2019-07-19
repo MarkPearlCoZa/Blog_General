@@ -38,7 +38,15 @@ The final step would be a team fit session. The candidate would get to meet the 
 
 ### My thoughts around this process 
 
-The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. I'm also not sure how effective some of the steps were. To be honest, I don't think I got much out of the culture fit conversations or even the technology conversations. I was also never quite happy with the team fit session. Some of the questions being asked by team members were leading or ineffective.
+The challenge with this approach was it was lengthy, generally someone is looking for work as soon as possible and with the multiple stages it took time. Good experienced software developers are in high demand so there was always pressure from our internal recruiters to speed up the process so we didn't loose this person to the competition. 
+
+I'm also not sure how effective some of the steps were. To be honest, retrospectively I don't think I got much out of the culture fit conversations or even the technology conversations. It was also hit and miss with the team fit session, sometimes it went great and sometimes not so great. If team members were poor at asking questions they got canned responses - I've never found anyone in an interview to tell you they don't like collaborating with others or giving good feedback.
+
+I would rate the over all process as a 5 out of 10. Not terrible, but not great.
+
+## Now you have to interview graduate software developers
+
+When I moved into the graduate space I suddenly had an interesting situation. Up till now we had largely been measuring what someone had to offer at a point in time. With graduates, most of my traditional measures were no longer useful.
 
 
 
