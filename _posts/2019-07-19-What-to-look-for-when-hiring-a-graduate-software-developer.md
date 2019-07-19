@@ -7,7 +7,7 @@ category: General
 
 Today I want to spend some time thinking through what to look for when hiring a graduate software developer. Prior to being involved in our graduate programme I never would have thought this was an interesting question. As I dig more into it I'm realizing what an interesting question it is.
 
-## What I used to look for in pre hiring graduate software developers...
+## Before interviewing graduate software developers...
 
 Before I go into the evolution of interviewing graduate software developers let me quickly go through what I used to look for when interviewing software developers in general. This process has evolved with time, so I'm going to to just share a snapshot of my normal interview process at around 2016.
 
