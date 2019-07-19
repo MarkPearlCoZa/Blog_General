@@ -61,7 +61,7 @@ With this change in hiring goals I suddenly had a problem. Most of my traditiona
 
 So how do you know who to hire? How do you know if someone has the potential to become a great software developer in our company and is worth investing vs someone else?
 
-## Interation 1 
+## Interation 1 - The bulk approach
 
 As iteration 1, we took the approach that we wanted to hire passionate software developers that were great collaborators and problem solvers. Because we were going to invest in their technical skills we were not too concerned about current technical ability provided they had some basic coding skills and a passion to learn.
 
