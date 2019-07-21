@@ -111,7 +111,7 @@ After our first intake we re-evaluated what were were looking for in a great can
 
 1) Should display an endurance to coding. We didn't care what programming language, more that they had "programmed" over a period of time and could endure being in front of a machine looking at code over an extended period of time.  
 2) Should be able to think end to end BUT also go deep into an idea. We wanted people that would look at a problem and ask what is it we are actually trying to solve. We then wanted them to be able to get into implementation.  
-3) Should be have experience and a skills collaborating with others in a team. Software is a team sport, we want people that can work with others.  
+3) **Should have experience and a skills collaborating with others in a team.* Software is a team sport, we want people that can work with others.  
 4) Should be resilient. We want people that can be stretched and recover quickly.
 5) Should be a strong problem solver. We are not looking for people that can just "program". We want people that can program to solve actual problems. Sometimes the best solutions don't involve code! 
 
@@ -138,7 +138,15 @@ Pro's included:
 * Were able to interview people individually at different times. This meant we were able to have interviewers in more than one interview which allows them to compare against candidates
 
 Con's inlcuded:
-* Time intensive
+* Time intensive. Because we reduced the number of interviewers it was a way more time intensive process. 
+* Some of the quesitons in the cultural interview were poorly formed and added no value. We had questions around how they would approach solving a problem, this was pretty useless. It was way more useful seeing them actuall solve a problem.
+* Got very little value from reviewing their code. The intial intention to give feedback and see them adjust didn't work well in this instance.
+
+## Iteration 3 - Individual approach with validation
+
+After our second iteration I was more comfortable with the interview process and the reliability of candidates coming through. In a random conversation with someone I was sharing a taxi with who worked in this field they suggested we look at introducing a particular cognitivie test to our approach. Her comments were in over a decade of doing interviews this type of test was the only one she had found reliable.
+
+
 
 How does this change our approach to interviewing?
 - You can still focus on culture, do they add to our culture
