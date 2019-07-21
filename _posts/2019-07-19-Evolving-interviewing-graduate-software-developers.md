@@ -103,7 +103,7 @@ Con's included:
 * Didn't really get a feel for how passionate people were. Passion is a very ambigous word. In my opinion most people when asked how passionate they are about something will tell you they are very passionate... especially if it leads to a job.
 * Have to interview in groups. With the lego simulation this puts you down the road that you need to interview with a group of people. Great candidates are not always available at the same time. Restricting yourself to only being able to interview as a large group can potentiall filter out some great candidates.
 
-## Iteration 2 - individual interviews
+## Iteration 2 - The individual approach
 
 ### What are we looking for in a great candiate?
 
