@@ -88,6 +88,32 @@ In the cultural interview we would:
 * Their passion around software development
 * Why they wanted to work for our company.
 
+ ### My thoughts around iteration 1
+
+Looking back at this approach there were pro's and con's
+
+Pro's included:
+* It's quick. You can get interviewing a large group of people out in a very short period of time
+* It has deversity built in. Becuase you have a group of people interviewing you naturally come out with a mix of people and personalities in selected candidates
+* Indications were that we got a good feel for how much people wanted to work at MYOB
+
+Con's included:
+* Hard to compare between candidates. Because different people have interviewed different candidates it's hard to compare. Someone that has higher standards / criteria may rank their candidate lower than someone else
+* Didn't see much value in the collaboration activity. Candidates know they are being observed, having a collaboration game for 2 hours is not enough for people to stop posing so you really don't know how good someone is at collaboration
+* Didn't really get a feel for how passionate people were. Passion is a very ambigous word. In my opinion most people when asked how passionate they are about something will tell you they are very passionate... especially if it leads to a job.
+
+## Iteration 2
+
+### What are we looking for in a great candiate?
+
+After our first intake we re-evaluated what were were looking for in a great candidate. We came up with the following:
+
+1) Should display an endurance to coding
+2) Should be able to think end to end BUT also go deep into an idea
+3) Should be have experience and a skills collaborating with others in a team
+4) Should be resilient
+5) Should be a strong problem solver
+
 - You don't know if they will actually enjoy being a software developer... code endurance
 
 How does this change our approach to interviewing?
