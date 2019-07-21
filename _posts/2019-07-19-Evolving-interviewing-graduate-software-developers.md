@@ -67,9 +67,9 @@ So how do you know who to hire? How do you know if someone has the potential to 
 
 The question around who to invest in led us to ask what makes a great software developer? We felt there was a mix of technical, collaboration and problem solving skills. We expected candidates to have some coding skills but we felt that if they were passionate enough about the field this was a space where they could learn and grow.
 
-### The approach   
-
 As iteration 1, we took the approach that we wanted to hire passionate software developers that were great collaborators and problem solvers. Because we were going to invest in their technical skills we were not too concerned about current technical ability provided they had some basic coding skills and a passion to learn.
+
+### Implementation
 
 We settled on a two part interview process which was done as a bulk interview. Following an initial CV scan we identified candidates we felt were worth interviewing. We then invited the top 20 candidates to a group interview day.
 
@@ -115,7 +115,30 @@ After our first intake we re-evaluated what were were looking for in a great can
 4) Should be resilient. We want people that can be stretched and recover quickly.
 5) Should be a strong problem solver. We are not looking for people that can just "program". We want people that can program to solve actual problems. Sometimes the best solutions don't involve code! 
 
-- You don't know if they will actually enjoy being a software developer... code endurance
+### Implementation
+
+For iteration we had a 3 step interview process
+
+1) Cultural interview  
+2) Systems thinking interview  
+3) Code problem
+
+The cultural interview was an in person interview with a set of predetermined questions. The questions covered a range of topics. We wanted to gauge was this person going to add to our culture (were they more than just a coder). We also wanted to know what had attracted them to the industry, what was their motive? How much do they know about us as an organisation? What questions do they ask when handling unknowns? How well do they know themselves and how others perceive them?
+
+The systems thinking interview was an in person problem solving interview. It was specifically designed to not have any code in it. Rather we wanted to see if someone could think end to end. Ask relevant questions and then work at different levels of a system to map out process.
+
+The final step was a coding problem. We would allow a candidate to code a problem. We would then review it, give feedback and see how they adjust. We were establishing at what level is this person's baisc coding skills. How do they handle feedback?
+
+### Summary of effectiveness
+
+Approach 2 had certain trade offs again
+
+Pro's included:
+* Had a much better idea of how someone problem solves and their ability to think end to end and then go deep into a problem.
+* Were able to interview people individually at different times. This meant we were able to have interviewers in more than one interview which allows them to compare against candidates
+
+Con's inlcuded:
+* Time intensive
 
 How does this change our approach to interviewing?
 - You can still focus on culture, do they add to our culture
