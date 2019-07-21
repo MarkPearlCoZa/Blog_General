@@ -109,11 +109,11 @@ Con's included:
 
 After our first intake we re-evaluated what were were looking for in a great candidate. We came up with the following:
 
-1) Should display an endurance to coding
-2) Should be able to think end to end BUT also go deep into an idea
-3) Should be have experience and a skills collaborating with others in a team
-4) Should be resilient
-5) Should be a strong problem solver
+1) Should display an endurance to coding. We didn't care what programming language, more that they had "programmed" over a period of time and could endure being in front of a machine looking at code over an extended period of time.  
+2) Should be able to think end to end BUT also go deep into an idea. We wanted people that would look at a problem and ask what is it we are actually trying to solve. We then wanted them to be able to get into implementation.  
+3) Should be have experience and a skills collaborating with others in a team. Software is a team sport, we want people that can work with others.  
+4) Should be resilient. We want people that can be stretched and recover quickly.
+5) Should be a strong problem solver. We are not looking for people that can just "program". We want people that can program to solve actual problems. Sometimes the best solutions don't involve code! 
 
 - You don't know if they will actually enjoy being a software developer... code endurance
 
