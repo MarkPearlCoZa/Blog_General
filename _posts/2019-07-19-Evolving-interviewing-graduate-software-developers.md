@@ -61,13 +61,13 @@ With this change in hiring goals I suddenly had a problem. Most of my traditiona
 
 So how do you know who to hire? How do you know if someone has the potential to become a great software developer in our company and is worth investing vs someone else?
 
-## Iteration 1 
+## Iteration 1 - The bulk approach
 
 ### What are we looking for in a great candidate?
 
 The question around who to invest in led us to ask what makes a great software developer? We felt there was a mix of technical, collaboration and problem solving skills. We expected candidates to have some coding skills but we felt that if they were passionate enough about the field this was a space where they could learn and grow.
 
-## Interation 1 - The bulk approach
+### The approach   
 
 As iteration 1, we took the approach that we wanted to hire passionate software developers that were great collaborators and problem solvers. Because we were going to invest in their technical skills we were not too concerned about current technical ability provided they had some basic coding skills and a passion to learn.
 
@@ -88,7 +88,7 @@ In the cultural interview we would:
 * Their passion around software development
 * Why they wanted to work for our company.
 
- ### My thoughts around iteration 1
+### Summary of effectiveness
 
 Looking back at this approach there were pro's and con's
 
@@ -101,8 +101,9 @@ Con's included:
 * Hard to compare between candidates. Because different people have interviewed different candidates it's hard to compare. Someone that has higher standards / criteria may rank their candidate lower than someone else
 * Didn't see much value in the collaboration activity. Candidates know they are being observed, having a collaboration game for 2 hours is not enough for people to stop posing so you really don't know how good someone is at collaboration
 * Didn't really get a feel for how passionate people were. Passion is a very ambigous word. In my opinion most people when asked how passionate they are about something will tell you they are very passionate... especially if it leads to a job.
+* Have to interview in groups. With the lego simulation this puts you down the road that you need to interview with a group of people. Great candidates are not always available at the same time. Restricting yourself to only being able to interview as a large group can potentiall filter out some great candidates.
 
-## Iteration 2
+## Iteration 2 - individual interviews
 
 ### What are we looking for in a great candiate?
 
