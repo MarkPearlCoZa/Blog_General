@@ -27,7 +27,16 @@ To start off with, I want to share how our programme has evolved.
 
 ## Simple rotation 
 
-We started off with a very simple rigid structure. We worked on a 1 graduate per team rule. Every 3 months graduates would need to move teams. This had low management overheard however the experience was hit and miss. As a graduate your growth was dependent on the team you joined and how experienced they were with growing someone. Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
+We started off with a very simple rigid structure. 
+
+* We worked on a 1 graduate per team rule. 
+* Every 3 months each graduate would move to a new team. 
+
+This simple approach had low management overheard. The experience however was hit and miss. 
+
+One of the biggest challenges I saw with this approach was as a graduate your growth was largely dependent on the team you join and how experienced they are with growing someone. Our organization however had a predominantly "experienced" engineering force that had very little experience working with people newer in their careers.
+
+Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
 
 ## Simple rotation with intentional learning workshops
 
