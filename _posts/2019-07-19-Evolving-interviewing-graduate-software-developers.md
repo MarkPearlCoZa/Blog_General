@@ -144,25 +144,28 @@ Con's inlcuded:
 
 ## Iteration 3 - Individual approach with validation
 
-After our second iteration I was more comfortable with the interview process and the reliability of candidates coming through. In a random conversation with someone I was sharing a taxi with who worked in this field they suggested we look at introducing a particular cognitivie test to our approach. Her comments were in over a decade of doing interviews this type of test was the only one she had found reliable.
+After our second iteration I was more comfortable with the interview process and the reliability of candidates coming through. In a random conversation with someone I was sharing a taxi with who worked in this field they suggested we look at introducing a particular cognitivie test to our approach that established how quickly someone can learn new concetps. Her comments were in over a decade of doing interviews this type of test was the only one she had found reliable.
+
+After some looking around we adjusted our interview process to add that as an additional step.
+
+1) Cultural interview  
+2) Systems thinking interview  
+3) Cognitive assessment
+4) Code problem
+
+The cognitive assessment has been an useful addtion to the process. In itself it doesn't really provide much value as in I would not rely entirely on it on it's own. Combioned with the System thinking interview however it provides a useful feedback / validation loop. It is unusual for someone to peform well in the systems thinking interview and not do well in the cognitive assessment and vice versa. Whenever we have this happen it's a red flag to us to take a second look at a candidate or what happened in that interview.
+
+## Where do we go from here?
+
+We are currently on iteration 3 of interviewing. It's worth noting where are our blind spots and what can we improve. Some things come to mind:
+
+* I'm finding very little value around questions on resilience in the cultural interview. Everyone seems to be resilient. I don't believe that is possible. I'm going to look at a more effective way to measure this rather than asking people.
+* Considering moving the coding problem to be in person. The actual coding problem we give is to stock standard and easily googleable. I'm never sure if I'm seeing someone's original work or someone else's work.
+* Need more alternatives for the systems thinking interview. Right now we only have one flavour of it which is feeling restrictive
+* I don't feel like we are evaluating a persons ability to collaborate well with others. Everyone is a team player. I'm not sure how we would assess this or even if you can assess this without them gaming it.
+* I'm considering introducing OCEAN testing to get a better feel for a candidate. There is some solid science behind this type of assessment and the more data we have the better.
 
 
-
-How does this change our approach to interviewing?
-- You can still focus on culture, do they add to our culture
-- Have they demonstrated some sort of endurance to coding (university coding course, internship, hobby programming)
-- Are they a strong critical thinker
-- How much time will we invest in them before we can get value... what are the foundational principles we are looking for? If someone hasn't demonstrated that they are a great software developer... what attributes would give us an indication that they will be one eventually?
-
-First attempt we came up with
-- Have they demonstrated an tendency to code
-- Are they a collaborator, can they work with others[
-- Do they like the industry we operate in (have they shown an interest in Accounting, what problem we solve, the company)
-- Can they think of a problem end to end and then go deep and into the nitty gritty's
-- Are they passionate about software
-
-Second attempt 
-- Are they show an apptitude to be able to learn new concepts quickly
 
 Third attempt
 - Have they demonstrated an tendency to code
