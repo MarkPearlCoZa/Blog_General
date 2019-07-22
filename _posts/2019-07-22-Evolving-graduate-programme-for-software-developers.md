@@ -4,8 +4,15 @@ title: Evolving graduate programme for software developers
 tags: 
 category: General
 ---
+Where I work we've been improving our graduate programme for software developers. Today I would like to share some of the insights we've gained over the last few years around how to do this better.
+
+## How do I fit into this?
+
+My involvement in our graduate has evolved with time. It started as a part time volunteer to help improve the experience. Since then it's evolved to be a fulltime dedicated role. In this post I would like to share some of the insights I've gained over the last few years around how to do this better.
 
 ## Why do we have a graduate programme
+
+Before I get into what we've done I want to briefly touch on why we have a graduate software developer programme. 
 
 * Scarcity of experienced software engineers
 * Allows us to focus on culture
