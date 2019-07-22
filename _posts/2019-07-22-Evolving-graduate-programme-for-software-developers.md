@@ -12,12 +12,12 @@ category: General
 * Allows us to intentionally address diversity
 * Technical skills are just one element that make a great software developer
 
-## Our first attempt at a programme
+## First structure
 
 - People in teams rotating every 3 months
 - One afternoon a week would come to the academy and work on synthetic problems to improve their craft
 
-## Our second attempt at mentoring
+## Second structure
 
 - Dedicated period before going to teams, would work under the guidance of dedicated mentors
 - Mix of solo and co-mentors
@@ -25,7 +25,7 @@ category: General
 - Them spend varying times at different teams learning how to contribute
 - Mentoring circles led by meta mentors
 
-## Third attempt
+## Third structure
 
 - Dedicated period before going to teams
 - Work under guidance of co-mentors
