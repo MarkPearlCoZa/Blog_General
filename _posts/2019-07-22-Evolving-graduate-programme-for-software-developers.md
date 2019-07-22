@@ -7,15 +7,15 @@ category: General
 
 ## Why do we have a graduate programme
 
-* Scarcity of experienced osftware engineers
+* Scarcity of experienced software engineers
 * Allows us to focus on culture
-* Allows ut to intentionally address diversity
+* Allows us to intentionally address diversity
 * Technical skills are just one element that make a great software developer
 
 ## Our first attempt at a programme
 
 - People in teams rotating every 3 months
-- One afternoon a week would come to the academy and work on sythetic problems to improve their craft
+- One afternoon a week would come to the academy and work on synthetic problems to improve their craft
 
 ## Our second attempt at mentoring
 
@@ -31,6 +31,6 @@ category: General
 - Work under guidance of co-mentors
 - Them spend varying times at different teams, make clear what the goal is
 - Produce guidebooks to give guidance on roles
-- Introduce workshops for mentors to drive more allignment
+- Introduce workshops for mentors to drive more alignment
 - Mentoring circles led by a single person
 
