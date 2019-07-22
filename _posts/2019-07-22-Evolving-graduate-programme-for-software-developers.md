@@ -12,15 +12,25 @@ My involvement in our software developers graduate programme has evolved with ti
 
 ## Why do we have a graduate programme
 
-Before I get into the meat of what we've done, I want to briefly touch on why we are doing it in the first place. It's fair to say that in my industry there is a scarcity of experienced software engineers compared to the work needed to be done. It's also fair to say that we have a major diversity problem in this experienced pool of people doing the work (I realize diversity can be measured on multiple dimensions, the most obvious one right now being gender diversity but there are others). 
+Before I get into the meat of what we've done and how we have evolved the programme, I want to briefly touch on why we are doing it in the first place. There are two main drivers.
 
-Our graduate programme allowed us to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just din't have enough industry experience. In tapping into this pool I've found that there is way more diversity. This has allowed us to intentionally bring people in diversity to our engineering teams. I believe this diversity has led to better balanced teams that make better software. 
+1) It's fair to say that in my industry we have a scarcity of experienced software engineers available compared to the amount of work needed to be done. 
+2) It's also fair to say that we have a major diversity problem in this experienced pool of people doing the work (I realize diversity can be measured on multiple dimensions, the most obvious one right now being gender diversity but there are others). 
 
-As I mentioned in a [previous post](http://blog.markpearl.co.za/Evolving-approach-to-interviewing-graduate-software-developers), good practices in software construction is just one element of makes a great software developer.
+Our graduate programme allowed us to tackle these two dimensions simulataneously. We were able to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just didn't have enough experience AND in tapping into this pool we've found that there is way more diversity on many different dimensions. 
 
-## First structure
+The net result is our graduate programme has allowed us to intentionally bring diversity in to our engineering teams which I believe will result in us making better software.
 
-- People in teams rotating every 3 months
+## Evolution of high level programme
+
+To start off with, I want to share how our programme has evolved.
+
+## Simple rotation
+
+We started off with a very simple rigid structure. We worked on a 1 graduate per team rule. Every 3 months graduates would need to move teams. This had low management overheard however the experience was very hit and miss depending on which team a the person joined. Some teams had a complex domain
+
+##
+
 - One afternoon a week would come to the academy and work on synthetic problems to improve their craft
 
 ## Second structure
