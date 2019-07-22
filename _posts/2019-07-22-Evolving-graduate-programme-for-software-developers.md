@@ -8,7 +8,7 @@ Where I work we've been improving our graduate programme for software developers
 
 ## How do I fit into this?
 
-My involvement in our software developers graduate programme has evolved with time. It started as a part time volunteer who rolled up their sleeves to help improve the experience for a specific participant that wasn't having such a great time. With time it's evolved to be a fulltime dedicated role where I look after the programme across three cities. In this post I would like to share some of the insights I've gained over the last few years around how to run a graduate programme for software developers better.
+My involvement in our software developers graduate programme has evolved with time. It started as me being a part time volunteer that wanted to improve the experience for a specific participant. With time it's evolved to be a fulltime role where I look after the programme across three cities with about 30 participants at any one time. In this post I would like to share some of the insights I've gained over the last few years around how to run a graduate programme for software developers better as well as the lessons we've learned on this journey.
 
 ## Why do we have a graduate programme
 
