@@ -157,27 +157,31 @@ The cognitive assessment has been an useful addtion to the process. In itself it
 
 ## Where do we go from here?
 
-We are currently on iteration 3 of interviewing. It's worth noting where are our blind spots and what can we improve. Some things come to mind:
+We are currently on iteration 3 of interviewing. I recently came across an interesting research paper that proposed what they felt were the attributes of a great software developer. They mentioned the following:
 
-* I'm finding very little value around questions on resilience in the cultural interview. Everyone seems to be resilient. I don't believe that is possible. I'm going to look at a more effective way to measure this rather than asking people.
-* Considering moving the coding problem to be in person. The actual coding problem we give is to stock standard and easily googleable. I'm never sure if I'm seeing someone's original work or someone else's work.
-* Need more alternatives for the systems thinking interview. Right now we only have one flavour of it which is feeling restrictive
-* I don't feel like we are evaluating a persons ability to collaborate well with others. Everyone is a team player. I'm not sure how we would assess this or even if you can assess this without them gaming it.
-* I'm considering introducing OCEAN testing to get a better feel for a candidate. There is some solid science behind this type of assessment and the more data we have the better.
+1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution
+2) Domain Modelling. Are they able to conceptualize a domain and handle how behaviour and data
+3) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume
+4) Efficiency in problem solving - How easily can they solve a problem
+5) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts
+6) Novelty / creativity - Can they look at a problem in different angles
+7) Categorization - Can they categorize things, group them
+8) Communication skills with experts in other domaions - Can they communicate with other effectively, verbal, written, etc.
+9) Adoption of good practices in software engineering - Do they have great software engineering practices
 
+I would add to this list:
 
+* Have they demonstrated an endurance to code
+* Ability to collaborate wit others
+
+I do see some parallels to what we are interviewing and this list. Certainly in the systems thinking interview we look at efficiency in problem solving, knowledge representation, abstraftion and/or modularization, creativity and/or novelty in solution although we haven't defined it as nicely.
+
+It's worth noting where are our blind spots and what can we improve. Some things come to mind:
+
+* I'm finding very little value around questions on resilience in the cultural interview. Everyone seems to be resilient. I don't believe that is possible. I'm going to look at a more effective way to measure this rather than asking people. I have a few ideas but nothing I can share.
+* I don't feel like we are evaluating a persons ability to collaborate well with others. Everyone thinks they are a team player. I'm not sure how we would assess this or even if you can assess this without them gaming it.
+* Considering moving the coding problem to be in person. The actual coding problem we give is to stock standard and easily googleable. I'm never sure if I'm seeing someone's original work or someone else's work. Really all I want to establish at a graduate level is where they are technically, the actual code construction we teach.
+* I want more alternatives for the systems thinking interview. Right now we only have one flavour of it which is feeling restrictive.
+* I'm considering introducing OCEAN testing to get a better feel for a candidate. There is some solid science behind this type of assessment and the more data we have the better. This might also give me some insights into collaboration although I'm not sure.
 
 Third attempt
-- Have they demonstrated an tendency to code
-- Do they ask questions or make assumptions
-- Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution
-- Domain Modelling. Are they able to conceptualize a domain and handle how behaviour and data
-- Knowledge Representation. Can they represent knowledge effectively so it is easy to consume
-- Efficiency in problem solving - How easily can they solve a problem
-- Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts
-- Novelty / creativity - Can they look at a problem in different angles
-- Categorization - Can they categorize things, group them
-- Communication skills with experts in other domaions - Can they communicate with other effectively, verbal, written, etc.
-- Adoption of good practices in software engineering - Do they have great software engineering practices
-
-- 
