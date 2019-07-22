@@ -168,22 +168,28 @@ We are currently on iteration 3 of interviewing. I recently came across an inter
 7) Communication skills with experts in other domains - Can they communicate with other effectively, verbal, written, etc.  
 8) Adoption of good practices in software engineering - Do they have great software engineering practices  
 
-Some of these things I believe we can look for upfront and others they would develop during the academy.
+Some of these things I believe we can look for upfront and others they would develop during the programme
+
+The things I believe we focus on when they are in the programme are:
+
+1) Adoption of good practrices in software engineering
+2) Domain modelling
+3) Effective abstraction (I'm calling it effective because I want to see basic abstraction ability upfront)  
 
 The things upfront I would like to see are:
 
 1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution  
 2) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume  
 3) Efficiency in problem solving - How easily can they solve a problem  
-4) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts  
+4) Basic abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts  
 5) Novelty / creativity - Can they look at a problem in different angles  
 6) Categorization - Can they categorize things, group them  
 7) Communication skills with experts in other domains - Can they communicate with other effectively, verbal, written, etc.  
 
 I would add to this list:
 
-* Have they demonstrated an endurance to code
-* Ability to collaborate with others
+* Have they demonstrated an endurance to code - Are they fine being in front of a PC day in and day out.
+* Ability to collaborate with others - Can they build up on others ideas
 
 I do see some parallels to what we are interviewing and this list. Certainly in the systems thinking interview we look at efficiency in problem solving, knowledge representation, abstraction and/or modularization, creativity and/or novelty in solution although we haven't defined it as nicely.
 
