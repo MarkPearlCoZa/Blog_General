@@ -32,6 +32,8 @@ We started off with a very simple rigid structure.
 * We worked on a 1 graduate per team rule. 
 * Every 3 months each graduate would move to a new team. 
 
+### Summary of adjustments
+
 This simple approach had low management overheard. The experience however was hit and miss. 
 
 One of the biggest challenges I saw with this approach was as a graduate your growth was largely dependent on the team you join and how experienced they are with growing someone. Our organization however had a predominantly "experienced" engineering force that had very little experience working with people newer in their careers.
@@ -41,6 +43,8 @@ Some teams had a complex domain that required serious upskilling. I questioned h
 ## Simple rotation with shared intentional learning workshops
 
 Our next adjustment was to introduce learning workshops. Once a week we would get all the graduates together an afternoon to go through a fundamental software development concept. They would then have a 'synthetic problem' to do on their own to help apply that concept. 
+
+### Summary of adjustments
 
 The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. 
 
@@ -53,6 +57,8 @@ During the learning phase graduteas would work through a series of synthetic pro
 At the end of the learning phase the gradutes would participate in a "meaningful project" and them move into team rotations.
 
 We also adjusted the policy for team rotations so that graduates could spend between 3 and 6 months in a team instead of a fixed 3 month rotaiton. This allowed one to stay longer in a team if you were still learning.
+
+### Summary of adjustments
 
 ## Third structure
 
