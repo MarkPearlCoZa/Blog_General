@@ -28,7 +28,7 @@ Generally this would be an unscripted conversation. We would talk about what got
 
 ### Technology competency
 
-The next step was a technology competency assessment. Do they know the tech we use, how much of this tech did they really understand and at what level of understanding. Again this would be conversation style with potential whiteboarding. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
+The next step was a technology competency assessment. Do they know the tech we use, how much of this tech did they really understand and at what level of understanding. Again this would be conversation style with potential white boarding. We would talk about the tech stack, there would be some general questions around technology they have used. Things they would do or avoid. Often we would map out a build pipeline or something along those lines.
 
 ### Coding skills assessment
 
@@ -54,7 +54,7 @@ When I moved into the graduate space our goal had changed. Instead of hiring exp
 
 With this change in hiring goals I suddenly had a problem. Most of my traditional measures for interviewing were no longer useful. 
 
-* Measuirng existing coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions), in depth discussions around code construction and design are often beyond the scope of their current abilities. 
+* Measuring existing coding skills were not applicable, most graduates have what I call an academic style to coding (lots of comments, immaturely structured solutions), in depth discussions around code construction and design are often beyond the scope of their current abilities. 
 * Level of technology competency is largely irrelevant. Because they are new in their career they don't have much technology experience. You realize very soon on that you will be teaching them most if not all of the technology. 
 * Team software process experience is minimal. Most candidates have worked in one or two group projects. Often at best a candidate will have a very theoretical idea of scrum or some software methodology. 
 * A specific team fit interview doesn't apply. Graduates are not hired into a specific team, instead they enter a graduate programme where they are expected to spend 3 to 6 months with a team before having to move to another team.
@@ -73,14 +73,14 @@ As iteration 1, we took the approach that we wanted to hire passionate software 
 
 We settled on a two part interview process which was done as a bulk interview. Following an initial CV scan we identified candidates we felt were worth interviewing. We then invited the top 20 candidates to a group interview day.
 
-The interview day consisted of a group activity (building lego structures as a team) followed by a "cultural interview" where they were asked general questions around collaboration as well as their passion software. The cultural interview was done by two people. 
+The interview day consisted of a group activity (building Lego structures as a team) followed by a "cultural interview" where they were asked general questions around collaboration as well as their passion software. The cultural interview was done by two people. 
 
 At the end of the day all the interviewers would get together and share notes and we would pick our top candidates and make an offer.
 
 In the collaboration exercise we would look at:
 * How well candidates interacted with others
 * Their creativity in solving problems
-* Their ability to communicate with their group memebrs
+* Their ability to communicate with their group members
 * How dominant / compliant they were, did they override team members decisions, etc.
 
 In the cultural interview we would:
@@ -94,18 +94,18 @@ Looking back at this approach there were pro's and con's
 
 Pro's included:
 * It's quick. You can get interviewing a large group of people out in a very short period of time
-* It has deversity built in. Becuase you have a group of people interviewing you naturally come out with a mix of people and personalities in selected candidates
-* Indications were that we got a good feel for how much people wanted to work at MYOB
+* It has diversity built in. Because you have a group of people interviewing you naturally come out with a mix of people and personalities in selected candidates
+* Indications were that we got a good feel for how much people wanted to work at our company 
 
 Con's included:
 * Hard to compare between candidates. Because different people have interviewed different candidates it's hard to compare. Someone that has higher standards / criteria may rank their candidate lower than someone else
 * Didn't see much value in the collaboration activity. Candidates know they are being observed, having a collaboration game for 2 hours is not enough for people to stop posing so you really don't know how good someone is at collaboration
-* Didn't really get a feel for how passionate people were. Passion is a very ambigous word. In my opinion most people when asked how passionate they are about something will tell you they are very passionate... especially if it leads to a job.
-* Have to interview in groups. With the lego simulation this puts you down the road that you need to interview with a group of people. Great candidates are not always available at the same time. Restricting yourself to only being able to interview as a large group can potentiall filter out some great candidates.
+* Didn't really get a feel for how passionate people were. Passion is a very ambiguous word. In my opinion most people when asked how passionate they are about something will tell you they are very passionate especially if it leads to a job.
+* Have to interview in groups. With the Lego simulation this puts you down the road that you need to interview with a group of people. Great candidates are not always available at the same time. Restricting yourself to only being able to interview as a large group can potentially filter out some great candidates.
 
 ## Iteration 2 - The individual approach
 
-### What are we looking for in a great candiate?
+### What are we looking for in a great candidate?
 
 After our first intake we re-evaluated what were were looking for in a great candidate. We came up with the following:
 
@@ -127,7 +127,7 @@ The cultural interview was an in person interview with a set of predetermined qu
 
 The systems thinking interview was an in person problem solving interview. It was specifically designed to not have any code in it. Rather we wanted to see if someone could think end to end. Ask relevant questions and then work at different levels of a system to map out process.
 
-The final step was a coding problem. We would allow a candidate to code a problem. We would then review it, give feedback and see how they adjust. We were establishing at what level is this person's baisc coding skills. How do they handle feedback?
+The final step was a coding problem. We would allow a candidate to code a problem. We would then review it, give feedback and see how they adjust. We were establishing at what level is this person's basic coding skills. How do they handle feedback?
 
 ### Summary of effectiveness
 
@@ -137,14 +137,14 @@ Pro's included:
 * Had a much better idea of how someone problem solves and their ability to think end to end and then go deep into a problem.
 * Were able to interview people individually at different times. This meant we were able to have interviewers in more than one interview which allows them to compare against candidates
 
-Con's inlcuded:
+Con's includes:
 * Time intensive. Because we reduced the number of interviewers it was a way more time intensive process. 
-* Some of the quesitons in the cultural interview were poorly formed and added no value. We had questions around how they would approach solving a problem, this was pretty useless. It was way more useful seeing them actuall solve a problem.
-* Got very little value from reviewing their code. The intial intention to give feedback and see them adjust didn't work well in this instance.
+* Some of the questions in the cultural interview were poorly formed and added no value. We had questions around how they would approach solving a problem, this was pretty useless. It was way more useful seeing them actually solve a problem.
+* Got very little value from reviewing their code. The initial intention to give feedback and see them adjust didn't work well in this instance.
 
 ## Iteration 3 - Individual approach with validation
 
-After our second iteration I was more comfortable with the interview process and the reliability of candidates coming through. In a random conversation with someone I was sharing a taxi with who worked in this field they suggested we look at introducing a particular cognitivie test to our approach that established how quickly someone can learn new concetps. Her comments were in over a decade of doing interviews this type of test was the only one she had found reliable.
+After our second iteration I was more comfortable with the interview process and the reliability of candidates coming through. In a random conversation with someone I was sharing a taxi with who worked in this field they suggested we look at introducing a particular cognitive test to our approach that established how quickly someone can learn new concepts. Her comments were in over a decade of doing interviews this type of test was the only one she had found reliable.
 
 After some looking around we adjusted our interview process to add that as an additional step.
 
@@ -153,28 +153,39 @@ After some looking around we adjusted our interview process to add that as an ad
 3) Cognitive assessment
 4) Code problem
 
-The cognitive assessment has been an useful addtion to the process. In itself it doesn't really provide much value as in I would not rely entirely on it on it's own. Combioned with the System thinking interview however it provides a useful feedback / validation loop. It is unusual for someone to peform well in the systems thinking interview and not do well in the cognitive assessment and vice versa. Whenever we have this happen it's a red flag to us to take a second look at a candidate or what happened in that interview.
+The cognitive assessment has been an useful addition to the process. In itself it doesn't really provide much value as in I would not rely entirely on it on it's own. Combined with the System thinking interview however it provides a useful feedback / validation loop. It is unusual for someone to perform well in the systems thinking interview and not do well in the cognitive assessment and vice versa. Whenever we have this happen it's a red flag to us to take a second look at a candidate or what happened in that interview.
 
 ## Where do we go from here?
 
 We are currently on iteration 3 of interviewing. I recently came across an interesting research paper that proposed what they felt were the attributes of a great software developer. They mentioned the following:
 
-1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution
-2) Domain Modelling. Are they able to conceptualize a domain and handle how behaviour and data
-3) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume
-4) Efficiency in problem solving - How easily can they solve a problem
-5) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts
-6) Novelty / creativity - Can they look at a problem in different angles
-7) Categorization - Can they categorize things, group them
-8) Communication skills with experts in other domaions - Can they communicate with other effectively, verbal, written, etc.
-9) Adoption of good practices in software engineering - Do they have great software engineering practices
+1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution  
+2) Domain Modelling. Are they able to conceptualize a domain and handle how behaviour and data  
+3) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume  
+4) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts  
+5) Novelty / creativity - Can they look at a problem in different angles  
+6) Categorization - Can they categorize things, group them  
+7) Communication skills with experts in other domains - Can they communicate with other effectively, verbal, written, etc.  
+8) Adoption of good practices in software engineering - Do they have great software engineering practices  
+
+Some of these things I believe we can look for upfront and others they would develop during the academy.
+
+The things upfront I would like to see are:
+
+1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution  
+2) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume  
+3) Efficiency in problem solving - How easily can they solve a problem  
+4) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts  
+5) Novelty / creativity - Can they look at a problem in different angles  
+6) Categorization - Can they categorize things, group them  
+7) Communication skills with experts in other domains - Can they communicate with other effectively, verbal, written, etc.  
 
 I would add to this list:
 
 * Have they demonstrated an endurance to code
-* Ability to collaborate wit others
+* Ability to collaborate with others
 
-I do see some parallels to what we are interviewing and this list. Certainly in the systems thinking interview we look at efficiency in problem solving, knowledge representation, abstraftion and/or modularization, creativity and/or novelty in solution although we haven't defined it as nicely.
+I do see some parallels to what we are interviewing and this list. Certainly in the systems thinking interview we look at efficiency in problem solving, knowledge representation, abstraction and/or modularization, creativity and/or novelty in solution although we haven't defined it as nicely.
 
 It's worth noting where are our blind spots and what can we improve. Some things come to mind:
 
@@ -183,5 +194,3 @@ It's worth noting where are our blind spots and what can we improve. Some things
 * Considering moving the coding problem to be in person. The actual coding problem we give is to stock standard and easily googleable. I'm never sure if I'm seeing someone's original work or someone else's work. Really all I want to establish at a graduate level is where they are technically, the actual code construction we teach.
 * I want more alternatives for the systems thinking interview. Right now we only have one flavour of it which is feeling restrictive.
 * I'm considering introducing OCEAN testing to get a better feel for a candidate. There is some solid science behind this type of assessment and the more data we have the better. This might also give me some insights into collaboration although I'm not sure.
-
-Third attempt
