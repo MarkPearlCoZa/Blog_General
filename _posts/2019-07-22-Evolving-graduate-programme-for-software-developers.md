@@ -38,10 +38,11 @@ One of the biggest challenges I saw with this approach was as a graduate your gr
 
 Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
 
-## Simple rotation with intentional learning workshops
+## Simple rotation with shared intentional learning workshops
 
-At one stage we began introducing learning workshops. Once a week we would get all the graduates together and go through a fundamental concept. They would then have a 'synthetic problem' to do on their own to help apply that concept. 
+Our next adjustment was to introduce learning workshops. Once a week we would get all the graduates together an afternoon to go through a fundamental software development concept. They would then have a 'synthetic problem' to do on their own to help apply that concept. 
 
+The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. 
 
 ## Second structure
 
