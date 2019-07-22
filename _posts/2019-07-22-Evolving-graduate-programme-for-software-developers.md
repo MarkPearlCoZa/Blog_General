@@ -25,13 +25,14 @@ The net result is our graduate programme has allowed us to intentionally bring d
 
 To start off with, I want to share how our programme has evolved.
 
-## Simple rotation
+## Simple rotation 
 
-We started off with a very simple rigid structure. We worked on a 1 graduate per team rule. Every 3 months graduates would need to move teams. This had low management overheard however the experience was very hit and miss depending on which team a the person joined. Some teams had a complex domain
+We started off with a very simple rigid structure. We worked on a 1 graduate per team rule. Every 3 months graduates would need to move teams. This had low management overheard however the experience was hit and miss. As a graduate your growth was dependent on the team you joined and how experienced they were with growing someone. Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
 
-##
+## Simple rotation with intentional learning workshops
 
-- One afternoon a week would come to the academy and work on synthetic problems to improve their craft
+At one stage we began introducing learning workshops. Once a week we would get all the graduates together and go through a fundamental concept. They would then have a 'synthetic problem' to do on their own to help apply that concept. 
+
 
 ## Second structure
 
