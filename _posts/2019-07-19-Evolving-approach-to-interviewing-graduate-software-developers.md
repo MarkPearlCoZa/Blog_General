@@ -172,11 +172,11 @@ Some of these things I believe we can look for upfront and others they would dev
 
 The things I believe we focus on when they are in the programme are:
 
-1) Adoption of good practrices in software engineering
-2) Domain modelling
-3) Effective abstraction (I'm calling it effective because I want to see basic abstraction ability upfront)  
+1) Adoption of good practrices in software engineering  
+2) Domain modelling  
+3) Effective abstraction (I'm calling it effective because I want to see basic abstraction ability upfront)    
 
-The things upfront I would like to see are:
+The things upfront I would like to see are:  
 
 1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution  
 2) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume  
