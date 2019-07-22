@@ -44,13 +44,15 @@ Our next adjustment was to introduce learning workshops. Once a week we would ge
 
 The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. 
 
-## Second structure
+## Introduction of learning phase before team rotations
 
-- Dedicated period before going to teams, would work under the guidance of dedicated mentors
-- Mix of solo and co-mentors
-- Project at the end, not meant to be a race but want people to go through at their own pace
-- Them spend varying times at different teams learning how to contribute
-- Mentoring circles led by meta mentors
+The next adjustment was probably the biggest. We introduced a learning phase before graduates entered team rotations. The intention with the learning phase was to give graduates foundational technical skills that they would use regardless of the team they joined. 
+
+During the learning phase graduteas would work through a series of synthetic problems under the guidance of dedicated mentors. Mentors worked either as solo or co-mentors. We introduced the concept of "meta" mentors who were there to help new mentors figure out what mentoring meant.
+
+At the end of the learning phase the gradutes would participate in a "meaningful project" and them move into team rotations.
+
+We also adjusted the policy for team rotations so that graduates could spend between 3 and 6 months in a team instead of a fixed 3 month rotaiton. This allowed one to stay longer in a team if you were still learning.
 
 ## Third structure
 
