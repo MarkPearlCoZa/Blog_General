@@ -17,7 +17,7 @@ Before I get into the meat of what we've done and how we have evolved the progra
 1) It's fair to say that in my industry we have a scarcity of experienced software engineers available compared to the amount of work needed to be done.  
 2) It's also fair to say that we have a major diversity problem in this experienced pool of people doing the work (I realize diversity can be measured on multiple dimensions, the most obvious one right now being gender diversity but there are others).  
 
-Our graduate programme allowed us to tackle these two dimensions simulataneously. We were able to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just didn't have enough experience AND in tapping into this pool we've found that there is way more diversity on many different dimensions. 
+Our graduate programme allowed us to tackle these two areas simulataneously. We were able to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just didn't have enough experience AND in tapping into this pool we've found that there is way more diversity on many different dimensions. 
 
 The net result is our graduate programme has allowed us to intentionally bring diversity in to our engineering teams which I believe will result in us making better software.
 
