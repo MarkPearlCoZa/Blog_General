@@ -8,16 +8,15 @@ Where I work we've been improving our graduate programme for software developers
 
 ## How do I fit into this?
 
-My involvement in our graduate has evolved with time. It started as a part time volunteer to help improve the experience. Since then it's evolved to be a fulltime dedicated role. In this post I would like to share some of the insights I've gained over the last few years around how to do this better.
+My involvement in our software developers graduate programme has evolved with time. It started as a part time volunteer who rolled up their sleeves to help improve the experience for a specific participant that wasn't having such a great time. With time it's evolved to be a fulltime dedicated role where I look after the programme across three cities. In this post I would like to share some of the insights I've gained over the last few years around how to run a graduate programme for software developers better.
 
 ## Why do we have a graduate programme
 
-Before I get into what we've done I want to briefly touch on why we have a graduate software developer programme. 
+Before I get into the meat of what we've done, I want to briefly touch on why we are doing it in the first place. It's fair to say that in my industry there is a scarcity of experienced software engineers compared to the work needed to be done. It's also fair to say that we have a major diversity problem in this experienced pool of people doing the work (I realize diversity can be measured on multiple dimensions, the most obvious one right now being gender diversity but there are others). 
 
-* Scarcity of experienced software engineers
-* Allows us to focus on culture
-* Allows us to intentionally address diversity
-* Technical skills are just one element that make a great software developer
+Our graduate programme allowed us to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just din't have enough industry experience. In tapping into this pool I've found that there is way more diversity. This has allowed us to intentionally bring people in diversity to our engineering teams. I believe this diversity has led to better balanced teams that make better software. 
+
+As I mentioned in a [previous post](http://blog.markpearl.co.za/Evolving-approach-to-interviewing-graduate-software-developers), good practices in software construction is just one element of makes a great software developer.
 
 ## First structure
 
