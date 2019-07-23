@@ -8,7 +8,7 @@ Where I work we've been improving our graduate programme for software developers
 
 ## How do I fit into this?
 
-My involvement in our software developers graduate programme has evolved with time. It started as me being a part time volunteer that wanted to improve the experience for a specific participant. With time it's evolved to be a fulltime role where I look after the programme across three cities with about 30 participants at any one time. In this post I would like to share some of the insights I've gained over the last few years around how to run a graduate programme for software developers better as well as the lessons we've learned on this journey.
+My involvement in our software developers graduate programme has evolved with time. It started as me being a part time volunteer that wanted to improve the experience for a specific participant. With time it's evolved to be a full-time role where I look after the programme across three cities with about 30 participants at any one time. In this post I would like to share some of the insights I've gained over the last few years around how to run a graduate programme for software developers better as well as the lessons we've learned on this journey.
 
 ## Why do we have a graduate programme
 
@@ -17,7 +17,7 @@ Before I get into the meat of what we've done and how we have evolved the progra
 1) It's fair to say that in my industry we have a scarcity of experienced software engineers available compared to the amount of work needed to be done.  
 2) It's also fair to say that we have a major diversity problem in this experienced pool of people doing the work (I realize diversity can be measured on multiple dimensions, the most obvious one right now being gender diversity but there are others).  
 
-Our graduate programme allowed us to tackle these two areas simulataneously. We were able to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just didn't have enough experience AND in tapping into this pool we've found that there is way more diversity on many different dimensions. 
+Our graduate programme allowed us to tackle these two areas simultaneously. We were able to tap into the vast talent pool of brilliant people wanting to enter the software engineering field that just didn't have enough experience AND in tapping into this pool we've found that there is way more diversity on many different dimensions. 
 
 The net result is our graduate programme has allowed us to intentionally bring diversity in to our engineering teams which I believe will result in us making better software.
 
@@ -38,7 +38,7 @@ This simple approach had low management overheard. The experience however was hi
 
 One of the biggest challenges I saw with this approach was as a graduate your growth was largely dependent on the team you join and how experienced they are with growing someone. Our engineering teams had very little experience working with people newer in their careers and supporting them adequately.
 
-Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
+Some teams had a complex domain that required serious up skilling. I questioned how much someone learned from the experience in just 3 months.
 
 ## Simple rotation with shared intentional learning workshops
 
@@ -46,7 +46,7 @@ Our next adjustment was to introduce learning workshops. Once a week we would ge
 
 ### Summary of adjustments
 
-The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Some weeks they were able to do the work, other weeks they were unable to prioritize it. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. Because we had a fradmented software engineering practices some teams did not value practices like TDD, or making things testable due to ignorance or lack of understanding.
+The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Some weeks they were able to do the work, other weeks they were unable to prioritize it. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. Because we had a fragmented software engineering practices some teams did not value practices like TDD, or making things testable due to ignorance or lack of understanding.
 
 ## Introduction of learning phase before team rotations
 
