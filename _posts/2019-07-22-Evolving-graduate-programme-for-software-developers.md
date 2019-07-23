@@ -60,11 +60,13 @@ We also adjusted the policy for team rotations so that graduates could spend bet
 
 ### Summary of adjustments
 
-The learning phase while useful was chaotic. Not enough guidance was given to mentors on how to develop certain skills and some of them were not experienced enough to teach these skills. There was also no bar on what "good enough" mean. Some graduates spent a fairly lengthy time in the learning phase because their mentors had higher standards of what they expected than other mentors. The idea of meta mentors never really took off. Some meta mentors met up regularly with their groups, other meta mentors preferred to get involved directly with the graduates.
+The learning phase while useful was chaotic. Not enough guidance was given to mentors on how to develop certain skills and some of them were not experienced enough to teach these skills. There was also no bar on what "good enough" mean. Some graduates spent a fairly lengthy time in the learning phase because their mentors had higher standards of what they expected than other mentors. 
 
-The introduction of a meaningful project was hit and miss as well. By the time graduates got into the meaningful project they were eager to move into team rotations. They had inexperience around how a team should collaborate and so some projects had friction and added very little value while others appeared to have helped.
+The idea of meta mentors never really took off. Some meta mentors met up regularly with their groups, other meta mentors preferred to get involved directly with the graduates. I blame lack of clarity on my side around this.
 
-Some instances where we had solo mentors, they had period of having heavy delivery commitments 
+The introduction of a meaningful project was hit and miss as well. By the time graduates got into the meaningful project they were eager to move into team rotations. They had inexperience around how a team should collaborate and so some projects had friction and added very little value while others appeared to have helped. It also ran counter to allowing graduates to move through the learning phase at their own speed. The meaningful project became this roadblock that everyone needed to be at the same stage to start and complete.
+
+Some instances where we had solo mentors, they had period of having heavy delivery commitments they were not able to dedicate sufficient time to their graduates. We also had some mentors leave the organisation. For co-mentors this was not really a problem since there was redundancy built in. For solo mentors this had a huge impact on how the graduate felt about work.
 
 Allowing varying the crew rotations created some complications on how to plan workforce planning but seemed to still be positive as graduates felt in more control of their learning journey.
 
