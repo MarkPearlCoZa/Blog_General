@@ -7,9 +7,9 @@ category: General
 
 At MYOB we've been improving our graduate programme for software developers. Today I would like to share some of the insights we've gained over the last few years around a practice I call technical mentorship.
 
-## Who am I and how do I fit in
+## How do I fit in
 
-I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate academy at MYOB. The academy is where employ less experienced software practitioners and through a strucutred learning and mentorship programme intentionally grow their capability.
+I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate academy at MYOB. The academy is where employ less experienced software practitioners and through a strucutred learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
 
 ## Mentorship is a key pillar in the programme 
 
