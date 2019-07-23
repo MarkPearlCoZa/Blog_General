@@ -101,3 +101,5 @@ There were a number of adjustments. I'm going to just summarize the 5 that stood
 **Journey outcomes for team rotations** - Having a clear purpose of what a graduate is going to achieve in a team rotation I believe will lead to more meaningful team experiences. It's still early days on this one.
 
 The high level structure of the programme is continuing to evolve. We are beginning to see where the current structure falls apart. I often question the introduction of the learning phase but still believe the benefits of it outweigh the challenges it introduces.
+
+In the next post I'm going to share some of the learning we have gained around the learning phase and how to be an effective mentor during this phase.
