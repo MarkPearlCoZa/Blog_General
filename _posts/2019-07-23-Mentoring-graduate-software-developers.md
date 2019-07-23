@@ -35,7 +35,7 @@ While the definition of a profession or trade mentor is close, I don't really li
 
 Technical mentorship is a role, not a tool or technique. In the English language we seem often use the same words to describe both roles and tools (for instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool--sooad confusing!).
 
-There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where you mentee is at in their learning journey. Some of the tools/techniques I've seen include:
+There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where your mentee is at in their learning journey. Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
