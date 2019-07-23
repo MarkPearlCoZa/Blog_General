@@ -90,11 +90,11 @@ We've done the following.
 
 There were a number of adjustments. I'm going to just summarize the 5 that stood out to me the most.
 
-**Guidebooks** - First off, producing guidebooks for all roles has been important because it has allowed us to scale the programme while still stay relatively aligned. Getting the balance of the guidebooks so that they still allow mentors the flexibility to change things and adjust based on needs but give direction is always a challenge. I believe we have the balance right but we will see. The guidebooks for the graduates were extremely important and have helped reduce a lot of the unknowns.
+**Guidebooks** - First off, producing guidebooks for all roles has been important because it has allowed us to scale the programme while still stay relatively aligned. Getting the balance of the guidebooks so that they still allow mentors the flexibility to change things and adjust based on needs but give direction is always a challenge. I believe we have the balance right but we will see. The guidebooks for the graduates were extremely important and have helped reduce a lot of the unknowns and provide further direction.
 
-**Quorum Reviews** - Introducing quorum reviews has helped mentors be more aligned on what good enough is for each graduate during learning. It's also given the graduates clearer guidelines on what we are aiming for.
+**Quorum Reviews** - Introducing quorum reviews has helped mentors be more aligned on what good enough is for each graduate during learning. It's also given the graduates clearer guidelines on what we are aiming for. I believe we will continue to see quorum reviews mature as groups of people establish "what good enough is" and how to assess it.
 
-**Mentoring Circles** - Moving the mentoring circles as a tool to up skill AND also stay aligned has been beneficial. Right now while things are still changing fairly quickly it makes sense for me to continue leading these. I suspect as the dust settles and we rely more on the guidebooks my participation in these can decrease.
+**Mentoring Circles** - Moving the mentoring circles as a tool to up skill AND also stay aligned has been beneficial. Right now while things are still changing fairly quickly it makes sense for me to continue leading these. I suspect as the dust settles and we rely more on the guidebooks my participation in these can decrease or be shared with the wider engineering group. Right now I feel like a key person dependency in this, but a necessary one.
 
 **Cohort project** - Moving the cohort project to midway through the learning phase has its pros and cons. The big pro is it breaks up the monotony
 
