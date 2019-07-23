@@ -31,7 +31,7 @@ A profession or trade mentor is someone who is currently in the profession the m
 
 ### Mentoring is a role, not a tool
 
-While this definition is close, it's not all emcompassing. I've seen other shapes of "mentoring" being used during the process from "the personal trainer shape" to the "cheerleader" shape. I'll explain these in a different post some time.I'm not going to invest too much time around trying to define what our mentors do in a single sentence. It would grossly simplify the skill and effort required to be an effective mentor. Instead I'm going to create a new word for this form of mentorship and call it **Technical Mentorship**.
+While the definition of a profession or trade mentor is close, I don't really like the word so I'm going to create a new word for the form of mentorship I've seen for our graduates and call it **Technical Mentorship**.
 
 Technical mentorship is a role, not a tool or technique. In the english language we seem to use the same words to describe roles and tools. For instance coaching is a role and a tool. If you are coaching a soccer team that is your role. If you are coaching someone through making a difficult devision, that's a tool (yes, I know this get's confussing!).
 
