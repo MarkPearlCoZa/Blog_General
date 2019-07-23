@@ -29,7 +29,7 @@ Probably the closest definition to the type of mentoring I've see happen for our
 
 A profession or trade mentor is someone who is currently in the profession the mentee is entering. They know the trends, important changes and new practices that the mentee should know to stay at the top of their career. 
 
-### Mentoring is a role, not a tool
+### Technical mentoring is a role, not a tool
 
 While the definition of a profession or trade mentor is close, I don't really like the word so I'm going to create a new word for the form of mentorship I've seen for our graduates and call it **Technical Mentorship**.
 
