@@ -77,7 +77,7 @@ I decided to keep the learning phase however it was clear that more work needed.
 We've done the following.
 
 - Learning phase to only work with co-mentors (no more solo mentors)
-- Introduce workshops to support mentors around what their role was
+- Introduce workshops to support mentors around what their role was and the psychology of teaching
 - Introduce guidebooks for graduates, the general engineering organisation and mentors on how they can be effective in the programme
 - Adjust meaningful project to be a cohort project midway through the learning phase
 - Introduce roadmap on what the journey covered during the learning phase
@@ -86,4 +86,18 @@ We've done the following.
 - Adjust mentoring circles to be led by myself as a tool for alignment across the programme
 - Introduction of weekly health check emails for mentors and graduates to monitor how they are doing during the learning phase
 
+#### Summary of adjustments
 
+There were a number of adjustments. I'm going to just summarize the 5 that stood out to me the most.
+
+**Guidebooks** - First off, producing guidebooks for all roles has been important because it has allowed us to scale the programme while still stay relatively aligned. Getting the balance of the guidebooks so that they still allow mentors the flexibility to change things and adjust based on needs but give direction is always a challenge. I believe we have the balance right but we will see. The guidebooks for the graduates were extremely important and have helped reduce a lot of the unknowns.
+
+**Quorum Reviews** - Introducing quorum reviews has helped mentors be more aligned on what good enough is for each graduate during learning. It's also given the graduates clearer guidelines on what we are aiming for.
+
+**Mentoring Circles** - Moving the mentoring circles as a tool to up skill AND also stay aligned has been beneficial. Right now while things are still changing fairly quickly it makes sense for me to continue leading these. I suspect as the dust settles and we rely more on the guidebooks my participation in these can decrease.
+
+**Cohort project** - Moving the cohort project to midway through the learning phase has its pros and cons. The big pro is it breaks up the monotony
+
+**Journey outcomes for team rotations** - Having a clear purpose of what a graduate is going to achieve in a team rotation I believe will lead to more meaningful team experiences. It's still early days on this one.
+
+The high level structure of the programme is continuing to evolve. We are beginning to see where the current structure falls apart. I often question the introduction of the learning phase but still believe the benefits of it outweigh the challenges it introduces.
