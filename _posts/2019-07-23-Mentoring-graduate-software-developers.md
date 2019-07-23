@@ -13,9 +13,15 @@ I have a software development background with a strong value placed on XP princi
 
 ## Mentorship is a key pillar 
 
-Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors. As I discovered early on, the word mentor is a loaded word. It means vastly different things to different people. If you read the definition on wikipedia it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*
+Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors. As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. 
 
-> Mentoring... precise definition is elusive
+If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
+
+> Mentoring(s)... precise definition is elusive
+
+Wikipedia goes on to say *"Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)"*.
+
+> Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support...
 
 
 
@@ -24,7 +30,6 @@ Mentorship is a key pillar in the programme. Certainly our graduates would not l
 ### Ambigous
 
 
-Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)".
 
 Profession or trade mentor - Someone who is currently in the trade/profession you are entering. They know the trends, important changes and new practices that you should know to stay at the top of your career. A mentor like this would be someone you can discuss ideas regarding the field, and also be introduced to key and important people that you should know.
 
