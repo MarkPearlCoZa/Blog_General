@@ -52,11 +52,17 @@ The addition of the weekly workshop helped us form a baseline for where people w
 
 The next adjustment was probably the biggest. We introduced a learning phase before graduates entered team rotations. The intention with the learning phase was to give graduates foundational technical skills that they would use regardless of the team they joined. 
 
-During the learning phase graduteas would work through a series of synthetic problems under the guidance of dedicated mentors. Mentors worked either as solo or co-mentors. We introduced the concept of "meta" mentors who were there to help new mentors figure out what mentoring meant.
+During the learning phase graduates would work a collection of software engineering practices that we had identified as important to us as an organisation. We provided a handful of synthetic problems that the mentors could use to help their graduates learn. Mentors worked either as solo or co-mentors. We introduced the concept of "meta" mentors who were there to help new mentors figure out what mentoring meant.
 
-At the end of the learning phase the gradutes would participate in a "meaningful project" and them move into team rotations.
+At the end of the learning phase the graduates would participate in a "meaningful project" and them move into team rotations.
 
-We also adjusted the policy for team rotations so that graduates could spend between 3 and 6 months in a team instead of a fixed 3 month rotaiton. This allowed one to stay longer in a team if you were still learning.
+We also adjusted the policy for team rotations so that graduates could spend between 3 and 6 months in a team instead of a fixed 3 month rotation. This allowed one to stay longer in a team if you were still learning.
+
+### Summary of adjustments
+
+The learning phase while useful was chaotic. Not enough guidance was given to mentors on how to develop certain skills and some of them were not experienced enough to teach these skills. There was also no bar on what "good enough" mean. Some graduates spent a fairly lengthy time in the learning phase because their mentors had higher standards of what they expected than other mentors. The idea of meta mentors never really took off. Some meta mentors met up regularly with their groups, other meta mentors preferred to get involved directly with the graduates.
+
+Allowing varying the crew rotations created some complications on how to plan workforce planning but seemed to still be positive as graduates felt in more control of their learning journey.
 
 ### Summary of adjustments
 
