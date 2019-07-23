@@ -36,7 +36,7 @@ We started off with a very simple rigid structure.
 
 This simple approach had low management overheard. The experience however was hit and miss. 
 
-One of the biggest challenges I saw with this approach was as a graduate your growth was largely dependent on the team you join and how experienced they are with growing someone. Our organization however had a predominantly "experienced" engineering force that had very little experience working with people newer in their careers.
+One of the biggest challenges I saw with this approach was as a graduate your growth was largely dependent on the team you join and how experienced they are with growing someone. Our engineering teams had very little experience working with people newer in their careers and supporting them adequately.
 
 Some teams had a complex domain that required serious upskilling. I questioned how much someone learned from the experience in just 3 months.
 
