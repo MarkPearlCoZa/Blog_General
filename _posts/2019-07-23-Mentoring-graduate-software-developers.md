@@ -15,7 +15,7 @@ I have a software development background with a strong value placed on XP princi
 
 Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors.  
 
-## What does mentorship mean?
+### What does mentorship mean?
 
 As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
@@ -29,13 +29,14 @@ Probably the closest definition to the type of mentoring I've see happen for our
 
 A profession or trade mentor is someone who is currently in the profession the mentee is entering. They know the trends, important changes and new practices that the mentee should know to stay at the top of their career. 
 
-While this definition is close, it's not all emcompassing. I've seen other shapes of "mentoring" being used during the process from "the personal trainer shape" to the "cheerleader" shape. I'll explain these in a different post some time.
-
 ### Mentoring is a role, not a tool
 
-The challenge with mentoring is the informal aspect of it. Mentorship is a role, there are various tools we can use when mentoring and they largely depend on the objective of the mentoring role.
+While this definition is close, it's not all emcompassing. I've seen other shapes of "mentoring" being used during the process from "the personal trainer shape" to the "cheerleader" shape. I'll explain these in a different post some time.I'm not going to invest too much time around trying to define what our mentors do in a single sentence. It would grossly simplify the skill and effort required to be an effective mentor. Instead I'm going to create a new word for this form of mentorship and call it **Technical Mentorship**.
 
-Our objective was to help mould great software developers. What does a great software developer look like?
+Technical mentorship is a role, not a tool. In the english language we seem to mix these things up, we have roles and tools that have the same name. For instance coaching is a role and a tool. If you are coaching a soccer team that is your role. If you are coaching someone through making a difficult devision, that's a tool (yes, I know this get's confussing!).
+
+There are are various tools technical mentors can use and they largely depend on the objective of the mentoring role and where someone is in their journey.
+
 
 ### What does a great software developer look like?
 
