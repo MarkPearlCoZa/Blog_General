@@ -11,15 +11,18 @@ At MYOB we've been improving our graduate programme for software developers. Tod
 
 I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where employ less experienced software practitioners and through a strucutred learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
 
-## Mentorship is a key pillar in the programme 
+## Mentorship is a key pillar 
 
-A key pillar in the programme is the concept of mentorship. Certainly our graduates would not learn and grow as effectively as they do if we didn't have such amazing mentors.
+Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors. As I discovered early on, the word mentor is a loaded word. It means vastly different things to different people. If you read the definition on wikipedia it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*
+
+> Mentoring... precise definition is elusive
+
+
 
 ## What does mentoring mean?
 
 ### Ambigous
 
-"Mentoring" is a process that always involves communication and is relationship-based, but its precise definition is elusive."
 
 Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)".
 
