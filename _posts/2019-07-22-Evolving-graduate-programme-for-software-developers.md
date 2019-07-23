@@ -96,7 +96,7 @@ There were a number of adjustments. I'm going to just summarize the 5 that stood
 
 **Mentoring Circles** - Moving the mentoring circles as a tool to up skill AND also stay aligned has been beneficial. Right now while things are still changing fairly quickly it makes sense for me to continue leading these. I suspect as the dust settles and we rely more on the guidebooks my participation in these can decrease or be shared with the wider engineering group. Right now I feel like a key person dependency in this, but a necessary one.
 
-**Cohort project** - Moving the cohort project to midway through the learning phase has its pros and cons. The big pro is it breaks up the monotony
+**Cohort project** - Moving the cohort project to midway through the learning phase has its pros and cons. The big pro is it breaks up the monotony. Some of the cons are around splitting attention between the work the mentors are guiding and the learnings from the cohort project.
 
 **Journey outcomes for team rotations** - Having a clear purpose of what a graduate is going to achieve in a team rotation I believe will lead to more meaningful team experiences. It's still early days on this one.
 
