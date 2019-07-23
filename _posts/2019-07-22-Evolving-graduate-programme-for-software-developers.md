@@ -25,14 +25,14 @@ The net result is our graduate programme has allowed us to intentionally bring d
 
 To start off with, I want to share how our programme has evolved.
 
-## Iteration 1 - Simple rotation 
+### Iteration 1 - Simple rotation 
 
 We started off with a very simple rigid structure. 
 
 * We worked on a 1 graduate per team rule. 
 * Every 3 months each graduate would move to a new team. 
 
-### Summary of adjustments
+#### Summary of adjustments
 
 This simple approach had low management overheard. The experience however was hit and miss. 
 
@@ -40,15 +40,15 @@ One of the biggest challenges I saw with this approach was as a graduate your gr
 
 Some teams had a complex domain that required serious up skilling. I questioned how much someone learned from the experience in just 3 months.
 
-## Iteration 2 - Simple rotation with shared intentional learning workshops
+### Iteration 2 - Simple rotation with shared intentional learning workshops
 
 Our next adjustment was to introduce learning workshops. Once a week we would get all the graduates together an afternoon to go through a fundamental software development concept. They would then have a 'synthetic problem' to do on their own to help apply that concept. 
 
-### Summary of adjustments
+#### Summary of adjustments
 
 The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Some weeks they were able to do the work, other weeks they were unable to prioritize it. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. Because we had a fragmented software engineering practices some teams did not value practices like TDD, or making things testable due to ignorance or lack of understanding.
 
-## Iteration 3 - Introduction of learning phase before team rotations
+### Iteration 3 - Introduction of learning phase before team rotations
 
 The next adjustment was probably the biggest. We introduced a learning phase before graduates entered team rotations. The intention with the learning phase was to give graduates foundational technical skills that they would use regardless of the team they joined. 
 
@@ -58,7 +58,7 @@ At the end of the learning phase the graduates would participate in a "meaningfu
 
 We also adjusted the policy for team rotations so that graduates could spend between 3 and 6 months in a team instead of a fixed 3 month rotation. This allowed one to stay longer in a team if you were still learning.
 
-### Summary of adjustments
+#### Summary of adjustments
 
 The learning phase while useful was chaotic. Not enough guidance was given to mentors on how to develop certain skills and some of them were not experienced enough to teach these skills. There was also no bar on what "good enough" mean. Some graduates spent a fairly lengthy time in the learning phase because their mentors had higher standards of what they expected than other mentors. 
 
@@ -70,7 +70,7 @@ Some instances where we had solo mentors, they had period of having heavy delive
 
 Allowing varying the crew rotations created some complications on how to plan workforce planning but seemed to still be positive as graduates felt in more control of their learning journey.
 
-## Iteration 4 - Refinement of learning phase and more intentional team rotations
+### Iteration 4 - Refinement of learning phase and more intentional team rotations
 
 I decided to keep the learning phase however it was clear that more work needed. We did the following.
 
