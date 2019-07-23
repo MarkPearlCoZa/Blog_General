@@ -13,9 +13,11 @@ I have a software development background with a strong value placed on XP princi
 
 ## Mentorship is a key pillar 
 
-Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors. As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. 
+Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors.  
 
-If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
+## What does mentorship mean?
+
+As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
 > Mentoring(s)... precise definition is elusive
 
@@ -23,7 +25,7 @@ It goes on to say *"Mentoring is a process for the informal transmission of know
 
 > Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support...
 
-Probably the closest definition to the type of mentoring I've see happen for graduates is what is called **Profession or trade mentoring**. A profession or trade mentor is someone who is currently in the profession the mentee is entering. They know the trends, important changes and new practices that the mentee should know to stay at the top of their career. 
+Probably the closest definition to the type of mentoring I've see happen for our graduate software developer is called **Profession or trade mentoring**. A profession or trade mentor is someone who is currently in the profession the mentee is entering. They know the trends, important changes and new practices that the mentee should know to stay at the top of their career. While this definition is close, it's not all emcompassing. I've seen other shapes of "mentoring" being used during the process from "the personal trainer shape" to the "cheerleader" shape. I'll explain these in a different post some time.
 
 ### Mentoring is a role, not a tool
 
