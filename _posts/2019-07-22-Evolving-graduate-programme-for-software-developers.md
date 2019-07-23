@@ -74,7 +74,12 @@ Allowing varying the crew rotations created some complications on how to plan wo
 
 I decided to keep the learning phase however it was clear that more work needed. We did the following.
 
-- Work under guidance of co-mentors
+- Learning phase to only work with co-mentors (no more solo mentors)
+- Introduce workshops to support mentors around what their role was
+- Introduce guidebooks for graduates, the general engineering organisation and mentors on how they can be effective in the programme
+- Adjust meaningful project to be a cohort project midway through the learning phase
+- Introduce roadmap on what the journey covered during the learning phase
+- Introduce concept 
 - Them spend varying times at different teams, make clear what the goal is
 - Produce guidebooks to give guidance on roles
 - Introduce workshops for mentors to drive more alignment
