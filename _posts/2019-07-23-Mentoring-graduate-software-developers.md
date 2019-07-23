@@ -33,9 +33,11 @@ A profession or trade mentor is someone who is currently in the profession the m
 
 While this definition is close, it's not all emcompassing. I've seen other shapes of "mentoring" being used during the process from "the personal trainer shape" to the "cheerleader" shape. I'll explain these in a different post some time.I'm not going to invest too much time around trying to define what our mentors do in a single sentence. It would grossly simplify the skill and effort required to be an effective mentor. Instead I'm going to create a new word for this form of mentorship and call it **Technical Mentorship**.
 
-Technical mentorship is a role, not a tool. In the english language we seem to mix these things up, we have roles and tools that have the same name. For instance coaching is a role and a tool. If you are coaching a soccer team that is your role. If you are coaching someone through making a difficult devision, that's a tool (yes, I know this get's confussing!).
+Technical mentorship is a role, not a tool or technique. In the english language we seem to use the same words to describe roles and tools. For instance coaching is a role and a tool. If you are coaching a soccer team that is your role. If you are coaching someone through making a difficult devision, that's a tool (yes, I know this get's confussing!).
 
-There are are various tools technical mentors can use and they largely depend on the objective of the mentoring role and where someone is in their journey.
+There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where you mentee is at in their learning journey. Some of the tools/techniques I've seen include:
+
+<img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
 
 ### What does a great software developer look like?
@@ -123,7 +125,7 @@ We are currently using a mixed approach where they balance time between real wor
 ## What are the tools available to mentors
 
 * Teacher, I will help you learn concepts and information that you can use to solve problems
-* Learnig Pairer, we will solve this together and learn from each other while doing it
+* Learning Pairer, we will solve this together and learn from each other while doing it
 * Strong Direction, I will tell you what to do to solve it
 * Technical advisor, I will answer your questions as you go along
 * Modeller, I will do it,  you watch me so you can learn from me
