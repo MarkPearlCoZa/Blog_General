@@ -19,19 +19,11 @@ If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorsh
 
 > Mentoring(s)... precise definition is elusive
 
-Wikipedia goes on to say *"Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)"*.
+It goes on to say *"Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)"*.
 
 > Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support...
 
-
-
-## What does mentoring mean?
-
-### Ambigous
-
-
-
-Profession or trade mentor - Someone who is currently in the trade/profession you are entering. They know the trends, important changes and new practices that you should know to stay at the top of your career. A mentor like this would be someone you can discuss ideas regarding the field, and also be introduced to key and important people that you should know.
+Probably the closest definition to the type of mentoring I've see happen for graduates is what is called **Profession or trade mentoring**. A profession or trade mentor is someone who is currently in the profession the mentee is entering. They know the trends, important changes and new practices that the mentee should know to stay at the top of their career. 
 
 ### Mentoring is a role, not a tool
 
