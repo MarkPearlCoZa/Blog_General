@@ -46,7 +46,7 @@ Our next adjustment was to introduce learning workshops. Once a week we would ge
 
 ### Summary of adjustments
 
-The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. 
+The addition of the weekly workshop helped us form a baseline for where people were at technically. One challenge we found with this approach was graduates being able to make time to do the synthetic problems during the week. Some weeks they were able to do the work, other weeks they were unable to prioritize it. Another challenge was being able to tie up what they were learning in the workshops to the actual work they were doing. Because we had a fradmented software engineering practices some teams did not value practices like TDD, or making things testable due to ignorance or lack of understanding.
 
 ## Introduction of learning phase before team rotations
 
