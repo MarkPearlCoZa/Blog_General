@@ -9,7 +9,7 @@ At MYOB we've been improving our graduate programme for software developers. Tod
 
 ## How do I fit in
 
-I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where employ less experienced software practitioners and through a strucutred learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
+I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
 
 ## Mentorship is a key pillar 
 
@@ -31,9 +31,9 @@ A profession or trade mentor is someone who is currently in the profession the m
 
 ### Technical mentoring is a role, not a tool
 
-While the definition of a profession or trade mentor is close, I don't really like the word so I'm going to create a new word for the form of mentorship I've seen for our graduates and call it **Technical Mentorship**.
+While the definition of a profession or trade mentor is close, I don't really like them as words so I'm going to create yet another a new form of mentorship which I call  **Technical Mentorship** (gasp).
 
-Technical mentorship is a role, not a tool or technique. In the english language we seem to use the same words to describe roles and tools. For instance coaching is a role and a tool. If you are coaching a soccer team that is your role. If you are coaching someone through making a difficult devision, that's a tool (yes, I know this get's confussing!).
+Technical mentorship is a role, not a tool or technique. In the English language we seem often use the same words to describe both roles and tools (for instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool--sooad confusing!).
 
 There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where you mentee is at in their learning journey. Some of the tools/techniques I've seen include:
 
@@ -87,7 +87,7 @@ We are still figuring out how to look at collaboration skills, or effectively de
 * What are you aiming at
 * When will this end, what is the journey like
 
-## Establish current skillset
+## Establish current skill set
 
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
 
