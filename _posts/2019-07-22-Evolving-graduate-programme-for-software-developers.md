@@ -72,16 +72,18 @@ Allowing varying the crew rotations created some complications on how to plan wo
 
 ### Iteration 4 - Refinement of learning phase and more intentional team rotations
 
-I decided to keep the learning phase however it was clear that more work needed. We did the following.
+I decided to keep the learning phase however it was clear that more work needed. 
+
+We've done the following.
 
 - Learning phase to only work with co-mentors (no more solo mentors)
 - Introduce workshops to support mentors around what their role was
 - Introduce guidebooks for graduates, the general engineering organisation and mentors on how they can be effective in the programme
 - Adjust meaningful project to be a cohort project midway through the learning phase
 - Introduce roadmap on what the journey covered during the learning phase
-- Introduce concept 
-- Them spend varying times at different teams, make clear what the goal is
-- Produce guidebooks to give guidance on roles
-- Introduce workshops for mentors to drive more alignment
-- Mentoring circles led by a single person
+- Introduce concept of quorum reviews where a group of mentors meet with a graduate at key milestones to review work
+- Introduce concept of journey outcomes for each team rotation so that the purpose of why the graduate is in a team is clear
+- Adjust mentoring circles to be led by myself as a tool for alignment across the programme
+- Introduction of weekly health check emails for mentors and graduates to monitor how they are doing during the learning phase
+
 
