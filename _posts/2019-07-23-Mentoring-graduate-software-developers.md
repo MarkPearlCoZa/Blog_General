@@ -57,21 +57,22 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
-## How do we get good at technical mentoring for graduate software developers
+## How do we get good at technical mentoring 
 
-Now that I have briefly outline what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. I'm going to focus on mentoring software developers who are new in their career. I stress this because I believe as someone becomes more experienced the tools you use to mentor them change.
+Now that I have briefly outline what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
-Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. I stress this because I believe as someone becomes more experienced the tools you use to mentor and the things you do change.
 
 ### Establish how the mentoring relationship is going to work
 
-It seems obvious but I've seen the results of not establishing these upfront. Some of the things you want to clarify...
+It seems obvious but I've seen the impact of not establishing this upfront. Some of the things you want to clarify...
 
+* Why do they want you as their mentor
 * How often you will meet 
 * What are you aiming at
-* When will you end the mentoring period
+* How will we know when it's over
 
-Knowing the framework for the relationship is going to avoid situations where you meet 
+Knowing the framework for the relationship will avoid some awkward situations. I've seen a mentoring relationship go on for several months longer than it needed to because the mentee didn't know how to tell their mentor they wanted a change.
 
 ## Have a direction you are heading and help them understand why something is important
 
