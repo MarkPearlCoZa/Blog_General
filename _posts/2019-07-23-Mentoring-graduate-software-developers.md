@@ -61,17 +61,17 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 Now that I have briefly outline what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. I'm going to focus on mentoring software developers who are new in their career. I stress this because I believe as someone becomes more experienced the tools you use to mentor them change.
 
-
-
 Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
-## Establish how the mentoring relationship is going to work
+### Establish how the mentoring relationship is going to work
 
 It seems obvious but I've seen the results of not establishing these upfront. Some of the things you want to clarify...
 
 * How often you will meet 
 * What are you aiming at
 * When will you end the mentoring period
+
+Knowing the framework for the relationship is going to avoid situations where you meet 
 
 ## Have a direction you are heading and help them understand why something is important
 
@@ -109,17 +109,6 @@ We introduced quorum reviews where a group of mentors go together to review a pa
 * Understanding motivation (share story about drawing pictures and demotivating)
 
 We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
-
-## What are the tools available to mentors
-
-* Teacher, I will help you learn concepts and information that you can use to solve problems
-* Learning Pairer, we will solve this together and learn from each other while doing it
-* Strong Direction, I will tell you what to do to solve it
-* Technical advisor, I will answer your questions as you go along
-* Modeller, I will do it,  you watch me so you can learn from me
-* Coaching (sounding board), I will ask great questions and you will reflect and realize the next steps on your own
-* Connector, I don't know myself, but I will introduce you to people that can help you solve this.
-
 
 ## There is no secret formula
 
