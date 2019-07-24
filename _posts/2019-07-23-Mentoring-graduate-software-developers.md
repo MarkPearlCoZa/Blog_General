@@ -37,11 +37,7 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 ### Technical mentoring is a role, not a tool
 
-Technical mentorship is a role, not a tool or technique. Let me explain the difference. In the English language we seem often use the same words to describe both roles and tools (for instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool--sooaa confusing!).
-
-
-
-
+Technical mentorship is a role, not a tool or technique. Let me explain the difference. In the English language we seem often use the same words to describe both roles and tools. For instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool. 
 
 There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where your mentee is at in their learning journey. Some of the tools/techniques I've seen include:
 
