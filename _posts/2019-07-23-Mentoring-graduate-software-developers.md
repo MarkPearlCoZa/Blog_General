@@ -17,11 +17,11 @@ Mentorship is a key pillar in the programme. Certainly our graduates would not l
 
 ### What does mentorship mean?
 
-As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
+As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
 > Mentoring(s)... precise definition is elusive
 
-I fully agree with the precise definition of mentorship being elusive. From what I have found there are many different forms of mentorship. Having looked at the ones listed on wikipedia, the closest form of mentoring to the type of mentoring we do with our graduate software developer is **profession or trade mentoring**. 
+I fully agree with the precise definition of mentorship being elusive. From what I have found there are many different forms of mentorship. Having looked at the ones listed on Wikipedia, the closest form of mentoring to the type of mentoring we do with our graduate software developer is **profession or trade mentoring**. 
 
 A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things. 
 
@@ -29,11 +29,11 @@ While the definition of a profession or trade mentor is close, I doesn't fully r
 
 ### What is technical mentoring?
 
-So what is technical mentorin? I'm going to propose a defitinion...
+So what is technical mentoring? I'm going to propose a definition...
 
 Technical mentoring is a process for the informal transmission of knowledge, skills, and support perceived by the recipient as relevant to their development as a software professional; it entails informal communication, usually face-to-face and during a sustained period of time, between the person who is perceived to have greater relevant knowledge, wisdom, and technical skills (the mentor) and a person who is perceived to have less (the protégé)"*.
 
-> Technical mentoring is a process for the informal transmission of knowledge, skills, and support...
+> Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege...
 
 ### Technical mentoring is a role, not a tool
 
@@ -64,7 +64,7 @@ If you asked me this question a few years ago
 8) Adoption of good practices in software engineering - Do they have great software engineering practices
 9) Ability to collaborate with others - Can they build up on others ideas
 
-Right now we look for candidates that show an apptitude for already...
+Right now we look for candidates that show an aptitude for already...
 
 1) Adding to our culture
 2) Good good at problem solving
@@ -145,6 +145,6 @@ We are currently using a mixed approach where they balance time between real wor
 
 Unfortunately there is no formula. Every person is different and so the approach taken needs to be customized
 
-The power behind effective mentors is they adapt to the needs of their mentee. The more tools a mentor has, the more able they are to adapt to ther mentees needs
+The power behind effective mentors is they adapt to the needs of their mentee. The more tools a mentor has, the more able they are to adapt to their mentees needs
 
 
