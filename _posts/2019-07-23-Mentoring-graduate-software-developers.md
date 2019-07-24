@@ -21,19 +21,25 @@ As I discovered early on, the word mentorship is a loaded word. It means vastly 
 
 > Mentoring(s)... precise definition is elusive
 
-I fully agree with the precise definition of mentorship being elusive. From what I have found there are many different forms of mentorship. Having looked at the ones listed on wikipedia, probably the closest form of mentorship to the type of mentoring we do with our graduate software developer is **Profession or trade mentoring**. 
+I fully agree with the precise definition of mentorship being elusive. From what I have found there are many different forms of mentorship. Having looked at the ones listed on wikipedia, the closest form of mentoring to the type of mentoring we do with our graduate software developer is **Profession or trade mentoring**. 
 
-According to wikipedia, a profession or trade mentor is someone who is currently in the profession the mentee is entering. That person know the trends, important changes and new practices that the mentee should know to stay at the top of their career. 
+A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things. 
 
+While the definition of a profession or trade mentor is close, I doesn't fully resonate with me so I'm going to create yet another a form of mentorship to the array that already exists which I call  **Technical Mentorship** (gasp).
+
+### What is technical mentoring?
+
+So what is technical mentorin? I'm going to propose a defitinion to frame it...
+
+Technical mentoring is a process for the informal transmission of knowledge, social capital, and support perceived by the recipient as relevant to their development as a software practitioner; it entails informal communication, usually face-to-face and during a sustained period of time, between the person who is perceived to have greater relevant knowledge, wisdom, and technical experience (the mentor) and a person who is perceived to have less (the protégé)"*.
 ### Technical mentoring is a role, not a tool
 
-It goes on to say *"Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support perceived by the recipient as relevant to work, career, or professional development; mentoring entails informal communication, usually face-to-face and during a sustained period of time, between a person who is perceived to have greater relevant knowledge, wisdom, or experience (the mentor) and a person who is perceived to have less (the protégé)"*.
+Technical mentorship is a role, not a tool or technique. In the English language we seem often use the same words to describe both roles and tools (for instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool--sooaa confusing!).
 
 > Mentoring is a process for the informal transmission of knowledge, social capital, and the psychosocial support...
 
-While the definition of a profession or trade mentor is close, I don't really like them as words so I'm going to create yet another a new form of mentorship which I call  **Technical Mentorship** (gasp).
 
-Technical mentorship is a role, not a tool or technique. In the English language we seem often use the same words to describe both roles and tools (for instance coaching is a role and a tool, if you are coaching a soccer team that is your role; if you are coaching someone through making a difficult decision, that's a tool--sooad confusing!).
+
 
 There are are various tools/techniques I've seen technical mentors use. What to use largely depends on where your mentee is at in their learning journey. Some of the tools/techniques I've seen include:
 
