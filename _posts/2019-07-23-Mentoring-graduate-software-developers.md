@@ -45,11 +45,9 @@ Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
-
 ### What does a great software developer look like?
 
 If you asked me this question a few years ago
-
 
 
 1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution
@@ -73,12 +71,6 @@ Right now we look for candidates that show an aptitude for already...
 
 We look at developing their software engineering practices
 We are still figuring out how to look at collaboration skills, or effectively develop these
-
-## Our program at a high level
-
-* Two parts, Acceleration & Crew Rotations
-* Acceleration develop foundational skills necessary across most teams
-* Crew rotations more traditional, people work in teams
 
 ## Have a direction you are heading and help them understand why something is important
 
