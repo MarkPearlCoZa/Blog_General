@@ -65,9 +65,9 @@ I'm going to focus on mentoring software developers who are new in their career.
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
-I see a lot of parellels to the dreyfus model of skills aquisition which maps out what the needs are to aquire a skill depending on your current level. 
+I find the Dreyfus model of skills aquisition useful as it maps out what the needs are to aquire a skill depending on your current level. 
 
-Generally graduate software developers are at the Novice or Advanced Beginner stages meaning as a technical mentor you are going to give them a mix of detailed step by step instructions or simple projects in a safe enviroment where failure isn't expensive.
+Generally graduate software developers are at the Novice or Advanced Beginner in most of their areas of competency. Dreyfus's model would suggest the ideal is to give them a mix of detailed step by step instructions or simple projects in a safe to fail enviroment.
 
 ### Establish how the mentoring relationship is going to work
 
