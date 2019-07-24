@@ -53,7 +53,7 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 **Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
 
-**Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great technical mentors focus on things relevant to our current challenges.
+**Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great technical mentors focus on things relevant to our current challenges. The are able to sequence learning and conversations to keep things relevant.
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 

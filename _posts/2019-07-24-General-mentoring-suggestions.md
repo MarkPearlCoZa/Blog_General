@@ -5,6 +5,8 @@ tags:
 category: General
 ---
 
+This post is still being fleshed out. Come back later for more meaningful information.
+
 ### Establish up front how the mentoring relationship is going to work
 
 It seems obvious but I've seen the impact of not establishing this upfront. Some of the things you want to clarify...
