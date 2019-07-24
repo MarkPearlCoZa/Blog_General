@@ -35,6 +35,20 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 > Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege relevant to their development as a software professional 
 
+### What value does technical mentor give over other forms of development?
+
+Now that we've established what technical mentorship is, I want to spend a few moments around the value a technical mentor gives over other methods of learning. 
+
+I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many many books you can read, you can do a class and there are almost an infinite number of online tutorials you can watch. All of these mediums give us knowledge and a different rate of effectiveness.
+
+The edge that technical mentorship has over these other forms is the human element. As humans we learn best through **social interactions** that include collaborative and cooperative conversations with others that are more skilled in the task we are trying to learn. Vygotsky, a Soviet psychologist in the early twentieth century proposed a model called the zone of proximal development that was largely focussed at the growth of children but illustrates the idea. It looked as follows:
+
+<img class="img-responsive" alt="Zone of proximal development" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development.png">
+
+ My experience so far is that technical mentorship is the most effective ways to grow people. 
+
+
+
 ### Technical mentoring is a role, not a tool
 
 Technical mentorship is a role, not a tool or technique. Let me explain the difference. In the English language we often use the same words to describe both roles and tools. For instance "coaching" is a role and a tool, if you are the coach of a soccer team that is your role and we could say you are coaching them; if you are coaching someone through making a difficult decision, that's a tool you are using to help achieve an outcome (them gaining insights to make a decision by you asking probing questions).. 
@@ -44,6 +58,7 @@ While technical mentorship is a role, there are are various tools and techniques
 Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
+
 
 ## Some tips for Technical Mentors
 
