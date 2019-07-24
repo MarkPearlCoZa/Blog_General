@@ -65,7 +65,7 @@ I'm going to focus on mentoring software developers who are new in their career.
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
-I find the Dreyfus model of skills acquisition a useful model to visualize when thinking about how ito adjust your approach as someone grows in skill. I would put graduate software developers at the Novice or Advanced Beginner stage in most of their areas of competency. That means when I mentor a novice or advanced beginner I'm going to focus more on providing them detailed step by step instructions or simple projects in a safe to fail environment and less on contextualized conversations.
+I find the Dreyfus model of skills acquisition a useful model to use when adjusting your mentoring approach. I put graduate software developers at the Novice or Advanced Beginner stage in most areas of competency. That means when I mentor a graduate software developer I'm going to focus more on providing them detailed step by step instructions or simple projects in a safe to fail environment and less on contextualized conversations.
 
 ## Map out the direction you are heading 
 
