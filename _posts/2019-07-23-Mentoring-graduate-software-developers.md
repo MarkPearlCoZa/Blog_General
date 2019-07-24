@@ -41,7 +41,9 @@ Now that we've established what technical mentorship is, I want to spend a few m
 
 I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many many books you can read, you can do numerous classes on software engineering and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow.
 
-The edge I've seen technical mentorship have over these other forms is the human element. As humans we learn best through **social interactions** that include collaborative and cooperative conversations with others that are more skilled in the task we are trying to learn. Vygotsky, a Soviet psychologist in the early twentieth century proposed a model called the zone of proximal development that was largely focussed at the growth of children but illustrates the idea. It looked as follows:
+The edge I've seen technical mentorship have over these other forms is the human element. As humans we learn best through **social interactions** that include collaborative and cooperative conversations with others that are more skilled in the task we are trying to learn. 
+
+Vygotsky, a Soviet psychologist in the early twentieth century proposed a model called the zone of proximal development that was largely focussed at the growth of children that touched on a similar concept. 
 
 <img class="img-responsive" alt="Zone of proximal development" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development.png">
 
