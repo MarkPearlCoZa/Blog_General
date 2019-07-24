@@ -61,9 +61,13 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 Now that I have briefly outlined what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to better at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
-I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience.
+I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience. 
+
+I see a lot of parellels to the dreyfus model of skills aquisition which maps out what the needs are to aquire a skill depending on your current level. 
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
+
+Generally graduate software developers are at the Novice or Advanced Beginner stages meaning as a technical mentor you are going to give them a mix of detailed step by step instructions or simple projects in a safe enviroment where failure isn't expensive.
 
 ### Establish how the mentoring relationship is going to work
 
