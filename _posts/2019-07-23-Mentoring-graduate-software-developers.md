@@ -74,7 +74,8 @@ It seems obvious but I've seen the impact of not establishing this upfront. Some
 
 Knowing the framework for the relationship will avoid some awkward situations. I've seen a mentoring relationship go on for several months longer than it needed to because the mentee didn't know how to tell their mentor they wanted a change.
 
-## Have a direction you are heading and help them understand why something is important
+## Map out the direction you are heading 
+
 
 * What does the journey look like, why do we want you to go through this
 * Mentors that connected the current learning to the why had happier mentees
