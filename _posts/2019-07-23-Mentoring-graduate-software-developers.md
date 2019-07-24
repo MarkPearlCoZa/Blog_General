@@ -45,37 +45,9 @@ Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
-### What does a great software developer look like?
+## Some tips for Technical Mentors
 
-If you asked me this question a few years ago
-
-
-1) Are they good at problem solving, given a lot of unknowns can they navigate their way through to a solution
-2) Domain Modelling. Are they able to conceptualize a domain and handle how behaviour and data
-3) Knowledge Representation. Can they represent knowledge effectively so it is easy to consume
-4) Abstraction / modularity - Can they think at different levels, are they able to think abstractly about a problem and then give concrete examples of abstract concepts
-5) Novelty / creativity - Can they look at a problem in different angles
-6) Categorization - Can they categorize things, group them
-7) Communication skills with experts in other domains - Can they communicate with other effectively, verbal, written, etc.
-8) Adoption of good practices in software engineering - Do they have great software engineering practices
-9) Ability to collaborate with others - Can they build up on others ideas
-
-Right now we look for candidates that show an aptitude for already...
-
-1) Adding to our culture
-2) Good good at problem solving
-3) Able to represent knowledge well
-4) Have basic abstraction / modularity skills
-5) Are creative problem solvers
-6) Have good communication skills
-
-We look at developing their software engineering practices
-We are still figuring out how to look at collaboration skills, or effectively develop these
-
-## Have a direction you are heading and help them understand why something is important
-
-* What does the journey look like, why do we want you to go through this
-* Mentors that connected the current learning to the why had happier mentees
+Now that I have briefly outline what technical mentoring is, I want to share some tips we've learned around how to make the experience effective. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
 ## Establish ground rules upfront
 
@@ -84,6 +56,11 @@ We are still figuring out how to look at collaboration skills, or effectively de
 * Logistics, how often are you going to meet, what do you expect
 * What are you aiming at
 * When will this end, what is the journey like
+
+## Have a direction you are heading and help them understand why something is important
+
+* What does the journey look like, why do we want you to go through this
+* Mentors that connected the current learning to the why had happier mentees
 
 ## Establish current skill set
 
