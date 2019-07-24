@@ -57,9 +57,11 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
-## How do we get good at it?
+## How do we get good at technical mentoring
 
-Now that I have briefly outline what technical mentoring is, I want to share some tips we've learned around how to make the experience effective. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outline what technical mentoring is and why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+
+## 
 
 ## Establish ground rules upfront
 
