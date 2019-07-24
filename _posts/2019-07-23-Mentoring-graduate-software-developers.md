@@ -59,7 +59,7 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 ## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus on this specifically around technical mentorship, I've made a [seperate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring suggestions. 
+Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus on this specifically around technical mentorship, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring suggestions. 
 
 ### Adjust your approach depending on their skill level
 
@@ -67,9 +67,11 @@ The first thing I've learned is you need to adjust your approach depending on th
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
-I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment.
+I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. 
 
-## Map out the direction you are heading 
+Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment.
+
+## Have a direction or roadmap
 
 * What does the journey look like, why do we want you to go through this
 * Mentors that connected the current learning to the why had happier mentees
