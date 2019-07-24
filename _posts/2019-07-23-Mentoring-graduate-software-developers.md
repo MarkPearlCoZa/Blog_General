@@ -33,7 +33,7 @@ So what is technical mentoring? I'm going to propose a definition...
 
 Technical mentoring is a process for the informal transmission of knowledge, skills, and support perceived by the recipient as relevant to their development as a software professional; it entails informal communication, usually face-to-face and during a sustained period of time, between the person who is perceived to have greater relevant knowledge, wisdom, and technical skills (the mentor) and a person who is perceived to have less (the protégé)"*.
 
-> Technical mentoring is a process for the informal transmission of knowledge, skills, and support relevant to their development as a software professional between the mentor and the protege.
+> Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege relevant to their development as a software professional 
 
 ### Technical mentoring is a role, not a tool
 
