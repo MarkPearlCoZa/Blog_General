@@ -69,23 +69,32 @@ I find the Dreyfus model of skills acquisition useful as it maps out what the ne
 
 Generally graduate software developers are at the Novice or Advanced Beginner stage in most of their areas of competency. Dreyfus's model would suggest the ideal is to give them a mix of detailed step by step instructions or simple projects in a safe to fail environment.
 
-## Learn how to team effectively
-
-
-
 ## Map out the direction you are heading 
 
 * What does the journey look like, why do we want you to go through this
 * Mentors that connected the current learning to the why had happier mentees
 
-## Establish current skill set
+## Learn how to teach effectively
+
+* What do adult learners need
+
+* Sinners model
+
+### Learn how to scaffold effectively
+
+
+## Kata's are useful but can get boring
+
+## Looking at code is often better than talking about code
 
 First establish where someone is. If you don't you risk either them getting no value, or being stretched too much.
 
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
 * Zone of proximal development (where are they right now, what can they do on their own)
 
-## It's great talking about it, it's better doing it
+## Pair programming is a powerful way to transfer knowlege
+
+* If you are going to pair, have your mentee at the keyboard
 
 Benefits of synthetic problems
 * Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
@@ -96,12 +105,15 @@ Cons of synthetic problems
 * See this as not adding value
 * Hippocampi tells you it's not important to learn and so you forget it quickly
 
-Benefits of real problems
+## Understanding motivation leads to a better experience
+
 * People enjoy the work more, something invigorating about adding value and building stuff others will use
 
 Cons of real problems
 * Complex, often has too many things you need to understand
 * Touch area on what you are actually learning can be low
+
+## Resist the technology as long as possible
 
 We introduced quorum reviews where a group of mentors go together to review a particular milestone
 * Saw increase in focus of mentees to cover that material
@@ -110,9 +122,8 @@ We introduced quorum reviews where a group of mentors go together to review a pa
 
 We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
 
-## Have them explain an approach at a whiteboard before coding
+## Before you code something, have them explain it on a whiteboard 
 
-## If you are going to pair, have your mentee at the keyboard
 
 ## There is no secret formula
 
