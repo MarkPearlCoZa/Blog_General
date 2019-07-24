@@ -59,7 +59,7 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 ## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring is and some of the reasons why it is so powerful, I want to share some things we've learned around how to better at it. Some of these are things are general and relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outlined what technical mentoring is and some of the reasons why it is so powerful, I want to share some things we've learned around how to better at it. I am going to focus on this specifically around technical mentorship, I've made a [seperate post]() around general mentoring suggestions. 
 
 I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience. 
 
@@ -68,17 +68,6 @@ I'm going to focus on mentoring software developers who are new in their career.
 I find the Dreyfus model of skills acquisition useful as it maps out what the needs are to acquire a skill depending on your current level. 
 
 Generally graduate software developers are at the Novice or Advanced Beginner stage in most of their areas of competency. Dreyfus's model would suggest the ideal is to give them a mix of detailed step by step instructions or simple projects in a safe to fail environment.
-
-### Establish how the mentoring relationship is going to work
-
-It seems obvious but I've seen the impact of not establishing this upfront. Some of the things you want to clarify...
-
-* Why do they want you as their mentor
-* How often you will meet 
-* What are you aiming at
-* How will we know when it's over
-
-Knowing the framework for the relationship will avoid some awkward situations. I've seen a mentoring relationship go on for several months longer than it needed to because the mentee didn't know how to tell their mentor they wanted a change.
 
 ## Map out the direction you are heading 
 
