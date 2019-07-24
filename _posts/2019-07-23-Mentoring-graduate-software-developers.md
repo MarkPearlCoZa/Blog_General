@@ -9,7 +9,7 @@ At MYOB we've been improving our graduate programme for software developers. Tod
 
 ## How do I fit in
 
-I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
+I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where we employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
 
 ## Mentorship is a key pillar 
 
