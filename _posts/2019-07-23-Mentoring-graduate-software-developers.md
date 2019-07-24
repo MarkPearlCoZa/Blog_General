@@ -45,7 +45,7 @@ Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
-### Why is technical mentoring so powerful
+## Why is technical mentoring so powerful
 
 Now that we've established what technical mentorship is, I want to spend a few moments around why technical mentoring is so powerful.
 
@@ -57,19 +57,21 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
-## How do we get good at technical mentoring
+## How do we get good at technical mentoring for graduate software developers
 
-Now that I have briefly outline what technical mentoring is and why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outline what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. I'm going to focus on mentoring software developers who are new in their career. I stress this because I believe as someone becomes more experienced the tools you use to mentor them change.
 
-## 
 
-## Establish ground rules upfront
 
-* Knowing when and how often you will meet with your mentee
-* What do they value
-* Logistics, how often are you going to meet, what do you expect
+Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+
+## Establish how the mentoring relationship is going to work
+
+It seems obvious but I've seen the results of not establishing these upfront. Some of the things you want to clarify...
+
+* How often you will meet 
 * What are you aiming at
-* When will this end, what is the journey like
+* When will you end the mentoring period
 
 ## Have a direction you are heading and help them understand why something is important
 
@@ -78,15 +80,12 @@ Now that I have briefly outline what technical mentoring is and why it is so pow
 
 ## Establish current skill set
 
+First establish where someone is. If you don't you risk either them getting no value, or being stretched too much.
+
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
-
-Sometimes mentees confused knowledge with skill. Knowledge is to know how to do something, skill would be to be able to actually do it.
-
-* Came across blooms taxonomy of learning. Knowledge is the bottom rung. We are wanting to get them to the apply level where they could use information to solve other problems
-
 * Zone of proximal development (where are they right now, what can they do on their own)
 
-## Balance synthetic problems vs real world problems
+## It's great talking about it, it's better doing it
 
 Benefits of synthetic problems
 * Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
