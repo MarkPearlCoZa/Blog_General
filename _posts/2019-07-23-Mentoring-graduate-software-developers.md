@@ -41,7 +41,13 @@ Now that we've established what technical mentorship is, I want to spend a few m
 
 I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can attend and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
 
-The edge I've seen technical mentorship have over these other forms is the human connection. As humans we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form human connections.
+There are a number of attributes to technical mentoring that make it extremely effective. Let's dig into a few of them:
+
+#### Human connection
+
+As humans I believe we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form a human connection between mentor and mentee.
+
+#### 
 
 ### Technical mentoring is a role, not a tool
 
