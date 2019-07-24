@@ -41,16 +41,11 @@ Now that we've established what technical mentorship is, I want to spend a few m
 
 I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can attend and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
 
-There are a number of attributes to technical mentoring that make it extremely effective. Let's dig into a few of them:
+There are a number of attributes to mentoring that make it extremely powerful. Two attributes that immediately stand out to me are context and human connection.
 
-#### Context
-
-Context is an important element of for development and mentors have more context that most other systems. An important element of effective learning is that the timing needs to be right 
-
-#### Human connection
+Context is an essential element for us as people to learn effectively. Understanding why what we are learning is important and connects to what we are learning is key to us remembering it. Most of the other forms of learning and development are restricted in the context they can give. They can tell us why generally something is important, but they aren't able to put it in exactly the context of the mentees circumstances.
 
 As humans I believe we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form a human connection between mentor and mentee.
-
 
 ### Technical mentoring is a role, not a tool
 
