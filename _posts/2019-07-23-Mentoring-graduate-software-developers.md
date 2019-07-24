@@ -57,11 +57,13 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
-## How do we get good at technical mentoring 
+## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outlined what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to better at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
-I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. I stress this because I believe as someone becomes more experienced the tools you use to mentor and the things you do change.
+I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience.
+
+<img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
 ### Establish how the mentoring relationship is going to work
 
