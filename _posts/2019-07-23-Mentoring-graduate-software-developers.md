@@ -37,15 +37,11 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 ### What value does technical mentor give over other forms of development?
 
-Now that we've established what technical mentorship is, I want to spend a few moments around the value a technical mentor gives over other methods of learning. 
+Now that we've established what technical mentorship is, I want to spend a few moments around the value a technical mentor gives over other methods of development. 
 
-I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can do and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow.
+I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can do and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
 
-The edge I've seen technical mentorship have over these other forms is the human element. As humans we learn best through **social interactions** that include collaborative and cooperative conversations with others that are more skilled in the task we are trying to learn. 
-
-Vygotsky, a Soviet psychologist in the early twentieth century proposed a model called the zone of proximal development that touched on a similar concept. Vygotsky was largely focussed at the growth of children however I believe the same concepts apply to humans of all ages. 
-
-<img class="img-responsive" alt="Zone of proximal development" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development.png">
+The edge I've seen technical mentorship have over these other forms is the human connection. As humans we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form human connections.
 
 ### Technical mentoring is a role, not a tool
 
