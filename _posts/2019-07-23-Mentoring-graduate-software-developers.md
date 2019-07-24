@@ -63,9 +63,9 @@ Now that I have briefly outlined what technical mentoring is and some of the rea
 
 I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience. 
 
-I see a lot of parellels to the dreyfus model of skills aquisition which maps out what the needs are to aquire a skill depending on your current level. 
-
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
+
+I see a lot of parellels to the dreyfus model of skills aquisition which maps out what the needs are to aquire a skill depending on your current level. 
 
 Generally graduate software developers are at the Novice or Advanced Beginner stages meaning as a technical mentor you are going to give them a mix of detailed step by step instructions or simple projects in a safe enviroment where failure isn't expensive.
 
