@@ -35,18 +35,6 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 > Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege relevant to their development as a software professional 
 
-### What value does technical mentor give over other forms of development?
-
-Now that we've established what technical mentorship is, I want to spend a few moments around the value a technical mentor gives over other methods of development. 
-
-I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can attend and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
-
-There are a number of attributes to mentoring that make it extremely powerful. Two attributes that immediately stand out to me are context and human connection.
-
-Context is an essential element for us as people to learn effectively. Understanding why what we are learning is important and connects to what we are learning is key to us remembering it. Most of the other forms of learning and development are restricted in the context they can give. They can tell us why generally something is important, but they aren't able to put it in exactly the context of the mentees circumstances.
-
-As humans I believe we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form a human connection between mentor and mentee.
-
 ### Technical mentoring is a role, not a tool
 
 Technical mentorship is a role, not a tool or technique. Let me explain the difference. In the English language we often use the same words to describe both roles and tools. For instance "coaching" is a role and a tool, if you are the coach of a soccer team that is your role and we could say you are coaching them; if you are coaching someone through making a difficult decision, that's a tool you are using to help achieve an outcome (them gaining insights to make a decision by you asking probing questions).. 
@@ -56,6 +44,18 @@ While technical mentorship is a role, there are are various tools and techniques
 Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
+
+### Why is technical mentoring so powerful
+
+Now that we've established what technical mentorship is, I want to spend a few moments around why technical mentoring is so powerful.
+
+I believe there are a number of attributes that make it powerful, three that immediately stand out to me are context, timing and human connection.
+
+**Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to seek and understand context and give context.
+
+**Timing** is just as important as context. Our brains are wired to [forget things over time](https://en.wikipedia.org/wiki/Forgetting_curve). Mentors focus on things relevant to the now.
+
+**Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
 
 ## Some tips for Technical Mentors
