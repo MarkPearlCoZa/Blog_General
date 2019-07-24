@@ -59,7 +59,7 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 ## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring is and some of the reasons why it is so powerful, I want to share some tips we've learned around how to better at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outlined what technical mentoring is and some of the reasons why it is so powerful, I want to share some things we've learned around how to better at it. Some of these are things are general and relevant to any form of mentoring, others are specific to technical mentorship.
 
 I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. This is important because the nature of how someone is mentored changes as they grow in experience. 
 
