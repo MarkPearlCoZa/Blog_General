@@ -63,11 +63,11 @@ Now that I have briefly outlined what technical mentoring is and some of the rea
 
 ### Adjust your approach depending on their skill level
 
-The first thing I've learned is you need to adjust your approach to depending on someone's skill level. The nature of how someone is mentored changes as they grow in experience and capability.  
+The first thing I've learned is you need to adjust your approach depending on their skill level. The nature of how someone is mentored changes as they grow in experience and capability.  
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
-I find the Dreyfus model of skills acquisition a useful model to use when working on a general mentoring approach. Graduate software developers are generally at the Novice or Advanced Beginner stage of Dreyfus in most technical areas. That means when mentoring a graduate software developer you are going to focus more on providing them detailed step by step instructions or simple projects in a safe to fail environment.
+I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment.
 
 ## Map out the direction you are heading 
 
