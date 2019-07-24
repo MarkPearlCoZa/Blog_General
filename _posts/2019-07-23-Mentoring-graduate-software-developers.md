@@ -51,14 +51,13 @@ Now that we've established what technical mentorship is, I want to spend a few m
 
 I believe there are a number of attributes that make it powerful, three that immediately stand out to me are context, timing and human connection.
 
-**Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to seek and understand context and give context.
+**Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
 
-**Timing** is just as important as context. Our brains are wired to [forget things over time](https://en.wikipedia.org/wiki/Forgetting_curve). Mentors focus on things relevant to the now.
+**Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great technical mentors focus on things relevant to our current challenges.
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
-
-## Some tips for Technical Mentors
+## How do we get good at it?
 
 Now that I have briefly outline what technical mentoring is, I want to share some tips we've learned around how to make the experience effective. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
