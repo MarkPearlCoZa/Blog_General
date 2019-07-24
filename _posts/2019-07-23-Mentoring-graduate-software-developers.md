@@ -39,7 +39,7 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 Now that we've established what technical mentorship is, I want to spend a few moments around the value a technical mentor gives over other methods of development. 
 
-I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can do and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
+I believe there are many different ways a software developer can learn and grow. We have access to blogs, there are many books you can read, there are numerous classes on software engineering you can attend and there are almost an infinite number of online tutorials you can watch. All of these mediums help us grow and develop.
 
 The edge I've seen technical mentorship have over these other forms is the human connection. As humans we learn best through **social interactions** from people we feel connected to. Technical mentoring done right form human connections.
 
