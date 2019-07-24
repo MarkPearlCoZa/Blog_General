@@ -59,7 +59,7 @@ I believe there are a number of attributes that make it powerful, three that imm
 
 ## How do we get good at technical mentoring 
 
-Now that I have briefly outline what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
+Now that I have briefly outlined what technical mentoring and some of the reasons why it is so powerful, I want to share some tips we've learned around how to get good at it. Some of these are general tips relevant to any form of mentoring, others are specific to technical mentorship.
 
 I'm going to focus on mentoring software developers who are new in their career...for example, graduate software developers. I stress this because I believe as someone becomes more experienced the tools you use to mentor and the things you do change.
 
@@ -75,7 +75,6 @@ It seems obvious but I've seen the impact of not establishing this upfront. Some
 Knowing the framework for the relationship will avoid some awkward situations. I've seen a mentoring relationship go on for several months longer than it needed to because the mentee didn't know how to tell their mentor they wanted a change.
 
 ## Map out the direction you are heading 
-
 
 * What does the journey look like, why do we want you to go through this
 * Mentors that connected the current learning to the why had happier mentees
@@ -111,6 +110,10 @@ We introduced quorum reviews where a group of mentors go together to review a pa
 * Understanding motivation (share story about drawing pictures and demotivating)
 
 We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
+
+## Have them explain an approach at a whiteboard before coding
+
+## If you are going to pair, have your mentee at the keyboard
 
 ## There is no secret formula
 
