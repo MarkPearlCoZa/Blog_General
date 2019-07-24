@@ -69,6 +69,10 @@ I find the Dreyfus model of skills acquisition useful as it maps out what the ne
 
 Generally graduate software developers are at the Novice or Advanced Beginner stage in most of their areas of competency. Dreyfus's model would suggest the ideal is to give them a mix of detailed step by step instructions or simple projects in a safe to fail environment.
 
+## Learn how to team effectively
+
+
+
 ## Map out the direction you are heading 
 
 * What does the journey look like, why do we want you to go through this
