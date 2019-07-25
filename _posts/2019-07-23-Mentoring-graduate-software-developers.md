@@ -69,7 +69,7 @@ The first thing I've learned is you need to adjust your approach depending on th
 
 I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. 
 
-Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment.
+Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment. We've found the use of coding katas (synthetic coding problems) and group projects useful. I go through both of these later in this post.
 
 ## Have a direction or roadmap
 
@@ -85,7 +85,7 @@ Generally, in most technical capabilities graduate software developers are at th
 ### Learn how to scaffold effectively
 
 
-## Kata's are useful but can get boring
+## Coding katas are useful but can get boring
 
 ## Looking at code is often better than talking about code
 
@@ -106,6 +106,8 @@ Cons of synthetic problems
 * Wax on wax off without connecting to why it is important
 * See this as not adding value
 * Hippocampi tells you it's not important to learn and so you forget it quickly
+
+## Group Projects
 
 ## Understanding motivation leads to a better experience
 
