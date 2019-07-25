@@ -77,11 +77,11 @@ The first tip I want to share is to put together a roadmap. I learned this from 
 
 How do you put together a roadmap? Normally I ask what role my grad is aiming for next. Then we work together to identify the capabilities someone applying for that role needs to have to start out. Once we have done this, we identify together what my grads current capabilities are. 
 
-This should give a delta. Looking at the delta, pick a capability that you can help your grad with. Break that capability into all the little bits of information they need to have to perform that capability. Map these pieces of information into a dependency tree. You now have a roadmap to work towards, starting at the bottom and building up.
+This should give a delta. Looking at the delta, pick a capability that you can help your grad with. Break that capability into all the little bits of information they need to have to perform that capability. Map these pieces of information into a dependency tree. Starting at the bottom and working your way up the tree you now have a roadmap.
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-knowledge-dependency.png">
 
-Once you have formed a roadmap go through it with your grad. Make sure they understand the journey and **why** certain things are there. As humans for us to remember things we need to understand why else our brains mark that information as irrelevant and we forget it.
+Make sure your grad understands and buys into the roadmap and understands **why** certain things are there. As humans for us to remember things we need to understand **why** else we forget it very quickly.
 
 ## Learn how to teach effectively
 
