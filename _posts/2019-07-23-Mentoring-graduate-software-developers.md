@@ -109,13 +109,15 @@ When your grad is in the learning zone, what's the best way for them to learn?
 
 #### Blooms Taxonomy of Learning Model
 
-I found Blooms Taxonomy of Learning a useful model to keep in mind. It looks as follows:
+I found Blooms Taxonomy of Learning a useful model. Bloom is a hierarchical ordering of cognitive skills that can a help mentors teach better. It looks as follows:
 
 <img class="img-responsive" alt="Blooms Taxonomy of Learning" src="{{ site.url }}/assets/images/mentoring-software-developers-blooms-taxonomy-of-learning-model.jpg">
 
-Bloom highlights different stages of learning. For instance, you need to be able to recall facts and basic concepts first, following that you should be able to explain ideas or concepts, following that apply them and so on.
+By hierarchical I mean you need to work your way up from rememeber to create. For example, you need to be able to recall facts and basic concepts first, following that you should be able to explain ideas or concepts, following that apply them and so on until you get to create where you are at a cognitive level of being able to produce new or original work.
 
-How does this help you mentor more effectively? First, it gives you an order of progression or plan of attack when approaching a new technical concept. If you are helping your grad learn a programming language, this would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. 
+How does this help you mentor more effectively? First, it gives you an order of progression or plan of attack when approaching a new technical concept. 
+
+For example, if you were helping your grad learn a new programming language, you would start with activities that help them remember. This would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. 
 
 Only once your grad has passed the knowledge stage for the basic syntax should you focus on understanding. Do they understand why methods are useful? Why would we need varaiables? Why would we use looping constructs? And so on.
 
