@@ -89,9 +89,7 @@ The second tip I want to share is learn how to effectively teach skills. I once 
 
 Now, for many of us you have an image locked in your head of what it means to be a teacher. I went to school in the 80's and 90's and teachers in those days were people that stood at the front of the class who talked a lot and wrote things on a chalk board. That's not the type of teaching I'm referring to!
 
-Instead, I'm referring to teaching skills. Investing a bit of time into understanding the psychology behind teaching skills goes a long way to helping you effectively mentor someone. 
-
-There are a few models I've found useful in this:
+Instead, I'm referring to teaching skills. Investing a bit of time into understanding the psychology behind teaching skills goes a long way to helping you effectively mentor someone. Now, you don't have to go to university to develop your teaching skills. There are a handful of models I've found useful to guide how I teach. I'm going to share a few of them below.
 
 #### Senninger's Learning Zone Model
 
