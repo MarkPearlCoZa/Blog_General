@@ -83,16 +83,21 @@ This should give a delta. Looking at the delta, pick a capability that you can h
 
 Make sure your grad understands and buys into the roadmap and understands **why** certain things are there. As humans for us to remember things we need to understand **why** else we forget it very quickly.
 
-### Learn how to teach effectively
+### Learn how to effectively teach skills
 
-The second tip I want to share is learn how to effectively teach. I once heard someone trying to mentor a grad say... I can't do that, that's teaching. I'm their mentor, not their teacher. While there isn't a one to one mapping between technical mentoring and teaching, often you need to leverage teaching as a tool. 
+The second tip I want to share is learn how to effectively teach skills. I once heard someone trying to mentor a grad say... I can't do that, that's teaching. I'm their mentor, not their teacher. While there isn't a one to one mapping between technical mentoring and teaching, often you need to leverage teaching as a tool. 
 
-Now, for many of us you have a model locked in your head of what it means to be a teacher. I went to school in the 80's and 90's and teachers in those days were people that stood at the front of the class who talked a lot and wrote things on a chalk board. That's not the type of teaching I'm referring to!
+Now, for many of us you have an image locked in your head of what it means to be a teacher. I went to school in the 80's and 90's and teachers in those days were people that stood at the front of the class who talked a lot and wrote things on a chalk board. That's not the type of teaching I'm referring to!
 
-Instead, investing a bit of time into understanding the psychology of teaching will go a long way to helping you effectively mentor someone.
+Instead, I'm referring to teaching skills. Investing a bit of time into understanding the psychology behind teaching skills goes a long way to helping you effectively mentor someone. 
+
+There are a few models I've found useful in this:
+
+#### Senninger's Learning Zone Model
+
+<img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
 
 * What do adult learners need
-* Sinners model
 
 ### Learn how to scaffold effectively
 
