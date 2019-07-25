@@ -117,6 +117,8 @@ Bloom highlights different stages of learning. For instance, you need to be able
 
 How does this help you mentor more effectively? First, your grad needs to be able to recall information. If they are learning a programming language, this would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. Only once they have passed the knowledge stage should you focus on understanding, do they understand why methods are useful, why would we need varaiables. Then move on to apply. Let's solve a simple problem using the things we have learned.
 
+Thinking in terms of Bloom's different levels allows you to focus on the approach you take. It would be counter to ask someone to debug a system (where they would need an understanding of how things worked without them first being able to apply).
+
 ### Learn how to scaffold effectively
 
 
