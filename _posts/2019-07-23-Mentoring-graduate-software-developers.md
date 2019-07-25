@@ -71,11 +71,11 @@ I find the Dreyfus model of skills acquisition a useful model to use when figuri
 
 Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment. We've found the use of coding katas (synthetic coding problems) and group projects useful. I go through both of these later in this post.
 
-## Have a direction or roadmap
+## Put together a roadmap
 
-Something I learned from a colleague, John Contad, was the importance of having a roadmap. He mentions this in a great post he wrote around [Teaching DevOps cheaply, effectively and fairly](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15). 
+The first tip I want to share is put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15)
 
-When you start a technical mentorship put together a roadmap. Identify where your grad is currently at, what capabilities you are going to develop and what bits of information they need to be able to achieve that capability. Then sequence information based on dependencies. 
+Identify what capabilities your graduate alread has  are going to develop and what bits of information they need to be able to achieve that capability. Then sequence information based on dependencies. 
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-knowledge-dependency.png">
 
