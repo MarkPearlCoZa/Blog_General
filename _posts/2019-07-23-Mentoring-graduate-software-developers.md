@@ -111,7 +111,7 @@ When your grad is in the learning zone, what's the best way for them to learn?
 
 I found blooms taxonomy of learning a useful model to keep in mind. It looks as follows:
 
-<img class="img-responsive" alt="Blooms Taxonomy of Learning" src="{{ site.url }}/assets/images/mentoring-software-developers-blooms-taxonomy-of-learning-model.png">
+<img class="img-responsive" alt="Blooms Taxonomy of Learning" src="{{ site.url }}/assets/images/mentoring-software-developers-blooms-taxonomy-of-learning-model.jpg">
 
 ### Learn how to scaffold effectively
 
