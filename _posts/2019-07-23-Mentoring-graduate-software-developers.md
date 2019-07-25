@@ -99,11 +99,11 @@ Senninger's learning zone model is useful in identifying if your grad is in the 
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
 
-The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. One way to identify if they are in the learning zone is by how they are feeling. Feelings of boredom, being comfortable, or being unchallenged are an indication your grad is in the comfort zone. 
+The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. One way to identify if they are in the learning zone is by how they are feeling. 
 
-It's fine being in the comfort zone for short periods of time, but when they start feeling like this it is an indication you are not challenging them enough. On the opposite end of the spectrum is the panic zone. 
+Feelings of boredom, being comfortable, or being unchallenged are an indication your grad is in the comfort zone. It's fine being in the comfort zone for short periods of time, but when they start feeling like this it is an indication you are not challenging them enough. 
 
-In the panic zone you have feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is dangerous. You don't learn much. If your grad is having feelings like this it is an indication that they are being stretched too much.
+On the opposite end of the spectrum is the panic zone. In the panic zone you have feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is dangerous. You don't learn much. If your grad is having feelings like this it is an indication that they are being stretched too much.
 
 Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
 
