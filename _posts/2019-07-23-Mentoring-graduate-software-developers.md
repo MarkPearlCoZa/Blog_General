@@ -73,9 +73,12 @@ Generally, in most technical capabilities graduate software developers are at th
 
 ## Put together a roadmap
 
-The first tip I want to share is put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15)
+The first tip I want to share is to put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15) who is someone I consider an expert at technical mentorship.
 
-Identify what capabilities your graduate alread has  are going to develop and what bits of information they need to be able to achieve that capability. Then sequence information based on dependencies. 
+In putting together a roadmap have an idea of what the role is they are aiming for next? Then identify what capabilities someone would need to start in that role. Once you have done this, identify what the current capabilities of your grad are. 
+
+You should now have an idea of what capabilities they need to develop. Pick a capability that you can help them with and identify all the information they need to have to perform that capability. Map these out into a dependency tree.
+
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-knowledge-dependency.png">
 
