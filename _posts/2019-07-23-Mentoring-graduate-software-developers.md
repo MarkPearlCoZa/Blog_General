@@ -115,9 +115,13 @@ I found Blooms Taxonomy of Learning a useful model to keep in mind. It looks as 
 
 Bloom highlights different stages of learning. For instance, you need to be able to recall facts and basic concepts first, following that you should be able to explain ideas or concepts, following that apply them and so on.
 
-How does this help you mentor more effectively? First, your grad needs to be able to recall information. If they are learning a programming language, this would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. Only once they have passed the knowledge stage should you focus on understanding, do they understand why methods are useful, why would we need varaiables. Then move on to apply. Let's solve a simple problem using the things we have learned.
+How does this help you mentor more effectively? First, it gives you an order of progression or plan of attack when approaching a new technical concept. If you are helping your grad learn a programming language, this would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. 
 
-Thinking in terms of Bloom's different levels allows you to focus on the approach you take. It would be counter to ask someone to debug a system (where they would need an understanding of how things worked without them first being able to apply).
+Only once your grad has passed the knowledge stage for the basic syntax should you focus on understanding. Do they understand why methods are useful? Why would we need varaiables? Why would we use looping constructs? And so on.
+
+Only once you have a solid knowledge does it make sense to move on to apply. Let's solve a simple problem using the things we have learned so far. And so on...
+
+Thinking in terms of Bloom's different levels allows you to have a structured approach in teaching and I've found it extremely useful. For instance, it may be unproductive to ask someone to debug an issue in a system without them first having passed the "apply" stage for the technology that it's been developed in. 
 
 ### Learn how to scaffold effectively
 
