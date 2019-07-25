@@ -85,8 +85,11 @@ Make sure your grad understands and buys into the roadmap and understands **why*
 
 ## Learn how to teach effectively
 
-* What do adult learners need
+Teaching is a tool often used when you are mentoring graduate software developers. Learn how to be good at it. 
 
+
+
+* What do adult learners need
 * Sinners model
 
 ### Learn how to scaffold effectively
