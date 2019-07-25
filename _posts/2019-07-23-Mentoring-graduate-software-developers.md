@@ -113,6 +113,10 @@ I found blooms taxonomy of learning a useful model to keep in mind. It looks as 
 
 <img class="img-responsive" alt="Blooms Taxonomy of Learning" src="{{ site.url }}/assets/images/mentoring-software-developers-blooms-taxonomy-of-learning-model.jpg">
 
+Bloom highlights different stages of learning. For instance, you need to be able to recall facts and basic concepts first, following that you should be able to explain ideas or concepts, following that apply them and so on.
+
+How does this help you mentor more effectively? First, your grad needs to be able to recall information. If they are learning a programming language, this would include things like being able to recall the syntax for declaring a method, defining a varaible, passing parameters and so on. Only once they have passed the knowledge stage should you focus on understanding, do they understand why methods are useful, why would we need varaiables. Then move on to apply. Let's solve a simple problem using the things we have learned.
+
 ### Learn how to scaffold effectively
 
 
