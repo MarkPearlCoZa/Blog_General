@@ -83,7 +83,7 @@ This should give a delta. Looking at the delta, pick a capability that you can h
 
 Make sure your grad understands and buys into the roadmap and understands **why** certain things are there. As humans for us to remember things we need to understand **why** else we forget it very quickly.
 
-## Learn how to teach effectively
+### Learn how to teach effectively
 
 The second tip I want to share is learn how to effectively teach. I once heard someone trying to mentor a grad say... I can't do that, that's teaching. I'm their mentor, not their teacher. While there isn't a one to one mapping between technical mentoring and teaching, often you need to leverage teaching as a tool. 
 
