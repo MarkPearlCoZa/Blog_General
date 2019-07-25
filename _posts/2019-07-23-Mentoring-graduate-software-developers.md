@@ -75,16 +75,9 @@ Generally, in most technical capabilities graduate software developers are at th
 
 The first tip I want to share is to put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15) who is someone I consider an expert at technical mentorship.
 
-In putting together a roadmap have an idea of what the role is they are aiming for next? Then identify what capabilities someone would need to start in that role. Once you have done this, identify what the current capabilities of your grad are. 
-
-You should now have an idea of what capabilities they need to develop. Pick a capability that you can help them with and identify all the information they need to have to perform that capability. Map these out into a dependency tree.
-
+In putting together a roadmap have an idea of what role your grad is aiming for next. Then identify what capabilities someone applying for that role would need to start out. Once you have done this, identify what the current capabilities of your grad are. This should give you a delta. Looking at the delta, pick a capability that you can help them with. Break that capability into all the little bits of information they need to have to perform that capability. Map these pieces of information into a dependency tree. You now have a roadmap to work towards, starting at the bottom and building up.
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-knowledge-dependency.png">
-
-
-
-It’s important to have a roadmap. It was really chaotic at the start before we established the learning roadmap. People were going off in all different directions and it was really difficult to evaluate progress.
 
 * What does the journey look like, why do we want you to go through this
 * Mentors that connected the current learning to the why had happier mentees
