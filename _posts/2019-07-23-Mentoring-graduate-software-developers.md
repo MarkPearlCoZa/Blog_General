@@ -95,7 +95,11 @@ There are a few models I've found useful in this:
 
 #### Senninger's Learning Zone Model
 
+Senninger's learning zone model is useful in identifying if your grad is in the sweet spot for learning. It talks about there being three zones, comfort, learning and panic.
+
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
+
+The ideal is to have your grad in the "learning zone". In this zone, learning is at its optimal.
 
 * What do adult learners need
 
