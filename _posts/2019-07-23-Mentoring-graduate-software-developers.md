@@ -85,7 +85,9 @@ Make sure your grad understands and buys into the roadmap and understands **why*
 
 ## Learn how to teach effectively
 
-Teaching is a tool often used when you are mentoring graduate software developers. Learn how to be good at it. 
+The second tip I want to share is learn how to effectively teach. I once heard someone trying to mentor a grad say... I can't do that, that's teaching. I'm their mentor, not their teacher.
+
+While there isn't a one to one mapping between technical mentoring and teaching, when mentoring a grad a often you need to leverage teaching as a tool to grow them.
 
 
 
