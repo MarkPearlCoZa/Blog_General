@@ -95,7 +95,7 @@ Instead, I'm referring to teaching skills. Investing a bit of time into understa
 
 Senninger's learning zone model is useful in identifying if your grad is in the sweet spot for learning. It talks about there being three zones, comfort, learning and panic.
 
-<img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
+<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
 
 The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. One way to identify if they are in the learning zone is by how they are feeling. 
 
@@ -106,6 +106,12 @@ On the opposite end of the spectrum is the panic zone. In the panic zone you hav
 Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
 
 When your grad is in the learning zone, what's the best way for them to learn?
+
+#### Blooms Taxonomy of Learning Model
+
+I found blooms taxonomy of learning a useful model to keep in mind. It looks as follows:
+
+<img class="img-responsive" alt="Blooms Taxonomy of Learning" src="{{ site.url }}/assets/images/mentoring-software-developers-blooms-taxonomy-of-learning-model.png">
 
 ### Learn how to scaffold effectively
 
