@@ -107,7 +107,7 @@ On the opposite end of the spectrum is the panic zone. In the panic zone you hav
 
 Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
 
-* What do adult learners need
+When your grad is in the learning zone, what's the best way for them to learn?
 
 ### Learn how to scaffold effectively
 
