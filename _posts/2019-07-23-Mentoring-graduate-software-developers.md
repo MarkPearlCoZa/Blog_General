@@ -25,7 +25,7 @@ I fully agree with the precise definition of mentorship being elusive. From what
 
 A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things. 
 
-While the definition of a profession or trade mentor is close, I doesn't fully resonate with me so I'm going to create yet another a form of mentorship to the array that already exists which I call  **Technical Mentorship** (gasp).
+While the definition of a profession or trade mentor is close, I don't like them as words and so I'm going to create yet another a name for this type of mentorship to which I call  **Technical Mentorship** (gasp).
 
 ### What is technical mentoring?
 
@@ -125,7 +125,11 @@ Only once you have a solid knowledge does it make sense to move on to apply. Let
 
 Thinking in terms of Bloom's different levels allows you to have a structured approach in teaching and I've found it extremely useful. For instance, it may be unproductive to ask someone to debug an issue in a system without them first having passed the "apply" stage for the technology that it's been developed in. 
 
-### Learn how to scaffold effectively
+### Use Direct Instruction in Mentoring
+
+The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is structured, sequenced, and led by the mentor. I believe this is a great approach to get a grad started in 
+
+
 
 
 ## Coding katas are useful but can get boring
@@ -171,6 +175,11 @@ We are currently using a mixed approach where they balance time between real wor
 
 ## Before you code something, have them explain it on a whiteboard 
 
+## Catch up reguarly
+
+Agree on a metric for measuring your grads learning pace at the start of the process and commit to using it every week (e.g. if we had looked at a graph of learning zones each week we would have been able to easily see whether to push more info in or back off)
+
+Define the structure of weekly catchups early - we didn’t have a strong structure to these and so they became a bit wishy-washy towards the end.
 
 ## There is no secret formula
 
