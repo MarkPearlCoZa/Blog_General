@@ -144,7 +144,7 @@ Step 5 - **Independent practice** - Next, get your grad to work through a simila
 
 Step 6 - **Assess understanding** - Once they have done their independent practice, as the mentor it's now up to you to assess their understanding. I would probably take pick a new problem and pair on it with them again but this time have them at the keyboard and me largely observing. We may go to the whiteboard and have them explain the concept to me. Draw out the approach they are taking and so on. 
 
-Step 7 - **Go back to review ** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
+Step 7 - **Go back to review** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
 
 ## Coding katas are useful but can get boring
 
