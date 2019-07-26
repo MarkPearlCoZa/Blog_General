@@ -146,6 +146,20 @@ Step 6 - **Assess understanding** - Once they have done their independent practi
 
 Step 7 - **Go back to review** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
 
+## Before you code something, have them explain it on a whiteboard 
+
+## Pair programming is a powerful way to transfer knowlege
+
+* If you are going to pair, have your mentee at the keyboard
+
+Benefits of synthetic problems
+* Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
+* Falls in line with cognitive load theory
+
+Cons of synthetic problems
+* Wax on wax off without connecting to why it is important
+* See this as not adding value
+* Hippocampi tells you it's not important to learn and so you forget it quickly
 ## Coding katas or synthetic problems
 
 We use
@@ -167,20 +181,6 @@ First establish where someone is. If you don't you risk either them getting no v
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
 * Zone of proximal development (where are they right now, what can they do on their own)
 
-## Before you code something, have them explain it on a whiteboard 
-
-## Pair programming is a powerful way to transfer knowlege
-
-* If you are going to pair, have your mentee at the keyboard
-
-Benefits of synthetic problems
-* Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
-* Falls in line with cognitive load theory
-
-Cons of synthetic problems
-* Wax on wax off without connecting to why it is important
-* See this as not adding value
-* Hippocampi tells you it's not important to learn and so you forget it quickly
 
 ## Group Projects
 
@@ -194,17 +194,20 @@ We introduced quorum reviews where a group of mentors go together to review a pa
 
 We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
 
+## These are the tools I'm aware of right now, there are more...
 
-## Catch up reguarly
+These are the tools I'm aware of right now. I don't believe there is a one way to do this.
 
-Agree on a metric for measuring your grads learning pace at the start of the process and commit to using it every week (e.g. if we had looked at a graph of learning zones each week we would have been able to easily see whether to push more info in or back off)
+* Every person is different and so the approach taken needs to be customized
 
-Define the structure of weekly catchups early - we didn’t have a strong structure to these and so they became a bit wishy-washy towards the end.
+The power behind effective mentors is they adapt to the needs of their mentee. The more tools a mentor has, the more able they are to adapt to their mentees needs. 
 
-## There is no secret formula
+The more experience you have
 
-Unfortunately there is no formula. Every person is different and so the approach taken needs to be customized
+## You grow through mentoring others
 
-The power behind effective mentors is they adapt to the needs of their mentee. The more tools a mentor has, the more able they are to adapt to their mentees needs
+Going back to blooms... mentoring reinforces your own learning and growth to ultimately help you produce new or original work.
 
+It gives meaning to life, having an impact on someone else can be an extremely fulfilling experience.
 
+Would love to have your insights.
