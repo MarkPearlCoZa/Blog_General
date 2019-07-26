@@ -136,11 +136,11 @@ Step 1 - **Review** - First, start by reviewing what your grad has covered so fa
 
 Step 2 - **Roadmap** - Next we go to roadmap. TDD in Java is next on the roadmap.
 
-Step 3 - **Introduce new concept** - Then, you introduce the concept. What are the benefits of TDD, why do we do it. Red, Green, Refactory.
+Step 3 - **Introduce new concept** - Then, you introduce the concept. What are the benefits of TDD, why do we do it. What is the theory behind it. Red, Green, Refactory circle.
 
-Step 4 - **Guided practice** - 
+Step 4 - **Guided practice** - You then move into guided practice. You may start off using pair programming as a tool to help guided practice. I would normally start by "driving" and walking through a very simple problem. Maybe a coding kata like string calculator kata. At some point in working through the problem I would ask my grad to go behind the keyboard and "drive". We may do one kata together, or several.
 
-Step 5 - **Independent practice** - 
+Step 5 - **Independent practice** - Next 
 
 Step 6 - **Assess understanding** - 
 
