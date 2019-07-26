@@ -126,11 +126,25 @@ Thinking in terms of Bloom's different levels allows you to have a structured ap
 
 ### Use Direct Instruction in Mentoring
 
-The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is structured, sequenced, and led by the mentor. 
+The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is a structured sequenced approach. Teachers often use it to help someone learn a concept. Mentors can use it to help somone develop a skill.
 
 <img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-direct-instruction.png">
 
+Let me use an example of how you would use this learing a skill like Test Driven Development.
 
+Step 1 - **Review** - First, start by reviewing what information your grad has so far. 
+
+Step 2 - **Roadmap** - You then take them through the roadmap of things to learn and what they have covered so far. 
+
+Step 3 - **Introduce new concept** - 
+
+Step 4 - **Guided practice** - 
+
+Step 5 - **Independent practice** - 
+
+Step 6 - **Assess understanding** - 
+
+Step 7 - **Review** - 
 
 ## Coding katas are useful but can get boring
 
