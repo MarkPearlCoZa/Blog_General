@@ -158,11 +158,13 @@ Personally, I'm not very skilled at explaining things at a whiteboard yet which 
 
 ## Pair programming is a powerful way to transfer knowlege
 
-Pair programming is a powerful way to transfer knowledge. As I mentioned it as a tool you can use at various levels of direct instruction.
+Pair programming is a powerful way to transfer knowledge. I've mentioned it already as a tool to use at various levels of direct instruction.
 
-While how you use it depends on whether you are doing guided practice or assessing understanding I've found as practitioners we tend to be behind the keyboard too much. 
+While how you do pairing depends on whether you are going through a guided practice or assessing understanding one general comment around pairing is inexperienced mentors tend to be behind the keyboard too much. 
 
-* If you are going to pair, have your mentee at the keyboard
+In most situations, if you are going to pair have your mentee at the keyboard. Being at the keyboard makes pairing experiential. Experiental learning energizes and enhances the learning experience.
+
+With that said, use pair programming as much as possible!
 
 ## Coding katas or synthetic problems
 
