@@ -160,20 +160,23 @@ I believe this helps form a high level or conceptual view of the work
 
 ## Pair programming is a powerful way to transfer knowlege
 
+Pair programming is a powerful way to transfer knowledge. As I mentioned it as a tool to use in direct instruction.
+
+While how you use it depends on whether you are doing guided practice or assessing understanding I've found as practitioners we tend to be behind the keyboard too much. 
+
 * If you are going to pair, have your mentee at the keyboard
 
-Benefits of synthetic problems
-* Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
-* Falls in line with cognitive load theory
+## Coding katas or synthetic problems
 
 Cons of synthetic problems
 * Wax on wax off without connecting to why it is important
 * See this as not adding value
 * Hippocampi tells you it's not important to learn and so you forget it quickly
 
-## Coding katas or synthetic problems
+Benefits of synthetic problems
+* Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
+* Falls in line with cognitive load theory
 
-We use
 
 ### Understanding motivation leads to a better experience
 
