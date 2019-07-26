@@ -166,14 +166,21 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 ## Coding katas or synthetic problems
 
-Cons of synthetic problems
-* Wax on wax off without connecting to why it is important
-* See this as not adding value
-* Hippocampi tells you it's not important to learn and so you forget it quickly
+Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
+
+A code kata is a programming problem suitable for practicing specific programming patterns found in software development.  The concept was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). Think of it as a synthetic problem to practice a technique on.
+
+I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
 
 Benefits of synthetic problems
 * Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
 * Falls in line with cognitive load theory
+
+
+Cons of synthetic problems
+* Wax on wax off without connecting to why it is important
+* See this as not adding value
+* Hippocampi tells you it's not important to learn and so you forget it quickly
 
 ### Understanding motivation leads to a better experience
 
