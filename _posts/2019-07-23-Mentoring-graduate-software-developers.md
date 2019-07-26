@@ -126,8 +126,9 @@ Thinking in terms of Bloom's different levels allows you to have a structured ap
 
 ### Use Direct Instruction in Mentoring
 
-The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is structured, sequenced, and led by the mentor. I believe this is a great approach to get a grad started in 
+The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is structured, sequenced, and led by the mentor. 
 
+<img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-direct-instruction.png">
 
 
 
