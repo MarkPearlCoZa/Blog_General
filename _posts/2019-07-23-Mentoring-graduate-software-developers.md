@@ -57,7 +57,7 @@ Some of the tools/techniques I've seen include:
 
 ## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general that would apply regardless of the form of mentoring. 
+Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring.
 
 ### Adjust your approach depending on their skill level
 
