@@ -146,7 +146,17 @@ Step 6 - **Assess understanding** - Once they have done their independent practi
 
 Step 7 - **Go back to review** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
 
-## Before you code something, have them explain it on a whiteboard 
+## Have them explain it on a whiteboard first
+
+I used to think the best way to learn how to code is to go straight to your ide and code something. My thoughts on this are evolving. 
+
+Yes, there may be some benefit in doing this to learn basic concepts like syntax but I belive there is a better way.
+
+I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard.
+
+I believe this helps form a high level or conceptual view of the work
+
+<img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-whiteboard.png">
 
 ## Pair programming is a powerful way to transfer knowlege
 
@@ -160,6 +170,7 @@ Cons of synthetic problems
 * Wax on wax off without connecting to why it is important
 * See this as not adding value
 * Hippocampi tells you it's not important to learn and so you forget it quickly
+
 ## Coding katas or synthetic problems
 
 We use
