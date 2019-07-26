@@ -35,6 +35,8 @@ Looking at these various strains of mentoring, what we do with our graduate soft
 
 Unfortunately I don't like the phrases _profession mentoring_ or _trade mentoring_, so I'm going to create a subset of mentoring specific to software developers, I call it **technical mentoring** (gasp and drum roll at the same time).
 
+<img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-technical-mentoring-subset.png">
+
 ### What is technical mentoring?
 
 So what is technical mentoring? Let me propose a definition...
@@ -55,7 +57,7 @@ Some of the tools/techniques I've seen include:
 
 ## How do we get better at it
 
-Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus on this specifically around technical mentorship, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring suggestions. 
+Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general that would apply regardless of the form of mentoring. 
 
 ### Adjust your approach depending on their skill level
 
