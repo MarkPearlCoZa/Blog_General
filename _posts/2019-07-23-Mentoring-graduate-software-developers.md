@@ -152,11 +152,11 @@ I used to think the best way to learn how to code is to go straight to your ide 
 
 Yes, there may be some benefit in doing this to learn basic concepts like syntax but I belive there is a better way.
 
-I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard.
-
-I believe this helps form a high level or conceptual view of the work
+I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard. I believe this helps form a high level or conceptual view of the work
 
 <img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-whiteboard.png">
+
+Personally, I'm not very skilled at explaining things at a whiteboard yet which is probably why initially I undervalued it and went straight to coding. This is now an area I'm looking to personally grow in.
 
 ## Pair programming is a powerful way to transfer knowlege
 
