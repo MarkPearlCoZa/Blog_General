@@ -61,7 +61,7 @@ Now that I have briefly outlined what technical mentoring is and some of the rea
 
 ### Adjust your approach depending on their skill level
 
-The first thing I've learned is you need to adjust your approach depending on their skill level. The nature of how someone is mentored changes as they grow in experience and capability.  
+The first thing I've learned is you need to adjust your approach depending on your mentee's skill level. The nature of how someone is mentored changes as they grow in experience and capability.  
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
