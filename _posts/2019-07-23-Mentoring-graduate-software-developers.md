@@ -33,9 +33,9 @@ I fully agree. The precise definition of mentoring is elusive! Turns out, going 
 
 Looking at these various strains of mentoring, what we do with our graduate software developer is a form of **profession or trade mentoring**. As Wikipedia explains: _A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things._ 
 
-Unfortunately I don't like the phrases _profession mentoring_ or _trade mentoring_, so I'm going to create a subset of mentoring specific to software developers, I call it **technical mentoring** (gasp and drum roll at the same time).
-
 <img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-technical-mentoring-subset.png">
+
+Unfortunately I don't like the phrases _profession mentoring_ or _trade mentoring_, so I'm going to create a subset of mentoring specific to software developers, I call it **technical mentoring** (gasp and drum roll at the same time).
 
 ### What is technical mentoring?
 
