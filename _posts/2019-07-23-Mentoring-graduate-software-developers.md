@@ -21,9 +21,9 @@ So why is mentorship so powerful? I believe there are a number of attributes, th
 
 **Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great mentors focus on things relevant to our current challenges. 
 
-**Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
+**Human connection**. We learn best through **social interactions** from people we feel connected to. Mentoring done right forms a human connection between mentor and mentee that enhances the growth experience.
 
-### What does mentorship mean?
+### The illusive definition of mentoring?
 
 As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
