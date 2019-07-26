@@ -25,7 +25,7 @@ So why is mentorship so powerful? I believe there are a number of attributes, th
 
 ### The illusive definition on mentoring
 
-As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
+As I discovered early on, the word mentor/mentoring is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
 > Mentoring(s)... precise definition is elusive
 
