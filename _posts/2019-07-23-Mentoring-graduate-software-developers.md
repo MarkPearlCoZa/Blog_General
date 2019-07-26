@@ -23,7 +23,7 @@ So why is mentorship so powerful? I believe there are a number of attributes, th
 
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Mentoring done right forms a human connection between mentor and mentee that enhances the growth experience.
 
-### The illusive definition of mentoring?
+### The illusive definition on mentoring
 
 As I discovered early on, the word mentorship is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
