@@ -126,17 +126,17 @@ Thinking in terms of Bloom's different levels allows you to have a structured ap
 
 ### Use Direct Instruction in Mentoring
 
-The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is a structured sequenced approach. Teachers often use it to help someone learn a concept. Mentors can use it to help somone develop a skill.
+The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is a structured sequenced approach. Teachers often use it to help someone learn a concept. Mentors can use it to help somone develop a skill. I've seen different patterns or variations on the internet but the one I find most useful in the software world looks as follows:  
 
 <img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-direct-instruction.png">
 
-Let me use an example of how you would use this learing a skill like Test Driven Development.
+Let me use an example of how you would use this pattern to learning a skill like Test Driven Development.
 
-Step 1 - **Review** - First, start by reviewing what information your grad has so far. 
+Step 1 - **Review** - First, start by reviewing what your grad has covered so far. Taking my example of "TDD in Java" above (under roadmap). We would review all the dependent information...writing a unit test (dependency injection, understanding classes) and writing normal code (basic understanding of java).
 
-Step 2 - **Roadmap** - You then take them through the roadmap of things to learn and what they have covered so far. 
+Step 2 - **Roadmap** - Next we go to roadmap. TDD in Java is next on the roadmap.
 
-Step 3 - **Introduce new concept** - 
+Step 3 - **Introduce new concept** - Then, you introduce the concept. What are the benefits of TDD, why do we do it. Red, Green, Refactory.
 
 Step 4 - **Guided practice** - 
 
