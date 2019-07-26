@@ -124,7 +124,7 @@ Only once you have a solid knowledge does it make sense to move on to apply. Let
 
 Thinking in terms of Bloom's different levels allows you to have a structured approach in teaching and I've found it extremely useful. For instance, it may be unproductive to ask someone to debug an issue in a system without them first having passed the "apply" stage for the technology that it's been developed in. 
 
-### Use Direct Instruction in Mentoring
+### Use a form of direct instruction in to learn skills 
 
 The last technique around teaching I want to mention is that of Direct instruction. Direct instruction is a structured sequenced approach. Teachers often use it to help someone learn a concept. Mentors can use it to help somone develop a skill. I've seen different patterns or variations on the internet but the one I find most useful in the software world looks as follows:  
 
