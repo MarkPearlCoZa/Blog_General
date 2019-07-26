@@ -29,9 +29,11 @@ As I discovered early on, the word mentorship is a loaded word. It means vastly 
 
 > Mentoring(s)... precise definition is elusive
 
-I fully agree with the precise definition of mentorship being elusive. From what I have found there are many different forms of mentorship. Having looked at the ones listed on Wikipedia, the closest form of mentoring to the type of mentoring we do with our graduate software developer is **profession or trade mentoring**. 
+I fully agree. The precise definition of mentoring is elusive! Turns out there are many different forms of mentoring. Going back to Wikipedia you will find numerous different strains of mentoring all with their own unique attributes. 
 
-A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things. 
+Looking at these explanations and what we do with our graduate software developer, probably the closest actual type of mentoring we do is **profession or trade mentoring**. As Wikipedia goes on to explain:
+
+_A profession or trade mentor is someone who is currently in the profession the mentee is entering. That person knows the trends, important changes and new practices that the mentee should know to stay at the top of their career and helps guide them through these things._ 
 
 While the definition of a profession or trade mentor is close, I don't like them as words and so I'm going to create yet another a name for this type of mentorship to which I call  **Technical Mentorship** (gasp).
 
