@@ -140,7 +140,7 @@ Step 3 - **Introduce new concept** - Then, you introduce the concept. What are t
 
 Step 4 - **Guided practice** - You then move into guided practice. You may start off using pair programming as a tool to help guided practice. I would normally start by "driving" and walking through a very simple problem. Maybe a coding kata like string calculator kata. At some point in working through the problem I would ask my grad to go behind the keyboard and "drive". We may do one kata together, or several.
 
-Step 5 - **Independent practice** - Next 
+Step 5 - **Independent practice** - Next, get your grad to work through a similar coding kata on their own. You may
 
 Step 6 - **Assess understanding** - 
 
