@@ -148,9 +148,7 @@ Step 7 - **Go back to review** - Once you are finished assessing understanding y
 
 ## Have them explain it on a whiteboard first
 
-I used to think the best way to learn how to code is to go straight to your ide and code something. My thoughts on this are evolving. 
-
-Yes, there may be some benefit in doing this to learn basic concepts like syntax but I belive there is a better way.
+I used to think the best way to learn how to code is to go straight to your ide and code something. My thoughts on this are evolving. Yes, there may be some benefit in doing this to learn basic concepts like syntax but I belive there is a better way.
 
 I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard. I believe this helps form a high level or conceptual view of the work
 
