@@ -146,7 +146,19 @@ Step 6 - **Assess understanding** - Once they have done their independent practi
 
 Step 7 - **Go back to review** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
 
-## Coding katas are useful but can get boring
+## Coding katas or synthetic problems
+
+We use
+
+### Understanding motivation leads to a better experience
+
+* People enjoy the work more, something invigorating about adding value and building stuff others will use
+
+Cons of real problems
+* Complex, often has too many things you need to understand
+* Touch area on what you are actually learning can be low
+
+are useful but can get boring
 
 ## Looking at code is often better than talking about code
 
@@ -154,6 +166,8 @@ First establish where someone is. If you don't you risk either them getting no v
 
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
 * Zone of proximal development (where are they right now, what can they do on their own)
+
+## Before you code something, have them explain it on a whiteboard 
 
 ## Pair programming is a powerful way to transfer knowlege
 
@@ -170,13 +184,6 @@ Cons of synthetic problems
 
 ## Group Projects
 
-## Understanding motivation leads to a better experience
-
-* People enjoy the work more, something invigorating about adding value and building stuff others will use
-
-Cons of real problems
-* Complex, often has too many things you need to understand
-* Touch area on what you are actually learning can be low
 
 ## Resist the technology as long as possible
 
@@ -187,7 +194,6 @@ We introduced quorum reviews where a group of mentors go together to review a pa
 
 We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
 
-## Before you code something, have them explain it on a whiteboard 
 
 ## Catch up reguarly
 
