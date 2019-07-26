@@ -140,11 +140,11 @@ Step 3 - **Introduce new concept** - Then, you introduce the concept. What are t
 
 Step 4 - **Guided practice** - You then move into guided practice. You may start off using pair programming as a tool to help guided practice. I would normally start by "driving" and walking through a very simple problem. Maybe a coding kata like string calculator kata. At some point in working through the problem I would ask my grad to go behind the keyboard and "drive". We may do one kata together, or several.
 
-Step 5 - **Independent practice** - Next, get your grad to work through a similar coding kata on their own. You may
+Step 5 - **Independent practice** - Next, get your grad to work through a similar coding kata on their own. You may get them to redo the same problem. But without your help or work through a similar problem that is focussing on the same skill (TDD).
 
-Step 6 - **Assess understanding** - 
+Step 6 - **Assess understanding** - Once they have done their independent practice, as the mentor it's now up to you to assess their understanding. I would probably take pick a new problem and pair on it with them again but this time have them at the keyboard and me largely observing. We may go to the whiteboard and have them explain the concept to me. Draw out the approach they are taking and so on. 
 
-Step 7 - **Review** - 
+Step 7 - **Go back to review ** - Once you are finished assessing understanding you make a call if they understand a concept properly, or if you can move on to the next step in your roadmap. For all intents and purposes you are back to review.
 
 ## Coding katas are useful but can get boring
 
