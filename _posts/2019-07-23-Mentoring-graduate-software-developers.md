@@ -160,11 +160,9 @@ Personally, I'm not very skilled at explaining things at a whiteboard yet which 
 
 Pair programming is a powerful way to transfer knowledge. I've mentioned it already as a tool to use at various levels of direct instruction.
 
-While how you do pairing depends on whether you are going through a guided practice or assessing understanding one general comment around pairing is inexperienced mentors tend to be behind the keyboard too much. 
+While how you do pairing depends on whether you are going through a guided practice or assessing understanding one general comment around pairing is inexperienced mentors tend to type at the keyboard too much. In most situations, if you are going pair have your mentee at the keyboard. Having your mentee typing things makes the pairing activity experiential. Experiental learning energizes and enhances the learning experience.
 
-In most situations, if you are going to pair have your mentee at the keyboard. Being at the keyboard makes pairing experiential. Experiental learning energizes and enhances the learning experience.
-
-With that said, use pair programming as much as possible!
+Should you pair all the time? Absolutely not. There is huge value in your grad having independent practice. Look for a balance between pairing and independent practice. 
 
 ## Coding katas or synthetic problems
 
@@ -177,7 +175,6 @@ Benefits of synthetic problems
 * Idea of toy problems to learn new concepts. These are useful to allow you to reduce the pieces of new information being learnt and redundant information
 * Falls in line with cognitive load theory
 
-
 ### Understanding motivation leads to a better experience
 
 * People enjoy the work more, something invigorating about adding value and building stuff others will use
@@ -188,7 +185,7 @@ Cons of real problems
 
 are useful but can get boring
 
-## Looking at code is often better than talking about code
+## When reviewing work look at the code when talking about it
 
 First establish where someone is. If you don't you risk either them getting no value, or being stretched too much.
 
