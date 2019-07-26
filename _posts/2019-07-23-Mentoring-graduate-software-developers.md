@@ -150,7 +150,7 @@ Step 7 - **Go back to review** - Once you are finished assessing understanding y
 
 I used to think the best way to learn how to code is to go straight to your ide and code something. My thoughts on this are evolving. Yes, there may be some benefit in doing this to learn basic concepts like syntax but I belive there is a better way.
 
-I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard. I believe this helps form a high level or conceptual view of the work
+I'm seeing huge benefits in first explaining and drawing out an approach at the whiteboard. I believe this helps form a high level or conceptual view of the workAlso, the more I learn about how human memory works the more I realize how visual forms of information are the most powerful forms for recall.
 
 <img class="img-responsive" alt="Direct Instruction" src="{{ site.url }}/assets/images/mentoring-software-developers-whiteboard.png">
 
@@ -158,7 +158,7 @@ Personally, I'm not very skilled at explaining things at a whiteboard yet which 
 
 ## Pair programming is a powerful way to transfer knowlege
 
-Pair programming is a powerful way to transfer knowledge. As I mentioned it as a tool to use in direct instruction.
+Pair programming is a powerful way to transfer knowledge. As I mentioned it as a tool you can use at various levels of direct instruction.
 
 While how you use it depends on whether you are doing guided practice or assessing understanding I've found as practitioners we tend to be behind the keyboard too much. 
 
