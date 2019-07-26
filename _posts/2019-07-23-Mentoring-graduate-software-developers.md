@@ -13,7 +13,15 @@ I have a software development background with a strong value placed on XP princi
 
 ## Mentorship is a key pillar 
 
-Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors.  
+Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors.  From what I've observed so far I believe the best way to grow great software developers is through mentorship.
+
+So why is mentorship so powerful? I believe there are a number of attributes, the three that immediately stand out to me are **context**, **timing** and **human connection**.
+
+**Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
+
+**Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great technical mentors focus on things relevant to our current challenges. The are able to sequence learning and conversations to keep things relevant.
+
+**Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
 ### What does mentorship mean?
 
@@ -44,18 +52,6 @@ There are are various tools and techniques technical mentors use to be effective
 Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
-
-## Why is technical mentoring so powerful
-
-Now that we've established what technical mentorship is, I want to spend a few moments around why technical mentoring is so powerful.
-
-I believe there are a number of attributes that make it powerful, three that immediately stand out to me are context, timing and human connection.
-
-**Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
-
-**Timing** is just as important as context. Our brains are wired to [forget things](https://en.wikipedia.org/wiki/Forgetting_curve), especially if they are not relevant to what we are doing right now. Great technical mentors focus on things relevant to our current challenges. The are able to sequence learning and conversations to keep things relevant.
-
-**Human connection**. We learn best through **social interactions** from people we feel connected to. Technical mentoring done right forms a human connection between mentor and mentee that enhances the learning experience.
 
 ## How do we get better at it
 
