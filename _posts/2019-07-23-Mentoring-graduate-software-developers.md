@@ -72,7 +72,7 @@ Generally, in most technical capabilities graduate software developers are at th
 
 ### Put together a roadmap
 
-The first tip I want to share is to put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15) who is someone I consider an expert at technical mentorship.
+The next thing I want to share is put together a roadmap. I learned this from a colleague, [John Contad](https://medium.com/faun/teaching-devops-cheaply-effectively-fairly-221732d39e15) who is someone I consider an expert at technical mentorship.
 
 How do you put together a roadmap? Normally I ask what role my grad is aiming for next. Then we work together to identify the capabilities someone applying for that role needs to have to start out. Once we have done this, we identify together what my grads current capabilities are. 
 
