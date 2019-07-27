@@ -181,17 +181,12 @@ There are some challenges in using code katas to help mentor software grads. The
 
 The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for most software graduates is to work on something they feel is adding value to the company. They want to be seen as making a difference. They want to work on production! 
 
-Their motivation to keep working through a kata quickly wanes.
+Their motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw). In his talk he shares an experient around measuring motivation for drawings.
 
-### Understanding motivation leads to a better experience
+As a mentor, understanding what drives motivation can help you use katas more effectively. For example, when you grad finishes a kata reviewing it thoroughly and giving detailed feedback increases motivation.
 
-* People enjoy the work more, something invigorating about adding value and building stuff others will use
+Understanding motivation leads to a better experience
 
-Cons of real problems
-* Complex, often has too many things you need to understand
-* Touch area on what you are actually learning can be low
-
-are useful but can get boring
 
 ## When reviewing work look at the code when talking about it
 
@@ -200,8 +195,13 @@ First establish where someone is. If you don't you risk either them getting no v
 * Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
 * Zone of proximal development (where are they right now, what can they do on their own)
 
-
 ## Group Projects
+
+* People enjoy the work more, something invigorating about adding value and building stuff others will use
+
+Cons of real problems
+* Complex, often has too many things you need to understand
+* Touch area on what you are actually learning can be low
 
 
 ## Resist the technology as long as possible
