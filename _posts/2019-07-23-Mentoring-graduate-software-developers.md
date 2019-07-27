@@ -156,7 +156,7 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
 
-<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
+<img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
 
 A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
 
@@ -166,7 +166,6 @@ Katas help you focus on a specific thing by removing the noise or redundant info
 
 There are some challenges in using code katas to help mentor software grads. The one challenge with a code kata is you need to clearly link it to value. What is the value your graduate is getting from doing it. Similar to what happened with the karate kid where he never connected Mr Miyagis wax on wax off work to how it would improve his karate, if you haven't linked the thing your graduate is learning in the code kata to why this will help them be a better software developer their brain is going to forget it really quickly.
 
-<img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
 
 ### Motivation
 
@@ -175,6 +174,8 @@ The other big challenge with code katas is staying motivated. Because they are t
 Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experient around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
 
 Another way to keep tabs on motivation is to use something like Senninger's learning zone model. This can be used as a tool to identify if your grad is in the sweet spot for learning or if their motivation is decreasing. 
+
+<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
 
 In Senningers model there are three zones, comfort, learning and panic. The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. Whenever you do a kata ask your grad to indicate in which of the three zones they feel they are in. 
 
