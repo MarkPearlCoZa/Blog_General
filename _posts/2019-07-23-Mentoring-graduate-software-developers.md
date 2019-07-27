@@ -168,7 +168,6 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
 
-<img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
 
 A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
 
@@ -176,9 +175,13 @@ I've found huge value in code katas with a very gotchas. Let's spend some time o
 
 Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do object composition in your backend code, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory as it get's you to the core of what you are learning.
 
-There are some challenges in using code katas to help mentor software grads. Probably the biggest challenge is the nature of a code kata. It is a toy problem. It is not solving a business need. I've found most software graduates want to work on something they feel is adding value to the company. They want to be seen as making a difference. Their motivation to keep working through a kata quickly wanes.
+There are some challenges in using code katas to help mentor software grads. The one challenge with a code kata is you need to clearly link it to value. What is the value your graduate is getting from doing it. Similar to what happened with the karate kid where he never connected Mr Miyagis wax on wax off work to how it would improve his karate, if you haven't linked the thing your graduate is learning in the code kata to why this will help them be a better software developer their brain is going to forget it really quickly.
 
-The other challenge with a code kata is if you need to clearly link it to value. Similar to what happened with the karate kid where he never connected the wax on, wax off work to fighting. If you haven't linked the thing you are learning in the code kata to why this will help you be a better software developer your brain is going to forget it really quickly.
+<img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
+
+The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for most software graduates is to work on something they feel is adding value to the company. They want to be seen as making a difference. They want to work on production! 
+
+Their motivation to keep working through a kata quickly wanes.
 
 ### Understanding motivation leads to a better experience
 
