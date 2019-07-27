@@ -156,6 +156,8 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
 
+<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
+
 A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
 
 I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
@@ -166,13 +168,13 @@ There are some challenges in using code katas to help mentor software grads. The
 
 <img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
 
+### Motivation
+
 The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particuarly strong in most graduate software developers I've worked with. 
 
 Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experient around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
 
 Another way to keep tabs on motivation is to use something like Senninger's learning zone model. This can be used as a tool to identify if your grad is in the sweet spot for learning or if their motivation is decreasing. 
-
-<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
 
 In Senningers model there are three zones, comfort, learning and panic. The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. Whenever you do a kata ask your grad to indicate in which of the three zones they feel they are in. 
 
@@ -180,7 +182,9 @@ If they say they have feelings of boredom, being comfortable, or being unchallen
 
 Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
 
-## Group reviews
+### Quourum Reviews 
+
+Something I'm going to put under motivation is leveraging something we call quorum reviews. A quorum review is when a graduate presents a piece of work to a wider group for feedback. In our graduate programme we have two main quorum reviews.
 
 We introduced quorum reviews where a group of mentors go together to review a particular milestone
 * Saw increase in focus of mentees to cover that material
