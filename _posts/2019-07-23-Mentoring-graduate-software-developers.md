@@ -174,15 +174,11 @@ A code kata is a programming problem suitable for practicing specific programmin
 
 I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
 
-Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do composition, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory.
+Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do object composition in your backend code, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory as it get's you to the core of what you are learning.
 
-In using code katas as part
+There are some challenges in using code katas to help mentor software grads. Probably the biggest challenge is the nature of a code kata. It is a toy problem. It is not solving a business need. I've found most software graduates want to work on something they feel is adding value to the company. They want to be seen as making a difference. Their motivation to keep working through a kata quickly wanes.
 
-
-Cons of synthetic problems
-* Wax on wax off without connecting to why it is important
-* See this as not adding value
-* Hippocampi tells you it's not important to learn and so you forget it quickly
+The other challenge with a code kata is if you need to clearly link it to value. Similar to what happened with the karate kid where he never connected the wax on, wax off work to fighting. If you haven't linked the thing you are learning in the code kata to why this will help you be a better software developer your brain is going to forget it really quickly.
 
 ### Understanding motivation leads to a better experience
 
