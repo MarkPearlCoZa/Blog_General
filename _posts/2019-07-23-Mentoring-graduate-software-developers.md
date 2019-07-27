@@ -202,7 +202,7 @@ Bringing this back to Dreyfus's model, meaningful systems are complex but contro
 
 In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. Graduates love building them because they learn a ton and they see it as adding value. 
 
-The challenge we've seen with meaningful systems is they have a lot of complexity and learning noise. Identifying upfront what you want to learn through building the system is important. As a technical mentor, you can reduce the noise by treating some areas of the system as a "black box". Unnecessary for your graduate to understand at the current point in time.
+The challenge we've seen with building meaningful systems is they have a lot of complexity and can have unnecessary noise. Identifying upfront what you want your graduate to learn through building the system is important. If  you do this you can reduce the noise by treating some areas of the system as a "black box". Unnecessary for your graduate to understand at that point in time.
 
 ## These are some of tools we use now, there are more...
 
