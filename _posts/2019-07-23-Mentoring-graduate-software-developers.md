@@ -184,18 +184,13 @@ Senningers model is also useful for gauging if a piece of work is going to stret
 
 ### Quourum Reviews 
 
-Something I'm going to put under motivation is leveraging something we call quorum reviews. A quorum review is when a graduate presents a piece of work to a wider group for feedback. In our graduate programme we have two main quorum reviews.
+Something I'm going to put under motivation is leveraging something we call quorum reviews. A quorum review is when a graduate presents a piece of work to a wider group for feedback. In our quorum reviews we have at least 5 people in a review. The graduate, their two mentors (we work in a co-mentorship model), two other peers and a technical lead. 
 
-We introduced quorum reviews where a group of mentors go together to review a particular milestone
-* Saw increase in focus of mentees to cover that material
-* Higher engagement during this time
-* Understanding motivation (share story about drawing pictures and demotivating)
+We've seen a significant increase in motivation of the graduate after introducing quorum reviews. The challenge with a quorum review is getting the timing and enviornment right. If you do quourum reviews before your graduate is ready for them they can go into panic mode. Likewise, if you have people they are intimidated by in the review again it can push them into panic mode.
 
-We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
+We intentionally introduce graduates to everyone that they will be in ther review with before it happens and do plenty of dry runs so that by the time the review happens they are comfortable with the process.
 
-
-
-## Group Projects
+## Building Meaningful Systems
 
 * People enjoy the work more, something invigorating about adding value and building stuff others will use
 
