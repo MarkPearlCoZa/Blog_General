@@ -198,9 +198,13 @@ The last tool I want to spend time on today is building meaningful systems. I've
 
 Bringing this back to Dreyfus's model, meaningful systems are complex but controlled projects that give real world exposure. Let me highlight, there is a difference between a client facing production system and a meaningful system appropriate for your graduate to build.
 
+<img class="img-responsive" alt="Meaningful Work" src="{{ site.url }}/assets/images/mentoring-software-developers-meaningful-work.jpg">
+
 In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. Graduates love building them because they learn a ton. The challenge we've seen with them is they have complexity and learning noise.
 
-## These are the tools I'm aware of right now, there are more...
+## These are some of tools we use now, there are more...
+
+
 
 These are the tools I'm aware of right now. I don't believe there is a one way to do this.
 
