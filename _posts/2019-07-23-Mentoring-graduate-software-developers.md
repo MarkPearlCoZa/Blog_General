@@ -166,7 +166,6 @@ Katas help you focus on a specific thing by removing the noise or redundant info
 
 There are some challenges in using code katas to help mentor software grads. The one challenge with a code kata is you need to clearly link it to value. What is the value your graduate is getting from doing it. Similar to what happened with the karate kid where he never connected Mr Miyagis wax on wax off work to how it would improve his karate, if you haven't linked the thing your graduate is learning in the code kata to why this will help them be a better software developer their brain is going to forget it really quickly.
 
-
 ### Motivation
 
 The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particuarly strong in most graduate software developers I've worked with. 
@@ -185,11 +184,13 @@ Senningers model is also useful for gauging if a piece of work is going to stret
 
 ### Quourum Reviews 
 
-Something I'm going to put under motivation is leveraging something we call quorum reviews. A quorum review is when a graduate presents a piece of work to a wider group for feedback. In our quorum reviews we have at least 5 people in a review. The graduate, their two mentors (we work in a co-mentorship model), two other peers and a technical lead. 
+Another tool we have seen help address motivation is leveraging something we call quorum reviews. A quorum review is similar to a group code review. Essentially, a graduate presents a piece of work to a wider group of people for feedback. In our quorum reviews we have at least 5 people in a review. The graduate, their two mentors (we work in a co-mentorship model), two other peers and a technical lead. 
 
-We've seen a significant increase in motivation of the graduate after introducing quorum reviews. The challenge with a quorum review is getting the timing and enviornment right. If you do quourum reviews before your graduate is ready for them they can go into panic mode. Likewise, if you have people they are intimidated by in the review again it can push them into panic mode.
+We invest time in each quorum review. A review usually takes between 45 minutes and an hour an a half. After introducing quorum reviews we've seen a significant increase in motivation of the graduate. 
 
-We intentionally introduce graduates to everyone that they will be in ther review with before it happens and do plenty of dry runs so that by the time the review happens they are comfortable with the process.
+The challenge with a quorum review is getting the timing and enviornment right. If you do a quourum review before your graduate is ready you can push them into panic mode. Likewise, if you have people in the review that your graduate is intimidated by, back into panic mode they go.
+
+To counter these we intentionally introduce graduates to everyone that they will be in ther review well in advance to the review happening and do plenty of dry runs so that by the time the review occurs the graduate is comfortable with the process.
 
 ## Building Meaningful Systems
 
@@ -198,7 +199,6 @@ We intentionally introduce graduates to everyone that they will be in ther revie
 Cons of real problems
 * Complex, often has too many things you need to understand
 * Touch area on what you are actually learning can be low
-
 
 ## These are the tools I'm aware of right now, there are more...
 
