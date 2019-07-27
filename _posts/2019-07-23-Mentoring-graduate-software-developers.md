@@ -179,14 +179,9 @@ There are some challenges in using code katas to help mentor software grads. The
 
 <img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
 
-The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for most software graduates is to work on something they feel is adding value to the company. They want to be seen as making a difference. They want to work on production! 
+The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particuarly strong in most graduate software developers I've worked with. 
 
-Their motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw). In his talk he shares an experient around measuring motivation for drawings.
-
-As a mentor, understanding what drives motivation can help you use katas more effectively. For example, when you grad finishes a kata reviewing it thoroughly and giving detailed feedback increases motivation.
-
-Understanding motivation leads to a better experience
-
+Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experient around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
 
 ## When reviewing work look at the code when talking about it
 
