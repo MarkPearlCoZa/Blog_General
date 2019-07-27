@@ -173,7 +173,7 @@ Another way to keep tabs on motivation is to use something like Senninger's lear
 
 In Senningers model there are three zones, comfort, learning and panic. The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. Whenever you do a kata ask your grad to indicate in which of the three zones they feel they are in. 
 
-If they say they have feelings of boredom, being comfortable, or being unchallenged it's an indication they are in the comfort zone. If they have identified they are in the comfortable zone you need to determine if they are feeling this way because they are tired of the problem (but still need to develop the skill), or if they have actually developed the skill and it's worth moving onto the next item in your roadmap.
+If they say they have feelings of boredom, being comfortable, or being unchallenged it's an indication they are in the comfort zone. If this is the case you need to determine if they in the comfort zone because they are bored of the problem (but still need to develop the skill) or if they have actually developed the skill and it's fine moving onto the next item in your roadmap. If they are bored with the problem, look for a new kata that exercises the same skills.
 
 Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
 
