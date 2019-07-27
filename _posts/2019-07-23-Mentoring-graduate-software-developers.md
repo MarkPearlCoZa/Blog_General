@@ -202,21 +202,13 @@ Bringing this back to Dreyfus's model, meaningful systems are complex but contro
 
 In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. I understand. Graduates love building them because they learn a ton and they see it as adding value. 
 
-The challenge we've seen with building meaningful systems is they have a lot of complexity and can have unnecessary noise. Identifying upfront what you want your graduate to learn through building the system is important. If  you do this you can reduce the noise by treating some areas of the system as a "black box". Unnecessary for your graduate to understand at that point in time.
+The challenge we've seen with building meaningful systems is they have a lot of complexity and can have unnecessary noise. Identifying upfront what you want your graduate to learn through building the system is important. If  you do this you can reduce the noise by treating some areas of the system as a "black box" for your graduate. Something you've gotten working for them which is unnecessary for them to understand at this point in time.
 
 ## These are some of tools we use now, there are more...
 
+So with that, I've covered some of the tools we use to mentor our graduates. I don't believe there is one correct way mentor graduates. I'm interested in learning what others are doing.
 
-
-These are the tools I'm aware of right now. I don't believe there is a one way to do this.
-
-* Every person is different and so the approach taken needs to be customized
-
-The power behind effective mentors is they adapt to the needs of their mentee. The more tools a mentor has, the more able they are to adapt to their mentees needs. 
-
-The more experience you have
-
-## You grow through mentoring others
+With that I want to end off with one last insight. If we go back to Blooms taxonomy of learning I mentioned there were different stages in the learning process. In the process of mentoring someone else you are drawing connections between different ideas, justifying a stand or decision and so on. On Blooms taxonomy these are the analyze and evaluate stages. In many ways as a mentor, you are growing the most. In being able to mentor someone else you are in effect improving your own skills so that you can produce new or original work.
 
 Going back to blooms... mentoring reinforces your own learning and growth to ultimately help you produce new or original work.
 
