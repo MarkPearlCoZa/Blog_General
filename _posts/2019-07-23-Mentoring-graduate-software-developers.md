@@ -194,11 +194,11 @@ To counter these we intentionally introduce graduates to everyone that they will
 
 ## Building Meaningful Systems
 
-* People enjoy the work more, something invigorating about adding value and building stuff others will use
+The last tool I want to spend time on today is building meaningful systems. I've seen huge value in having our graduates build meaningful systems. 
 
-Cons of real problems
-* Complex, often has too many things you need to understand
-* Touch area on what you are actually learning can be low
+Bringing this back to Dreyfus's model, meaningful systems are complex but controlled projects that give real world exposure. Let me highlight, there is a difference between a client facing production system and a meaningful system appropriate for your graduate to build.
+
+In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. Graduates love building them because they learn a ton. The challenge we've seen with them is they have complexity and learning noise.
 
 ## These are the tools I'm aware of right now, there are more...
 
