@@ -90,22 +90,6 @@ Now, for many of us you have an image locked in your head of what it means to be
 
 Instead, I'm referring to teaching skills. Investing a bit of time into understanding the psychology behind teaching skills goes a long way to helping you effectively mentor someone. Now, you don't have to go to university to develop your teaching skills. There are a handful of models I've found useful to guide how I teach. I'm going to share a few of them below.
 
-#### Senninger's Learning Zone Model
-
-Senninger's learning zone model is useful in identifying if your grad is in the sweet spot for learning. It talks about there being three zones, comfort, learning and panic.
-
-<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
-
-The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. One way to identify if they are in the learning zone is by how they are feeling. 
-
-Feelings of boredom, being comfortable, or being unchallenged are an indication your grad is in the comfort zone. It's fine being in the comfort zone for short periods of time, but when they start feeling like this it is an indication you are not challenging them enough. 
-
-On the opposite end of the spectrum is the panic zone. In the panic zone you have feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is dangerous. You don't learn much. If your grad is having feelings like this it is an indication that they are being stretched too much.
-
-Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
-
-When your grad is in the learning zone, what's the best way for them to learn?
-
 #### Blooms Taxonomy of Learning Model
 
 I found Blooms Taxonomy of Learning a useful model. Bloom is a hierarchical ordering of cognitive skills that can a help mentors teach better. It looks as follows:
@@ -182,6 +166,20 @@ There are some challenges in using code katas to help mentor software grads. The
 The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particuarly strong in most graduate software developers I've worked with. 
 
 Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experient around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
+
+Another way to keep tabs on motivation is to use something like Senninger's learning zone model. This can be used as a tool to identify if your grad is in the sweet spot for learning or if their motivation is decreasing. 
+
+<img class="img-responsive" alt="Senningers Learning Zone Model" src="{{ site.url }}/assets/images/mentoring-software-developers-senningers-learning-zone-model.png">
+
+In Senningers model there are three zones, comfort, learning and panic. The ideal is to have your grad in the "learning zone", in this zone learning is at its optimal. Whenever you do a kata ask your grad to indicate in which of the three zones they feel they are in. 
+
+If they say they have feelings of boredom, being comfortable, or being unchallenged it's an indication they are in the comfort zone. If they have identified they are in the comfortable zone you need to determine if they are feeling this way because they are tired of the problem (but still need to develop the skill), or if they have actually developed the skill and it's worth moving onto the next item in your roadmap.
+
+Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
+
+Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
+
+When your grad is in the learning zone, what's the best way for them to learn?
 
 ## When reviewing work look at the code when talking about it
 
