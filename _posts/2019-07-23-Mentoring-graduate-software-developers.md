@@ -55,6 +55,11 @@ Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
+### Technical mentoring accelerates growth
+
+* Put something hear about more knowledgable others
+* Zone of proximal development (where are they right now, what can they do on their own)
+
 ## How do we get better at it
 
 Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring.
@@ -66,7 +71,6 @@ The first thing I've learned is you need to adjust your approach depending on yo
 I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. 
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
-
 
 Generally, in most technical capabilities graduate software developers are at the Novice or Advanced Beginner stage of Dreyfus. That means when mentoring a grad you are going to focus on providing them detailed step by step instructions or simple projects in a safe to fail environment. We've found the use of coding katas (synthetic coding problems) and group projects useful. I go through both of these later in this post.
 
@@ -152,7 +156,6 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
 
-
 A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
 
 I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
@@ -177,12 +180,16 @@ If they say they have feelings of boredom, being comfortable, or being unchallen
 
 Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
 
-## When reviewing work look at the code when talking about it
+## Group reviews
 
-First establish where someone is. If you don't you risk either them getting no value, or being stretched too much.
+We introduced quorum reviews where a group of mentors go together to review a particular milestone
+* Saw increase in focus of mentees to cover that material
+* Higher engagement during this time
+* Understanding motivation (share story about drawing pictures and demotivating)
 
-* Sinner's model - comfort, learning & panic. What out of what we have are they comfortable doing? How can you validate this?
-* Zone of proximal development (where are they right now, what can they do on their own)
+We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
+
+
 
 ## Group Projects
 
@@ -192,15 +199,6 @@ Cons of real problems
 * Complex, often has too many things you need to understand
 * Touch area on what you are actually learning can be low
 
-
-## Resist the technology as long as possible
-
-We introduced quorum reviews where a group of mentors go together to review a particular milestone
-* Saw increase in focus of mentees to cover that material
-* Higher engagement during this time
-* Understanding motivation (share story about drawing pictures and demotivating)
-
-We are currently using a mixed approach where they balance time between real world systems and synthetic problems. It has it's pro's and it's cons.
 
 ## These are the tools I'm aware of right now, there are more...
 
