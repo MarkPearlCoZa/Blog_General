@@ -168,15 +168,16 @@ Should you pair all the time? Absolutely not. There is huge value in your grad h
 
 Kata, originally a Japanese word, is a series of detailed choreographed patterns of movements practiced either solo or in pairs to teach proven techniques and practice in martial arts. 
 
-A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
-
 <img class="img-responsive" alt="Wax on, Wax off" src="{{ site.url }}/assets/images/mentoring-software-developers-karate-kid.jpg">
+
+A code kata is a programming problem suitable for practicing specific programming patterns found in software development. Think of it as a synthetic problem to practice a technique on. The concept of a code kata was first popularized by [Dave Thomas, co-author of the book The Pragmatic Programmer](http://codekata.com/). 
 
 I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
 
 Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do composition, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory.
 
-Katas do have their challenges. 
+In using code katas as part
+
 
 Cons of synthetic problems
 * Wax on wax off without connecting to why it is important
