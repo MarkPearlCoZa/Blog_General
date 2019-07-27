@@ -144,11 +144,11 @@ I'm seeing huge benefits in first explaining and drawing out an approach at the 
 
 Personally, I'm not very skilled at explaining things at a whiteboard yet which is probably why initially I undervalued it and went straight to coding. This is now an area I'm looking to personally grow in.
 
-## Pair programming is a powerful way to transfer knowlege
+## Pair programming is a powerful way to transfer knowledge
 
 Pair programming is a powerful way to transfer knowledge. I've mentioned it already as a tool to use at various levels of direct instruction.
 
-While how you do pairing depends on whether you are going through a guided practice or assessing understanding one general comment around pairing is inexperienced mentors tend to type at the keyboard too much. In most situations, if you are going pair have your mentee at the keyboard. Having your mentee typing things makes the pairing activity experiential. Experiental learning energizes and enhances the learning experience.
+While how you do pairing depends on whether you are going through a guided practice or assessing understanding one general comment around pairing is inexperienced mentors tend to type at the keyboard too much. In most situations, if you are going pair have your mentee at the keyboard. Having your mentee typing things makes the pairing activity experiential. Experiential learning energizes and enhances the learning experience.
 
 Should you pair all the time? Absolutely not. There is huge value in your grad having independent practice. Look for a balance between pairing and independent practice. 
 
@@ -162,15 +162,15 @@ A code kata is a programming problem suitable for practicing specific programmin
 
 I've found huge value in code katas with a very gotchas. Let's spend some time on what's good about them first.
 
-Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do object composition in your backend code, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory as it get's you to the core of what you are learning.
+Katas help you focus on a specific thing by removing the noise or redundant information around the problem. Noise would be anything outside the learning objective. So for example, if you were learning how to do object composition in your back end code, noise would be if you had a UI framework like React in the same problem. Reducing noise or redundant information is a recommended practice for improving the learning experience in cognitive load theory as it get's you to the core of what you are learning.
 
 There are some challenges in using code katas to help mentor software grads. The one challenge with a code kata is you need to clearly link it to value. What is the value your graduate is getting from doing it. Similar to what happened with the karate kid where he never connected Mr Miyagis wax on wax off work to how it would improve his karate, if you haven't linked the thing your graduate is learning in the code kata to why this will help them be a better software developer their brain is going to forget it really quickly.
 
 ### Motivation
 
-The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particuarly strong in most graduate software developers I've worked with. 
+The other big challenge with code katas is staying motivated. Because they are toy problems they don't solve any business need and don't add any value to the organization. A big driver for motivation is to add value to where you work. This is particularly strong in most graduate software developers I've worked with. 
 
-Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experient around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
+Because katas add no value, the graduates motivation to keep working through a kata quickly wanes. Dan Ariely does a great [TED Talk on motivation](https://www.youtube.com/watch?v=wfcro5iM5vw) where he shares an experiment around measuring motivation for people doing drawings. I'm not going to go into the details here other than to suggest that if you are going to use code katas as a learning mechanism make sure to reviewing the work thoroughly and give detailed feedback to your graduate once they have completed it. This increases their motivation to do it again.
 
 Another way to keep tabs on motivation is to use something like Senninger's learning zone model. This can be used as a tool to identify if your grad is in the sweet spot for learning or if their motivation is decreasing. 
 
@@ -182,15 +182,15 @@ If they say they have feelings of boredom, being comfortable, or being unchallen
 
 Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
 
-### Quourum Reviews 
+### Quorum Reviews 
 
 Another tool we have seen help address motivation is leveraging something we call quorum reviews. A quorum review is similar to a group code review. Essentially, a graduate presents a piece of work to a wider group of people for feedback. In our quorum reviews we have at least 5 people in a review. The graduate, their two mentors (we work in a co-mentorship model), two other peers and a technical lead. 
 
-We invest time in each quorum review. A review usually takes between 45 minutes and an hour an a half. After introducing quorum reviews we've seen a significant increase in motivation of the graduate. 
+We invest time in each quorum review. A review usually takes between 45 minutes and to an hour and a half. After introducing quorum reviews we've seen a significant increase in motivation of the graduate. 
 
-The challenge with a quorum review is getting the timing and enviornment right. If you do a quourum review before your graduate is ready you can push them into panic mode. Likewise, if you have people in the review that your graduate is intimidated by, back into panic mode they go.
+The challenge with a quorum review is getting the timing and environment right. If you do a quorum review before your graduate is ready you can push them into panic mode. Likewise, if you have people in the review that your graduate is intimidated by, back into panic mode they go.
 
-To counter these we intentionally introduce graduates to everyone that they will be in ther review well in advance to the review happening and do plenty of dry runs so that by the time the review occurs the graduate is comfortable with the process.
+To counter these we intentionally introduce graduates to everyone that they will be in their review well in advance to the review happening and do plenty of dry runs so that by the time the review occurs the graduate is comfortable with the process.
 
 ## Building Meaningful Systems
 
