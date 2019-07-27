@@ -177,10 +177,6 @@ If they say they have feelings of boredom, being comfortable, or being unchallen
 
 Senningers model is also useful for gauging if a piece of work is going to stretch them too much. In the panic zone someone has feelings of anxiety, fear, exhaustion or tenseness. Being in the fear zone is not a good place because you don't learn much. If your grad is having feelings like this it is an indication that you may be stretching them too much.
 
-Where you want to have them is in the learning zone. In the learning zone they will have feelings of excitement, exhiliration and feeling challenged. In this zone learnig is at it's optimum (as a broad generalization I think many of us want to always be in the learning zone through out our career).
-
-When your grad is in the learning zone, what's the best way for them to learn?
-
 ## When reviewing work look at the code when talking about it
 
 First establish where someone is. If you don't you risk either them getting no value, or being stretched too much.
