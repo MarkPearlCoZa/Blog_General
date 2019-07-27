@@ -196,11 +196,11 @@ To counter these we intentionally introduce graduates to everyone that they will
 
 The last tool I want to spend time on today is building meaningful systems. I've seen huge value in having our graduates build meaningful systems. 
 
-Bringing this back to Dreyfus's model, meaningful systems are complex but controlled projects that give real world exposure. Let me highlight, there is a difference between a client facing production system and a meaningful system appropriate for your graduate to build.
+Bringing this back to Dreyfus's model, meaningful systems are complex but controlled projects that give real world exposure. Let me highlight, there is a difference between a client facing production system and a meaningful system appropriate for your graduate to build. A client facing production system is not a safe place to fail.
 
 <img class="img-responsive" alt="Meaningful Work" src="{{ site.url }}/assets/images/mentoring-software-developers-meaningful-work.jpg">
 
-In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. Graduates love building them because they learn a ton and they see it as adding value. 
+In our programme we have our graduates build all the internal tools we use for managing the programme. These tools have a massive impact on my life (when they work they save me a ton of time) but if they don't work it isn't the end of the world. I understand. Graduates love building them because they learn a ton and they see it as adding value. 
 
 The challenge we've seen with building meaningful systems is they have a lot of complexity and can have unnecessary noise. Identifying upfront what you want your graduate to learn through building the system is important. If  you do this you can reduce the noise by treating some areas of the system as a "black box". Unnecessary for your graduate to understand at that point in time.
 
