@@ -62,11 +62,6 @@ Some of the tools/techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
-### Technical mentoring accelerates growth
-
-* Put something hear about more knowledgable others
-* Zone of proximal development (where are they right now, what can they do on their own)
-
 ## How do we get better at it
 
 Now that I have briefly outlined what technical mentoring is and some of the reasons on why it is so powerful, I want to share some things we've learned around how to be better at it. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around general mentoring.
