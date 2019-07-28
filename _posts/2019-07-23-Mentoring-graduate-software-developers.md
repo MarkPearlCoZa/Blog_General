@@ -68,9 +68,7 @@ So how do we get better at it? I going to share a handful of things I've learned
 
 ### Adjust your approach depending on their skill level
 
-The first thing I've learned is you need to adjust your approach depending on your mentee's skill level. The nature of how someone is mentored changes as they grow in experience and capability.  
-
-I find the Dreyfus model of skills acquisition a useful model to use when figuring out what adjustments you need to make. 
+The first thing I've learned is you need to adjust your approach depending on your mentee's skill level. The nature of how someone is mentored changes as they grow in experience and capability. The Dreyfus model of skills acquisition is a useful model to use when figuring out what approach you need to take. 
 
 <img class="img-responsive" alt="Dreyfus Model" src="{{ site.url }}/assets/images/mentoring-software-developers-dreyfus-model.gif">
 
