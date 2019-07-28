@@ -44,9 +44,11 @@ Technical mentoring is a process for the informal transmission of knowledge, ski
 
 > Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege relevant to their development as a software professional 
 
-One way to visually represent what technical mentoring helps achieve is the following diagram. This is my adaption of Vygotsky's zone of proximal development but with a spin on mentoring. Vygotsky's work is used largely in the child development space but I believe it translates well to developing software practitioners as well. 
+One way to visually represent what technical mentoring helps achieve is the diagram below. 
 
 <img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development-for-mentoring.png">
+
+This is my adaption of Vygotsky's zone of proximal development but with a spin on mentoring. Vygotsky's work is used largely in the child development space but I believe it translates well to developing software practitioners as well. 
 
 There are a set of things you are comfortable doing independently, and a set of things that are beyond your current abilities. Somewhere between those two areas is a zone where if guided you are able operate and perform. This is where your technical mentor fits in, they are there to guide you using various tools and techniques. With time and practice you are able to improve and do more challenging work independently.
 
