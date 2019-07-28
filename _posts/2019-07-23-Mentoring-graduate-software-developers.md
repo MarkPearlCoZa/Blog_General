@@ -13,7 +13,7 @@ For the last two years I've been guiding our graduate software developer academy
 
 ## Mentoring is a great way to grow software developers
 
-Mentoring is a great way to grow software developers. From what I've seen, I don't believe our graduates would learn and grow as effectively as they do if we didn't have amazing dedicated mentors. So why is mentorship so powerful? I believe there are a number of attributes, the three that immediately stand out to me are **context**, **timing** and **human connection**.
+Mentoring is a great way to grow software developers. From what I've seen, I don't believe our graduates would learn and grow as effectively as they do if we didn't have amazing dedicated mentors. So why is it so powerful? Three attributes that immediately come to mind are **context**, **timing** and **human connection**.
 
 **Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
 
