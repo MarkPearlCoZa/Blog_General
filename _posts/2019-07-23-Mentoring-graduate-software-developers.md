@@ -48,7 +48,7 @@ One way to visually represent what technical mentoring helps achieve is the diag
 
 <img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development-for-mentoring.png">
 
-This is my adaption of Vygotsky's zone of proximal development but with a spin on mentoring. Vygotsky's work is used largely in the child development space but I believe it translates to developing software practitioners as well. 
+This is my adaption of Vygotsky's zone of proximal development. Vygotsky's work is used largely in the child development psychology space however I believe it translates well to growing software developers. 
 
 Let me explain, there are a set of things you are comfortable doing independently, and a set of things that are beyond your current abilities. Somewhere between those two areas is a zone (which he calls the zone of proximal development or ZPD) where if guided you are able operate and perform. This is where your technical mentor fits in, they are there to help get you into the ZPD and while there guide you using various mentoring tools and techniques. With time and practice you learn and develop and are able to do more challenging work independently.
 
