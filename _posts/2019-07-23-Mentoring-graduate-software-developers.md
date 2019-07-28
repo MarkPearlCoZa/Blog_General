@@ -64,7 +64,7 @@ Some of the techniques I've seen include:
 
 ## How do we get better at it
 
-So how do we get better at it? I going to share a handful of things I've learned over the last two years. I am going to focus around things specifically for technical mentoring, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around things you can do to get better at mentoring in general.
+So how do we get better at it? I going to share a handful of things I've learned over the last two years. I am going to focus around things specifically for technical mentoring in the graduate developer space, I've made a [separate post](http://blog.markpearl.co.za/General-mentoring-suggestions) around things you can do to get better at mentoring in general.
 
 ### Adjust your approach depending on their skill level
 
