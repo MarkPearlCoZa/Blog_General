@@ -52,13 +52,13 @@ Vygotsky's work is used largely in the development of cognition for children how
 
 There are a set of things you are comfortable doing independently, and a set of things that are beyond your current abilities. Somewhere between those two areas is a zone (which he calls the Zone of Proximal Development or ZPD) where if guided by a more knowledgeable other you are able operate and perform. This is where your technical mentor fits in, your mentor is there to help you get into the ZPD and while there guide you using various mentoring tools and techniques. With time and practice you learn and develop and are able to do more challenging work independently.
 
-### Technical mentoring is a role, not a tool
+### Technical mentoring is a role, not a technique
 
-Technical mentorship is a role, not a tool or technique. Let me explain the difference. In the English language we often use the same words to describe both roles and tools. For instance "coaching" is a role and a tool, if you are the coach of a soccer team that is your role and we could say you are coaching them; if you are coaching someone through making a difficult decision, that's a tool you are using to help achieve an outcome (them gaining insights to make a decision by you asking probing questions). Technical mentorship is a role. 
+Technical mentorship is a role, not a technique. Let me attempt to explain the difference. The English language is clumsy, we often use the same words to describe both roles and techniques. For example, "coaching" is a role and a technique. If you are the coach of a soccer team and are "coaching" them, that is your performing your role; if you are coaching someone through making a difficult decision, that's a technique you are using to help achieve an outcome (them gaining insights to make a decision by you asking probing questions). Technical mentorship is a role. 
 
-There are are various tools and techniques technical mentors use to be effective. Which tool you use when mentoring largely depends on your experience and where your mentee is at in their learning journey. 
+There are are various techniques technical mentors use to be effective. Which technique you use when mentoring largely depends on your experience and where your mentee is at in their learning journey. 
 
-Some of the tools/techniques I've seen include:
+Some of the techniques I've seen include:
 
 <img class="img-responsive" alt="Different tools in mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-different-tools.png">
 
