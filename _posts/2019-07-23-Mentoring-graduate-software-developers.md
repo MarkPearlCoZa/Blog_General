@@ -22,8 +22,6 @@ Mentoring is a great way to grow software developers. From what I've seen, I don
 **Human connection**. We learn best through **social interactions** from people we feel connected to. Mentoring done right forms a human connection between mentor and mentee that enhances the growth experience.
 
 
-<img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development-for-mentoring.png">
-
 ### The ellusive definition 
 
 As I discovered early on, the word mentor/mentoring is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
@@ -45,6 +43,12 @@ So what is technical mentoring? Let me propose a definition...
 Technical mentoring is a process for the informal transmission of knowledge, skills, and support perceived by the recipient as relevant to their development as a software professional; it entails informal communication, usually face-to-face and during a sustained period of time, between the person who is perceived to have greater relevant knowledge, wisdom, and technical skills (the mentor) and a person who is perceived to have less (the protégé)"*.
 
 > Technical mentoring is a process for the informal transmission of knowledge, skills, and support between the mentor and the protege relevant to their development as a software professional 
+
+One way to visually represent what technical mentoring helps achieve is the following diagram. This is my adaption of Vygotsky's zone of proximal development but with a spin on mentoring. Vygotsky's work is used largely in the child development space but I believe it translates well to developing software practitioners as well. 
+
+<img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development-for-mentoring.png">
+
+There are a set of things you are comfortable doing independently, and a set of things that are beyond your current abilities. Somewhere between those two areas is a zone where if guided you are able operate and perform. This is where your technical mentor fits in, they are there to guide you using various tools and techniques. With time and practice you are able to improve and do more challenging work independently.
 
 ### Technical mentoring is a role, not a tool
 
