@@ -24,7 +24,7 @@ Mentoring is a great way to grow software developers. From what I've seen, I don
 
 <img class="img-responsive" alt="Introducing technical mentoring" src="{{ site.url }}/assets/images/mentoring-software-developers-zone-of-proximal-development-for-mentoring.png">
 
-### The ellusive definition on mentoring
+### The ellusive definition 
 
 As I discovered early on, the word mentor/mentoring is a loaded word. It means vastly different things to different people. If you read the [definition on Wikipedia](https://en.wikipedia.org/wiki/Mentorship) it says: *"Mentoring is a process that always involves communication and is relationship-based, but its precise definition is elusive."*. 
 
