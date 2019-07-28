@@ -11,7 +11,7 @@ At MYOB we've been improving our graduate programme for software developers. Tod
 
 For the last two years I've been guiding our graduate software developer academy at MYOB. The academy is where we employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers). In this post I'm going to share some insights I've gained around a form of mentorship I call technical mentorship.
 
-## Mentoring is a great way to grow software developers
+## Mentoring software developers
 
 Mentoring is a great way to grow software developers. From what I've seen, I don't believe our graduates would learn and grow as effectively as they do if we didn't have amazing dedicated mentors. So why is it so powerful? Three attributes that immediately come to mind are **context**, **timing** and **human connection**.
 
