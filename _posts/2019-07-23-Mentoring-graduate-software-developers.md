@@ -7,15 +7,13 @@ category: General
 
 At MYOB we've been improving our graduate programme for software developers. Today I would like to share some of the insights we've gained over the last few years around a practice I call technical mentorship.
 
-## How do I fit in
+## Some background
 
-I have a software development background with a strong value placed on XP principles. For the last few years I've been guiding our graduate software developer academy at MYOB. The academy is where we employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers).
+For the last two years I've been guiding our graduate software developer academy at MYOB. The academy is where we employ less experienced software practitioners and through a structured learning and mentorship programme intentionally grow their capability. I cover a bit around the evolution of the structure of the programme in a [previous post](http://blog.markpearl.co.za/Evolving-graduate-programme-for-software-developers). In this post I'm going to share some insights I've gained around a form of mentorship I call technical mentorship.
 
-## Mentorship is a key pillar 
+## Mentoring is a great way to grow software developers
 
-Mentorship is a key pillar in the programme. Certainly our graduates would not learn and grow as effectively as they do if we didn't have amazing dedicated mentors.  From what I've observed so far I believe the best way to grow great software developers is through mentorship.
-
-So why is mentorship so powerful? I believe there are a number of attributes, the three that immediately stand out to me are **context**, **timing** and **human connection**.
+Mentoring is a great way to grow software developers. From what I've seen, I don't believe our graduates would learn and grow as effectively as they do if we didn't have amazing dedicated mentors. So why is mentorship so powerful? I believe there are a number of attributes, the three that immediately stand out to me are **context**, **timing** and **human connection**.
 
 **Context** is essential for us to learn effectively. Understanding why we are learning what we are learning is important for us to remember it. Many other forms of learning (blogs, books, online tutorials) can tell us why in general something is important but aren't able to understand our specific context and relate it back to us. Mentors are able to understand and give context.
 
