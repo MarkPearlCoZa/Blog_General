@@ -134,6 +134,18 @@ How many spot fires are we missing because we are not focussing on individuals a
 
 # Feedback Both Ways
 
+Have you ever...
+* avoided conversation because you don't have all the facts
+* avoided conversation because the conflict or emotional reactions
+* avoided conversations because you didn't want to damage the relationship
+* delivered harsh feedback in the name of 'being honest'
+
+What makes feedback great?
+* It is helpful and has a "because"
+* It has a balance of positive and negatives
+* Nips issues in the bud
+* Is well prepared (opinions are not facts)
+
 # Relationships Matter
 
 # Designing Your Catch Up
