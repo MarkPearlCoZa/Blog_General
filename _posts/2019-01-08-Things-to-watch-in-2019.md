@@ -28,3 +28,4 @@ Here is my list for 2019. This list is adapted as the year progresses:
 [Learning from a grand master of memory | Mattias Ribbing | TEDxLundUniversity](https://www.youtube.com/watch?v=_CFtPOUx7Hk)
 [All it takes is 10 mindful minutes](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes/up-next?language=en)  
 [Lessons from the Red Bead Experiment with Dr. Demming](https://blog.deming.org/2014/03/lessons-from-the-red-bead-experiment-with-dr-deming/)  
+[How to become a memory master by Idriz Zogaj atTEDxGoteborg](https://www.youtube.com/watch?v=9ebJlcZMx3c)  
