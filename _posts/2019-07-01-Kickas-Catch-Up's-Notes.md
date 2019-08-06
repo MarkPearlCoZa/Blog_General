@@ -146,6 +146,23 @@ What makes feedback great?
 * Nips issues in the bud
 * Is well prepared (opinions are not facts)
 
+Read Fierce Conversations by Susan Scott
+
+Think about an issue, problem or person
+
+## Preparing the conversation
+
+1. State the issue (the purpose or thing). This should have no opinion or feeling in it. Hey, can we chat about X
+2. Share your intent (do not problem solve yet).
+3. Provide some examples or facts (high level only)
+4. Share your opinion/feeling
+5. Discuss the stakes/consequences (what are the consequences for them)
+6. Identify your contribution to the problem  
+6a. Repeat your intent, if appropriate
+7. Ask them for their thoughts/perspectives
+
+> 10% of conflicts are due to difference of opinion, 90% due to tone or intent.
+
 # Relationships Matter
 
 # Designing Your Catch Up
