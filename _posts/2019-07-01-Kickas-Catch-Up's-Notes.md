@@ -163,6 +163,71 @@ Think about an issue, problem or person
 
 > 10% of conflicts are due to difference of opinion, 90% due to tone or intent.
 
-# Relationships Matter
+## Getting feedback
+
+1. Be specific about what you want feedback on
+2. Frame it; What's working? What could be better?
+3. Give them time to gather their examples and think things thorugh and set a date when you will get the feedback.
+
+# Relationships Matters
+
+When we work with people we like we give our discretionary effort
+
+People say relationships at work don't have to be personal.
+We can collaborate and get things done without having to be friends.
+
+Business is personal because people are involved.
+You are dependent on others for success 
+
+Personal relationships don't mean you need to know each others deepest fears, or childrens birthdays or what you did on the weekend.
+
+False belieds about relationships
+- If I have a tough conversation, the relationship will suffer
+- I need to keep distance to maintain respect
+- I can't be friends with people I lead
+
+Five pillars to healthy relationships at work
+1) Show them respect (show how to act with integrity and treat them well)
+2) Sit in their shows (listen to understand)  
+3) Make it feel safe
+4) Check your ego (Don't have an overinflated sense of self)  
+5) Don't take it personally (How people treat us is a measure of their character, how we react is a measure of ours)
+
+4 types of relationships we have
+1) Adversary - publicly or subtly seek to undermine you
+2) Rival - competes with you for promotions, resources, others attention
+3) Supporter - on your side until the going gets tough
+4) Ally - they have your back no matter what
+
+(see the power of winning relationships" by Morag Barrett
+
+Identify relationships to upgrade, sit in their shows, have the conversation, repeat
 
 # Designing Your Catch Up
+
+Quality of catch ups count
+Quantity of catch ups count
+
+How do you ensure high quality?
+- Practice, review and tweek
+- Get feedback from those being in your catch ups
+
+How do you get the right quantity?
+- Some want weekly
+- Some want fortnightly
+- Some want monthly
+- None at all is not an option
+
+Allow employees to pick how often their catch ups would be 
+
+When checkins are done more reguarly, engagement increases
+
+## 7 Components to consider
+
+1. Get present
+2. Start POW with "What's on your mind?"
+3. Discuss task list
+4. Open up career conversations
+5. Touck on KPI's & long term goals
+6. Give and receive feedback
+7. Plan a way forward
