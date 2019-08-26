@@ -226,8 +226,10 @@ When checkins are done more reguarly, engagement increases
 
 1. Get present
 2. Start POW with "What's on your mind?"
-3. Discuss task list
+3. Discuss task list (previous actions, todo's)
 4. Open up career conversations
 5. Touck on KPI's & long term goals
 6. Give and receive feedback
 7. Plan a way forward
+
+
