@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mentoring : Giving feedback when being asked for it
+title: Mentoring, giving feedback when it is being asked for it
 tags: 
 category: General
 ---
