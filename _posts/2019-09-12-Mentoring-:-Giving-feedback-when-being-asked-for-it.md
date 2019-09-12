@@ -39,3 +39,4 @@ Often the subjective things that require discussion and explanation will help yo
 #### References
 
 - [Principles of Instruction](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)  
+- [Summary of The Principles of Instruction](https://teacherhead.com/2018/06/10/exploring-barak-rosenshines-seminal-principles-of-instruction-why-it-is-the-must-read-for-all-teachers/)
