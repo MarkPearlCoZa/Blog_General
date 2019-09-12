@@ -2,7 +2,7 @@
 layout: post
 title: Minto Pyramid Principle
 tags: 
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+category: Process
 ---
 
 Some tips to make it sharper would be order, 
