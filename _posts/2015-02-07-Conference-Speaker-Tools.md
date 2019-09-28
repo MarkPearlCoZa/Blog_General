@@ -17,3 +17,9 @@ For those that know me - I have spoken at a few conferences. Below are a collect
 4) Extemporaneous  
 
 [The 4 Delivery Methods](http://westsidetoastmasters.com/resources/powerspeak/lib0208.html)
+
+#### Videos to watch
+
+[Writing a good CFP](https://archive.org/details/dodseattle2019-cfp-training)  
+[Preparing a good talk](http://archive.org/details/dodseattle2019-presentation-training)  
+
