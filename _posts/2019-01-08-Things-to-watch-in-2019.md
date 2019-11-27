@@ -22,7 +22,8 @@ Here is my list for 2019. This list is adapted as the year progresses:
 [Engineering Management: the Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)  
 [The truth about boundaries, curiosity, and requests part 1 of 2](https://www.eventbrite.com/engineering/the-truth-about-boundaries-curiosity-and-requests-part-1-of-2/)  
 [Learn these two simple techniques that will dramatically improve your whiteboard skills](https://medium.com/graphicfacilitation/two-simple-techniques-to-dramatically-improve-your-whiteboard-skills-a391534a8140)
-[14 Natural Ways to Improve Your Memory](https://www.healthline.com/nutrition/ways-to-improve-memory)
+[14 Natural Ways to Improve Your Memory](https://www.healthline.com/nutrition/ways-to-improve-memory)  
+[What to test and not to test by Mark Seemann](https://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)  
 
 #### Things to watch
 
