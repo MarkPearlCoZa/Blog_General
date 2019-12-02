@@ -24,3 +24,7 @@ Agree on a metric for measuring your grads learning pace at the start of the pro
 
 Define the structure of weekly catchups early - we didn’t have a strong structure to these and so they became a bit wishy-washy towards the end.
 
+#### References
+
+[Seven Tips for Junior Developers](http://www.pearlleff.com/seven-tips-for-a-junior-developer)  
+[Developers mentoring and other practices I've seen working well, ycombinator](https://news.ycombinator.com/item?id=21510894)  
