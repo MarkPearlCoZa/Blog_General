@@ -5,11 +5,11 @@ tags:
 category: Soft
 ---
 
-Interviewers assess you relative to other candidates they have met. There is no standardized grading system.
+Interviewers assess you relative to other candidates they have met. There is no standardized grading system.  
 
-False negatives are acceptable, meaning it is acceptable (but unfortunate) that some candidates are rejected during an interview process that would actually be great employees. 
-False positives are not acceptable, meaning people who do well in an interview but are not in fact a good match for the company.
-It is almost impossible to measure someone's work ethic or ability to focus in an interview scenario.
+* False negatives are acceptable, meaning it is acceptable (but unfortunate) that some candidates are rejected during an interview process that would actually be great employees.   
+* False positives are not acceptable, meaning people who do well in an interview but are not in fact a good match for the company.  
+* It is almost impossible to measure someone's work ethic or ability to focus in an interview scenario.  
 
 ## Skills we look for in Dev Lead roles
 
