@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screening and Interviewing Notes
+title: Interviewing and Screening Notes
 tags: 
 category: Soft
 ---
