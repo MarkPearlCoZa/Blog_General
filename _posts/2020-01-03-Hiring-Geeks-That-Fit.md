@@ -5,7 +5,7 @@ tags: Leadership
 category: Media
 ---
 
-This is a great pragmatic book on Johanna's approach to interviewing software practitioners. It has a number of tips and tools to improve your hiring process.
+This is a great pragmatic book on Johanna's approach to interviewing software practitioners. It has a number of tips and tools to improve your hiring process. I've put my notes below on the key points that were new to me although I would recommend reading this book front to back to get a full appreciation for the process she uses. My only criticism is it is a little dated in how she screens for "testers". I belive modern developmnet and shifting testing left may have changed the behavioural questions I would be asking. A must read!
 
 #### Notes
 
