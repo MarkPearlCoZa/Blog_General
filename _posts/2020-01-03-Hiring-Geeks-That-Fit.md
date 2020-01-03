@@ -120,5 +120,92 @@ N/A
 - If a résumé is riddled with typos, I probably won’t phone-screen the person, because I want to find people who have both the ability and the will to review their work.
 - I try make a decision within 24 hours of receiving a résumé about whether I want to proceed with the particular candidate
 
+##  Develop Interview Questions and Techniques
 
-### 
+- The most effective interview consists of a series of closed questions to establish the basic facts, used in combination with behavior-description questions, followed by auditions
+- BEWARE OF LEADING QUESTIONS
+- Hypothetical questions can be a problem for your interviews. Hypothetically, I’m perfect. Unfortunately, I am far from perfection in reality. Just ask anyone who knows me. However, when I answer hypothetical questions, I provide great answers. That’s because I answer hypothetical questions in a way I would like to behave. The more I interview, the less I use hypothetical questions.
+- Too often, candidates tell you what they think the right answer is, rather than what they really believe
+- The best kind of questions are open-ended behavior-description questions, where you ground the candidate in a recent project, ask a question and then let the candidate answer.
+- Use auditions in addition to great behavior-description questions in a conversational setting to create the overall best interview. You will learn what you need to learn about the candidate. The candidate will learn about your interview team and the organization. It’s a win-win.
+- Formulate a set of meta-questions, "What haven’t I asked you to talk about that I should have?" "If I were to ask you a question for which an honest answer would make you look less qualified for this job, how would you answer?” (This question is a variation on the question, “What are your strengths and weaknesses?”)
+
+- Irrelevant questions focus on the person rather than on the person’s qualifications for the open job. Interviewers sometimes use irrelevant questions to draw out the person behind the bare facts listed on the résumé. Questions such as “Where do you want to be in five years?” or “If you could change just one thing, what would it be?” are irrelevant because they do not directly relate to the qualifications required for the job.
+
+### Questions
+
+#### Developer
+
+- What issues did you run into during implementation?
+- Tell me about a time when you had trouble.
+- Tell me about a time when you had fun.
+
+#### Tester
+
+- Tell me about your test choices and activities now.
+- Tell me about a great defect you found.
+- How do you advocate for defects you think need to be fixed?
+
+#### Technical Lead
+
+- How do you recognize when the work is proceeding well?
+- How do you know when things aren’t proceeding smoothly, and what do you do?
+- Do you coach or mentor? If so, how?
+- Tell me about a time when you had trouble.
+- Tell me about a time when you had fun.
+
+#### Manager
+
+- Give me an example of how you manage difficult people.
+- Give me an example of how you manage peer relationships.
+
+#### All candidates: To learn about the person’s drive or ambition
+
+##### Ambition
+
+- When was the last time you wanted a promotion or a particular assignment?
+- What did you do to obtain what you wanted?
+
+##### Success
+
+Tell me about a time you felt particularly successful in your work. What do you think caused it?
+Tell me about successful teams you have been a part of.
+Tell me about managers with whom you have had a great working relationship.
+
+##### Challenge
+
+Tell me about your greatest challenges. What caused them?
+What kinds of challenges do you thrive on?
+What kinds of challenges do you find too risky?
+
+##### Environment
+
+Tell me about the kinds of environments you have been most successful in. Please give me examples.
+Have you encountered environments that have prevented you from being successful? What happened?
+
+##### Overtime
+
+Tell me about any experience you have had with working overtime at the end of a release.
+Have you juggled overtime with other commitments? Would you be available to put in overtime on an infrequent basis? On a long-term basis? Never?
+
+### Auditions
+
+#### Developer
+
+Debugging: I show the candidate a software product in development, including a piece of the code, and ask him or her to solve a problem that I tell the candidate already exists in the code. (In this audition, I intend to see how the person looks for problems, isolates problems, considers solutions, looks for alternative solutions, chooses a solution, and implements a solution. If you will have candidates look at production code, be sure to carefully select the code sample in advance of the interview. Rather than having the candidate work on a computer or at a workstation, print out the selected segment of code so the candidate doesn’t possibly see something proprietary that you don’t want seen.)
+
+Programming and development: I define the requirements for a small program (random number generators or bubble sorts are possibilities), and then ask the candidate to write code or pseudo-code. (You must provide the candidate enough time to complete the audition.) When I turn the code produced in this audition over for review by a programmer on the hiring company’s staff, I ask him or her to look at whether the candidate has properly declared functions and objects, initialized variables, managed pointers or memory (such as allocating and freeing memory), or handled whatever points are important to the job. WEI98.
+
+#### Tester
+
+One good technique for auditioning testers requires a product demonstration. I provide a brief written description of a part of the product and then give the candidate tester some time with the product to explore it. I then have one of two choices: Either I ask the candidate tester to walk through his or her thought process on how to test the product or I ask the candidate to perform actual testing and problem reporting. In cases in which it is possible to show the candidate the running product rather than just a description, I sit the person down in front of the computer, and say, “Go test. Here’s some paper so you can take notes. I want you to walk me through your testing in twenty minutes.” You can look for not just the person’s specific approach, but also how he or she went about exploring the product.
+
+#### Project manager auditions
+
+A type of project management audition I like to use when I’m looking for a manager for a high-visibility or large project requires candidates to thoroughly describe a project they have managed. I ask the candidate to describe how he or she organized the particular project and what the deliverables were, and then I ask the candidate to describe what variation on that organization he or she would use according to several lifecycles, such as staged delivery, SCRUM, spiral, or waterfall lifecycles. Depending on how familiar the candidate is with various lifecycles, I may then ask which lifecycle he or she would choose if doing the project again—and why—and what impact such a lifecycle might have on the interim and final project deliverables.
+
+#### Manager auditions
+
+For managers, I sometimes set up an audition to take place during a lunchtime meeting, and I invite attendees from the group with which the candidate would be working if hired. The audition segment could consist of a brief presentation by the candidate, to be followed by a Q & A session. I note to whom the candidate talks most frequently, and whom the candidate avoids.
+
+
