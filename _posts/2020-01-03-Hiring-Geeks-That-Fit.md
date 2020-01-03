@@ -215,4 +215,9 @@ A type of project management audition I like to use when I’m looking for a man
 
 For managers, I sometimes set up an audition to take place during a lunchtime meeting, and I invite attendees from the group with which the candidate would be working if hired. The audition segment could consist of a brief presentation by the candidate, to be followed by a Q & A session. I note to whom the candidate talks most frequently, and whom the candidate avoids.
 
+### Points to remember
 
+- Ask questions specifically worded to help you determine whether the candidate will fit your open position and culture.
+- Use a variety of questions to elicit the most information in a short time.
+- Spend your interview time primarily using behavior-description and audition questions.
+- Develop multiple ways to ask about specific skills, preferences, or capabilities, framed within the context of the candidate’s work.
