@@ -221,3 +221,26 @@ For managers, I sometimes set up an audition to take place during a lunchtime me
 - Use a variety of questions to elicit the most information in a short time.
 - Spend your interview time primarily using behavior-description and audition questions.
 - Develop multiple ways to ask about specific skills, preferences, or capabilities, framed within the context of the candidate’s work.
+
+## Create and Use Phone-Screens
+
+Personally phone-screen the candidates whose résumés look promising. Don’t take information passed to you by an internal or external recruiter as a substitute for information gathered during your own conversation with a candidate. 
+
+When I meet a candidate who explains the culture is toxic or the organization is chaotic or the commute is unbearable. Probe further to determine what made things toxic or chaotic or unbearable, and mentally check to see whether your company has any of the same problems. It is not a crime for a candidate to be unhappy with his or her current job or to want to better his or her lot, but a mature, professional person will be circumspect about harping on the problems and will focus on finding an environment in which to be productive. If a candidate excessively criticizes management policies or colleagues at his or her current company, think about whether the problems are the candidate’s problems or the environment’s problems.
+
+### Closing lines on phone screens
+
+- Yes-we-want-you closing remarks: You’re interested, and that you want to continue the interview process: “You seem like you might be a good fit for this position. Harriet in HR (or Samantha in Systems Analysis or Terri in Test Engineering) will call you tomorrow to arrange an in- person interview. What number can she use to contact you?”
+
+- Maybe-we-want-you closing remarks: Indicate to the candidate that he or she is not at the top of your list, but that you or someone from your company may be back in contact to set up an in-person interview: “You have some of the experience we need, but not all. If we want you to come in for an interview, Mr. Personnel will contact you, probably within the next two weeks. What number should he use?”
+
+- No-we-don’t-want-you closing remarks: Stop the process now: “I appreciate you taking the time to talk to me, but your mix of skills and experience isn’t quite what we’re looking for. I wish you every success in your continued job search.”
+
+### Points to remember
+
+- Develop a phone-screen script for each open position.
+- Conduct phone-screens that are as short as five to fifteen minutes as you search for candidates worthy of the full thirty- to forty-five-minute phone-screen or of an in-person interview.
+- Ask elimination-factor questions and determine essential skills, qualities, and preferences during the phone-screen to help decide whether an in-person interview is merited.
+- Ask the same questions of all applicants for a given position and keep notes.
+- End the phone-screen if the candidate doesn’t pass your elimination-factors questions.
+- Decide whether to invite the candidate in for an interview, whether to put his or her résumé in the Maybe pile, or whether to reject the candidate entirely. Tell each candidate what he or she can expect at the end of the phone-screen.
