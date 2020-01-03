@@ -188,6 +188,13 @@ Have you encountered environments that have prevented you from being successful?
 Tell me about any experience you have had with working overtime at the end of a release.
 Have you juggled overtime with other commitments? Would you be available to put in overtime on an infrequent basis? On a long-term basis? Never?
 
+##### Training
+
+Tell me about your previous experience with company training policies.
+Have you ever determined your own training policy? If so, what was the curriculum? If not, what kinds of training are you looking for?
+What training have you had that addresses the functional skills, tools, or industry for the products you have worked on before?
+What’s the value of that training to you?
+
 ### Auditions
 
 #### Developer
