@@ -244,3 +244,111 @@ When I meet a candidate who explains the culture is toxic or the organization is
 - Ask the same questions of all applicants for a given position and keep notes.
 - End the phone-screen if the candidate doesn’t pass your elimination-factors questions.
 - Decide whether to invite the candidate in for an interview, whether to put his or her résumé in the Maybe pile, or whether to reject the candidate entirely. Tell each candidate what he or she can expect at the end of the phone-screen.
+
+## Plan and Conduct the In-Person Interview
+
+- Keep the selection of interviewers consistent when interviewing for the same position, so that I have a consistent set of questions, biases, and approaches to candidates. 
+- Train your interview team to apply a limited-consensus approach to hiring. Limited consensus means everyone can live with the decision.
+- Only involve employees whose work you respect and value. If an employee isn’t successful in his or her technical position, don’t make that employee part of the interview team.
+- Do not interview in a team room or other open space. Interviews are private conversations and deserve privacy. Find a private area in which to interview.
+- Make it clear in advance to both the candidate and the interviewers whether you will be providing them with a meal if the interview is scheduled to stretch past normal meal times.
+- Create an interview matrix
+
+- When you ask behavior-description questions, you may want to introduce them and explain that you will give the candidate time to think. You might say, “I’m using a questioning technique that will require you to think about your past experiences. If you need time to think about the answer, that’s okay. I’ll wait for your answer
+- Don’t prompt the candidate and don’t lead the candidate’s answer.
+- If you are the not the first interviewer, you don’t have to bother with small talk with the candidate. Say “Hello, nice to meet you.” Start with the interview questions, and make the most of both your and the candidate’s interview time.
+- Thank the candidate for coming in, explain that the hiring manager will get back to him or her with status within a day, and escort the candidate to the same entrance he or she arrived at.
+
+### Points to remember
+- Select who will be on your interview team. Make the team cross-functional if the candidate will need to work across corresponding functional areas.
+- Ask each interviewer to define his or her interview’s duration, but make the interviews long enough for people to gather data about the candidate.
+- Choose an interruption-free, comfortable place to interview.
+- Create and send to each interviewer the interview package at least twenty-four hours before the interview. Follow up on the day of the interview to make sure everyone is still available to interview.
+- Develop your own behavioral questions, and encourage everyone on the interview team to prepare unique questions. Actively listen for answers.
+- Ask questions that comply with the law.
+- Be considerate of the candidate’s time and effort.
+- Be considerate of your interview team’s preparation and interview time.
+
+## Follow Up After the Interview
+- Whatever you decide, don’t ignore gut feelings; just don’t base your decision entirely on them.
+- If even one person votes thumb-down in the second call for votes, I generally don’t pursue the candidate. I take this somewhat severe approach because I know that my staff members will need to work with whichever person is hired. If there’s a valid reason that one of my current staff members doesn’t like the candidate, then I believe I need to drop that candidate.
+
+Even if you’re not sure what the next step should be, you still need to keep the candidate informed. Diplomatically tell the candidate the truth
+
+- “We’re interested in you, but we have already arranged interviews with several other people, so we’re going to finish our interview process before we make a decision. We’ll get back to you early next week.”
+- “We liked what we saw in you yesterday, but we need to reassess our job requirements to verify that your skills and experience do satisfy a majority of the requirements.”
+
+### Points to remember
+
+- Meet with all members of your interview team as soon as possible after the last interview.
+- Make sure all interviewers have a chance to express their perceptions of the candidate without feeling intimidated by strong personalities in the group.
+- Let candidates know where they stand as quickly as possible.
+- Use limited consensus as a way to build the team; don’t hire by management fiat.
+
+## Check References
+
+- N/A
+
+## Make an Offer the Candidate Will Accept
+
+- Make same-day offers contingent on a background check and positive reference-checks, of course, and prepare them by drawing up several versions for which you can get all necessary written approval in advance.
+
+- Don’t make the mistake of keeping offering salaries down because you don’t want any members of your staff to make more money than you make. Senior-level, highly skilled technical people do make more money than hiring managers, so evaluate the candidate fairly, looking at his or her worth to your organization. Review what the candidate’s peers earn and ignore how the salary looks in the hierarchy.
+
+### Points to remember
+
+- Start learning early in the selection process what it would take for this candidate to say yes to your offer.
+- Avoid offer-rejection triggers.
+- Consider the candidate’s expectations and what you can offer as part of salary negotiation.
+- Give candidates one week to make a decision once they have received the offer in writing.
+- Be ready to draft an offer letter.
+- If you’re the hiring manager, extend the offer personally.
+
+## Create a Great First Day
+
+- N/A
+
+## Hire Technical Managers
+
+- Hiring technical managers requires similar steps, but a different approach from technical staff. That’s because managers perform work that is quite different from the work performed by technical staff members
+
+- In my experience, the cost of making a bad hiring decision is significant—equivalent to at least six months of the technical person’s salary. Other sources report the cost can be as low as a few months’ salary, while still other sources HAC99 report the cost at up to two to three times the technical hire’s annual salary ADL02.
+
+Here’s how you hire a technical manager—and yes, a technical manager is still a geek.
+
+1. Define the value you want the technical manager to contribute. You can describe the value when you identify the problems the manager must address and solve. Describe the contribution he or she must make to the department and company.
+2. Identify with whom the manager will need to interact.
+3. Define the management level.
+4. Define required qualities, preferences, and skills.
+5. Define the required level of technical expertise and the skills required.
+6. Define what activities must be performed and what deliverables will be expected.
+7. Define the specific elimination factors for this management position—those factors that would eliminate a candidate from consideration.
+
+A combination of factors determines management level. To determine the level, consider who the manager will work with—and at what levels—across the functions of the organization, how much negotiation skill the manager must have, how persuasive or influential the manager must be at convincing people to do as directed, and how many people the manager will be expected to oversee.
+
+A first-line manager may be able to manage one or two people and still contribute at the technical level, but once someone has responsibility for three people or more, he or she can’t make a significant technical contribution
+
+A new first-line manager will need more time to succeed at these tasks, because he or she has never done them before. If you’re considering promoting a manager from within or hiring people who have never managed before, don’t ask them to also do technical work. If the new manager already has responsibility for doing technical work, make sure that work is off the project’s critical path, so that he or she also can succeed in the management role.
+
+The best managers create professional relationships with their staff, caring about them both as people and as employees, without falling into a parental or counseling role.
+
+### Points to remember
+
+- Define the problems you want a manager to solve. Then you can complete the job description and analysis.
+- Know if you are looking for a manager or a technical lead.
+- Define the type of technical expertise required. If you find that you’re looking for someone with more experience with the technology, decide whether you’re looking for a technical manager or a senior-level technical person.
+
+## Move Forward
+
+Whatever you do, don’t hire the wrong candidate just to put a “warm body” in the position, or because the requisition is on the verge of disappearing. The wrong hire is always a bad hire.
+Technical people tend to be able to learn tools and technology skills fairly quickly. It’s harder for such people to pick up missing functional skills without specialized training.
+
+### Points to remember
+
+- Make sure your job description and recruiting practices fit the position you’re trying to fill.
+- Review your hiring strategy to verify that you know what problems you’re trying to solve.
+- Don’t be afraid to replan the project.
+- Change the project’s lifecycle to reorganize which work is performed when.
+- Change who performs what kinds of testing or writing.
+- Change who develops the infrastructure for a project.
+- Change how the work is completed, using alternative techniques such as walkthroughs, inspections, peer reviews, and pair programming.
