@@ -63,3 +63,4 @@ Interviewers assess you relative to other candidates they have met. There is no 
 ## References
 
 - [TestDome](https://www.testdome.com/tests), evaluate an individuals tech knowledge
+- [Hiring Engineering Leaders](https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204)
