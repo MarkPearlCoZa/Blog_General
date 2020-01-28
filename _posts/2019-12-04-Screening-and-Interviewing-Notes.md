@@ -64,3 +64,4 @@ Interviewers assess you relative to other candidates they have met. There is no 
 
 - [TestDome](https://www.testdome.com/tests), evaluate an individuals tech knowledge
 - [Hiring Engineering Leaders](https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204)
+- [The Software Engineer’s Guide to Interviewing Software Engineers](https://blog.usejournal.com/the-software-engineers-guide-to-interviewing-software-engineers-980bbfdb4006)
