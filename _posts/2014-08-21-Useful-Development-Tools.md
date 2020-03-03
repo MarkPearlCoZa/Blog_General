@@ -59,3 +59,7 @@ Below are a list of tools that are useful for software development. I have categ
 #### Fun ####
 
 - [Hacker Typer](http://hackertyper.net/) - pretends you are programming
+
+#### Searching Internet
+
+- [Symbol Hound](http://symbolhound.com/)
