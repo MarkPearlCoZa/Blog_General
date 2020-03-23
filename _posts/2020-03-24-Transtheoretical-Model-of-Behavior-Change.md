@@ -70,6 +70,9 @@ category: Process
 * Help identify things that can cause slippage
 * Show your confidence that they are able to overcome the obstacle
 
+# Other change models
+
+[Adkar](http://blog.markpearl.co.za/Adkar-Model)  
 
 # References
 
