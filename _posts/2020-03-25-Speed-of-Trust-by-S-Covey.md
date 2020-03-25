@@ -20,6 +20,8 @@ There are different waves of trust
 4) Market Trust
 5) Societal Trust
 
+Self trust == credibility
+
 There are 13 behaviours that support the 4 cores
 1) Talk Straight
 2) Demonstrate Respect
@@ -37,4 +39,29 @@ There are 13 behaviours that support the 4 cores
 
 When you extend trust, if you give it to everyone you can be vulnerable, if you give it to noone you are unproductive. Use SMART Trust to.
 
+# Integrity
 
+* Honesty => Being honest & leaving the right impression
+* Congurence => When there is no gap between intent and behaviour. You are not driven by external forces
+* Humility => Being more concerned about what is right instead of being right, You stand on the shoulders of others
+* Courage => Courage to do the right thing
+
+# Intent
+
+* Motive => The reason for doing something
+* Agenda => It's what you intend to do or promote because of your movtive
+* Behaviour => Manifestation of motive and agenda
+
+# Capability
+
+* Talent => Do you have an aptitude to do it
+* Knowledge => Do you know how to do it
+* Skills => Have you done it before
+* Capacity => Do you have time to do it
+* Ability => 
+
+# Results
+
+* Past => Have you delivered results in the past
+* Preset => Are you currently delivering results
+* Future => Do others believe you will deliver results in the future
