@@ -50,9 +50,9 @@ While the "warmth + competency" formula is useful, it is too simplistic.
 
 There are two elements I've experienced that have caused a lack of trust 
 
-Reliability: There are people that are extremely warm and competent that I do not trust. They are the people that are not reliable. An example of reliability impacting trust is my extended family. Well, in a very specific aspect...them being on time to family gatherings! Let me explain, there is warmth - we care about each other. They are competent - they know how to drive and get from a to b and know how to tell time. Are they ever on time, almost never. Do I trust them when they say they will be at our place by midday. Not a chance.
+**Reliability**: There are people that are extremely warm and competent that I do not trust. They are the people that are not reliable. An example of reliability impacting trust is my extended family. Well, in a very specific aspect...them being on time to family gatherings! Let me explain, there is warmth - we care about each other. They are competent - they know how to drive and get from a to b and know how to tell time. Are they ever on time, almost never. Do I trust them when they say they will be at our place by midday. Not a chance.
 
-Self-orientation: There are people that are extremely warm, competent and reliable that I do not trust. They are the people that have a high self orientation. An example most can relate to is the stereotypical Realtor. They are friendly, they are competent (they know way more about property law than I know), they are reliable (always on time, always send you the paperwork)  yet do I trust them? Not a chance. What's missing? Self-orientation. They are incentivised in such a way that you are never quite sure if they are putting their personal interests of getting a sales commission over your own interests of getting a good deal for a property.
+**Self-orientation**: There are people that are extremely warm, competent and reliable that I do not trust. They are the people that have a high self orientation. An example most can relate to is the stereotypical Realtor. They are friendly, they are competent (they know way more about property law than I know), they are reliable (always on time, always send you the paperwork)  yet do I trust them? Not a chance. What's missing? Self-orientation. They are incentivised in such a way that you are never quite sure if they are putting their personal interests of getting a sales commission over your own interests of getting a good deal for a property.
 
 So, with these two dimensions added I can introduce the second formula for trust I've encountered.
 
@@ -60,10 +60,10 @@ So, with these two dimensions added I can introduce the second formula for trust
 
 > trust = (warmth + competency + reliability) / self-orientation
 
-Competency = I can trust what they saw about...  
-Reliability - I can trust them to...  
-Warmth - I feel comfortable discussing this...  
-Self-orientation - Them putting their interests ahead of your own...           
+**Competency** = I can trust what they saw about...  
+**Reliability** - I can trust them to...  
+**Warmth** - I feel comfortable discussing this...  
+**Self-orientation** - Them putting their interests ahead of your own...           
 
 This second formula maps well to trust. However there are a still a few blind spots. One that stand out is results.
 
