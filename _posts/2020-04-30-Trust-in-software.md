@@ -4,9 +4,9 @@ title: Trust
 tags: 
 category: General
 ---
-I want to start by sharing a personal story. I've got 3 children, all still very young. My middle child, Juliet who is 5, has a game she loves to play with me. 
+I've got 3 children, all still very young. My middle child, Juliet who is 5, has a game she loves to play with me. 
 The game involves her climbing up the side of our couch (which is quite high up compared to her size) and launching herself into my arms. 
-Normally when we play this game I make a point of standing close to her but there have been a few occasions where I haven't been as close as I should..
+Normally when we play this game I make a point of standing close by. There have been a few occasions where I have been quite far away.
 This doesn't phase her, she launches herself at me without hesitation regardless of the distance. She has absolute trust in me.
 
 I know that at some point she is going to reach the age where she will no longer do this. 
