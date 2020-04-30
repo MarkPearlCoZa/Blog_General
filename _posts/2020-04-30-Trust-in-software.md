@@ -63,10 +63,9 @@ So, with these two dimensions added I can introduce the second formula for trust
 **Warmth** - I feel comfortable discussing this...  
 **Self-orientation** - Them putting their interests ahead of your own...           
 
-This second formula maps well to trust. However there are a still a few blind spots. One that stand out is results.
+This second formula maps well to trust. However there are a still a blind spot. You can be competent at what you do, reliable in how you do it, show warmth to those around you, have a low self-orientation and still not be trusted because you were not able to produce the results.  
 
-You can be competent at what you do, reliable in how you do it, show warmth to those around you, have a low self-orientation and still not be trusted because you were not able to produce the results. 
-Results matter.
+**Results matter.**
 
 ### Formula 3
 
