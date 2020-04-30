@@ -24,9 +24,7 @@ I've seen the impact from the lack of trust at many different levels,
 * People being pushed out of organisations because their leaders don't trust them
 
 Trust is an important element in almost all interactions we have with others.
-In the software industry specifically, trust is often the differentiator on performance.
-
-High performing teams have high trust, low performing teams have low trust.
+In the software industry specifically, trust is often the differentiator on performance. High performing teams have high trust, low performing teams have low trust.
 
 ## What exactly is trust? 
 
