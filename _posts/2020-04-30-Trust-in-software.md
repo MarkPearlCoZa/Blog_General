@@ -63,7 +63,7 @@ So, with these two dimensions added I can introduce the second formula for trust
 **Warmth** - I feel comfortable discussing this...  
 **Self-orientation** - Them putting their interests ahead of your own...           
 
-This second formula maps well to trust. However there are a still a blind spot. You can be competent at what you do, reliable in how you do it, show warmth to those around you, have a low self-orientation and still not be trusted because you were not able to produce the results.  
+This second formula maps well to trust. However there are a still a blind spot. You can be competent at what you do, reliable in how you do it, show warmth to those around you, have a low self-orientation and still not be trusted because you were not able to produce the results. 
 
 **Results matter.**
 
@@ -73,7 +73,7 @@ This presents my final formula,
 
 > trust = (warmth + competency + reliability + results) / self-orientation
 
-Some people struggle with results forming a part of trust. Unfortunately sometimes results are out of your control. This means that sometimes you may be in a low trust situation and not be able to do anything about it. 
+Some people struggle with results forming a part of trust. Sometimes results are out of your control. This means that sometimes you may be in a low trust situation and not be able to do anything about it. 
 
 Because there is an element of luck or "the elements" to producing results usually people give some slack around it. 
 If however you are consistently not producing results you are not going to have trust.
