@@ -34,6 +34,8 @@ For many years I've heard people throw the word "trust" around but not be able t
 To be frank, I've struggled to explain it myself. Something so essential, yet so hard to verbalise. 
 This inability to verbalise it led me on a quest to find a definition or formula for trust.
 
+### Formula 1
+
 The first formula I came across was 
 
 > trust = warmth + competency.
@@ -54,6 +56,8 @@ Self-orientation: There are people that are extremely warm, competent and reliab
 
 So, with these two dimensions added I can introduce the second formula for trust I've encountered.
 
+### Formula 2
+
 > trust = (warmth + competency + reliability) / self-orientation
 
 Competency = I can trust what they saw about...  
@@ -65,6 +69,8 @@ This second formula maps well to trust. However there are a still a few blind sp
 
 You can be competent at what you do, reliable in how you do it, show warmth to those around you, have a low self-orientation and still not be trusted because you were not able to produce the results. 
 Results matter.
+
+### Formula 3
 
 This presents my final formula,
 
