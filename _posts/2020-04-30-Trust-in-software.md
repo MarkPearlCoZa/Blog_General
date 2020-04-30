@@ -90,7 +90,7 @@ Results often is the easiest to fix, people typically only remember you via your
 
 Reliability is also easier to fix. Recognising that in the past you have not been reliable and that you intend to change this going forward and then actually demonstrating it can lead to a quick turn around.
 
-Warmth is something you can work at that takes a little bit of time. I suggest getting input from others on how you can improve connecting and then putting that into practice requires a little bit of work. Also, when you attempt to establish warmth with someone for the first time you need to demonstrate some consistency over an extended period of time before they believe it is genuine.
+Warmth is something you can work at that takes a little bit of time. I suggest getting input from others on how you can improve connecting and then putting that into practice. Also, you need to demonstrate consistency. When you attempt to establish warmth it needs to come across as genuine for an an extended period of time. 
 
 The hardest element to repair is self-orientation. Once people believe you have a high level of self-orientation, while not impossible, it is hard to convince them otherwise. 
 
