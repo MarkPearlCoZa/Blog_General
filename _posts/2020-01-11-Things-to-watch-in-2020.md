@@ -8,6 +8,7 @@ category: General
 #### Things to watch
 
 [The Second Act](https://www.youtube.com/watch?v=rrOSvBZwVR4) 
+[Brave new world by Aaron Dignan](https://www.youtube.com/watch?v=uOiP4mJwqE0)
 
 #### Things to read
 
