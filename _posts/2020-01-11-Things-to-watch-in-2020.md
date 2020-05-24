@@ -16,3 +16,4 @@ category: General
 [Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 [Team Topologies](https://teamtopologies.com/book)  
+[Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
