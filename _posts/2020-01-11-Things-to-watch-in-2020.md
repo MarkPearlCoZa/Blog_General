@@ -17,6 +17,7 @@ category: General
 [Team Topologies](https://teamtopologies.com/book)  
 [Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [Empowered Product Teams](https://svpg.com/empowered-product-teams/)  
+[Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
 
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
