@@ -18,6 +18,7 @@ category: General
 [Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [Empowered Product Teams](https://svpg.com/empowered-product-teams/)  
 [Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
+[Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)
 [Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
 
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
