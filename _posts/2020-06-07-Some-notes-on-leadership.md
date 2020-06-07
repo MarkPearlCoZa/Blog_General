@@ -9,31 +9,31 @@ Today I'm cleaning out old note books. Came across some notes worth sharing....
 
 ## Coaching for success
 
-Formula: P = p - i
+Formula: P = p - i  
 
-P = Performance
-p = potential (learning agility)
-i = interferrence (external / internal)
+P = Performance  
+p = potential (learning agility)  
+i = interferrence (external / internal)  
 
 Assuming people have the potential then coahcing tackles the interference aspect.
 
-Internal interference is the "voices" in your head, the self doubt, misconceptions and so on
+Internal interference is the "voices" in your head, the self doubt, misconceptions and so on  
 
-External mind includes what can I control, what can I influence, let go, misplaced energy
+External mind includes what can I control, what can I influence, let go, misplaced energy  
 
-When coaching listen without judgement.
+When coaching listen without judgement.  
 
-Have a coaching mindset
- -> believe they've go answers
- -> be patient
- -> Focus on the person, not the problem
+Have a coaching mindset  
+ -> believe they've go answers  
+ -> be patient  
+ -> Focus on the person, not the problem  
 
-Skills for coaching
- -> Listening
- -> Asking good questions
- -> Mirroring (sharing what you are seeing)
+Skills for coaching  
+ -> Listening  
+ -> Asking good questions  
+ -> Mirroring (sharing what you are seeing)  
 
-You need boundaries in coaching, boundaries include becomming a parent, becoming a best friend, becoming a counsellor.
+You need boundaries in coaching, boundaries include becomming a parent, becoming a best friend, becoming a counsellor.  
 
 ## Direct instruction
 
