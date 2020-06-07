@@ -43,6 +43,39 @@ Try scaffolding: Review > Roadmap > Introduce new info > Guided practice > Indep
 
 Metacognition: Avoid focussing just on visual, audtiory or kinesthetic. Use all of them.
 
+## When to have performance conversations
+
+<img class="img-responsive" alt="Performance conversation graph" src="{{ site.url }}/assets/images/When-to-have-a-performance-conversation.png">
+
+Whenever someone says something there is the text... and then there is the subtext people read in to it.
+
+## Files
+
+Sincere or opinion that is not wrong, but just incomplete.
+
+* How would they describe you
+* How would you describe them
+* Can you have a file conversation
+* Can you forgive them
+
+Files others have on you...
+* Can I have a file ocnversation
+* what could I do to challenge that file
+* surprise 3 times
+
+## Antiflow
+
+* Preconceived: Downtime is waste
+* Posing: Pretending what you know
+* Pausing in your thought leads to better thoughts
+* Walking 1:1's
+
+## Individual Contributor vs Manager
+
+* Management is not a promotion, it's a career change
+* Reward cycle vs feedback loops
+* In management often the feedback loop is longer
+
 ## General notes
 
 In leadership we are desperate for people that are genuine & authentic.
@@ -51,6 +84,5 @@ An alternate word to mentoring is guidance
 
 You need to be deeply curious about what others have to say/think
 
-## When to have performance conversations
 
-<img class="img-responsive" alt="Performance conversation graph" src="{{ site.url }}/assets/images/When-to-have-a-performance-conversation.png">
+
