@@ -9,6 +9,7 @@ category: General
 
 [The Second Act](https://www.youtube.com/watch?v=rrOSvBZwVR4) 
 [Brave new world by Aaron Dignan](https://www.youtube.com/watch?v=uOiP4mJwqE0)
+[Above or below the line](https://www.youtube.com/watch?v=fLqzYDZAqCI&feature=emb_logo)
 
 #### Things to read
 
