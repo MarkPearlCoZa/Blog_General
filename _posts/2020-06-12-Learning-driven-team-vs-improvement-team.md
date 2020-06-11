@@ -5,18 +5,22 @@ tags:
 category: General
 ---
 
-I'm passionate about learning. It's something that part of my day to day activities. Many years ago I watched a talk (I can't remember which one) that spoke about the need for software organisations to be learning organisations. The premise was that as knowledge workers, actively increasing knowledge was essential to staying ahead of the curve. It resonated with me. Since then, I've always strived to create teams and a culture that actively learn and grow. 
+I'm passionate about learning. It's something that part of my day to day activities. Many years ago I watched a talk (I can't remember which one) that spoke about the need for software organisations to be learning organisations. The premise was that as knowledge workers, actively increasing knowledge was essential to staying ahead of the curve. It resonated with me. Since then, I've always strived to create teams and a culture that actively supports learning. 
 
-One example was a team I lead I'll call my "learning team". As the leader I wanted to create a learning environment. To do this I promised the team one day a week focussed on improvement and learning. A combination of team led and individual led learning activities. I gave freedom to each individual to pick what they wanted to learn. 
+With one team I lead we set one day a week aside to focus on learning. On that day we had a combination of team led and individual led learning activities. For individual learning time each person had the freedom to pick what they wanted to learn. At the time I thought mission accomplished. We are actively increasing our knowledge.
 
-Over time I noticed that people focused on things they were passionate or interested in. Some used the time to learn new programming languages, others spent time learning new technologies, others processes or methodologies and so on. As the leader, I felt mission accomplished. I've created a learning culture. 
+As time passed I would touch base with people on what they were learning. What I discovered was people were focussing on things they were passionate or interested in. These things covered a broad range of topics. Some used the time to learn new programming languages, others spent time learning new technologies, others processes or methodologies and so on. 
 
-Looking back I got it wrong. The ultimate purpose of my role should have been to increase the sustainable output of the team. While creating a learning environment could lead to increased output, it also may not. It depended on two factors. What people were learning, and if they were able to apply that learning. 
+Unfortunately looking back at that team I think I got it wrong. As I've gained a deeper understanding of my purpose as the team lead I've realised that it was to increase the sustainable output of that team. While creating a learning environment could have lead to increased output, for that team it didn't. People were getting knowledge and learning but not in the right places.
 
-What you learn is important. Each person should have started with focussing on what was foundational for their current role and contributions to the team. This was not the case in my learning team.
+For example, one junior developer who had still not mastered their core development skills was learning things about a library we rarely if ever used. Very little value from the investment. Others were doing similar things.
 
-In my learning team I had people who had still not mastered their core skills learning things on the fringe of their role. For example, I had one person learning random C# libraries when they could still not produce basic clean testable C# code. Very little value from the investment. Poor leadership. Having individuals focus on what they were learning is important.
+Going forward I've moved the focus. I no longer focus on "learning". Instead the focus is on improvement. Let me explain.
 
-The second aspect is the ability to apply the learning to increase performance. Being driven to learn or accumulate knowledge that does not lead to increased performance is misallocated time. I've worked with people who are extremely knowledgable but when given an opportunity to produce things they are unable to do it effectively. That knowledge is waste. The learning should not be valued.
+Improvement depends on two factors. What people are learning, and if they are able to apply what they are learning to their immediate world to make things better.
 
-So the lesson. As a leader I've moved the focus. I no longer focus on "learning". Instead the focus is on improvement. 
+With the "what", start by focussing on what is foundational for someone to perform their current role. In addition to the what, it's important to focus on application. 
+
+Being driven to learn or accumulate knowledge that does not lead to increased performance is learning for the sake of learning. It's a trap. Have you ever worked with someone who was extremely knowledgable about a topic but when given an opportunity to apply that knowledge they could not do it effectively. That knowledge is waste.  Value knowledge accumulation that is demonstrated by application.  
+
+So the lesson I learned. Don't focus on learning, instead focus on improvement. 
