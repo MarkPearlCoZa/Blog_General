@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-I'm passionate about learning. It's something that part of my day to day activities. Many years ago I watched a talk (I can't remember which one) that spoke about the need for software organisations to be learning organisations. The premise was that as knowledge workers, actively increasing knowledge was essential to staying ahead of the curve. It resonated with me. Since then, I've always strived to create teams and a culture that actively supports learning. 
+I'm passionate about learning. It's something that part of my day to day activities. Many years ago I watched a talk (I can't remember which one) that spoke about the need for software organisations to be learning organisations. The premise was that as knowledge workers, actively increasing knowledge was essential to staying ahead of the curve. It resonated with me. Since then, I've always strived to create teams and a culture that actively supports learning. Over time, I've realised a that focussing on learning is the wrong approach. Let me explain...
 
 With one team I lead we set one day a week aside to focus on learning. On that day we had a combination of team led and individual led learning activities. For individual learning time each person had the freedom to pick what they wanted to learn. At the time I thought mission accomplished. We are actively increasing our knowledge.
 
