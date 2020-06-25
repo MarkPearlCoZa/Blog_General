@@ -24,4 +24,4 @@ category: General
 
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
-
+[But all my errors are severe](https://particular.net/blog/but-all-my-errors-are-severe)  
