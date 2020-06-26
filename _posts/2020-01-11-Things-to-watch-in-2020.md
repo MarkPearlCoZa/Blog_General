@@ -21,6 +21,7 @@ category: General
 [Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
 [Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)
 [Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
+[5 Engineering Manager Archetypes by Pat Kua](https://www.patkua.com/blog/5-engineering-manager-archetypes/)  
 
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
