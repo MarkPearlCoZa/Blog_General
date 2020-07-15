@@ -11,6 +11,7 @@ category: General
 [Brave new world by Aaron Dignan](https://www.youtube.com/watch?v=uOiP4mJwqE0)  
 [Above or below the line](https://www.youtube.com/watch?v=fLqzYDZAqCI&feature=emb_logo)  
 [Building and Scaling High Performing Technology Organizations by Jez Humble](https://www.infoq.com/presentations/devops-research-assessment/)  
+[How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14)  
 
 
 #### Things to read
