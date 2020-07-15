@@ -12,6 +12,7 @@ category: General
 [Above or below the line](https://www.youtube.com/watch?v=fLqzYDZAqCI&feature=emb_logo)  
 [Building and Scaling High Performing Technology Organizations by Jez Humble](https://www.infoq.com/presentations/devops-research-assessment/)  
 [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14)  
+[What the Industry Misses About Incidents and What you can do..](https://youtu.be/M8mYPyRG1fQ?t=1461)  
 
 
 #### Things to read
