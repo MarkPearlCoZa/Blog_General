@@ -5,6 +5,12 @@ tags: Team
 category: Misc
 ---
 
+## DORA
+
+4 DORA metrics — time elapsed between merge and deploy, frequency of deploy, time to recover from outages, duration of outages — as well as how often someone is paged outside of business hours. These track pretty closely to engineering productivity and efficiency.
+
+[Martin Fowler on Measuring Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)  
+
 ## Principles for Team Metrics
 
 - Assume that the people we are looking at the metrics are not prics - metrics do not give you context or allow you to do comparisons between teams. It does however give you indicators on whether a team may need help, etc.  
