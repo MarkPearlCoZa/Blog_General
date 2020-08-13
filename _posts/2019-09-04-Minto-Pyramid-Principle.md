@@ -4,14 +4,10 @@ title: Minto Pyramid Principle
 tags: 
 category: Process
 ---
-
-
-## The best executive communication
-
-Situation - state of affairs, fact based, unambigous, non-controversial
-Complication - what's changed, making things harder
-Question - questions raised by S and C
-Answer - answer-first, pyramid-shaped, evidence-based, resolves C 100%
+Situation - state of affairs, fact based, unambigous, non-controversial    
+Complication - what's changed, making things harder  
+Question - questions raised by S and C  
+Answer - answer-first, pyramid-shaped, evidence-based, resolves C 100%  
 
 Be on your front foot, not your back foot.
 Mark things as draft if you want feedback
