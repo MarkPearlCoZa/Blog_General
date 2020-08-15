@@ -30,6 +30,7 @@ category: General
 [Empowered Product Teams](https://svpg.com/empowered-product-teams/)  
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
+[Your first team](https://lethain.com/first-team/)  
 
 #### Personal Growth
 [How to say no](https://www.starterstory.com/how-to-say-no)  
