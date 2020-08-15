@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-#### Things to watch
+### Things to watch
 
 [The Second Act](https://www.youtube.com/watch?v=rrOSvBZwVR4)  
 [Brave new world by Aaron Dignan](https://www.youtube.com/watch?v=uOiP4mJwqE0)  
@@ -17,21 +17,30 @@ category: General
 [Executive Communication](https://www.heavybit.com/library/video/executive-communication/)  
 
 
-#### Things to read
+### Things to read
 
+#### Tech Leadership
+
+[Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
 [The golden path and scaling teams with agency](https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/)  
 [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)  
+[The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
 [Team Topologies](https://teamtopologies.com/book)  
 [Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [Empowered Product Teams](https://svpg.com/empowered-product-teams/)  
-[Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
-[Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)  
-[Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
-[5 Engineering Manager Archetypes by Pat Kua](https://www.patkua.com/blog/5-engineering-manager-archetypes/)  
-[Refactoring -- Not on the backlog! by Ron Jefferies](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)  
-
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
+
+#### Personal Growth
+[How to say no](https://www.starterstory.com/how-to-say-no)  
+
+#### Coaching / Mentoring
+[Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
+[5 Engineering Manager Archetypes by Pat Kua](https://www.patkua.com/blog/5-engineering-manager-archetypes/)  
+
+#### Engineering
+
+[Refactoring -- Not on the backlog! by Ron Jefferies](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)  
+[Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)  
 [But all my errors are severe](https://particular.net/blog/but-all-my-errors-are-severe)  
 
-[How to say no](https://www.starterstory.com/how-to-say-no)  
