@@ -43,4 +43,4 @@ category: General
 [Refactoring -- Not on the backlog! by Ron Jefferies](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)  
 [Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)  
 [But all my errors are severe](https://particular.net/blog/but-all-my-errors-are-severe)  
-
+[Post Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)  
