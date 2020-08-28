@@ -45,3 +45,4 @@ category: General
 [Devops Technical - Teams empowered to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)  
 [But all my errors are severe](https://particular.net/blog/but-all-my-errors-are-severe)  
 [Post Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)  
+[Design Patterns for Humans](https://github.com/noway/design-patterns-for-humans)  
