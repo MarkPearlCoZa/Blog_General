@@ -46,3 +46,4 @@ category: General
 [But all my errors are severe](https://particular.net/blog/but-all-my-errors-are-severe)  
 [Post Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)  
 [Design Patterns for Humans](https://github.com/noway/design-patterns-for-humans)  
+[Vim Registers](https://www.brianstorti.com/vim-registers/)  
