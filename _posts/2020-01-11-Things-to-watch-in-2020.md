@@ -31,6 +31,7 @@ category: General
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
 [Your first team](https://lethain.com/first-team/)  
+[Building a first team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/)  
 
 #### Personal Growth
 [How to say no](https://www.starterstory.com/how-to-say-no)  
