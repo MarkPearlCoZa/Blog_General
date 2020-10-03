@@ -32,6 +32,7 @@ category: General
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
 [Your first team](https://lethain.com/first-team/)  
 [Building a first team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/)  
+[Recruiting & interviewing — Benefits & frustrations nobody tells you about!](https://medium.com/ni-tech-talk/recruiting-interviewing-benefits-frustrations-nobody-tells-you-about-d1287db72dd1)  
 
 #### Personal Growth
 [How to say no](https://www.starterstory.com/how-to-say-no)  
