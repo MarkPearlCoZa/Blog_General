@@ -15,6 +15,7 @@ category: General
 [What the Industry Misses About Incidents and What you can do..](https://youtu.be/M8mYPyRG1fQ?t=1461)  
 [The Growth Faculty Community Stockdale Paradox by Jim Collings](https://www.youtube.com/watch?v=zOOSfpQRi9E&feature=youtu.be)  
 [Executive Communication](https://www.heavybit.com/library/video/executive-communication/)  
+[RSA Animate: The Divided Brain](https://www.youtube.com/watch?v=dFs9WO2B8uI)  
 
 
 ### Things to read
@@ -33,6 +34,7 @@ category: General
 [Your first team](https://lethain.com/first-team/)  
 [Building a first team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/)  
 [Recruiting & interviewing — Benefits & frustrations nobody tells you about!](https://medium.com/ni-tech-talk/recruiting-interviewing-benefits-frustrations-nobody-tells-you-about-d1287db72dd1)  
+[Core Needs : Biceps](https://www.palomamedina.com/biceps)  
 
 #### Personal Growth
 [How to say no](https://www.starterstory.com/how-to-say-no)  
