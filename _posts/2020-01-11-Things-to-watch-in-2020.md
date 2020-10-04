@@ -53,3 +53,7 @@ category: General
 [Post Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)  
 [Design Patterns for Humans](https://github.com/noway/design-patterns-for-humans)  
 [Vim Registers](https://www.brianstorti.com/vim-registers/)  
+
+#### Misc
+
+[Two ways to fold an envelope](https://www.artofmanliness.com/articles/2-ways-to-fold-a-letter-into-its-own-envelope/)  
