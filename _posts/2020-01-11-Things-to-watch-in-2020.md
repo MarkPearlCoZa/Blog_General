@@ -40,6 +40,7 @@ category: General
 [How to say no](https://www.starterstory.com/how-to-say-no)  
 [How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors)  
 [Brag Documents](https://jvns.ca/blog/brag-documents/)  
+[Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 
 #### Coaching / Mentoring
 [Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
