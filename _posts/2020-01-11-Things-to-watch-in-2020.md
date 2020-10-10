@@ -35,6 +35,7 @@ category: General
 [Building a first team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/)  
 [Recruiting & interviewing — Benefits & frustrations nobody tells you about!](https://medium.com/ni-tech-talk/recruiting-interviewing-benefits-frustrations-nobody-tells-you-about-d1287db72dd1)  
 [Core Needs : Biceps](https://www.palomamedina.com/biceps)  
+[Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
 
 #### Personal Growth
 [How to say no](https://www.starterstory.com/how-to-say-no)  
