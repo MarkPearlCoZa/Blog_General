@@ -37,11 +37,16 @@ category: General
 [Core Needs : Biceps](https://www.palomamedina.com/biceps)  
 [Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
 
+#### Job ladders
+
+[the Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)  
+
 #### Personal Growth
+
 [How to say no](https://www.starterstory.com/how-to-say-no)  
 [How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors)  
 [Brag Documents](https://jvns.ca/blog/brag-documents/)  
-[Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+[Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)  
 
 #### Coaching / Mentoring
 [Managing through the WHY, WHAT and HOW](https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0)  
