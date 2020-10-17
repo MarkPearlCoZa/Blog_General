@@ -36,6 +36,7 @@ category: General
 [Recruiting & interviewing — Benefits & frustrations nobody tells you about!](https://medium.com/ni-tech-talk/recruiting-interviewing-benefits-frustrations-nobody-tells-you-about-d1287db72dd1)  
 [Core Needs : Biceps](https://www.palomamedina.com/biceps)  
 [Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
+[Delving into the other side of engineering leadership, moving into a principal role](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)  
 
 #### Job ladders
 
