@@ -66,3 +66,4 @@ category: General
 
 [Two ways to fold an envelope](https://www.artofmanliness.com/articles/2-ways-to-fold-a-letter-into-its-own-envelope/)  
 [Stage of the company, not name of company](https://theskip.substack.com/p/stage-of-company-not-name-of-company)  
+[Effective Product Management](https://medium.com/@cmcluck/effective-product-management-8021831a184)  
