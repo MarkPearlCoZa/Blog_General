@@ -37,6 +37,7 @@ category: General
 [Core Needs : Biceps](https://www.palomamedina.com/biceps)  
 [Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
 [Delving into the other side of engineering leadership, moving into a principal role](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)  
+[How to Structure Teams for Building Better Software Products - Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)  
 
 #### Job ladders
 
