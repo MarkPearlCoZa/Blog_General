@@ -25,9 +25,7 @@ category: General
 [Autonomy vs Leverage](https://svpg.com/autonomy-vs-leverage/)  
 [The golden path and scaling teams with agency](https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/)  
 [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)  
-[The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
 [Team Topologies](https://teamtopologies.com/book)  
-[Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [Empowered Product Teams](https://svpg.com/empowered-product-teams/)  
 [Perspective 1 : Spotify's Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)  
 [Perspective 2 : Spotify vs. Fitbit](https://svpg.com/spotify-vs-fitbit/)  
@@ -37,7 +35,13 @@ category: General
 [Core Needs : Biceps](https://www.palomamedina.com/biceps)  
 [Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
 [Delving into the other side of engineering leadership, moving into a principal role](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)  
+
+#### Product 
+
+[Project thinking vs product thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)  
 [How to Structure Teams for Building Better Software Products - Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)  
+[Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
+[The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
 
 #### Job ladders
 
