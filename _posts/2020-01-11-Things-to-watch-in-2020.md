@@ -16,6 +16,7 @@ category: General
 [The Growth Faculty Community Stockdale Paradox by Jim Collings](https://www.youtube.com/watch?v=zOOSfpQRi9E&feature=youtu.be)  
 [Executive Communication](https://www.heavybit.com/library/video/executive-communication/)  
 [RSA Animate: The Divided Brain](https://www.youtube.com/watch?v=dFs9WO2B8uI)  
+[Doing Glue Work](https://noidea.dog/glue)  
 
 
 ### Things to read
@@ -42,6 +43,7 @@ category: General
 [How to Structure Teams for Building Better Software Products - Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)  
 [Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
+[World Product Day 2020 New Zealand - The Feature Factory A three year retrospective - John Cuttler](https://www.youtube.com/watch?v=mX8VfhQk7OY)  
 
 #### Job ladders
 
@@ -66,6 +68,7 @@ category: General
 [Post Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)  
 [Design Patterns for Humans](https://github.com/noway/design-patterns-for-humans)  
 [Vim Registers](https://www.brianstorti.com/vim-registers/)  
+[Turn the Senior Around](https://shaimendel.dev/docs/2020-11-02-turn-the-senior-around)  
 
 #### Misc
 
