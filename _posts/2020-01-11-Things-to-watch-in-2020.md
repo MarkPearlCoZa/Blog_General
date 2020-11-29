@@ -44,6 +44,7 @@ category: General
 [Product Manager - Product Owner, a real world study](https://www.linkedin.com/pulse/product-manager-owner-real-world-study-anthony-marter/)  
 [The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
 [World Product Day 2020 New Zealand - The Feature Factory A three year retrospective - John Cuttler](https://www.youtube.com/watch?v=mX8VfhQk7OY)  
+[From sales led to product led and how it changed everything](https://www.productled.org/blog/vidyard-sales-led-product-led-how-it-changed-everything)  
 
 #### Job ladders
 
