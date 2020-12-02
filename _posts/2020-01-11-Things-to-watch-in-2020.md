@@ -37,6 +37,7 @@ category: General
 [Thoughts on the principal role](https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/)  
 [Delving into the other side of engineering leadership, moving into a principal role](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)  
 [How to measure and improve success in your engineering team](https://leaddev.com/productivity-eng-velocity/how-measure-and-improve-success-your-engineering-team)
+[The future of work is written](https://increment.com/remote/future-of-work-is-written/)   
 
 #### Product 
 
