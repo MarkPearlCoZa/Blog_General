@@ -38,6 +38,7 @@ category: General
 [Delving into the other side of engineering leadership, moving into a principal role](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)  
 [How to measure and improve success in your engineering team](https://leaddev.com/productivity-eng-velocity/how-measure-and-improve-success-your-engineering-team)
 [The future of work is written](https://increment.com/remote/future-of-work-is-written/)   
+[How big technical changes happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/)  
 
 #### Product 
 
