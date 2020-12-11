@@ -17,6 +17,7 @@ category: General
 [Executive Communication](https://www.heavybit.com/library/video/executive-communication/)  
 [RSA Animate: The Divided Brain](https://www.youtube.com/watch?v=dFs9WO2B8uI)  
 [Doing Glue Work](https://noidea.dog/glue)  
+[Dynamic Teaming - Tuckman was wrong](https://www.youtube.com/watch?v=S9aQMlvv6vE)  
 
 
 ### Things to read
