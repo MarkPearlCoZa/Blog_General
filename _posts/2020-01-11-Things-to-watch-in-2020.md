@@ -50,6 +50,7 @@ category: General
 [The fundamentals of roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)  
 [World Product Day 2020 New Zealand - The Feature Factory A three year retrospective - John Cuttler](https://www.youtube.com/watch?v=mX8VfhQk7OY)  
 [From sales led to product led and how it changed everything](https://www.productled.org/blog/vidyard-sales-led-product-led-how-it-changed-everything)  
+[PM Responsibilities](https://medium.com/@johnpcutler/pm-responsibilities-75c4ac9dbb95)  
 
 #### Job ladders
 
