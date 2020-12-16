@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-## Company 1 - where my product delivery team was my first team
+## Where my product delivery leads were not a team 
 
 I want to share an experience I had as a team lead at a company once.
 This was a different company to the one I work at now.
@@ -36,7 +36,7 @@ I had a team member who was employed as a mid level engineer who had been with t
 
 Now, why do I share this experience with you? If I look back at that organisation, each team was great at delivering their vertical of the work. We were not good at working as an effective wider system. While there is some accountability on others for that, in hindsight I was also accountable for it. When I joined the organisation I had seen my team as my delivery team. I had focussed on us being effective. What I had realised was that my first team was actually the other team leads and that we were dysfunctional, unaligned and ineffective. 
 
-## Company 2 - where my team leads were my first team
+## Where my product delivery leads began working as a team 
 
 A second experience, this one is a happier story. So I've spoken around how we had these autonomous teams with very little alignment between teams. About a year into the experience we went into a restructure and new teams were formed with new leads. In my area there were 4-5 teams still working on the same product.
 
