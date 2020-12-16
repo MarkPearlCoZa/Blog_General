@@ -75,6 +75,7 @@ category: General
 [Design Patterns for Humans](https://github.com/noway/design-patterns-for-humans)  
 [Vim Registers](https://www.brianstorti.com/vim-registers/)  
 [Turn the Senior Around](https://shaimendel.dev/docs/2020-11-02-turn-the-senior-around)  
+[Migrations](https://lethain.com/migrations/)  
 
 #### Misc
 
