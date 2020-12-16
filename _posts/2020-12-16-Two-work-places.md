@@ -40,19 +40,21 @@ Now, why do I share this experience with you? If I look back at that organisatio
 
 A second experience, this one is a happier story. So I've spoken around how we had these autonomous teams with very little alignment between teams. About a year into the experience we went into a restructure and new teams were formed with new leads. In my area there were 4-5 teams still working on the same product.
 
-A new team lead joined the company, his team was going to work in the same area as my team. The first thing he did was reach out to me to get to know me and set up a regular 1:1. In those catch up's we would talk about what experiments each of us was doing with our teams. How we were running retro's, what was working, what wasn't and so on.
+Now in this experience I'm going to share how things worked with a single team, and then how things worked with a wider group. Let me start with a singe team.
+
+There was team we were going to work closely and it just so happened that they were hired a new team lead. When he wjoined the company, the first thing he did was reach out to me to get to know me and set up a regular 1:1. In those catch up's we would talk about what experiments each of us was doing with our teams. How we were running retro's, what was working, what wasn't and so on.
 
 At some point he suggested we start doing sessions where our teams would meet together to learn about individuals in the team. We would meet every two weeks for 30 minutes and someone in the team would share pictures about their life and background. It was a way for us to get to know the people behind the names.
 
 A few months in and we realised our teams would be working on a shared code base where they would be building many of the services my team would consume. We came up with an experiment we called team tourism. For two weeks I would send one of my team members to be part of his team. They would attend stand ups, mob, pair and work as a full fledged member of that team and then he would reciprocate sending a member to my team. It was a way we could increase our wider understanding of the system. Our teams began to work really well together.
 
-About 6 months into our engagement I got a call from him. He had just had a 1:1 with his BA who had mentioned that he had felt like I had spoken down to him and he felt quite offended and hurt. This team lead asked if I would be up to meeting with the person to understand where they were coming from. I was totally surprised, it certainly wasn't my intention and readily agreed to meeting with him where he explained the situation and how he had perceived it. I straight away apologised as that hadn't been my intent. We resolved that potentially critical conflict very quickly.
+About 6 months into our engagement I got a call from him. He had just had a 1:1 with his BA. In the 1:1 the BA said that he felt like I had spoken down to him and was offended and hurt. This lead asked me if I would be up to meeting with this person to understand where they were coming from. I was totally surprised, it certainly wasn't my intention and readily agreed to meeting with him. When we met he explained the situation and how he had perceived it, I straight away apologised as how he had interpreted it wasn't what I had intended. What could have been a potentially critical conflict was easily resolved because of the trust and good will we had built up.
 
-Taking a step back and looking at a wider lens, the leads in our 5 teams began meeting regularly in what we were calling a coaching circles. In these circles we would share the challenges we were facing in our teams and find out how others were handling things. This became a mechanism for us to identify challenges that were common across our teams that we would then share with our leadership. This became a useful mechanism 
+Over the next year that our teams worked together I don't think there was ever a major disagreement. There were times when we saw things differently and whenever that happened we drove for alignment and understanding. It was one of the most effective working arrangements I have had. Interestingly, this team that we worked so well with wasn't a few desks away, they were based in another country.
 
-Some of these challenges they would take on to resolve, some of them we would take and just advise them with what we had done.
+Now I want to take a step back and share how we were now working as a wider group. The leads in our 5 teams began meeting regularly in what we were calling a coaching circles. In these circles we would share the challenges we were facing in our teams and find out how others were handling things. This became a mechanism for us to learn from each other and also identify challenges that were common across our teams. 
 
-
+When we found common challenges, we would share them with our manager. Some of these challenges he would take on to resolve - ie. we would say here is a problem, and this is what we've done to adjust it. Some of the things we tackled included interviewing across teams, a common performance review system, how to handle promotions. While we never explicitly called out these leads being our first team and we still had a way to go we at least started acting like a team.
 
 ## Key points
 
