@@ -12,6 +12,7 @@ category: General
 # General Leadership
 
 [Phased Alignment](https://thoughtsonathing.com/2021/01/18/phased-alignment/)  
+[How to share your company vision as a leader](https://knowyourteam.com/blog/2019/07/11/how-to-share-company-vision/)  
 
 # Process
 
