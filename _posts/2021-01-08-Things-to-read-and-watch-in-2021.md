@@ -18,3 +18,7 @@ category: General
 # Process
 
 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce)  
+
+# Business of software
+
+[The garderners dilemma](https://www.linkedin.com/pulse/gardeners-dilemma-dirk-jan-swagerman/)  
