@@ -22,3 +22,7 @@ category: General
 # Business of software
 
 [The garderners dilemma](https://www.linkedin.com/pulse/gardeners-dilemma-dirk-jan-swagerman/)  
+
+# Communication
+
+[Feedback](https://www.aurorapatents.com/blog/feedback)  
