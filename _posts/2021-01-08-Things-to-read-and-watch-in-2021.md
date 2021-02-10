@@ -26,3 +26,7 @@ category: General
 # Communication
 
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
+
+# Planning
+
+[the middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
