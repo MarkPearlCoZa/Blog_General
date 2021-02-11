@@ -31,3 +31,7 @@ category: General
 
 [The middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
 [Manager OKRs, Maker OKRs](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)  
+
+# Delegation
+
+[Tools for effective delegation in engineering management](https://leaddev.com/professional-development/tools-effective-delegation-engineering-management)  
