@@ -29,4 +29,5 @@ category: General
 
 # Planning
 
-[the middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
+[The middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
+[Manager OKRs, Maker OKRs](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)  
