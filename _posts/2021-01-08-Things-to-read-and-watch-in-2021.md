@@ -42,3 +42,7 @@ category: General
 # Delegation
 
 [Tools for effective delegation in engineering management](https://leaddev.com/professional-development/tools-effective-delegation-engineering-management)  
+
+# Craft
+
+[I test in production](https://increment.com/testing/i-test-in-production/)  
