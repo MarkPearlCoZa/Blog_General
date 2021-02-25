@@ -27,6 +27,7 @@ category: General
 # Communication
 
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
+[Presenting to Executives](https://leaddev.com/communication-relationships/presenting-executives)  
 
 # Planning
 
