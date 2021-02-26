@@ -24,6 +24,7 @@ category: General
 # Business of software
 
 [The garderners dilemma](https://www.linkedin.com/pulse/gardeners-dilemma-dirk-jan-swagerman/)  
+[Scaling up sustainably through better processes](https://leaddev.com/process/scaling-sustainably-through-better-processes)  
 
 # Communication
 
