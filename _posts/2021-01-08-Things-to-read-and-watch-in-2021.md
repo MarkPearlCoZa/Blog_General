@@ -26,6 +26,7 @@ category: General
 [The garderners dilemma](https://www.linkedin.com/pulse/gardeners-dilemma-dirk-jan-swagerman/)  
 [Scaling up sustainably through better processes](https://leaddev.com/process/scaling-sustainably-through-better-processes)  
 [Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)  
+[Building realistic roadmaps for tech debt cleanup](https://leaddev.com/legacy-technical-debt-migrations/building-realistic-roadmaps-tech-debt-cleanup)  
 
 # Communication
 
