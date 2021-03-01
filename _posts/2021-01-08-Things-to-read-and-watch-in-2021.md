@@ -27,13 +27,15 @@ category: General
 [Scaling up sustainably through better processes](https://leaddev.com/process/scaling-sustainably-through-better-processes)  
 [Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)  
 [Building realistic roadmaps for tech debt cleanup](https://leaddev.com/legacy-technical-debt-migrations/building-realistic-roadmaps-tech-debt-cleanup)  
+[Think big, work small](https://cutlefish.substack.com/p/tbm-452-think-big-work-small-part)  
+[Understanding your teams velocity](https://leaddev.com/productivity-eng-velocity/understanding-your-teams-velocity)  
 
 # Communication
 
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
 [Presenting to Executives](https://leaddev.com/communication-relationships/presenting-executives)  
 
-# Planning
+# Vision, Goals & Decisions
 
 [Writing engineering strategies and visions](https://lethain.com/good-engineering-strategy-is-boring/)  
 [The middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
