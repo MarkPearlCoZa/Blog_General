@@ -30,6 +30,7 @@ category: General
 [Building realistic roadmaps for tech debt cleanup](https://leaddev.com/legacy-technical-debt-migrations/building-realistic-roadmaps-tech-debt-cleanup)  
 [Think big, work small](https://cutlefish.substack.com/p/tbm-452-think-big-work-small-part)  
 [Understanding your teams velocity](https://leaddev.com/productivity-eng-velocity/understanding-your-teams-velocity)  
+[When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)  
 
 # Communication
 
