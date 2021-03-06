@@ -43,6 +43,7 @@ category: General
 [The middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
 [Manager OKRs, Maker OKRs](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)  
 [Three frameworks for making complex decisions](https://medium.com/swlh/3-frameworks-for-making-complex-decisions-6a77099c9683)  
+[How to measure and improve success in your engineering team](https://erix999.medium.com/how-to-measure-and-improve-success-in-your-engineering-team-9322142484c7)  
 
 # Forecasting
 
