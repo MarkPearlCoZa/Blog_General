@@ -21,6 +21,7 @@ category: General
 # Process
 
 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce)  
+[Flow Framework](https://flowframework.org/about/)  
 
 # Business of software
 
@@ -31,6 +32,7 @@ category: General
 [Think big, work small](https://cutlefish.substack.com/p/tbm-452-think-big-work-small-part)  
 [Understanding your teams velocity](https://leaddev.com/productivity-eng-velocity/understanding-your-teams-velocity)  
 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)  
+[Grows Overview](https://growsinstitute.com/video/GrowsOverview.mp4)  
 
 # Communication
 
