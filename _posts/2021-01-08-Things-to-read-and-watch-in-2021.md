@@ -59,6 +59,7 @@ category: General
 # Delegation
 
 [Tools for effective delegation in engineering management](https://leaddev.com/professional-development/tools-effective-delegation-engineering-management)  
+[Soft Edges](https://thoughtsonathing.com/2021/03/10/soft-edges/)  
 
 # Craft
 
