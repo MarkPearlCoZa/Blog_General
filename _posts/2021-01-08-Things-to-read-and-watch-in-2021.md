@@ -48,6 +48,10 @@ category: General
 [How to measure and improve success in your engineering team](https://erix999.medium.com/how-to-measure-and-improve-success-in-your-engineering-team-9322142484c7)  
 [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)   
 
+# Roles and Career Progress
+
+[Parallel Tracks](https://progressionapp.com/library/guides/parallel-tracks/)  
+
 # Forecasting
 
 [No, engineers don't suck at time estimates](https://blog.nukemberg.com/post/no-engineers-dont-suck-at-estimates/)  
