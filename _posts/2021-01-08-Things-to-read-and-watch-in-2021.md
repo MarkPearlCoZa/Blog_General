@@ -51,6 +51,7 @@ category: General
 # Roles and Career Progress
 
 [Parallel Tracks](https://progressionapp.com/library/guides/parallel-tracks/)  
+[Career levels and more](https://lethain.com/career-levels-and-more/)  
 
 # Forecasting
 
