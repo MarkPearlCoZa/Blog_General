@@ -34,6 +34,10 @@ category: General
 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)  
 [Grows Overview](https://growsinstitute.com/video/GrowsOverview.mp4)  
 
+# Product Thinking
+
+[Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e)  
+
 # Communication
 
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
