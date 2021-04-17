@@ -5,9 +5,9 @@ tags:
 category: General
 ---
 
-I'm a big believer in leveraging keyboard shortcuts when manipulating text. A big aha moment in my computer career was when I discovered the power of Vim. I could now navigate text without having to rely on my mouse or slow up/down page up/oage down keys. When I began to leverage Vim emulation in the IDE, coding went from a disjointed context switch between keyboard/mouse to a fluent experience where text entry/navigation at the speed of thought.
+I'm a big believer in leveraging keyboard shortcuts when manipulating text. A big aha moment in my computer career was when I discovered the power of Vim. Once I got the essence of VIM I could navigate text without having to rely on my mouse or slow up/down page up/oage down keys. Coding and text manipulation went from a disjointed slow context switch driven frustraion (keyboard/mouse switching) to a fluent seamless experience where text entry/navigation was at the speed of thought.
 
-As I've progressed, and as our industry has progressed, the need/desire to work in different operating systems and IDE's has increased. While writing this I have two machines on my desk, a Mac and a Windows machine. On each machine I have multiple IDE's - Visual Studio, Rider, Ruby Mine, VS Code, etc. The challenge with this remembering the keyboard shortcuts! Going to a method implementation in Visual Studio is a totally different keyboard sequence to doing the same thing in Rider. As soon as you hit more than 2-3 environments things begin to get fuzzy.
+As I've progressed, and as our industry has progressed, the need/desire to work in different operating systems and IDE's has increased. While writing this I have two machines on my desk, a Mac and a Windows machine. On each machine I have multiple IDE's - Visual Studio, Rider, Ruby Mine, VS Code, etc. Each IDE has it's own default key sequence which makes it a challenge to remember the keyboard shortcuts! If you work in one primary OS and IDE things are simple, as soon as you go into 2 or more environments things begin to get fuzzy and frustrating. At some point you give up and revert back to using the mouse to navigate menu's!  
 
 Taking a step back, from a keyboard shortcut lens, as an ideal I want the same keyboard shortcuts to do the same things in all IDE's!  
 
