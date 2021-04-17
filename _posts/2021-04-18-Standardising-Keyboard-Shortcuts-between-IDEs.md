@@ -15,9 +15,9 @@ Over the years I've progressed on my efforts to standardise this. While I am not
 
 I own a [Ultimate Hacking Keyboard also known as a UHK](https://ultimatehackingkeyboard.com/). UHK's have three key features that allow me to standardise keyboard shortcuts across IDE's, they are:
 
-1) Keymaps
-2) Layers
-3) Macros
+1) Keymaps  
+2) Layers  
+3) Macros  
 
 For each IDE/OS combination I have a separate keymap. That means I have a keymap for Rider on Mac, and a keymap for Rider on Windows.
 
