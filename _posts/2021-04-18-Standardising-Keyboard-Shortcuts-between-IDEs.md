@@ -15,13 +15,13 @@ Taking a step back, what do I want? From a keyboard shortcut lens what I really 
 
 So how have I done this? The secret... getting the most you can from a hardware reprogrammable keyboard... let me explain how!
 
-I own a [Ultimate Hacking Keyboard also known as a UHK](https://ultimatehackingkeyboard.com/). UHK's have three key features that allow me to standardise keyboard shortcuts across IDE's, they are:
+I own a [Ultimate Hacking Keyboard also known as a UHK](https://ultimatehackingkeyboard.com/). My UHK has three key features that allows me to standardise my keyboard shortcuts across IDE's, they are:
 
 1) Keymaps  
 2) Layers  
 3) Macros  
 
-For each IDE/OS combination I have a separate keymap. That means I have a keymap for Rider on Mac, and a keymap for Rider on Windows.
+For each IDE/OS combination I have a separate keymap. That means I have a keymap for Rider on Mac, a keymap for Rider on Windows and so on.
 
 Each keymap has several layers: Base, Mod, Fn, Mouse. Don't get put out by the names of these layers - you can use a layer for anything. For myself, I have three main groupings of shortcuts which correlate to a layer: Normal Keyboard (Base), Navigation (Mod), Refactoring (Fn) and Test/Debug (Mouse).
 
@@ -31,7 +31,7 @@ Each key on a layer can be assigned an action. There are a range of actions incl
 * keymap change   
 * trigger a macro  
 
-To standardise keys, I've created a macro for each behaviour I want to trigger in each IDE. Let's look at the Debug Step Over behaviour.
+To standardise keys, I've created a macro for each behaviour I want to trigger in each IDE. Let's look at the "Debug Step Over" behaviour.
 
 In Visual Studio (Windows), the key sequence for this is F10. In Rider (Windows) it's F8. In Rider (Mac) it is back to F10. On my UHK regardless of IDE I press the far bottom right key (Mouse) plus the key on the second row, 5 from the right (O key). The benefit of this is were I to go into a new IDE, all I have to do is make a new keymap, copy my existing macros and change the key sequence behind the macro - the actual key on my keyboard remains the same... reduced cognitive load!
 
