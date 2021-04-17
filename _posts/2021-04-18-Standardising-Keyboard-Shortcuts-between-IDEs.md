@@ -11,7 +11,9 @@ As I've progressed, and as our industry has progressed, the need/desire to work 
 
 To make this even more challenging, add pairing or mobbing to the equation where you may be moving from machine to machine. The complexity of remembering what keyboard sequence you need for what machine, OS and IDE becomes unmanageable - soon you give up and revert back to using an incredibly slow mouse to navigate anything more than basic commands :-(   
 
-Taking a step back, what do I want? From a keyboard shortcut lens what I really want is the same keyboard shortcut to do the same thing regardless of IDE or OS! While getting to that ideal is probably never going to happen (some fundamental OS concepts will do not transfer), it is possible to get to a manageable state. Over the years I've tried different things to the point that I believe I've reduced the cognitive load significantly to a manageable state. The secret... getting the most you can from a hardware reprogrammable keyboard. Let me explain...
+Taking a step back, what do I want? From a keyboard shortcut lens what I really want is the same keyboard shortcut to do the same thing regardless of IDE or OS! While getting to that ideal is probably never going to happen (some fundamental OS concepts make this impossible), it is possible to get to a manageable state. Over the years I've tried different things and have eventually settled on an approach that I believe reduces the cognitive load significantly to a manageable state. 
+
+So how have I done this? The secret... getting the most you can from a hardware reprogrammable keyboard... let me explain how!
 
 I own a [Ultimate Hacking Keyboard also known as a UHK](https://ultimatehackingkeyboard.com/). UHK's have three key features that allow me to standardise keyboard shortcuts across IDE's, they are:
 
