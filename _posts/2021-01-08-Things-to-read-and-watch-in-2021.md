@@ -37,6 +37,7 @@ category: General
 # Product Thinking
 
 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e)  
+[Scaling Product Delivery](https://www.reforge.com/blog/scaling-product-delivery)  
 
 # Communication
 
