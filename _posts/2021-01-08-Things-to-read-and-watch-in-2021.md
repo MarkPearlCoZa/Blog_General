@@ -17,6 +17,7 @@ category: General
 [Do I feel worthwhile as a manager?](https://charity.wtf/2021/01/23/questionable-advice-how-do-i-feel-worthwhile-as-a-manager-when-my-people-are-doing-all-the-implementing/)  
 [Driving Cultural Change Through Software Choices](https://skamille.medium.com/driving-cultural-change-through-software-choices-bf69d2db6539)  
 [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders)  
+[From directory to vp of engineering - what is expected and how to prepare](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d)  
 
 # Process
 
