@@ -73,3 +73,4 @@ category: General
 
 [I test in production](https://increment.com/testing/i-test-in-production/)  
 [Load/performance testing in production](https://www.neotys.com/blog/load-performance-testing-in-production)  
+[Don't do performance testing in production environments only](https://techbeacon.com/app-dev-testing/dont-do-performance-testing-production-environments-only)  
