@@ -72,3 +72,4 @@ category: General
 # Craft
 
 [I test in production](https://increment.com/testing/i-test-in-production/)  
+[Load/performance testing in production](https://www.neotys.com/blog/load-performance-testing-in-production)  
