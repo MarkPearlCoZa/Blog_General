@@ -34,6 +34,7 @@ category: General
 [Understanding your teams velocity](https://leaddev.com/productivity-eng-velocity/understanding-your-teams-velocity)  
 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)  
 [Grows Overview](https://growsinstitute.com/video/GrowsOverview.mp4)  
+[Pushing through friction](https://www.youtube.com/watch?v=8bxZuzDKoI0&t=1025s)  
 
 # Product Thinking
 
