@@ -40,6 +40,7 @@ category: General
 
 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e)  
 [Scaling Product Delivery](https://www.reforge.com/blog/scaling-product-delivery)  
+[Types of items that we should find in our product backlog](https://thefutureofcode.com/2020/11/30/flow-framework-part-2-four-types-of-product-backlog-items/)  
 
 # Communication
 
