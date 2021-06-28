@@ -18,6 +18,7 @@ category: General
 [Driving Cultural Change Through Software Choices](https://skamille.medium.com/driving-cultural-change-through-software-choices-bf69d2db6539)  
 [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders)  
 [From directory to vp of engineering - what is expected and how to prepare](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d)  
+[Difference between OKR's and CFR's](https://www.whatmatters.com/resources/difference-between-okr-cfr/)  
 
 # Process
 
@@ -35,6 +36,7 @@ category: General
 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)  
 [Grows Overview](https://growsinstitute.com/video/GrowsOverview.mp4)  
 [Pushing through friction](https://www.youtube.com/watch?v=8bxZuzDKoI0&t=1025s)  
+[Tech debt is not a burden, it's a strategic lever for success](https://www.reforge.com/blog/managing-tech-debt)  
 
 # Product Thinking
 
