@@ -45,3 +45,4 @@ Covid forced most teams to go remote.
 #### References
 
 [LeadDev Panel Discussion - Building the tools for cross-team communication](https://www.youtube.com/watch?v=bTeC53i4TX0&t=2571s)  
+[Addressing the challenges of partially distributed engineering teams](https://leaddev.com/managing-distributed-teams/addressing-challenges-partially-distributed-engineering-teams)  
