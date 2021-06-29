@@ -24,6 +24,23 @@ category: Soft
 - Let people discover your response rate - people need to know when you are offline and when they can expect a response from you
 - Give people a way to get hold of you in emergencies - always allow how they can notify you if something is urgent and requires an immediate response
 
+## Example of communication
+
+~~~
+Complete Employee Spot Check by Friday 13th June
+
+Hi folks, please can you complete the employee spot check survery by this Friday.
+This is an important survey for us to get a handle on where your teams are at.
+It takes 15 minutes to be done. 
+We will be looking at the result to gauge where we need to focus next
+
+Q) Who should do the survey?
+A) Everyone in product delivery teams
+
+Q) Is the survey anon?
+A) No, senior leadership can see respondents details
+~~~
+
 
 #### References 
 
