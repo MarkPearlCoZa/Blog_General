@@ -44,6 +44,7 @@ category: General
 [Scaling Product Delivery](https://www.reforge.com/blog/scaling-product-delivery)  
 [Types of items that we should find in our product backlog](https://thefutureofcode.com/2020/11/30/flow-framework-part-2-four-types-of-product-backlog-items/)  
 [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)  
+[How to Kickstart and Scale a MarketPlace](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace)  
 
 # Communication
 
