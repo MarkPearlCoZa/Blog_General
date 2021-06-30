@@ -19,6 +19,7 @@ category: General
 [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders)  
 [From directory to vp of engineering - what is expected and how to prepare](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d)  
 [Difference between OKR's and CFR's](https://www.whatmatters.com/resources/difference-between-okr-cfr/)  
+[Career development for engineering managers](https://leaddev.com/professional-development/career-development-engineering-managers)  
 
 # Process
 
@@ -87,3 +88,4 @@ category: General
 
 [The Drama Triangle](https://www.youtube.com/watch?v=E_XSeUYa0-8)  
 [The Drama Triangle and Challenger, Creator,  Coach](https://www.youtube.com/watch?v=ovrVv_RlCMw&t=197s)  
+[Managing Up](https://www.reforge.com/blog/managing-up)  
