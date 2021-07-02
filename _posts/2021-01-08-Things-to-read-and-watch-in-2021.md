@@ -84,6 +84,7 @@ category: General
 [Load/performance testing in production](https://www.neotys.com/blog/load-performance-testing-in-production)  
 [Don't do performance testing in production environments only](https://techbeacon.com/app-dev-testing/dont-do-performance-testing-production-environments-only)  
 [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)  
+[Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)  
 
 # People
 
