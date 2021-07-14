@@ -86,6 +86,7 @@ category: General
 [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)  
 [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)  
 [Being a Tech Lead in an Empowered Product Team](https://domk.website/blog/2021-01-12-tech-lead-empowered-product-team.html)  
+[Moving from manager to ic](https://leaddev.com/professional-development/individual-contributor-manager-and-back-again) 
 
 # People
 
