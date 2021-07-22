@@ -26,6 +26,7 @@ category: General
 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce)  
 [Flow Framework](https://flowframework.org/about/)  
 [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/d/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_dtrl4NzUguc/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_su_30#_lumUl)  
+[Nobody ever gets credit for fixing problems that never happened - work harder vs work smarter](https://www.linkedin.com/pulse/nobody-ever-gets-credit-fixing-problems-never-happened-mike-long/)  
 
 # Business of software
 
