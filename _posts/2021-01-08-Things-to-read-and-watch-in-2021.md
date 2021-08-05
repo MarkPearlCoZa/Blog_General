@@ -20,6 +20,7 @@ category: General
 [From directory to vp of engineering - what is expected and how to prepare](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d)  
 [Difference between OKR's and CFR's](https://www.whatmatters.com/resources/difference-between-okr-cfr/)  
 [Career development for engineering managers](https://leaddev.com/professional-development/career-development-engineering-managers)  
+[Effective OKRs - focussing on outcomes and finding flow](https://www.youtube.com/watch?v=3_d-zKgnlnU&t=71s)  
 
 # Process
 
