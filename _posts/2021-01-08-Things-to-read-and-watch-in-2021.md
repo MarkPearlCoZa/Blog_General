@@ -55,6 +55,7 @@ category: General
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
 [Presenting to Executives](https://leaddev.com/communication-relationships/presenting-executives)  
 [Pushing through friction](https://blog.danielna.com/talks/pushing-through-friction/)  
+[Three ways to lead effectively when you fire somebody](https://leaddev.com/managing-time-crisis/three-ways-lead-effectively-when-you-fire-somebody)  
 
 # Vision, Goals & Decisions
 
