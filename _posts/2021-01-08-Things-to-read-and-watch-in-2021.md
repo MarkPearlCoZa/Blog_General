@@ -80,6 +80,7 @@ category: General
 
 [Tools for effective delegation in engineering management](https://leaddev.com/professional-development/tools-effective-delegation-engineering-management)  
 [Soft Edges](https://thoughtsonathing.com/2021/03/10/soft-edges/)  
+[How to be an effective early stage employee. Hint: be helpful](https://medium.com/helpful-com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f)  
 
 # Craft
 
