@@ -89,6 +89,7 @@ category: General
 [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)  
 [Being a Tech Lead in an Empowered Product Team](https://domk.website/blog/2021-01-12-tech-lead-empowered-product-team.html)  
 [Moving from manager to ic](https://leaddev.com/professional-development/individual-contributor-manager-and-back-again) 
+[Fast test, slow test by Gary Bernhardt](https://www.youtube.com/watch?v=RAxiiRPHS9k)  
 
 # People
 
