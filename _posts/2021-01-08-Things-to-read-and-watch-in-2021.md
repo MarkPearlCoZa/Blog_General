@@ -49,6 +49,7 @@ category: General
 [Types of items that we should find in our product backlog](https://thefutureofcode.com/2020/11/30/flow-framework-part-2-four-types-of-product-backlog-items/)  
 [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)  
 [How to Kickstart and Scale a MarketPlace](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace)  
+[50 Short Product Lessons by John Cutlefish](https://cutle.fish/blog/50-product-lessons)  
 
 # Communication
 
