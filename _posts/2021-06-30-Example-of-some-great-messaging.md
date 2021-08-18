@@ -44,3 +44,19 @@ We are opening a *role name* role based out of *Location name*, and you will see
 
 Please reach out to *Person X* directly and thank *him/her* for *his/her* hard work, dedication, and passion for the *Company name* journey!
 ~~~
+
+## A email challenging a decision around pay
+
+~~~
+Hi X,
+
+I know we spoke about this previously but am raising it one last time. I know {Person Y} is moving from {Company X}, and it seems a small thing, but the potential bump {he/she} would have received if {he/she} had remained.
+
+I am fully cognizant of the strategic review and its impact on the teams and the adjusted timelines due to the changes. Had the review period been {month x} as in previous years {Person Y} would have qualified for an increase and backpay to {month x}.
+
+Even for a short a period as this is, there is a fairness I feel we are missing here.
+
+I'm happy to chat on this and come to an understanding.
+
+Appreciate your assistance.
+~~~
