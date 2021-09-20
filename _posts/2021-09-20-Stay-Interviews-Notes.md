@@ -33,4 +33,8 @@ I would love to come out of the session understanding what's important for you f
 * Get personal - Understand their aspirations, what inspires them, what they look for in work, what opportunities they want outside of work
 * Understand why - understand why someone would want to move on.
 
+#### References
+
+* [Great Attrition or Great Attraction, the choice is yours](https://www.mckinsey.com/business-functions/organization/our-insights/great-attrition-or-great-attraction-the-choice-is-yours)
+* [How to Condusct Stay Interviews : 5 Key Questions](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/how-to-conduct-stay-interviews-part-2.aspx)  
 
