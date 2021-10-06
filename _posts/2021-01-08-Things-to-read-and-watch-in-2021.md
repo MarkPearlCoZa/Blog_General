@@ -93,6 +93,7 @@ category: General
 [Being a Tech Lead in an Empowered Product Team](https://domk.website/blog/2021-01-12-tech-lead-empowered-product-team.html)  
 [Moving from manager to ic](https://leaddev.com/professional-development/individual-contributor-manager-and-back-again) 
 [Fast test, slow test by Gary Bernhardt](https://www.youtube.com/watch?v=RAxiiRPHS9k)  
+[Change your habits: Modern techniques for modern C# - Bill Wagner](https://www.youtube.com/watch?v=aUbXGs7YTGo)  
 
 # People
 
