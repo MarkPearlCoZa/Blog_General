@@ -58,6 +58,15 @@ OKR's are not a legal document upon which to base a performance review, it shoul
 
 [Felipe Castro's guide to tracking OKR results with the weekly checkin](https://felipecastro.com/en/okr/tracking-okr-results/)  
 
+# Grading OKR's at the end of a quarter
+
+~~~
+What factors were in and out of our team’s control?
+Do the results match our efforts? 
+Where did we get lucky?
+What could we have done better?
+~~~
+
 #### References
 
 [4 Fundamental Mistakes You Are Making with Product OKR's](https://ganotnoa.com/4-fundamental-mistakes-you-are-making-with-product-okrs/)  
