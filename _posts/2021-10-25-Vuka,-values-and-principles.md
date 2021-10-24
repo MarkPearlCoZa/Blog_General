@@ -13,4 +13,6 @@ For example, say as a a leader I have an underlying value of work/life balance a
 
 ie. a manager needs to determine if a team should work long hours for a month to hit a launch date - with an understanding of my values & principles they could project that I would not commit or be comfortable with that as a decision.
 
-VUKA is a term I recently came across which was [first used in the milatary](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) to descrive situations where there was volatility, uncertainty, complexity or ambiguity... or put another way... the heat of battle. In those situations having shared values & principles allows people to operate and react faster.
+VUKA is a term I recently came across which was [first used in the milatary](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) to describe the fog of war. Situations where there was volatility, uncertainty, complexity or ambiguity. 
+
+During war soldiers are often uncertain of their own situation, uncertain of their own abilities and uncertain of the adversary intents. Having shared values & principles with their unit would allow them to operate and react faster.
