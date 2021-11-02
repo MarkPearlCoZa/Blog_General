@@ -6,7 +6,7 @@ category: Misc
 ---
 Below are a list of tools that are useful for software development. I have categorized them based on the language I saw them being used in - this doesn't exclude them from possibly working in other languages.
 
-#### .Net / C# Development ####
+#### .Net / C# Development 
 
 - [ReSharper](http://www.jetbrains.com/resharper/) - developer productivity tool for Visual Studio
 - [CodeMaid](http://www.codemaid.net/) - open source developer productivity tool for Visual Studio
@@ -16,7 +16,7 @@ Below are a list of tools that are useful for software development. I have categ
 - [NCover](http://www.ncover.com/) - Test / Code Coverage Tools
 - [MSpec](https://github.com/machine/machine.specifications) - .Net Specification Test Framework (BDD)
 
-#### Web ####
+#### Web 
 
 - [Brackets](http://brackets.io/) - open source code editor for web designers and front-end developers
 - [LightTable](http://www.lighttable.com/) - code editor
@@ -25,11 +25,11 @@ Below are a list of tools that are useful for software development. I have categ
 
 - [Javascript Regex Visualizer](https://regexper.com/)  
 
-#### JavaScript ####
+#### JavaScript 
 
 - [JS Online Reply](https://babeljs.io/repl/) - javascript online repl  
 
-#### General ####
+#### General 
 
 - [ConEmu](https://code.google.com/p/conemu-maximus5/) - console management
 - [FogBugz](https://www.fogcreek.com/fogbugz/) - bug tracking 
@@ -40,23 +40,23 @@ Below are a list of tools that are useful for software development. I have categ
 - [Text Editor Anywhere](http://www.listary.com/text-editor-anywhere) - useful tool for keeping your favorite text editor everywhere!  
 - [EditorConfig](http://editorconfig.org/) - define and maintain consistent coding styles between different IDE's    
 
-#### Windows ####
+#### Windows 
 
 - [Process Explorer from Sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb795533.aspx) - useful for seeing all processes on a machine   
 
-#### File Transfer ####
+#### File Transfer 
 
 - [WinSCP](winscp.net) - free sftp, scp & ftp client for Windows
 - [FileZilla](https://filezilla-project.org) - free sftp, ftp client for Windows
 
-#### Images ####
+#### Images 
 
 - [PNGQuant](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images.  
 - [Image Magick](http://www.imagemagick.org/) - create, edit, compose, or convert bitmap images.  
 - [PunyPng](http://www.punypng.com/) - Image compressor for designers and developers.  
 - [TinyPng](https://tinypng.com/) - Optimize your images with a perfect balance in quality and file size.  
 
-#### Fun ####
+#### Fun 
 
 - [Hacker Typer](http://hackertyper.net/) - pretends you are programming
 
