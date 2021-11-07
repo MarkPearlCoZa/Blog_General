@@ -101,6 +101,7 @@ category: General
 [The Drama Triangle and Challenger, Creator,  Coach](https://www.youtube.com/watch?v=ovrVv_RlCMw&t=197s)  
 [Managing Up](https://www.reforge.com/blog/managing-up)  
 [Radical Candor: My Go To Feedback Routine](https://coachtakeshi.medium.com/radical-candor-61c98768d1d1)
+[The body keeps score - EMDR](https://www.youtube.com/watch?v=53RX2ESIqsM)  
 
 # Meetings
 
