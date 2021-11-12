@@ -103,6 +103,10 @@ category: General
 [Radical Candor: My Go To Feedback Routine](https://coachtakeshi.medium.com/radical-candor-61c98768d1d1)
 [The body keeps score - EMDR](https://www.youtube.com/watch?v=53RX2ESIqsM)  
 
+# Decision Making
+
+[Conflict transformation tools: gradients of agreement and principled negotiation](https://www.youtube.com/watch?v=ZkEIB2vNzGA)  
+
 # Meetings
 
 [How to Get Out of a Meeting You Know Will Waste Your Time](https://hbr.org/2018/01/how-to-get-out-of-a-meeting-you-know-will-waste-your-time)  
