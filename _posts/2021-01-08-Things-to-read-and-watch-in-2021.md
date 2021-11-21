@@ -21,6 +21,7 @@ category: General
 [Difference between OKR's and CFR's](https://www.whatmatters.com/resources/difference-between-okr-cfr/)  
 [Career development for engineering managers](https://leaddev.com/professional-development/career-development-engineering-managers)  
 [Effective OKRs - focussing on outcomes and finding flow](https://www.youtube.com/watch?v=3_d-zKgnlnU&t=71s)  
+[Learning OKRs](https://www.whatmatters.com/faqs/learning-okr)  
 
 # Process
 
@@ -110,3 +111,7 @@ category: General
 # Meetings
 
 [How to Get Out of a Meeting You Know Will Waste Your Time](https://hbr.org/2018/01/how-to-get-out-of-a-meeting-you-know-will-waste-your-time)  
+
+# Platform
+
+[SRE vs. Platform Engineering](https://www.getambassador.io/resources/rise-of-cloud-native-engineering-organizations)  
