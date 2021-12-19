@@ -77,6 +77,7 @@ category: General
 # Forecasting
 
 [No, engineers don't suck at time estimates](https://blog.nukemberg.com/post/no-engineers-dont-suck-at-estimates/)  
+[What is Rough Order of Magnitude (ROM) and how is it calculated](What is the Rough Order of Magnitude (ROM) and how is it calculated](https://project-management.info/rom-rough-order-of-magnitude)  
 
 # Delegation
 
@@ -104,6 +105,7 @@ category: General
 [Radical Candor: My Go To Feedback Routine](https://coachtakeshi.medium.com/radical-candor-61c98768d1d1)
 [The body keeps score - EMDR](https://www.youtube.com/watch?v=53RX2ESIqsM)  
 [SCARF](https://childcareta.acf.hhs.gov/systemsbuilding/systems-guides/leadership/leading-ourselves/scarf-model)  
+
 
 # Decision Making
 
