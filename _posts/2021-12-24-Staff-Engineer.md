@@ -4,8 +4,8 @@ title: Staff Engineer
 tags: 
 category: General
 ---
-
-Notes
+<img class="img-responsive" alt="Ultimate Developer Keyboard" src="{{ site.url }}/assets/images/Keyboard-UltimateDeveloper.jpg">
+<img class="img-responsive" alt="Ultimate Developer Keyboard" src="{{ site.url }}/assets/images/Keyboard-UltimateDeveloper.jpg">
 
 #### References
 
