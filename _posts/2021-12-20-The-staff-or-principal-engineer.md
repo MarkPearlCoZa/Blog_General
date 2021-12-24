@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-<img class="img-responsive" alt="Staff Engineer Intersection" src="{{ site.url }}/assets/images/Staff-Engineer-Intersection.jpeg">
+The staff engineer
 
 #### References
 
