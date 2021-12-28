@@ -11,11 +11,11 @@ Early on in my career, they were very unstructured. We would start them by build
 
 Over time I adopted Gerogia Murch's format which covered 5 main areas in 1:1's
 
-1) Feedback
-2) Follow up on tasks / new tasks
-3) KPI's
-4) Professional Development
-5) Career Development
+1) Feedback 
+2) Follow up on tasks / new tasks 
+3) KPI's 
+4) Professional Development 
+5) Career Development 
 
 I've found this format worked well and gave me focus for 1:1's however having used this approach for a number of years it's felt like these meetings have become very transactional or focussing on the what.
 
