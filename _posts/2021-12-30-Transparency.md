@@ -5,9 +5,7 @@ tags:
 category: General
 ---
 
-It is important in the enviroments that I work that we foster a culture of transparency. 
-
-This means we should be as transparent as possible with our reasons for the decisions we make. 
+It is important in the enviroments that I work that we foster a culture of transparency which means we should be as transparent as possible with our reasons for the decisions we make. 
 
 This means sharing the rationale behind decisions. 
 
