@@ -22,6 +22,7 @@ category: General
 [Career development for engineering managers](https://leaddev.com/professional-development/career-development-engineering-managers)  
 [Effective OKRs - focussing on outcomes and finding flow](https://www.youtube.com/watch?v=3_d-zKgnlnU&t=71s)  
 [Learning OKRs](https://www.whatmatters.com/faqs/learning-okr)  
+[Impact Players - Brene Brown and Liz Wiseman](https://open.spotify.com/episode/3DUXemFbKXo1zTTxtI0nnJ?si=e-q5l-d5St6WESBmUEVhDw&nd=1)  
 
 # Process
 
