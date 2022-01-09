@@ -5,7 +5,7 @@ tags:
 category: General|Tech|Soft|Process|Media|Misc|Unpublished
 ---
 
-[See 2021's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2021)
+[See 2021's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2021)  
 
 # Craft
 
