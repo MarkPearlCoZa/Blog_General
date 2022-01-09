@@ -2,7 +2,7 @@
 layout: post
 title: Things to read or watch in 2022
 tags: 
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+category: General
 ---
 
 [See 2021's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2021)  
