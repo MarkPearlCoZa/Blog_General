@@ -5,6 +5,9 @@ tags:
 category: General
 ---
 
+[See 2022's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2021)
+[See 2020's Things to read and watch](http://blog.markpearl.co.za/Things-to-watch-in-2020)
+
 # General Problem Solving
 
 [Introduction to the Cynefin Framework](https://www.youtube.com/watch?v=9dRBb-r0fCY)
