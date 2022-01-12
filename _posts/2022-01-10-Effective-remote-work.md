@@ -42,7 +42,34 @@ i.e. running in the morning, going for a brief walk at the end of the day
 
 11) End of each day list what you have acheived and what you would like to achieve tomorrow (direct team - SEM's & Principal Engineers)
 
-12) 
+## Manager points
+
+12) Offices are organised to remove any unrelated distractions to that staff can focus on getting their work done effectively - what needs to change at home to enable this?
+
+13) Connundrum, how do you know what appropriate pace/capacity is. We are looking for a 8 hour commitment day to day.
+
+14) Allowing remote work means you have to give trust to people, trust that they are using their time wisely. To manage remote people you have to focus on outcomes instead of business.
+
+15) Overcommunicate, repeat, remind, repost, use different angles
+
+16) Master the remote tools - whiteboard, voting, notes, diagramming
+
+17) Leave loudly each day - let people know when you are knocking off for the day
+
+18) Have frequent "Ask me anything" sessions where the team are encouraged to discuss anything tath's on their minds about the team, product, and company.
+
+19) What does flexible hours look like, when does everyone need to be together
+
+20) Have a handbook that people use for engineering that is open and visibile to everyone
+
+21) Where are we on the remote spectrum where looks something like office bound, office bound remote once a week, home bound in office once a week, home bound in office once a delivery cycle, home bound in office once a month, home bound in every quarter
+* Physically colocated: A company where all employees are working from the same physical location, which is typically an office.  
+* Globally distributed: A company where employees are working from one of a number of offices, potentially distributed worldwide.  
+* Hybrid remote: A company where some employees work from an office, of which there may be more than one, and some work remotely. This includes employees that split their time between working in the office and at home.  
+* Remote-first: An extension of hybrid remote where remote work is the norm and office-based work is the exception.  
+* Fully remote: A company where all employees are remote and there are no offices.  
+
+22) Having an office can be an attractor for talent wanting to immigate (ie come work for us we will get you a visa to live in New Zealand)
 
 | Medium                            | Length | Reply expected | Reply time      | After hours | Good for                                                                                                                        | Bad for                                                                                                                                   |
 |-----------------------------------|--------|----------------|-----------------|-------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
