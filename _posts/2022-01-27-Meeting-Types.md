@@ -12,6 +12,12 @@ category: Process
 
 * Come prepared and expect others to be prepared: We almost never “presented” anything in meetings. Materials were always sent in advance, and people were expected to pre-read. This takes getting used to, but is a massive time-saver once it becomes part of the culture. It also meant that almost all of our meetings were 30 minutes (even staff meeting, complicated product reviews, etc), and often ended early.  
 
+* Pre-reads (”Come prepared and expect others to be prepared”). We almost never “presented” anything in meetings. Materials were always sent in advance, and people were expected to pre-read. Almost all of our meetings were scheduled to be 30 minutes and often ended early.   
+* Framing matters. Rather than jumping to solutions, teams quickly learned how to ask the right “eigenquestions“ and frame discussions in the right way.    
+
+* Avoid rescheduling. Every time a meeting is moved, it has an enormous butterfly effect on the whole organization as they changed their schedules to match. Also, the level of preparedness for a meeting is directly proportional to the expectation that it will actually happen. 
+
+* Don’t be afraid to cancel. With standing forums and materials sent in advance, it’s generally clear before the meeting whether or not there was reason to meet. We often sent out an agenda, resolved the remaining issues, and canceled the meeting. 
 ## Tag Up Meetings
 
 The attendees are fixed (and guests are almost never added), 
