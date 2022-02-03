@@ -10,3 +10,7 @@ category: General
 # Craft
 
 [7 code review manners](https://reutsharabani.medium.com/the-7-code-review-manners-f0f0eef4d3e5)
+
+# General 
+
+[Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)  
