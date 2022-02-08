@@ -14,3 +14,7 @@ category: General
 # General 
 
 [Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)  
+
+# Remote work
+
+[Nice ideas on how to connect remote (hybrid) teams](https://twitter.com/nathanbarry/status/1480944048189980678?s=20)
