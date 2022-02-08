@@ -13,8 +13,9 @@ category: General
 
 # General 
 
-[Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)  
+[Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)    
+[Work somewhere dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)  
 
 # Remote work
 
-[Nice ideas on how to connect remote (hybrid) teams](https://twitter.com/nathanbarry/status/1480944048189980678?s=20)
+[Nice ideas on how to connect remote (hybrid) teams](https://twitter.com/nathanbarry/status/1480944048189980678?s=20)  
