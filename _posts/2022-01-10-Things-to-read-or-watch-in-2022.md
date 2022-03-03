@@ -15,6 +15,7 @@ category: General
 
 [Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)    
 [Work somewhere dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)  
+[Practices, Principles, Values](https://brodzinski.com/2014/08/practices-principles-values.html)  
 
 # Remote work
 
