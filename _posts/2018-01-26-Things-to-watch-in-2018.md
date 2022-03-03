@@ -4,6 +4,8 @@ title: Things to watch in 2018
 tags: 
 category: General
 ---
+[See 2019's Things to read and watch](http://blog.markpearl.co.za/2019-01-08-Things-to-watch-in-2019)  
+[See 2017's Things to read and watch](http://blog.markpearl.co.za/2016-12-24-Things-to-read-and-watch-in-2017)  
 
 Each year I put a list of things I believe are worth reading and watching in the year. Here is my list for 2018.
 
