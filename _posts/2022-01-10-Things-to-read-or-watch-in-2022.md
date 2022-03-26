@@ -24,3 +24,7 @@ category: General
 # Platform
 
 [Overcoming the messy matrix for platform teams](https://go.tasktop.com/overcoming-the-messy-matrix-on-demand.html)   
+
+# Product Delivery
+
+[Compromise and collaboration: Working with product](https://leaddev.com/culture-engagement-motivation/compromise-and-collaboration-working-product)  
