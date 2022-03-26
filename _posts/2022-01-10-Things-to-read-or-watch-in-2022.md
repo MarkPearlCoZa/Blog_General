@@ -20,3 +20,7 @@ category: General
 # Remote work
 
 [Nice ideas on how to connect remote (hybrid) teams](https://twitter.com/nathanbarry/status/1480944048189980678?s=20)  
+
+# Platform
+
+[Overcoming the messy matrix for platform teams](https://go.tasktop.com/overcoming-the-messy-matrix-on-demand.html)   
