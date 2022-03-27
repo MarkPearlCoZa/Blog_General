@@ -24,6 +24,7 @@ category: General
 # Platform
 
 [Overcoming the messy matrix for platform teams](https://go.tasktop.com/overcoming-the-messy-matrix-on-demand.html)   
+[Applying Product Thinking to Slack's Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/)  
 
 # Product Delivery
 
