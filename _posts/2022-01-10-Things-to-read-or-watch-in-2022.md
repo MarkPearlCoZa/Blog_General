@@ -25,9 +25,10 @@ category: General
 # Platform
 
 [Overcoming the messy matrix for platform teams](https://go.tasktop.com/overcoming-the-messy-matrix-on-demand.html)   
-[Applying Product Thinking to Slack's Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/)  
+[Applying Product Thinking to Slack's Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/)    
 [Video : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.youtube.com/watch?v=BjKJyWeg88c)  
-[Blog : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.infoq.com/news/2017/06/paved-paas-netflix/) 
+[Blog : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.infoq.com/news/2017/06/paved-paas-netflix/)   
+[Full Cycle Developers at Netflix - Operate what you build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)   
 
 # Product Delivery
 
