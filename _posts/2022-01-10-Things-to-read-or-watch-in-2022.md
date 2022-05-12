@@ -17,6 +17,7 @@ category: General
 [Set better goals with NCTS not OKRs](https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs)  
 [Work somewhere dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)  
 [Practices, Principles, Values](https://brodzinski.com/2014/08/practices-principles-values.html)  
+[Leading an exhausted workforce](https://hbr.org/2022/03/leading-an-exhausted-workforce)  
 
 # Remote work
 
