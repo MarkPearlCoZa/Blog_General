@@ -30,6 +30,7 @@ category: General
 [Video : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.youtube.com/watch?v=BjKJyWeg88c)  
 [Blog : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.infoq.com/news/2017/06/paved-paas-netflix/)   
 [Full Cycle Developers at Netflix - Operate what you build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)   
+[The ten fallacies of Platform Engineering](https://humanitec.com/blog/top-10-fallacies-in-platform-engineering)  
 
 # Product Delivery
 
