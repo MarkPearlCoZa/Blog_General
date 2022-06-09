@@ -18,6 +18,7 @@ category: General
 [Work somewhere dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)  
 [Practices, Principles, Values](https://brodzinski.com/2014/08/practices-principles-values.html)  
 [Leading an exhausted workforce](https://hbr.org/2022/03/leading-an-exhausted-workforce)  
+[The dark side of transparency](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-dark-side-of-transparency)  
 
 # Remote work
 
