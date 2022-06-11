@@ -36,3 +36,7 @@ category: General
 # Product Delivery
 
 [Compromise and collaboration: Working with product](https://leaddev.com/culture-engagement-motivation/compromise-and-collaboration-working-product)  
+
+# General
+
+[Antifragile Planning](https://taylorpearson.me/planning/)  
