@@ -40,3 +40,4 @@ category: General
 # General
 
 [Antifragile Planning](https://taylorpearson.me/planning/)  
+[Head of, Director, How to live with title inflation](https://www.protocol.com/workplace/title-inflation-talent-war)  
