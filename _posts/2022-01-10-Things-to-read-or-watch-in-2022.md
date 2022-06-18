@@ -19,6 +19,8 @@ category: General
 [Practices, Principles, Values](https://brodzinski.com/2014/08/practices-principles-values.html)  
 [Leading an exhausted workforce](https://hbr.org/2022/03/leading-an-exhausted-workforce)  
 [The dark side of transparency](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-dark-side-of-transparency)  
+[4 Documentation Quadrants](https://documentation.divio.com/)  
+[Durably Excellent Teams](https://lethain.com/durably-excellent-teams/)  
 
 # Remote work
 
@@ -41,3 +43,9 @@ category: General
 
 [Antifragile Planning](https://taylorpearson.me/planning/)  
 [Head of, Director, How to live with title inflation](https://www.protocol.com/workplace/title-inflation-talent-war)  
+[The Weekly CEO e-mail](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa)  
+
+# Anki
+
+[Image Occlusion in Cloze for Anki](https://www.youtube.com/watch?v=aYAMkwBdOas)  
+[Using Cloze Deletion Cards in Anki](https://www.youtube.com/watch?v=IRY1rYxd9EM)  
