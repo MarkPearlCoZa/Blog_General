@@ -10,6 +10,7 @@ category: General
 # Craft
 
 [7 code review manners](https://reutsharabani.medium.com/the-7-code-review-manners-f0f0eef4d3e5)
+[How to make your team fall in love with legacy code](https://leaddev.com/legacy-technical-debt-migrations/how-make-your-team-fall-love-legacy-code)  
 
 # General 
 
