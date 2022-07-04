@@ -51,3 +51,4 @@ category: General
 
 [Image Occlusion in Cloze for Anki](https://www.youtube.com/watch?v=aYAMkwBdOas)  
 [Using Cloze Deletion Cards in Anki](https://www.youtube.com/watch?v=IRY1rYxd9EM)  
+[How to make great anki cards which you will actually remember](https://revisingrubies.com/how-to-make-great-anki-cards/)  
