@@ -13,9 +13,23 @@ Over time I've experimented with different templates, here is how they have evol
 
 # Template 02
 
+Brief personal experience
 Top of Mind
 Performance Update
 Miscellaneous
+
+> Mark's Plan for the week - 1 Aug to 5th Aug
+>
+> Hi folks, I hope you all had a fabulous weekend. With the wind blowing most of the weekend, I took the opportunity to go kite flying and had a ton of fun with the stunt kites and my kids!
+>
+> Top of Mind
+> No surprises here.. project ABC remains top of mind. This week we have several meetings with individuals and teams around setting ourselves up for success. There have been some great questions asked in those meetings. If you haven't looked, a FAQ section gives more info. There is a follow-up All Hands scheduled for this Friday, where we will take everyone in Product Delivery through how we are evolving for this. 
+>
+> Performance Update
+> Recognising that we still need to do work to take the high-level organisation OKRs one layer deeper by bringing this into engineering/product delivery with initiatives. That's high on my list once we get over the project eXperience work this week.
+>
+> Miscellaneous
+> HACKATHON - following up on my update in the July Company meeting, please sign up for the hackathon if you are based in our Auckland offices. You can find out more at #tmp-hackathon-2022 - there has been an amazing amount of work put into making this an enjoyable event and we are encouraging your involvement.
 
 # Template 01
 
