@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mark's Plan for the Week
+title: Marks Plan for the Week
 tags: 
 category: General
 ---
