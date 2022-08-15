@@ -35,10 +35,12 @@ category: General
 [Blog : The Paved PaaS to Microservices at Netflix - Platform Thinking](https://www.infoq.com/news/2017/06/paved-paas-netflix/)   
 [Full Cycle Developers at Netflix - Operate what you build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)   
 [The ten fallacies of Platform Engineering](https://humanitec.com/blog/top-10-fallacies-in-platform-engineering)  
+[What is a platform](https://www.youtube.com/watch?v=_zH7TIXcjEs)    
 
 # Product Delivery
 
 [Compromise and collaboration: Working with product](https://leaddev.com/culture-engagement-motivation/compromise-and-collaboration-working-product)  
+[What is a technical product manager](https://www.youtube.com/watch?v=u0Iy-zpeRQs)  
 
 # General
 
