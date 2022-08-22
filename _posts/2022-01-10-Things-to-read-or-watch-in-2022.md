@@ -41,6 +41,7 @@ category: General
 
 [Compromise and collaboration: Working with product](https://leaddev.com/culture-engagement-motivation/compromise-and-collaboration-working-product)  
 [What is a technical product manager](https://www.youtube.com/watch?v=u0Iy-zpeRQs)  
+[Conway’s Law Doesn’t Apply to Rigid Designs](https://verraes.net/2022/05/conways-law-vs-rigid-designs/)  
 
 # General
 
