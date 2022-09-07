@@ -36,6 +36,7 @@ category: General
 [Full Cycle Developers at Netflix - Operate what you build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)   
 [The ten fallacies of Platform Engineering](https://humanitec.com/blog/top-10-fallacies-in-platform-engineering)  
 [What is a platform](https://www.youtube.com/watch?v=_zH7TIXcjEs)    
+[Devs don't want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html)  
 
 # Product Delivery
 
