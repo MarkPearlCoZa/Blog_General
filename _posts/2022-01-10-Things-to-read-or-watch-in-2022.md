@@ -37,6 +37,7 @@ category: General
 [The ten fallacies of Platform Engineering](https://humanitec.com/blog/top-10-fallacies-in-platform-engineering)  
 [What is a platform](https://www.youtube.com/watch?v=_zH7TIXcjEs)    
 [Devs don't want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html)  
+[Scaling developer teams](https://www.infoq.com/presentations/scaling-developer-teams/)  
 
 # Product Delivery
 
