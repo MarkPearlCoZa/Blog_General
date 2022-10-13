@@ -52,6 +52,7 @@ category: General
 [The Weekly CEO e-mail](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa)  
 [Crafting reverse interview questions](https://www.reforge.com/blog/pivot-theory-reverse-interview-questions) 
 [How I structure teams for growth](https://medium.com/@smnbss/how-i-structure-my-teams-for-growth-3272e4c3fc28)  
+[Software engineer career levels](https://www.endoflineblog.com/software-engineer-career-levels)  
 
 # Anki
 
