@@ -48,6 +48,7 @@ category: General
 # General
 
 [Antifragile Planning](https://taylorpearson.me/planning/)  
+[Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b)  
 [Head of, Director, How to live with title inflation](https://www.protocol.com/workplace/title-inflation-talent-war)  
 [Software engineer career levels](https://www.endoflineblog.com/software-engineer-career-levels)  
 [The Weekly CEO e-mail](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa)  
