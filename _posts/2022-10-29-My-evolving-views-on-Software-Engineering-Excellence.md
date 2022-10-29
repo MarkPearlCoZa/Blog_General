@@ -4,6 +4,7 @@ title: My evolving views on Software Engineering Excellence
 tags: 
 category: General
 ---
+
 As I've gained more experienced, my view on engineering excellence has evolved. Early in my career, I did not understand what engineering excellence looked like. I knew the basics of coding. I spent several years building a monster application that eventually became impossible to maintain. Near the end, it got so complicated that making a minor change would cause me extreme anxiety and take a long time.
 
 About ten years into my career, I was introduced to the software craftmanship movement and extreme programming. Practices like pair programming, TDD, Clean Code etc., became my focus.  
