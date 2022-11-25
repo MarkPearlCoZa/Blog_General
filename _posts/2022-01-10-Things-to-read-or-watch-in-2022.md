@@ -67,3 +67,8 @@ category: General
 
 [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 [Build your own Radar](https://www.thoughtworks.com/radar/byor)  
+
+# Communication
+
+[Bad News Is Worse through Email](https://www.strategy-business.com/blog/Bad-News-Is-Worse-through-Email)  
+[How to deliver bad news](https://hbr.org/2015/03/how-to-deliver-bad-news-to-your-employees)  
