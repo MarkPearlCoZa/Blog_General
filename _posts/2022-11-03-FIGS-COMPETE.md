@@ -10,16 +10,16 @@ How do you establish what your core values are? I hear you asking. One way is to
 
 Luckily, I have done these assessments every few years, allowing me to review what I've identified as recurring values over time. These are the values that came up:
 
-Fairness
-Integrity
-Growth
-Sincerity
-Continuously improving
-Openness
-Mastery
-Purposefulness
-Empowered
-Trust
-Effective collaboration
+Fairness  
+Integrity  
+Growth  
+Sincerity  
+Continuously improving  
+Openness  
+Mastery  
+Purposefulness  
+Empowered  
+Trust  
+Effective collaboration  
 
-Which gives me the acronym FIGS COMPETE.
+Which gives me the acronym FIGS COMPETE.  
