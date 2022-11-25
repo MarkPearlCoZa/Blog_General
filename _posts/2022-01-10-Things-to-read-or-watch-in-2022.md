@@ -56,6 +56,7 @@ category: General
 [How I structure teams for growth](https://medium.com/@smnbss/how-i-structure-my-teams-for-growth-3272e4c3fc28)  
 [Software engineer career levels](https://www.endoflineblog.com/software-engineer-career-levels)  
 [No regrets - Urzila Carlson](https://www.youtube.com/watch?v=h1fk2zFTdlI)  
+[VP of Engineering Interview Questions](https://medium.com/geekculture/how-do-you-interview-a-vp-of-engineering-81deddf6daa2)  
 
 # Anki
 
