@@ -73,3 +73,7 @@ category: General
 
 [Bad News Is Worse through Email](https://www.strategy-business.com/blog/Bad-News-Is-Worse-through-Email)  
 [How to deliver bad news](https://hbr.org/2015/03/how-to-deliver-bad-news-to-your-employees)  
+
+# Growth
+
+[Reforge Planning Your Successful Growth Career with Elena Verna and Adam Fishman](https://reforge.wistia.com/medias/grbouhl5fg)  
