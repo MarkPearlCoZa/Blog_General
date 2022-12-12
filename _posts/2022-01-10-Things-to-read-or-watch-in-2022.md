@@ -57,6 +57,7 @@ category: General
 [Software engineer career levels](https://www.endoflineblog.com/software-engineer-career-levels)  
 [No regrets - Urzila Carlson](https://www.youtube.com/watch?v=h1fk2zFTdlI)  
 [VP of Engineering Interview Questions](https://medium.com/geekculture/how-do-you-interview-a-vp-of-engineering-81deddf6daa2)  
+[Mastering the art of strategy with Richard Rumelt](https://www.youtube.com/watch?v=qvqtCMIZiY8)  
 
 # Anki
 
