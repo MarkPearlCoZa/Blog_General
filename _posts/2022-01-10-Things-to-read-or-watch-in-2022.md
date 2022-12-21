@@ -58,6 +58,9 @@ category: General
 [No regrets - Urzila Carlson](https://www.youtube.com/watch?v=h1fk2zFTdlI)  
 [VP of Engineering Interview Questions](https://medium.com/geekculture/how-do-you-interview-a-vp-of-engineering-81deddf6daa2)  
 [Mastering the art of strategy with Richard Rumelt](https://www.youtube.com/watch?v=qvqtCMIZiY8)  
+[You have too many metrics](https://breakingpoint.substack.com/p/you-have-too-many-metrics)  
+[This Is What Winning In SaaS Looks Like In 2023](https://www.scalevp.com/blog/winning-in-saas-2023)  
+[HBR - Leaders guide to corporate culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture)  
 
 # Anki
 
