@@ -5,7 +5,7 @@ tags:
 category: General
 ---
 
-[See 2020's Things to read and watch](http://blog.markpearl.co.za/Things-to-watch-in-2020)
+[See 2020's Things to read and watch](http://blog.markpearl.co.za/Things-to-watch-in-2020)  
 [See 2018's Things to read and watch](http://blog.markpearl.co.za/Things-to-watch-in-2018)
 
 Each year I put a list of things I believe are worth reading and watching in the year. 
