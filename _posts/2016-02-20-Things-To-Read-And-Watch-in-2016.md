@@ -6,7 +6,7 @@ category: General
 ---
 
 
-[See 2017's Things to read and watch](http://blog.markpearl.co.za/Things-To-Read-And-Watch-in-2017)  
+[See 2017's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2017)  
 
 This is the first year I have done this, the intention is that each year I make a list of books I would like to read in a year. This year I have changed it to 'things' so that it accomodates articles, videos, etc.
 
