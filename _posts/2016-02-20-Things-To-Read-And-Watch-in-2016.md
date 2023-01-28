@@ -4,7 +4,11 @@ title: Things to read and watch in 2016
 tags: Read Watch
 category: General
 ---
-Each year I make a list of books I would like to read in a year. This year I have changed it to 'things' so that it accomodates articles, videos, etc.
+
+
+[See 2017's Things to read and watch](http://blog.markpearl.co.za/Things-To-Read-And-Watch-in-2017)  
+
+This is the first year I have done this, the intention is that each year I make a list of books I would like to read in a year. This year I have changed it to 'things' so that it accomodates articles, videos, etc.
 
 So here's my latest list of recommended readings... As I come across new things I will add them...
 
