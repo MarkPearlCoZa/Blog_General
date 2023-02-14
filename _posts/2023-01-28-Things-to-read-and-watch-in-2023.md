@@ -12,3 +12,5 @@ category: General
 [What is a Staff+ Engineer by Gergley Orosz Newsletter](https://newsletter.pragmaticengineer.com/p/what-is-a-staff-engineer)  
 
 [Platform Engineering Teams Done Right...](https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23)  
+
+[The Trident Model of Career Development](https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/)  
