@@ -14,3 +14,5 @@ category: General
 [Platform Engineering Teams Done Right...](https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23)  
 
 [The Trident Model of Career Development](https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/)  
+
+[Belonging to Amazon’s Principal Engineering Community](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)  
