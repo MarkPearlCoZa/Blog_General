@@ -5,6 +5,8 @@ tags:
 category: Tech
 ---
 
+# Finding alternate vendors
+
 https://www.vendr.com/
 https://www.apptio.com/products/cloudability
 
@@ -25,3 +27,7 @@ https://www.apptio.com/products/cloudability
 7. If your procurement process is quick in turning around: you can save a lot of money.
 
 8. Discounting levels vary, by a lot! But if you don’t ask, you won’t get the discounts you could otherwise obtain.”
+
+## SSO Tax
+
+https://sso.tax/
