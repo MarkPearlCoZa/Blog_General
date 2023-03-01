@@ -16,3 +16,5 @@ category: General
 [The Trident Model of Career Development](https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/)  
 
 [Belonging to Amazon’s Principal Engineering Community](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)  
+
+[Story of A - making your own ideas even better - Kent Beck](https://tidyfirst.substack.com/p/the-story-of-a)  
