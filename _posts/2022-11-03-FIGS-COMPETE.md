@@ -33,3 +33,5 @@ Luckily, I have done these assessments every few years, allowing me to review wh
 **Effective collaboration** refers to working with others in a constructive, efficient, effective, and mutually beneficial way. It involves communicating openly and respectfully, leveraging each other's strengths and resources, and sharing a common goal or purpose. 
 
 Which gives me the acronym FIGS COMPETE.  
+
+<img class="img-responsive" alt="FIGS Compete" src="{{ site.url }}/assets/images/figs-compete.png">
