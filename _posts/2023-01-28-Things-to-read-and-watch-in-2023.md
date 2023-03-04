@@ -24,6 +24,7 @@ category: General
 
 [Paul Assaiante: Life lessons from the winningest coach in college sports](https://findingmastery.net/paul-assaiante-2/)  
 [Story of A - making your own ideas even better - Kent Beck](https://tidyfirst.substack.com/p/the-story-of-a)  
+[Setting engineering values](https://lethain.com/setting-engineering-org-values/)  
 
 
 
