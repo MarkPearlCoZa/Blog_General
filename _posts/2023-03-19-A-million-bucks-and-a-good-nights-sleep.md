@@ -14,9 +14,8 @@ After five years, our software had hundreds of thousands of lines of code and ma
 
 At that moment, I was consumed by a sense of utter helplessness. I had lost all confidence in our code base and remember thinking, "you couldn't pay me enough money to add that feature - even if you offered me a million bucks, I don't think I would do it".
 
-Ultimately we had hit that threshold where the product was simply too complicated, which was the end of its growth.
+Ultimately we had hit that threshold where the product was simply too complicated, which was the end of its growth. The product continued to be used for many years but we never added any substantial features to it from then.
 
-A few years later, I worked on a different project. This time, I learned how to use test-driven development. The code base was extensive and complex, but we used a test-driven approach. I remember being asked to add some functionality one day, and it took me a few hours to code. I then ran it through our build server - all the tests passed, so I pushed it to production. I went home and had a great night's sleep.
+A few years later, I worked on a different project. This time, I had learned how to use test-driven approach. The code base was extensive and complex, but we test-driven development to add small clearly defined unit tests. I remember one day being asked to add some functionality to the system. It took me a few hours to code, I then ran it through our build server - all the tests passed, so I pushed it to production. I went home and had a great night's sleep.
 
 And that is how valuable a test-driven approach is to me - it's worth a million bucks and a good night's sleep.
-
