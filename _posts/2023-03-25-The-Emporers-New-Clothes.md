@@ -23,8 +23,7 @@ A better way was if the engineer had spoken up during the meeting. Many people w
 
 So, if you are in a meeting where a number looks off or can be misinterpreted, be brave and voice your concerns. I understand that this can be incredibly difficult. I know there are cultural complexities to take into consideration. And this is a better way.
 
-------
-What do we learn as leaders:
+## What do we learn as leaders:
 * We must create a supportive environment where people feel comfortable voicing their concerns or speaking up.  
 * We must always work on our listening skills.  
 
