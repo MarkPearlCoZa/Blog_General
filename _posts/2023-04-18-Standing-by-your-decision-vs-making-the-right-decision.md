@@ -6,7 +6,7 @@ category: General
 ---
 As a leader, an important trait is making strong decisions. It's an essential skill that involves analysing information effectively, assessing risks and benefits, and making a decision promptly. 
 
-The alternative to strong decision-making is indecision, which can create doubt and uncertainty, leading to a lack of focus. Also, I've seen it create resentment and a culture of re-litigation on everything. Things you want to avoid.
+The alternative to strong decision-making is indecision, which can create doubt and uncertainty, leading to a lack of focus. Also, I've seen it generate resentment and a culture of re-litigation on everything. Things you want to avoid.
 
 But what happens when you make the wrong decision? Is it better to stick to it or unwind it? This is a question that I've grappled with for a while. 
 
