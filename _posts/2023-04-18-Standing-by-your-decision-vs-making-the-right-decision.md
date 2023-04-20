@@ -12,17 +12,17 @@ But what happens when you make the wrong decision? Is it better to stick to it o
 
 My thinking... 
 
-* If you keep changing decisions, the environment you create is unstable, and people don't thrive. 
-* In many instances, the side effects of changing or not making a decision are worse than making a quick wrong decision. 
-* Always question what the cost of change is. Will change cause more harm than being right?
+* If you keep changing decisions, the environment you create is unstable, and people don't thrive.   
+* In many instances, the side effects of changing or not making a decision are worse than making a quick wrong decision.   
+* Always question what the cost of change is. Will change cause more harm than being right?  
 
 Does that mean that once a decision is made, you should never go back on it? Not always. You want to be on the right path for material decisions, even if it means backtracking a few times. 
 
-For these material decisions, if it becomes clear that the decision is wrong and causing more harm than good, it's essential to unwind it. 
+For material decisions, if it becomes clear that the decision is wrong and causing more harm than good, it's essential to unwind it. 
 
-This is simple to say but hard to get right. 
-* Often, we don't know the damage caused by a material decision until it has been realised.
-* Sometimes, harm can move really fast.
+This is simple to say but hard to get right.   
+* Often, we don't know the damage caused by a material decision until it has been realised.  
+* Sometimes, harm can move really fast.  
 
 How do you undo a wrong decision? It depends.
 
