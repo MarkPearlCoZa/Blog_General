@@ -16,6 +16,7 @@ category: General
 
 [Platform Engineering Teams Done Right...](https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23)  
 [Why your IT organization should prioritize developer experience](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/why-your-it-organization-should-prioritize-developer-experience)  
+[CNCF Platforms White Pape](https://tag-app-delivery.cncf.io/whitepapers/platforms/)  
 
 ## Career Development
 
