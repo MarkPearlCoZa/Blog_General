@@ -29,3 +29,7 @@ category: General
 [Setting engineering values](https://lethain.com/setting-engineering-org-values/)  
 [Accountability is not blame](https://tidyfirst.substack.com/p/accountability-is-not-blame)  
 [Servant Leadership by Ken Blanchard](https://www.youtube.com/watch?v=ctZHSa4Qhd4)  
+
+## Software Development
+
+[Steel are a technique that will make you a better engineer](https://www.rubick.com/steel-threads/?utm_source=rands-i-wrote-steel-threads)  
