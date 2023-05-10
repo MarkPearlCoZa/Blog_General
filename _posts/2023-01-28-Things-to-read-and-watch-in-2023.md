@@ -29,6 +29,7 @@ category: General
 [Setting engineering values](https://lethain.com/setting-engineering-org-values/)  
 [Accountability is not blame](https://tidyfirst.substack.com/p/accountability-is-not-blame)  
 [Servant Leadership by Ken Blanchard](https://www.youtube.com/watch?v=ctZHSa4Qhd4)  
+[Stockdale Paradox by Jim Collins](https://www.youtube.com/watch?v=GvWWO7F9kQY)  
 
 ## Software Development
 
