@@ -6,6 +6,10 @@ category: General
 ---
 [See 2022's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-or-watch-in-2022)  
 
+## Org design
+
+[Coordination Models](https://www.rubick.com/coordination-models/)  
+
 ## Staff and Principal Engineers
 
 [Principal Engineering Community Tenets](https://www.amazon.jobs/en/landing_pages/pe-community-tenets)  
