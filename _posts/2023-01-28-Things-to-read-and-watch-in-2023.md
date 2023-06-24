@@ -22,6 +22,7 @@ category: General
 [Why your IT organization should prioritize developer experience](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/why-your-it-organization-should-prioritize-developer-experience)  
 [CNCF Platforms White Pape](https://tag-app-delivery.cncf.io/whitepapers/platforms/)  
 [The Magic of Platforms by Gregor Hohpe][https://www.youtube.com/watch?v=WaL3ZbLgMuI]  
+[Platform as a Product](https://tomgeraghty.co.uk/index.php/platform-as-a-product/)  
 
 ## Career Development
 
