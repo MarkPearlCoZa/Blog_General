@@ -9,6 +9,7 @@ category: General
 ## Org design
 
 [Coordination Models](https://www.rubick.com/coordination-models/)  
+[Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)  
 
 ## Staff and Principal Engineers
 
