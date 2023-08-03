@@ -49,3 +49,7 @@ category: General
 ## Empowerment
 
 [Empowerment vs Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)  
+
+## General
+
+[Quit telling your developers they are brilliant](https://stephennimmo.com/quit-telling-your-developers-they-are-brilliant/)  
