@@ -26,6 +26,7 @@ category: General
 [Platform as a Product](https://tomgeraghty.co.uk/index.php/platform-as-a-product/)  
 [Can platform engineering help you do more for less](https://leaddev.com/tech/can-platform-engineering-help-you-do-more-less)  
 [DevOps is Bullshit](https://blog.massdriver.cloud/posts/devops-is-bullshit/)  
+[The Modernization Imperative: Shifting left is for suckers. Shift down instead](https://cloud.google.com/blog/products/application-development/richard-seroter-on-shifting-down-vs-shifting-left)  
 
 ## Career Development
 
