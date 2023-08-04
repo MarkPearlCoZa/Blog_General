@@ -55,3 +55,7 @@ category: General
 ## General
 
 [Quit telling your developers they are brilliant](https://stephennimmo.com/quit-telling-your-developers-they-are-brilliant/)  
+
+## Culture
+
+[DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)  
