@@ -25,6 +25,7 @@ category: General
 [The Magic of Platforms by Gregor Hohpe](https://www.youtube.com/watch?v=WaL3ZbLgMuI)  
 [Platform as a Product](https://tomgeraghty.co.uk/index.php/platform-as-a-product/)  
 [Can platform engineering help you do more for less](https://leaddev.com/tech/can-platform-engineering-help-you-do-more-less)  
+[DevOps is Bullshit](https://blog.massdriver.cloud/posts/devops-is-bullshit/)  
 
 ## Career Development
 
