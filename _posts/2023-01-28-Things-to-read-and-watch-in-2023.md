@@ -55,6 +55,7 @@ category: General
 ## General
 
 [Quit telling your developers they are brilliant](https://stephennimmo.com/quit-telling-your-developers-they-are-brilliant/)  
+[The Leadership Library for Engineers](https://leadership-library.dev/)  
 
 ## Culture
 
