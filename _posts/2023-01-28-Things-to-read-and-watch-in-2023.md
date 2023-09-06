@@ -47,6 +47,7 @@ category: General
 [Steel are a technique that will make you a better engineer](https://www.rubick.com/steel-threads/?utm_source=rands-i-wrote-steel-threads)  
 [How To Get Buy-in for DevEx Initiatives: Strategies From GitHub, Notion, and More](https://getdx.com/resources/devex-executive-buy-in)  
 [SRE for Engineering Managers](https://leaddev.com/tech/sre-engineering-managers)  
+[Jade Rudiks Engineering Manager vs Tech Lead](https://www.rubick.com/engineering-manager-vs-tech-lead)  
 
 ## Empowerment
 
