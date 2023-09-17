@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the Engineering Team Needs Model helps you to prioritise initiatives
+title: Engineering Team Needs Model 
 tags: 
 category: General
 ---
