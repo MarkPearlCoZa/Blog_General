@@ -41,6 +41,7 @@ category: General
 [Servant Leadership by Ken Blanchard](https://www.youtube.com/watch?v=ctZHSa4Qhd4)  
 [Stockdale Paradox by Jim Collins](https://www.youtube.com/watch?v=GvWWO7F9kQY)  
 [Big Five Personality Assessment](https://projects.fivethirtyeight.com/personality-quiz/)  
+[Cascading vs Aligning OKRs](https://www.tability.io/okrs/cascading-vs-aligning-okrs)  
 
 ## Software Development
 
