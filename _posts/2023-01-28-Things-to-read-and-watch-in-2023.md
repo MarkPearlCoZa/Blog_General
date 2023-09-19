@@ -62,3 +62,7 @@ category: General
 ## Culture
 
 [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)  
+
+## APIs
+
+[Want to build a good API - here are 5 tips for API Design](https://youtu.be/HBH6qnj0trU?si=lG1-he2oSdxbFXdI)  
