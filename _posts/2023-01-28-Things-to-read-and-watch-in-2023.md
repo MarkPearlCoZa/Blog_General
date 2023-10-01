@@ -49,6 +49,7 @@ category: General
 [How To Get Buy-in for DevEx Initiatives: Strategies From GitHub, Notion, and More](https://getdx.com/resources/devex-executive-buy-in)  
 [SRE for Engineering Managers](https://leaddev.com/tech/sre-engineering-managers)  
 [Jade Rudiks Engineering Manager vs Tech Lead](https://www.rubick.com/engineering-manager-vs-tech-lead)  
+[Pat Kua - 5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)  
 
 ## Empowerment
 
