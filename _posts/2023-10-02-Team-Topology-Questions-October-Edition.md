@@ -47,22 +47,3 @@ Drawbacks
 
 Ideally, the provide a self-service function that provides reusable components that other teams leverage. This increases developer productivity.
 
-> Q6. Can you explain how team interactions like collaboration, X-as-a-Service, and facilitation work in practice?
-
-> Q7. How does an emerging technology or tool influence the type of team topology that may be best suited to incorporate it?
-
-> Q8. How can team topologies be modified or restructured as a company or product evolves?
-
-> Q9. How does the concept of team topologies contribute to aligning the team structure with the organisation's business goals?
-
-> Q10. How can team topologies help address common challenges in software delivery?
-
-> Q11. Can the team topologies model be applied outside a DevOps or IT context?
-
-> Q12. Can you share an example of how your organisation has benefited from the application of team topologies?
-
-> Q13. How do different team topologies handle shared services or dependencies?
-
-> Q14. How do the principles of Conway's Law interact with team topologies?
-
-> Q15. Lastly, how do you ensure a balance between specialisation and siloing in different team topologies?
