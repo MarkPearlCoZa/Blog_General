@@ -10,6 +10,7 @@ category: General
 
 [Coordination Models](https://www.rubick.com/coordination-models/)  
 [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)  
+[How to build silos and decrease collaboration on purpose - Jade Rubick](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/?utm_source=ck-share-silos&utm_medium=link&utm_campaign=silos)
 
 ## Staff and Principal Engineers
 
