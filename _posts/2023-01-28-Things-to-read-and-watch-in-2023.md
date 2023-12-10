@@ -12,6 +12,7 @@ category: General
 [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)  
 [How to build silos and decrease collaboration on purpose - Jade Rubick](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/?utm_source=ck-share-silos&utm_medium=link&utm_campaign=silos)
 [Amazon's Two Pizza Team Size](https://d1.awsstatic.com/executive-insights/en_US/two_pizza_teams_eBook.pdf)  
+[Single Threaded Owners](https://www.rubick.com/implementing-amazons-single-threaded-owner-model)  
 
 ## Staff and Principal Engineers
 
