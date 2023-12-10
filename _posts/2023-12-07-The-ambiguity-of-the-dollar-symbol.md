@@ -5,8 +5,8 @@ tags:
 category: General
 ---
 
-Having gone through a recent budgeting process, I want to bring to your attention the ambiguity associated with using the $ symbol. The $ symbol does not tell you the exact currency type, which can lead to some costly mistakes.
+Having gone through a recent budgeting process, I am struck by the ambiguity of the $ symbol. The $ symbol is contextual shorthand for many currencies but does not tell you the exact currency type, which can lead to some very costly mistakes.
 
-For instance, $1 could refer to USD 1, NZD 1 or AUD 1, depending on who's quoting it. If you have confused a million New Zealand dollars with a million US dollars, that's a mistake of roughly NZD 700,000.
+For instance, $1 could refer to USD 1, NZD 1 or AUD 1, depending on who's quoting it. If you have confused a million New Zealand dollars with a million US dollars, that's a costly mistake (roughly NZD 700,000 or a small house).
 
-To avoid confusion and ensure clarity, adopt the practice of including the three-letter abbreviation of the currency, such as NZD or, AUD or USD, when recording costs. This way, we can avoid any confusion or misinterpretation associated with using the $ symbol.  
+The lesson I've learned. To avoid confusion and ensure clarity, always include the three-letter abbreviation of the currency, such as NZD or, AUD or USD, when recording costs. That means $10 is either NZD10 or AUD10 or USD10. This way, any confusion or misinterpretation associated with using the $ symbol is totally avoided.  
