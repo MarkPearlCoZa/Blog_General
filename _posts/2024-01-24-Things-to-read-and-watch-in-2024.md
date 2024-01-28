@@ -2,7 +2,7 @@
 layout: post
 title: Things to read and watch in 2024
 tags: 
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+category: General
 ---
 
 ## Change Management
@@ -12,3 +12,7 @@ category: General|Tech|Soft|Process|Media|Misc|Unpublished
 ## Online Documents
 
 [Open Org Resources](https://www.openorg.fyi/resources) 
+
+## General
+
+[Shape Up Handbook](https://basecamp.com/shapeup)  
