@@ -2,7 +2,7 @@
 layout: post
 title: Convincing Strategies
 tags: 
-category Soft
+category: Soft
 ---
 
 ## Argument for convincing someone to do something
