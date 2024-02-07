@@ -7,6 +7,10 @@ category: General
 
 [See 2023's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2023)  
 
+## Product Thinking
+
+[Developing a Continuous Feedback Loop](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
+
 ## Change Management
 
 [The Six Conversations: One - The Proposition](https://www.youtube.com/watch?v=gIj4o0ygwKk&t=2s)  
