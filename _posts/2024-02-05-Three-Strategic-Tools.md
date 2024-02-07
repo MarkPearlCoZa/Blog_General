@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three strategic tools for a leader from CultureAmp Course
+title: Three strategic tools for a leader
 tags: 
 category: General
 ---
