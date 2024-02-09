@@ -22,3 +22,8 @@ category: General
 ## General
 
 [Shape Up Handbook](https://basecamp.com/shapeup)  
+
+## Communities of Practice
+
+[Communities of Practice Book](https://www.wenger-trayner.com/cop-guidebook/)
+[Xero's Experience with Communities of Practice for Resilience Engineering](https://www.youtube.com/watch?v=LrK_1ePmz54)  
