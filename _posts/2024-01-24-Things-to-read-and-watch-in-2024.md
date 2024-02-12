@@ -27,3 +27,7 @@ category: General
 
 [Communities of Practice Book](https://www.wenger-trayner.com/cop-guidebook/)
 [Xero's Experience with Communities of Practice for Resilience Engineering](https://www.youtube.com/watch?v=LrK_1ePmz54)  
+
+## DevEx
+
+[DevEx in Action - a study of it's tangible impacts](https://queue.acm.org/detail.cfm?id=3639443)  
