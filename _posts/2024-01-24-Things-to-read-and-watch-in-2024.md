@@ -22,6 +22,7 @@ category: General
 ## General
 
 [Shape Up Handbook](https://basecamp.com/shapeup)  
+[Developing a Continuous Feedback Loop - Feedback Rivers](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
 
 ## Communities of Practice
 
