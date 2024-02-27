@@ -32,3 +32,7 @@ category: General
 ## DevEx
 
 [DevEx in Action - a study of it's tangible impacts](https://queue.acm.org/detail.cfm?id=3639443)  
+
+## Platform
+
+[Every infrastructure decision I endorse or regret after 4 years at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/) 
