@@ -7,6 +7,10 @@ category: General
 
 [See 2023's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2023)  
 
+## Estimation
+
+[Estimation / Fermi ROI: Fixing the ROI rubric](https://longform.asmartbear.com/roi-rubric/)  
+
 ## Product Thinking
 
 [Developing a Continuous Feedback Loop](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
