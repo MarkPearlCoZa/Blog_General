@@ -10,6 +10,7 @@ category: General
 ## Estimation
 
 [Estimation / Fermi ROI: Fixing the ROI rubric](https://longform.asmartbear.com/roi-rubric/)  
+[No Estimates, an introduction](https://holub.com/noestimates-an-introduction/)  
 
 ## Product Thinking
 
