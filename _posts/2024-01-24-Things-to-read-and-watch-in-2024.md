@@ -7,6 +7,10 @@ category: General
 
 [See 2023's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2023)  
 
+## Agile  
+
+[Agile - one conversation, two views](https://www.agilealliance.org/agile-one-conversation-two-views/)  
+
 ## Estimation
 
 [Estimation / Fermi ROI: Fixing the ROI rubric](https://longform.asmartbear.com/roi-rubric/)  
