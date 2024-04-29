@@ -10,6 +10,7 @@ category: General
 ## Agile  
 
 [Agile - one conversation, two views](https://www.agilealliance.org/agile-one-conversation-two-views/)  
+[Agile in the age of AI](https://hups.com/blog/agile-in-the-age-of-ai)  
 
 ## Estimation
 
