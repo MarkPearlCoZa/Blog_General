@@ -46,3 +46,7 @@ category: General
 ## Platform
 
 [Every infrastructure decision I endorse or regret after 4 years at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/) 
+
+## Business
+
+[Layoff Foundations](https://kellanem.com/notes/layoff-foundations)  
