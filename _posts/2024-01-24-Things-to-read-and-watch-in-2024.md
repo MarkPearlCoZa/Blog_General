@@ -20,6 +20,7 @@ category: General
 ## Product Thinking
 
 [Developing a Continuous Feedback Loop](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
+[The human side of world class engineering leadership](https://www.youtube.com/watch?v=-Akmf4SGHTQ)  
 
 ## Change Management
 
