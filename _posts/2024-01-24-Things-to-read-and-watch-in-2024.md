@@ -35,6 +35,7 @@ category: General
 [Shape Up Handbook](https://basecamp.com/shapeup)  
 [Developing a Continuous Feedback Loop - Feedback Rivers](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
 [Vision, Mission, Strategy - Waze](https://www.linkedin.com/pulse/who-needs-mission-strategy-when-you-can-iterate-quickly-noam-bardin/)  
+[High Trust vs Low Trust Organisations](https://www.rubick.com/high-trust-low-trust-organizations/)  
 
 ## Communities of Practice
 
