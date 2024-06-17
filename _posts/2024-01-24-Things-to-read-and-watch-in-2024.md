@@ -50,6 +50,7 @@ category: General
 
 [Every infrastructure decision I endorse or regret after 4 years at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/) 
 [How to create a product roadmpa for a platform team?](https://www.youtube.com/watch?v=0IfWccar5SA)  
+[Platforms = Architecture plus DDD plus Automation](https://www.youtube.com/watch?v=iP-qzK4mQuI&t=1s)  
 
 ## Business
 
