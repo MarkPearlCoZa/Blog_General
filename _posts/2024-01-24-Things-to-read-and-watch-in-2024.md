@@ -36,6 +36,7 @@ category: General
 [Developing a Continuous Feedback Loop - Feedback Rivers](https://www.youtube.com/watch?v=LLP4fOPuG5M)  
 [Vision, Mission, Strategy - Waze](https://www.linkedin.com/pulse/who-needs-mission-strategy-when-you-can-iterate-quickly-noam-bardin/)  
 [High Trust vs Low Trust Organisations](https://www.rubick.com/high-trust-low-trust-organizations/)  
+[What if you can't measure the outcome | OKR](https://members.outcomeedge.com/p/what-if-you-cant-measure-the-outcome)  
 
 ## Communities of Practice
 
