@@ -11,6 +11,7 @@ category: General
 
 [Agile - one conversation, two views](https://www.agilealliance.org/agile-one-conversation-two-views/)  
 [Agile in the age of AI](https://hups.com/blog/agile-in-the-age-of-ai)  
+[Team Topologies, Cognitive Load & Complex Systems | Matthew Skelton In The Engineering Room Ep. 12](https://www.youtube.com/watch?v=vIcp9zDs4EI)  
 
 ## Estimation
 
@@ -52,6 +53,7 @@ category: General
 [Every infrastructure decision I endorse or regret after 4 years at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/) 
 [How to create a product roadmpa for a platform team?](https://www.youtube.com/watch?v=0IfWccar5SA)  
 [Platforms = Architecture plus DDD plus Automation](https://www.youtube.com/watch?v=iP-qzK4mQuI&t=1s)  
+[What is the difference between DevOps and Platform Engineering?](https://www.youtube.com/watch?v=oDMEClYm_d0) 
 
 ## Business
 
