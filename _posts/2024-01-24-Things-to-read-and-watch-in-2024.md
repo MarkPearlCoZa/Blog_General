@@ -38,6 +38,7 @@ category: General
 [Vision, Mission, Strategy - Waze](https://www.linkedin.com/pulse/who-needs-mission-strategy-when-you-can-iterate-quickly-noam-bardin/)  
 [High Trust vs Low Trust Organisations](https://www.rubick.com/high-trust-low-trust-organizations/)  
 [What if you can't measure the outcome | OKR](https://members.outcomeedge.com/p/what-if-you-cant-measure-the-outcome)  
+[A Plan is not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)  
 
 ## Communities of Practice
 
