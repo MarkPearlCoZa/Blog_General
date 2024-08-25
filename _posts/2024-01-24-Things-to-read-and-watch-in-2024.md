@@ -56,6 +56,7 @@ category: General
 [How to create a product roadmpa for a platform team?](https://www.youtube.com/watch?v=0IfWccar5SA)  
 [Platforms = Architecture plus DDD plus Automation](https://www.youtube.com/watch?v=iP-qzK4mQuI&t=1s)  
 [What is the difference between DevOps and Platform Engineering?](https://www.youtube.com/watch?v=oDMEClYm_d0) 
+[Build an Internal Developer Platform in 5 Minutes with Humanitec](https://www.youtube.com/watch?v=asgFmQBksJY)  
 
 ## Business
 
