@@ -57,6 +57,7 @@ category: General
 [Platforms = Architecture plus DDD plus Automation](https://www.youtube.com/watch?v=iP-qzK4mQuI&t=1s)  
 [What is the difference between DevOps and Platform Engineering?](https://www.youtube.com/watch?v=oDMEClYm_d0) 
 [Build an Internal Developer Platform in 5 Minutes with Humanitec](https://www.youtube.com/watch?v=asgFmQBksJY)  
+[How to design your repository structures to nail platform engineering](https://humanitec.com/blog/how-to-design-your-repository-structures-to-nail-platform-engineering?utm_campaign=Kaspar%27s%20Newsletter)  
 
 ## Business
 
