@@ -40,6 +40,7 @@ category: General
 [What if you can't measure the outcome | OKR](https://members.outcomeedge.com/p/what-if-you-cant-measure-the-outcome)  
 [A Plan is not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)  
 [How to Argue](https://www.youtube.com/watch?v=IDj1OBG5Tpw)  
+[Choose boring technology](https://mcfunley.com/choose-boring-technology)  
 
 ## Communities of Practice
 
