@@ -62,7 +62,9 @@ category: General
 [How to design your repository structures to nail platform engineering](https://humanitec.com/blog/how-to-design-your-repository-structures-to-nail-platform-engineering)  
 [What to build first - the house or the front door?](https://platformengineering.org/blog/what-to-build-first-the-house-or-the-front-door)  
 [The Missing Middle of Internal Developer Platforms](https://www.youtube.com/watch?v=t4IOnciAzbE)  
+[You're forgetting Infrastructure Platform Engineering, you shouldn't](https://www.youtube.com/watch?v=mqEqIs22O8I)  
 
 ## Business
 
 [Layoff Foundations](https://kellanem.com/notes/layoff-foundations)  
+[Step One to Successfully Building Your Platform: Brining It Together - motivating a IDP to the busienss](https://www.infoq.com/articles/building-platform-business-cas)  
