@@ -68,3 +68,4 @@ category: General
 
 [Layoff Foundations](https://kellanem.com/notes/layoff-foundations)  
 [Step One to Successfully Building Your Platform: Brining It Together - motivating a IDP to the busienss](https://www.infoq.com/articles/building-platform-business-cas)  
+[The econimics of internal developer platforms](https://www.engineeringprimer.com/p/the-economics-of-internal-developer)  
