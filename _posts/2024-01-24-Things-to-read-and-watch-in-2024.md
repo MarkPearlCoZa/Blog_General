@@ -5,6 +5,7 @@ tags:
 category: General
 ---
 
+[See 2025's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2025)  
 [See 2023's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2023)  
 
 ## Agile  
