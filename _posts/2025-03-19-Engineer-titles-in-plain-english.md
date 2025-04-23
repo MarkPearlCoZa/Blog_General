@@ -2,7 +2,7 @@
 layout: post
 title: Engineer titles in plain english
 tags: 
-category: General|Tech|Soft|Process|Media|Misc|Unpublished
+category: General
 ---
 I came across this on [LinkedIn](https://www.linkedin.com/posts/pedrogilcarvalho_engineering-roles-in-plain-english-junior-activity-7287838754168328193-Zy2J/)  nd it was too good to let it get lost in the internet.
 
