@@ -11,5 +11,6 @@ category: General
 [Building a customer-focussed Observability Maturity Model](https://devblog.xero.com/building-a-customer-focused-observability-maturity-model-7b890aa11cb5)   
 [Developer Experience at Uber with Gautam Korlam](https://www.youtube.com/watch?v=BSrx9y7npyg)   
 [Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)  
+[Translating DevEx to the Board](https://www.youtube.com/watch?v=0stBWjJLEkw)  
 
 [Service Design in Era of AI](https://www.youtube.com/watch?v=AoMZsdyFcT0)  
