@@ -14,3 +14,4 @@ category: General
 [Translating DevEx to the Board](https://www.youtube.com/watch?v=0stBWjJLEkw)  
 
 [Service Design in Era of AI](https://www.youtube.com/watch?v=AoMZsdyFcT0)  
+[Field Notes from Shipping Realy Code with Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)  
