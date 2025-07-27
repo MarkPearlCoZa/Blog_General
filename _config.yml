@@ -5,8 +5,23 @@ permalink: /:title
 # interpreter to use for markdown
 markdown: kramdown
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "vendor"]
 highlighter: rouge
+
+# Performance optimizations
+sass:
+  style: compressed
+
+# Jekyll plugins (also add to Gemfile)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination
+paginate: 20
+paginate_path: "/page:num/"
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.

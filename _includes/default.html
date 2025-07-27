@@ -8,11 +8,16 @@
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% include performance.html %}
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/style.css?v={{ site.time | date: '%s' }}" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Preload critical fonts -->
+    <link rel="preload" href="{{ ASSET_PATH }}/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0" as="font" type="font/woff" crossorigin>
 
     <!-- Scripts -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -54,5 +59,6 @@
         </footer>
         {% include analytics %}
         {% include scripts %}
+        {% include lazy-load.html %}
   </body>
 </html>
