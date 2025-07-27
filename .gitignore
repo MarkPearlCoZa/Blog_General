@@ -11,3 +11,15 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+# Bundler
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass
+.sass-cache/
