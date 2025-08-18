@@ -6,6 +6,8 @@ category: General
 ---
 [See 2024's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2024)  
 
+[Fighting compliance trolls killing platform engineering](https://platformengineering.org/blog/fighting-compliance-trolls-killing-platform-engineering)  
+[Why Platform Engineers Need to think like Product Managers](https://www.syntasso.io/post/why-platform-engineers-need-to-think-like-product-managers)  
 [The Product Engineer](https://randsinrepose.com/archives/the-product-engineer/)  
 [How Complex Systems Fail](https://how.complexsystems.fail/)   
 [Building a customer-focussed Observability Maturity Model](https://devblog.xero.com/building-a-customer-focused-observability-maturity-model-7b890aa11cb5)   
