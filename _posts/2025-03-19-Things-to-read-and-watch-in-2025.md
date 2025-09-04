@@ -17,3 +17,4 @@ category: General
 
 [Service Design in Era of AI](https://www.youtube.com/watch?v=AoMZsdyFcT0)  
 [Field Notes from Shipping Realy Code with Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)  
+[Atlassian Build Pains](https://www.atlassian.com/blog/atlassian-engineering/how-we-reinvented-atlassian-cicd)  
