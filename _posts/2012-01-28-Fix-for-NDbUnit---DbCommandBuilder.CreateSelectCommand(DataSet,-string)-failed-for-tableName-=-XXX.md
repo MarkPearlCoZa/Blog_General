@@ -6,7 +6,7 @@ category: Tech
 ---
 I have recently been using NDbUnit for integration tests exercising the database. I am new to the tool, so the following exception caused a few hours of scratching my head before I figured out the obvious.
 
-Assume you are going through the quick start guide from the website, everything works perfectly. Then I changed to my production database and did the same thing and I get the following error…]
+Assume you are going through the quick start guide from the website, everything works perfectly. Then I changed to my production database and did the same thing and I get the following error…
 
 DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = '….
 

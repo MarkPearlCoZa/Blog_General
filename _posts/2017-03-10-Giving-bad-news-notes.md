@@ -27,4 +27,4 @@ We are exceptionally good at this whole avoidance thing.
 
 ## References
 
-[Why saying no thanks is so hard](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=a1b33b7096&e=807b678eab]  
+[Why saying no thanks is so hard](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=a1b33b7096&e=807b678eab)  
