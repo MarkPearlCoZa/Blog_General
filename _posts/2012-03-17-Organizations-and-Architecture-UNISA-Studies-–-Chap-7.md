@@ -59,7 +59,7 @@ An I/O channel/processor is an I/O module that takes on most of the detailed pro
 There are 3 techniques are possible for I/O operations
 
 Programmed I/O
-Interrupt[t I/O
+Interrupt-driven I/O
 DMA Access
 Programmed I/O
 When a processor is executing a program and encounters an instruction relating to I/O it executes that instruction by issuing a command to the appropriate I/O module. With programmed I/O, the I/O module will perform the requested action and then set the appropriate bits in the I/O status register. The I/O module takes no further actions to alert the processor.
