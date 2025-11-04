@@ -37,6 +37,7 @@ author :
   feedburner : feedname
 
 production_url : https://blog.markpearl.co.za
+repository: MarkPearlCoZa/Blog_General
 
 JB :
   version : 0.3.0
