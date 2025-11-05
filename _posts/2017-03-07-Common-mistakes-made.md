@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common mistakes I've seen in .Net Projects
+title: "Common mistakes I've seen in .Net Projects"
 tags: Code
 category: General
 ---

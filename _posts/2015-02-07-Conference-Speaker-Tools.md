@@ -9,7 +9,7 @@ For those that know me - I have spoken at a few conferences. Below are a collect
 [Call to Speakers List](https://calltospeakers.com/)  
 [Lanyrd](http://lanyrd.com/)  
 
-#### 4 Delivery Methods for Talks ####
+#### 4 Delivery Methods for Talks
 
 1) Memorization  
 2) Reading  

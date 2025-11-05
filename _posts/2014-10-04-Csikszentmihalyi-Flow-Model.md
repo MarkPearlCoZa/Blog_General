@@ -7,6 +7,6 @@ category: Soft
 
 ![The Csikszentmihalyi matrix]({{ site.url }}/assets/images/ChallengeVsSkill.png)
 
-#### References ####
+#### References
 
 [Flow Psychology](http://en.wikipedia.org/wiki/Flow_psychology)

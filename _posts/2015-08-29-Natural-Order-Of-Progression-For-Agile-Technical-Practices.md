@@ -7,7 +7,7 @@ category: General
 
 This post is a transcript of a talk done at Agile Africa 2015.
 
-## Introduction ##
+## Introduction
 
 When I had my thirteenth birthday, my parents bought me an awesome gift, they bought me a skateboard. Now, this wasn't your ordinary plain shaped skateboard. The deck on this board was what is called a cruiser deck. It's one of the coolest things you will ever see. Being inspired by this board, I realized my calling in life was to become a famous skate boarder.
 
@@ -31,7 +31,7 @@ As I jumped my world went into slow motion - the skateboard which just seconds b
 
 I also continued down the hill for a few meters - but with no protective gear I had to rely on my bare hands and knees to come to a stop. Standing up and looking down I was surprized that where moments ago was healthy skin, was now replaced by blood and torn flesh. 
 
-## Relating Skateboarding to Software Development ##
+## Relating Skateboarding to Software Development
 
 In my professional career of developing software I've seen and heard of many organizations doing exactly the same thing that I did on my skateboard that day. 
 
@@ -45,7 +45,7 @@ Today I'm going to speak about some of the things that are rarely spoken about a
 
 I've called them the natural order of agile technical practices.
 
-## What are agile technical practices ##
+## What are agile technical practices
 
 So, what do I mean by agile technical practices? When I pose this question to people involved in software development I get a range of answers. 
 
@@ -53,7 +53,7 @@ For the next 25 minutes I'm going to use my definition for the term - which is w
 
 Some of the things I would include under the banner of engineering practices are: Collaborative Coding, Continuous Integration, Continuous Deployment, Automated Acceptance Tests, Test Driven Development, Collective Coding Standards, Simple Design and Refactoring.
 
-## Structure, Interactions & Technical Practices are intertwined ##
+## Structure, Interactions & Technical Practices are intertwined
 
 With that, I want to briefly mention team and organizational structures. There is a really good talk Kent Beck did at Lean Kanban Central Europe a few years back called GeForce. In Kent's talk he spoke about how different rates of deployment require different team structures and activities. 
 
@@ -61,9 +61,9 @@ Today I'm going to assume you have your team and organizational structures sorte
 
 It's my observation that engineering practices and team structures are joined at the hip. Some practices are impossible to do effectively if you don't have a suitable team structure. If you are unsure whether your team structure is suitable I recommend watching Kent's talk.
 
-## Dips & Slack ##
+## Dips & Slack
 
-### Help Create Slack ###
+### Help Create Slack
 
 Now, before I speak about the actual engineering practices I want to speak about something that is important for good engineering practices to happen - it’s the necessity of having slack. One of the most important things you can do to help your teams is help them create slack.
 
@@ -77,13 +77,13 @@ In the team I am currently in we have experimented with various approaches, from
 
 The important thing is this, it doesn't matter how your team does it, but encourage learning new things reguarly.
 
-### Supporting the Dips ###
+### Supporting the Dips
 
 Another thing you need to do is support the dips. Whenever a team or an individual learns a new engineering practice there is going to be an initial dip in performance. 
 
 You need to know that this will happen and have enough understanding of the long term advantages that will be gained from the practice to support them during the dips. 
 
-### Pattern to Create Slack ###
+### Pattern to Create Slack
 
 **So this may all sound great in theory, but in the real world we can't just tell people to stop working. We have deadlines!** 
 
@@ -108,9 +108,9 @@ So, with that said, let's move on to some actual practices.
 
 ----------------------------------------------------------------------------------------------------
 
-## Basic Practices ##
+## Basic Practices
 
-### Effective use of Version Control System ###
+### Effective use of Version Control System
 
 The first practice I would like to talk about is the effective use of version control. 
 
@@ -130,7 +130,7 @@ The pattern with version control is to do small little bits of work and merge or
 
 ----------------------------------------------------------------------------------------------------
 
-### Automating and Democratizing the Build ###
+### Automating and Democratizing the Build
 
 Leading on from effective use of version control is the practice of automating and democratizing the build. I've put this as the next practice because it is so simple to do, yet I have come across many teams that just haven't done it. 
 
@@ -155,7 +155,7 @@ If you have not automated and democratized your build yet, seriously consider it
 ----------------------------------------------------------------------------------------------------
 
 
-### Continuous Integration Server ###
+### Continuous Integration Server
 
 Doing smaller bits of work and integrating frequently means that people work closer together. When people work closer together, it becomes important to make build and integration issues visible to the team as quickly as possible. To do this you need a continuous integration server. 
 
@@ -171,7 +171,7 @@ If you have already automated your build scripts and have your version control s
 
 ----------------------------------------------------------------------------------------------------
 
-## Practices that fall under the Principle of Collective Code Ownership ##
+## Practices that fall under the Principle of Collective Code Ownership
 
 So, let's say your team is using version control effectively, you have your build scripts humming and your ci server is continuously integrating. What else can you get value from? 
 
@@ -187,7 +187,7 @@ For another client, collective code ownership is important because it has reduce
 
 For me, it matters because I have found this principle supports better design, fewer bugs and in general results in better systems being created. 
 
-### Common Code Style ###
+### Common Code Style
 
 One practice falling under collective code ownership is a team having a common coding style. By this I don't mean a thick document outlining exactly how everything is done and dictated by the architects in the architect forum - that doesn't work. 
 
@@ -197,7 +197,7 @@ It stands to reason that to have a common style, teams need to reguarly look at 
 
 ----------------------------------------------------------------------------------------------------
 
-### Collaborative Coding ###
+### Collaborative Coding
 
 One of the best ways to achieve a common style is to support collaborative coding. There are several different types of collaborative coding. On the diagram I have put up, the further right you go the more consistent I have found a team be in their common style. 
 
@@ -216,13 +216,13 @@ Now a quick side note - one of the big complaints I have with most of corporate 
 
 ----------------------------------------------------------------------------------------------------
 
-### Test Driven Development & Automated Testing ###
+### Test Driven Development & Automated Testing
 
 So, you have created a collaborative environment, the people are working well together, where do you go from here? 
 
 There are a number of practices you can consider, as the last practice that time permits today, I would be doing you an injustice if I didn't speak about automated testing and test driven development.
 
-#### TDD vs Automated Testing ####
+#### TDD vs Automated Testing
 
 In recent years I have noticed the growth in popularity of test driven development. However, in discussions with people who have not practiced any form of test driven development before, I find they get confused between test driven development and automated tests in general. 
 
@@ -232,7 +232,7 @@ The benefits of TDD include helping create a simple design and inspiring confide
 
 Automated tests on the other hand are merely that, a set of tests that can be run automatically and written by anyone at any point in time to verify that a system is functioning as expected. Some automated tests can be written post development by testers. These types of tests merely verify that the system is operating as expected and yield no benefits to design.
 
-#### Why TDD is useful ####
+#### Why TDD is useful
 
 TDD is extremely useful. Firstly it teaches developers good design - in particular writing software that is loosely coupled. 
 
@@ -250,7 +250,7 @@ So, I went home, spent a very frustrating two days trying to write a useful test
 
 It took me more than a year of occasionally dabbling with TDD to understand how to do it, and another year to start practicing it, AND once I began to get into it, I began to realize how powerful it is.
 
-#### Best way to learn TDD ####
+#### Best way to learn TDD
 
 So, if TDD is so hard to learn, what is the best way to learn it? At a high level, there are two things you need to learn TDD : **Time and Exposure**.
 
@@ -266,7 +266,7 @@ That said it is worth every bit of effort you put in to it because the return is
 
 ----------------------------------------------------------------------------------------------------
 
-### Closing ###
+### Closing
 
 With that, we are coming to the end of this session. I have only covered five technical practices - these five are not the only technical practices necessary to operate at the release rate that agile methodologies work at, and you may find that the order they were proposed does not necessarily make sense for you particular team. 
 
@@ -299,6 +299,6 @@ As I started working on the feature I was surprised at how confident I was worki
 
 To me, that is the power agile technical practices. They make us go faster with time, not slower. 
 
-#### References ####
+#### References
 
 [Agile Engineering Practices, a Cheat Sheet](http://blogs.versionone.com/agile_management/2013/07/10/agile-engineering-practices-a-cheat-sheet/)  

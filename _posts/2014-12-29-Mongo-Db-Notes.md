@@ -5,9 +5,9 @@ tags: Databases
 category: Tech
 ---
 
-#### Installation ####
+#### Installation
 
 http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 
-#### References ####
+#### References
 

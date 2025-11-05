@@ -83,7 +83,7 @@ The term team refers to a group of people united by motives and intentions to ac
 
 [Game theory simulation on trust](http://ncase.me/trust/)  
 
-#### References ####
+#### References
 
 [The Secret Ingredient that makes teams better than others](http://ideas.ted.com/the-secret-ingredient-that-makes-some-teams-better-than-others/)  
 - Excerpt From: The Pragmatic Bookshelf. “PragPub 2016-09: Issue #87.” The Pragmatic Bookshelf, LLC, 2016-09-01. iBooks.

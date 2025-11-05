@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-#### Redux vs Flux ####
+#### Redux vs Flux
 
 - One Store (Single centralized object graph)  
 - Reduced boilerplate code compared to flux  
@@ -15,5 +15,5 @@ category: Tech
 - Time-travel debugging  
 
 
-#### References ####
+#### References
 

@@ -4,7 +4,7 @@ title: JQuery Notes
 tags: Web
 category: Tech
 ---
-### General ###
+### General
 
 ~~~
 $('div'.addClass('foo');
@@ -20,10 +20,10 @@ $(document).ready(function() {
 });  
 ~~~
 
-#### Unobtrusive JavaScript ####
+#### Unobtrusive JavaScript
 
 Unobtrusive javascript is the process of keeping the site's markup separate from its behavior (code).  
 
-#### References ####
+#### References
 
 [The Mother Ship - JQuery](http://jquery.com/)  

@@ -19,7 +19,7 @@ Having a common understanding in all areas of an organization of what the real s
 
 I see at least three areas where you need to make the speed of delivery visible. If these three areas do not have a common understanding you will face pain.
 
-#### Three Areas that need a common understanding ####
+#### Three Areas that need a common understanding
 
 - The speed business wants you to deliver at.
 - The speed that your technology allows you to deliver at.

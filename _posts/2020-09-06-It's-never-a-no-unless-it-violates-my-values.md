@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's never a no unless it violates my values
+title: "It's never a no unless it violates my values"
 tags: 
 category: General
 ---

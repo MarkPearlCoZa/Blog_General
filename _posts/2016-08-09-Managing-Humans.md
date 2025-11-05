@@ -11,7 +11,7 @@ Sections & concepts that stood out to me:
 
 Don't Be a Prick : The underlying rule for all managers.  
 
-#### Your company health checklist ####
+#### Your company health checklist
 
 - Do you have a one-on-one?  
 - Do you have a team meeting?  
@@ -29,7 +29,7 @@ Some side notes to the above:
 - Keep one-on-ones as a priority  
 - Keep team meetings at a consistent heartbeat  
 
-#### How to run a meeting ####
+#### How to run a meeting
 
 - Creation vs Alignment Meetings  
 - Meetings have 2 critical components: Agenda & Referee  
@@ -45,7 +45,7 @@ A referee should be aware of the following:
 - If several people looked checked out, get them checked in
 - Change scenery to get things going 
 
-#### The Monday Freakout ####
+#### The Monday Freakout
 
 - Don't participate in the freakout  
 - Give the freakout the benefit of the doubt  
@@ -54,7 +54,7 @@ A referee should be aware of the following:
 - People freaking out are people that care
 - People freaking out is an indication you have not touched base with them enough  
 
-#### Disecting the Mandate ####
+#### Disecting the Mandate
 
 - Know what your role is and if you actually have a mandate  
 - Two types of mandates: Local & Foreign. Local is your mandate, Foreign is when a mandate is forced on you from outside of your level.
@@ -63,7 +63,7 @@ A referee should be aware of the following:
 - 3 outcomes from a mandate: Yay, Yawn or Boo  
 - Always make sure you have solid justification and reasoning when delivering a mandate, the fact you have to pull the card is an indicator is will be challenged  
 
-#### Subtlety, Subterfuge & Silence ####
+#### Subtlety, Subterfuge & Silence
 
 Management is like chess. When you're presented with a problem, you sometimes need to sit back and take a look at the board, figure out the consequences of each move, and most importantly pick a move.
 
@@ -75,7 +75,7 @@ Subterfuge is a risk, You break trust with subterfuge. Sometimes it may be neces
 
 Silence. Sometimes it is best to be quiet and listen. When you are not sure where people are going with an idea or a chat, be quiet and listen.
 
-#### Bored People Quit ####
+#### Bored People Quit
 
 You need to be able to answer 2 questions regarding each person on your team:  
 1) Where are they going?  
@@ -92,7 +92,7 @@ Other things to do:
 - Aggressively remove noise. Protect them from random meetings, phone calls, etc.  
 - Reguarly keep team members in the loop on what is going on  
 
-### More Info ###
+### More Info
 
 [Buy on Amazon](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)  
 

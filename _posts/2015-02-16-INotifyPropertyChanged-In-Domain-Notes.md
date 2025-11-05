@@ -4,11 +4,11 @@ title: INotifyPropertyChanged in the Domain
 tags: Code
 category: Programming
 ---
-#### The Post that triggered this response from Janco ####
+#### The Post that triggered this response from Janco
 
 [Should the Domain Model implement INotifyPropertyChanged?](http://blog.alner.net/archive/2010/02/26/should-the-domain-model-implement-inotifypropertychanged.aspx)
 
-#### What Janco had to say about it ####
+#### What Janco had to say about it
 
 I don't have the context you're coming from, and that would probably influence some design decisions.
 

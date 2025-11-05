@@ -4,13 +4,13 @@ title: Codewars Privileges Unlock
 tags: Meta
 category: Misc
 ---
-#### What is CodeWars? ####
+#### What is CodeWars?
 
 [CodeWars](https://www.codewars.com/about) is a site aimed at providing community driven programming kata's that help teach various techniques in solving programming problems by providing you with a set of tests to pass. Once you have completed a problem (kata) it shows you how other people in the programming community have solved the same problem and gives you the opportunity to engage with them.
 
 For those familiar with [Project Euler](https://projecteuler.net/), at a conceptual level it is very similar but with not such a heavy focus on mathematics. It's a ton of fun once you get in to it and can be very addictive. If you are not a member of CodeWars, [sign up using my special link](www.codewars.com/r/F6YZ4A) - I get extra points for it :-).
 
-#### Points Unlock Powers/Privileges ####
+#### Points Unlock Powers/Privileges
 
 One of the ways that CodeWars becomes addictive is by providing points whenever you complete kata's. More points unlock powers/privileges on the site.
 
@@ -28,7 +28,7 @@ Something lacking in the documentation of the site are the powers you unlock as 
 
 If you have gotten further than me and have additional powers or privileges, please add them in the comments section and I will update this page for easy reference.
 
-#### References ####
+#### References
 
 [CodeWars Signup](www.codewars.com/r/F6YZ4A)  
 [CodeWars Ranking and Honor](http://www.codewars.com/docs/ranking-and-honor-1)  

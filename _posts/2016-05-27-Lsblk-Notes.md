@@ -4,7 +4,7 @@ title: Lsblk Notes
 tags: Linux
 category: Tech
 ---
-#### General Notes ####
+#### General Notes
 
 ~~~
 lsblk -o name,label,size,fstype,model

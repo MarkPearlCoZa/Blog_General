@@ -12,12 +12,12 @@ This is the first year I have done this, the intention is that each year I make 
 
 So here's my latest list of recommended readings... As I come across new things I will add them...
 
-#### Articles ####
+#### Articles
 
 [What is software design by Jack Reeves](http://www.developerdotstar.com/mag/articles/reeves_design.html)  
 [Stage model of software development by Sarah Mei](https://storify.com/sarahmei/the-factory-the-workshop-and-the-stage), [see notes](http://blog.markpearl.co.za/Stage-Model-of-Software-Development)  
 
-#### Videos ####
+#### Videos
 
 #### General Development Videos
 

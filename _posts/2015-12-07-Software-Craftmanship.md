@@ -5,7 +5,7 @@ tags:
 category: Misc
 ---
 
-#### General ####
+#### General
 
 Working is a minimum requirement.  
 
@@ -51,7 +51,7 @@ Chef strives for high nutrition
 
 * [Good Reads on Craftmanship](http://www.goodreads.com/list/show/8379.Software_Craftsmanship)  
 
-#### References ####
+#### References
 
 [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)  
 [My Review on the book 'The Software Craftman"](http://blog.markpearl.co.za/The-Software-Craftsman)  

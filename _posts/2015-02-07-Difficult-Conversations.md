@@ -11,7 +11,7 @@ category: Soft
 2.     Think about a time someone you respect at work, and their characteristics.
 3.     Think about someone you don’t respect at work, and their characteristics.
 
-#### Six Steps to Navigating Difficult Conversations ####
+#### Six Steps to Navigating Difficult Conversations
 
 [Marcus Blakenship](http://www.marcusblankenship.com/) has the following 6 steps...  
 

@@ -64,7 +64,7 @@ Be careful not to mistake a technical expert who enjoys teaching for one who enj
 
 [This is why your best developers keep leaving](https://www.fastcompany.com/40443084/this-is-why-your-best-developers-keep-quitting)  
 
-#### Sources / Additional Reading ####
+#### Sources / Additional Reading
 [Mentoring Junior Engineers](https://www.youtube.com/watch?v=qAMJASlrPjM)   
 [The Secret Of Being A Great Mentor](http://www.skorks.com/2009/09/the-secret-of-being-a-great-mentor/)  
 [Seven tips on mentoring entry-level developers](http://www.techrepublic.com/blog/software-engineer/seven-tips-on-mentoring-entry-level-developers/#)  

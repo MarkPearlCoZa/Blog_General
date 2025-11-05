@@ -5,7 +5,7 @@ tags: Tests
 category: Tech
 ---
 
-#### Adding to Solution via NuGet ####
+#### Adding to Solution via NuGet
 
 ~~~
 nuget install Machine.Specifications
@@ -13,7 +13,7 @@ nuget install Machine.Specifications.Should
 ~~~
 
 
-#### Basics of MSpec ####
+#### Basics of MSpec
 
 ~~~~
 public class ThisIsTheTest
@@ -24,7 +24,7 @@ public class ThisIsTheTest
 }
 ~~~~
 
-#### Keywords ####
+#### Keywords
 
 - Subject  
 - Tags  
@@ -35,14 +35,14 @@ public class ThisIsTheTest
 - Ignore  
 - Catch  
 
-#### Resharper Templates ####
+#### Resharper Templates
 
 - **mse** Establish  
 - **msb** Because  
 - **msi** It  
 - **msf** A failing It  
 
-#### References ####
+#### References
 
 [The Mother Ship - MSpec GitHub](https://github.com/machine/machine.specifications)  
 [Getting started with MSpec - Covers basic installation](http://novuscraft.com/blog/getting-started-with-mspec)  

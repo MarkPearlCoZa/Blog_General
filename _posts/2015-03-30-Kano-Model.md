@@ -5,10 +5,10 @@ tags: Agile
 category: Soft
 ---
 
-#### General ####
+#### General
 
 The Kano model is a theory of product development and customer satisfaction developed in the 1980s by Professor Noriaki Kano, which classifies customer preferences into five categories.
 
-#### References ####
+#### References
 
 [Wiki](http://en.wikipedia.org/wiki/Kano_model)  

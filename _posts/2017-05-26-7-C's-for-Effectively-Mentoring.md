@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 C's for Effectively Mentoring
+title: "7 C's for Effectively Mentoring"
 tags: Mentor
 category: General
 ---

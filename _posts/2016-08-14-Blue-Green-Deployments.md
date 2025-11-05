@@ -15,6 +15,6 @@ Once test cases are passed, you switch the router so that the blue and green ser
 All incoming requests now go to the server that was previously not live.  
 That means the 'blue' server becomes the 'green' live server and vice versa.   
 
-#### References ####
+#### References
 
 [CloudFoundry Blue Green Explanation](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)  

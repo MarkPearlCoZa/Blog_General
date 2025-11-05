@@ -7,7 +7,7 @@ category: Soft
 Introverts have deeper relationships with fewer individuals, extraverts have many relationships with shallower connections
 Introverts are energized by being on their own, extraverts are energized by being with others
 
-#### Tips for Travelling ####
+#### Tips for Travelling
 
 Smile when you see them for the first time
  
@@ -37,14 +37,14 @@ How to turn down invitations when you don’t want to go
 -          I’m going to go to bed early tonight
 
 
-### Introverts & the job search ###
+### Introverts & the job search
 -          Be able to have a 30 second elevator pitch on what you do for work
 -          Elevator pitches should be short
 -          What you want to do is interest the people in what you do
 -          Smile when you tell people your elevator pitch
 
  
-#### System for creating a quality elevator pitch ####
+#### System for creating a quality elevator pitch
 -          Answer the following questions –
 -          What do you do?
 -          What do you want to do?
@@ -53,12 +53,12 @@ How to turn down invitations when you don’t want to go
 -          Put the top components together in a statement of up to ten sentences.
 
  
-### Bring your A game ###
+### Bring your A game
  
 -          Use “As if” to set yourself in the mindset that the person you are talking to is the “right” person to talk to
 
  
-#### Remembering Peoples Names ####
+#### Remembering Peoples Names
  
 -          Know what type of preference you have for remembering things – Auditory, Visual, Kinaesthetic
 
@@ -90,11 +90,11 @@ Kinaesthetic
 -          Draw the letters with your finger through the air… after moving away!
 
 
-#### Networking for Introverts ####
+#### Networking for Introverts
 -          Coordinated networking is useful for people that are introverts
 
  
-### Coordinate Networking Activity Ideas ###
+### Coordinate Networking Activity Ideas
  
 -          Place cards that describe people, place them on each table at each seating place – have people find place cards that best describe them
 -          Name tag art – get people to draw some type of symbol that describes who they are
@@ -103,7 +103,7 @@ Kinaesthetic
  
 Use name tags so that people can remember their name
  
-##  Following up with people ##
+## Following up with people
  
 Following up via email is preferable to following up via phone.
 Make yourself concise and make yourself useful in the follow up
@@ -111,7 +111,7 @@ Follow up within 48 hours, don’t follow up on Monday’s though
 The best day to ask for favour is Friday
 Always thank people when they have done something
  
-# Success Skills for Introverts #
+# Success Skills for Introverts
  
 6 key strengths that introverts have
 -          Taking quiet time
@@ -131,7 +131,7 @@ Attributes of an introvert?
 -          Focus on depth vs breadth
 
  
-# Challenges that Introverts face in the workplace ##
+# Challenges that Introverts face in the workplace
  
 1)      People Exhaustion
 2)      Fast Decisions
@@ -139,9 +139,9 @@ Attributes of an introvert?
 4)      Sell yourself
 5)      Put on a happy face
 
-# Speaking to people #
+# Speaking to people
 
-#### Preparing for meeting people at a conference - Offers & Needs ####
+#### Preparing for meeting people at a conference - Offers & Needs
 
 What do you have to offer
 What do you need / want to learn
@@ -151,28 +151,28 @@ When speaking to people, think WIIFT
 What’s in it for them?
 
 
-### Quiet Time ###
+### Quiet Time
 
 Communal Solitude - We get some of the best work done in the company of others – even if we are no interacting with them
 Don’t overbook your schedule – keep gaps in between to re-charge
  
-### Preparation ###
+### Preparation
 
 Gives you confidence that you know your stuff
 Prepare before you meet people on what you can offer them and what you need from them.
  
-#### Preparing for a meeting ####
+#### Preparing for a meeting
  
 Preparing an agenda is a way to help people be prepared at a meeting
 Preparing for a meeting helps allow someone to engage in a meeting
 Use the first five minute rule – get your voice in a meeting within the first five minutes of a meeting starting
 Figure out where you are going to sit – sit strategically.
  
-#### Preparing for presentations ####
+#### Preparing for presentations
  
 Do your preparation aloud - say your words out loud.
 “Rehearsal is the art of experimentation”
  
 
-#### References ####
+#### References
 

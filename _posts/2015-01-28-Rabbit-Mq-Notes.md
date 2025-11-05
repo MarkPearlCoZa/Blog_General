@@ -4,9 +4,9 @@ title: Rabbit MQ Notes
 tags: Messaging
 category: Tech
 ---
-### General ###
+### General
 
-#### General Characteristics of Messaging ####
+#### General Characteristics of Messaging
 
 - Asynchronous  
 - Can be reliable  
@@ -15,19 +15,19 @@ category: Tech
 - Many message formats  
 - Recipients pull messages from a queue  
 
-#### Key Concepts of AMQP ####
+#### Key Concepts of AMQP
 
 - Message Broker (Centralized system that other systems would hook in to for messages)  
 - Exchanges (Direct, Fan-Out, Topic, Headers)  
 - Queues (FIFO)  
 - Bindings (Binds an exchange to a queueu)   
 
-#### Queue Persistance ####
+#### Queue Persistance
 
 - Durable (Msg saved to disk, Msg is still alive after server restart)  
 - Non-Durable (Msg only held in memory, better performance)  
 
-#### Messaging Patterns ####
+#### Messaging Patterns
 
 - Simple One Way Message Pattern  
 - Worker Queues Patter   
@@ -36,21 +36,21 @@ category: Tech
 
 -------------------------------------------------------------------------------------------------
 
-### Installing RabitMq ###
+### Installing RabitMq
 
 - [Installing RabitMq on Windows](http://www.rabbitmq.com/install-windows.html)  
 
 -------------------------------------------------------------------------------------------------
 
-### RabbitMQ Web Portal ###
+### RabbitMQ Web Portal
 
-#### To Enable Web Portal ####
+#### To Enable Web Portal
 
 ~~~
 rabbitmq-plugins enable rabbitmq_management
 ~~~
 
-#### Web Portal Default Url ####
+#### Web Portal Default Url
 
 ~~~
 http://server-name:15672/
@@ -64,12 +64,12 @@ password : guest
 
 -------------------------------------------------------------------------------------------------
 
-### Command Line Tools ###
+### Command Line Tools
 
 - RabbitMqCtl (Stop, Reset, Stop_app, Start_app)  
 - RabbitMq-Service (Stop, Start, Install)  
 
-#### List all exchanges ####
+#### List all exchanges
 
 ~~~
 rabbitmqctl list_exchanges
@@ -79,9 +79,9 @@ rabbitmqctl list_exchanges
 
 -------------------------------------------------------------------------------------------------
 
-### .Net Specific Stuff ###
+### .Net Specific Stuff
 
-#### Nuget Install ####
+#### Nuget Install
 
 - RabbitMQ.Client
 
@@ -89,7 +89,7 @@ rabbitmqctl list_exchanges
 Install-Package RabbitMQ.Client
 ~~~
 
-#### Api Types with .Net ####
+#### Api Types with .Net
 
 - IConnection
 - IModel  
@@ -97,7 +97,7 @@ Install-Package RabbitMQ.Client
 - QueueingBasicConsumer  
 - Protocols  
 
-#### Basic Example ####
+#### Basic Example
 
 ~~~
 var connectionFactory = new RabbitMQ.Client.ConnectionFactory() { ... };
@@ -105,7 +105,7 @@ var connection = connectionFactory.CreateConnection();
 var model = connection.CreateModel();
 ~~~
 
-#### Send a Basic Message ####
+#### Send a Basic Message
 
 ~~~
 static void SendMessage()
@@ -125,7 +125,7 @@ static void SendMessage()
 }
 ~~~
 
-#### Receive a Basic Message ####
+#### Receive a Basic Message
 
 ~~~
 static void ReceivedMessages()
@@ -152,9 +152,9 @@ static void ReceivedMessages()
 }
 ~~~
 
-#### Serialization & Data ####
+#### Serialization & Data
 
-##### Encoding a String #####
+##### Encoding a String
 
 Object -> byte array = Serialization  
 
@@ -169,7 +169,7 @@ Byte array -> object = De-serialization
 var message = Encoding.UTF8.GetString(body);
 ~~~
 
-##### Encoding a Object #####
+##### Encoding a Object
 
 Assume you have an object of type MyMessage.  
 
@@ -187,7 +187,7 @@ var jsonString = Encoding.Default.GetString(deliveryArgs.Body);
 var myMessage = Newtonsoft.Json.JsonConvert.DeserializeObject<MyMessage>(jsonString);
 ~~~
 
-#### References ####
+#### References
 
 [Explanation about AMQP on RabbitMQ](https://www.rabbitmq.com/tutorials/amqp-concepts.html)  
 [Getting started tutorials](https://www.rabbitmq.com/tutorials)  

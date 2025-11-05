@@ -5,32 +5,32 @@ tags: Databases
 category: Tech
 ---
 
-### Beginner Stuff ###
+### Beginner Stuff
 
-#### Commenting ####
+#### Commenting
 
 ~~~
 /* this is a comment */
 ~~~
 
-#### Set Database ####
+#### Set Database
 
 ~~~
 use DatabaseName
 ~~~
 
-#### Permissions ####
+#### Permissions
 
 It can be tricky to know who to give what permission. For a detailed explanation see [this article](http://www.mssqltips.com/sqlservertip/1900/understanding-sql-server-fixed-database-roles/). I've copied a summary of the points below.
 
-##### db_owner #####
+##### db_owner
 
 - The db_owner role allows a user to do anything within the database.
 - DBAs who are already members of the sysadmin fixed server role come in as dbo and don't need this role explicitly granted to them.
 - Normal users should not be a member of this role.
 - Applications might require their user account to be a member of this role.
 
-##### db_securityadmin #####
+##### db_securityadmin
 
 - The db_accessadmin role can allow access into or block access to the database for logins.
 - Again, since DBAs usually manage security and have an appropriate server-level role, this role is little used.
@@ -38,7 +38,7 @@ It can be tricky to know who to give what permission. For a detailed explanation
 - Applications should tend not to need this role.
 - This is another role you should audit for membership exceptions.
 
-##### db_ddladmin #####
+##### db_ddladmin
 
 - The db_ddladmin role can create, drop, and alter objects within the database, regardless of who the owner is.
 - The db_ddladmin role cannot alter security.
@@ -47,7 +47,7 @@ It can be tricky to know who to give what permission. For a detailed explanation
 - Applications should not need this role.
 - No one should normally be a member of this role on a production database.
 
-##### db_backupoperator #####
+##### db_backupoperator
 
 - The db_backupoperator role allows a user to take backups of the database.
 - Most 3rd party backup utilities utilize methods that require sysadmin rights, which this doesn't give.
@@ -55,7 +55,7 @@ It can be tricky to know who to give what permission. For a detailed explanation
 - Normal users should not be a member of this role.
 - Applications should tend not to need this role, though I have seen exceptions.
 
-##### db_datareader #####
+##### db_datareader
 
 - The db_datareader role gives implicit access to SELECT against all tables and views in a database.
 - In SQL Server 2005 and up, an explicit DENY will block access to objects.
@@ -64,7 +64,7 @@ It can be tricky to know who to give what permission. For a detailed explanation
 - Applications will occasionally need this role.
 - Creating a user-defined database role and explicitly defining permissions is still preferred over the use of this role.
 
-##### db_datawriter #####
+##### db_datawriter
 
 - The db_datawriter role gives implicit access to INSERT, UPDATE, and DELETE against all tables and views in a database.
 - In SQL Server 2005 and up, an explicit DENY will block access to objects.
@@ -73,27 +73,27 @@ It can be tricky to know who to give what permission. For a detailed explanation
 - Applications will occasionally need this role.
 - Creating a user-defined database role and explicitly defining permissions is still preferred over the use of this role.
 
-##### db_denydatareader #####
+##### db_denydatareader
 
 - The db_denydatareader role is denied access to SELECT against any table or view in the database.
 - Typically this role is not used.
 - The DENY is implicit.
 - Creating a user-defined database role and explicitly defining permissions is still preferred over the use of this role.
 
-##### db_denydatawriter #####
+##### db_denydatawriter
 
 - The db_denydatawriter role is denied access to INSERT, UPDATE, or DELETE against all tables and views in the database.
 - Typically this role is not used.
 - The DENY is implicit.
 - Creating a user-defined database role and explicitly defining permissions is still preferred over the use of this role.
 
-#### Understanding Schemas ####
+#### Understanding Schemas
 
 Think of a schema as a container to organize objects and simplify granting permissions as opposed to the earlier notion of owner.
 
 [detailed explanation here...](http://www.sqlteam.com/article/understanding-the-difference-between-owners-and-schemas-in-sql-server)  
 
-### Temporary Tables ###
+### Temporary Tables
 
 You can create a temporary table and insert data into it.
 
@@ -123,7 +123,7 @@ You can insert data into the table, e.g.
 insert into #Temp select 1, 'example text'
 ~~~
 
-### Working with Nulls ###
+### Working with Nulls
 
 You can do the following in a where statement...
 
@@ -132,7 +132,7 @@ Where Field is Null
 Where Field is Not Null
 ~~~
 
-### Joins ###
+### Joins
 
 [see this post for interesting details](http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-joins)  
 
@@ -167,7 +167,7 @@ values
 	(6)
 ~~~
 
-#### Inner Join ####
+#### Inner Join
 
 ~~~
 select T1.itemValue, T2.itemValue from #Temp as T1 inner join #Temp2 as T2 on T1.itemValue = T2.itemValue
@@ -179,7 +179,7 @@ itemValue	itemValue
 4	4
 ~~~
 
-#### Left Outer Join  ####
+#### Left Outer Join
 
 ~~~
 select T1.itemValue, T2.itemValue from #Temp as T1 left outer join #Temp2 as T2 on T1.itemValue = T2.itemValue
@@ -193,7 +193,7 @@ itemValue	itemValue
 4	4
 ~~~
 
-#### Right Outer Join ####
+#### Right Outer Join
 
 ~~~
 select T1.itemValue, T2.itemValue from #Temp as T1 right outer join #Temp2 as T2 on T1.itemValue = T2.itemValue
@@ -207,7 +207,7 @@ NULL	5
 NULL	6
 ~~~
 
-#### Full Outer Join ####
+#### Full Outer Join
 
 ~~~
 select T1.itemValue, T2.itemValue from #Temp as T1 full outer join #Temp2 as T2 on T1.itemValue = T2.itemValue
@@ -223,11 +223,11 @@ NULL	5
 NULL	6
 ~~~
 
-#### Joining on the same table ####
+#### Joining on the same table
 
 Note, it can be done! Google for examples.
 
-### Dynamic Queries using Schema ###
+### Dynamic Queries using Schema
 
 ~~~
 select TABLE_Schema, TABLE_NAME into #TempTable from Information_Schema.TABLES
@@ -235,7 +235,7 @@ select TABLE_Schema, TABLE_NAME into #TempTable from Information_Schema.TABLES
 select TABLE_NAME, TABLE_SCHEMA, ('select * from ' + TABLE_SCHEMA + '.' + TABLE_NAME + ' where ' + TABLE_SCHEMA + '.' +TABLE_NAME + '.id = 145348') from #TempTable
 ~~~
 
-### Check that a column exists in a table ###
+### Check that a column exists in a table
 
 ~~~
 IF NOT EXISTS(SELECT * FROM INFORMATION_SCHEMA.COLUMNS
@@ -250,7 +250,7 @@ END
 GO
 ~~~
 
-### Sections to add more detail on viewed in Mark Long's video series ###
+### Sections to add more detail on viewed in Mark Long's video series
 
 [Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)
 
@@ -266,7 +266,7 @@ Case Statements
 Stored Procs vs Functions
 Clustered vs Non-Clustered Indexes
 
-#### Show Running Queries ####
+#### Show Running Queries
 
 ~~~
 SELECT sqltext.TEXT
@@ -281,6 +281,6 @@ FROM sys.dm_exec_requests req
 CROSS APPLY sys.dm_exec_sql_text(sql_handle) AS sqltext
 ~~~
 
-### References ###
+### References
 
 [Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)

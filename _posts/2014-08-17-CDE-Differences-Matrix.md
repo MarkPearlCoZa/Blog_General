@@ -4,12 +4,12 @@ title: CDE Differences Matrix
 tags: 
 category: Soft
 ---
-#### General ####
+#### General
 
 The originator of the concept was Glenda Eoyang
 
 ![The CDE Differences matrix]({{ site.url }}/assets/images/CDEDifferencesMatrix.png)
 
-#### References ####
+#### References
 
 [Difference Matrix White Paper](http://www.complexityforum.com/members/Eoyang%201999%20Difference%20matrix.pdf)

@@ -7,11 +7,11 @@ category: Tech
 
 React is a JavaScript library for building user interfaces. It leverages a component-based architecture. The mindset behind react is create components, if they get too complex, break them into smaller simpler components. Components generate an output every time they are invoked.
 
-### Virtual DOM ###
+### Virtual DOM
 
 The virtual DOM is an in-memory representation of the actual DOM. React leverages the virtual DOM because the browser DOM is generally slow. Virtual DOM's are fast by leveraging DOM diffing which allows react to minimize changes to the browser DOM.
 
-### Scripts needed for React ###
+### Scripts needed for React
 
 ~~~
 script src="vendors/react.js"
@@ -22,7 +22,7 @@ script type="text/babe;" src="components.js"
 
 Go to the [react site](https://facebook.github.io/react/docs/getting-started.html) to get the latest.  
 
-### Components in React ###
+### Components in React
 
 Components in React are JS classes that inherit from the React.Component base class.
 
@@ -51,7 +51,7 @@ in index.html
 </html>
 ~~~
 
-### JSX ###
+### JSX
 
 JSX is another way or writing JS with a transpile step.  
 
@@ -78,7 +78,7 @@ class StoryBox extends React.Component {
 
 ----------
 
-### Synthetic Events ###
+### Synthetic Events
 
 ~~~
 class CommentForm extends React.Component {
@@ -103,7 +103,7 @@ class CommentForm extends React.Component {
 }	
 ~~~
 
-### Props & Components Communication ###
+### Props & Components Communication
 
 When writing a component, there is a pattern we follow:
 
@@ -131,7 +131,7 @@ then using it in a components can be done as follows...
 <MyComponent autor="Bob" />
 ~~~
 
-#### Mapping an array to Jsx ####
+#### Mapping an array to Jsx
 
 ~~~
 class CommentBox extends React.Component {
@@ -159,7 +159,7 @@ class CommentBox extends React.Component {
 
 ** In Jsx, anything written in {} is interpreted as literal javascript. **
 
-### Component State ###
+### Component State
 
 The state is a JavaScript object that lives inside each component. We can access it via this.state
 
@@ -220,7 +220,7 @@ class CommentBox extends React.Component { ...
   }
 ~~~
 
-### Something ###
+### Something
 
 In order to ensure events have consistent properties across different browsers, React wraps the browser's native events into synthetic events, consolidating browser behaviors into one API.
 
@@ -232,7 +232,7 @@ Parent components can pass callback functions as props to child components to al
 
 In React we use **refs** to reference DOM Elements in our code after the component has been rendered.
 
-### Talking to Remote Servers ###
+### Talking to Remote Servers
 
 Query helps us make Ajax request. 
 
@@ -254,7 +254,7 @@ class CommentBox extends React.Component {
 
 To call a method before the render method is called use React's life cycle methods.
 
-### Life cycle events ###
+### Life cycle events
 
 Life cycle methods in React are functions that get called while the component is rendered for the first time or about to be removed from the DOM.
 
@@ -291,7 +291,7 @@ class CommentBox extends React.Component {
 }
 ~~~
 
-### Polling ###
+### Polling
 
 In order to check whether new comments are added, we can periodically check the server for updates.  
 
@@ -327,7 +327,7 @@ class CommentBox extends React.Component {
 
 React optimizes the rendering process by only updating the DOM when changes are detected on the resulting markup.
 
-### Memory Leaks on Page Change ###
+### Memory Leaks on Page Change
 
 - Page changes in a single-page app environment will cause each CommentBox component to keep loading new comments every five seconds, even when they're no longer being displayed.
 
@@ -349,7 +349,7 @@ class CommentBox extends React.Component {
 }
 ~~~
 
-### Working with remote servers ###
+### Working with remote servers
 
 ~~~
 class CommentBox extends React.Component { ...
@@ -389,16 +389,16 @@ One way control flow.
 
 In react controls flows from higher level components down to child components, forcing changes to happen reactively. This keeps apps modular and fast.
 
-### Misc ###
+### Misc
 
 [Example of a React Count Down Timer](http://w33ble.github.io/understanding-react/demos/countdown.html)  
 
-## Remember ##
+## Remember
 
 Parent components can send data to child components using props  
 Child components can accept call functions as props to communicate back with parent com  
 
-#### References ####
+#### References
 
 [Add a Build System to a React Application]("https://www.codeschool.com/screencasts/add-a-build-system-to-a-react-application")
 [ES2015 and the Virtual DOM in a React Application]("https://www.codeschool.com/screencasts/es2015-and-the-virtual-dom-in-a-react-application")

@@ -5,5 +5,5 @@ tags: Programming
 category: Process
 ---
 
-#### References ####
+#### References
 [Zen of Code Reviews](https://www.simple-talk.com/dotnet/.net-framework/the-zen-of-code-reviews-best-practices/)  

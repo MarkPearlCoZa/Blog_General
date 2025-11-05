@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Previous Talks I've Given
+title: "Previous Talks I've Given"
 tags: Conference Workshop
 category: Misc
 ---

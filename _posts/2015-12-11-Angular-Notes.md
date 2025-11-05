@@ -5,11 +5,11 @@ tags: Web
 category: Tech
 ---
 
-#### Style Guide ####
+#### Style Guide
 
 [John Pappa's Style Guide](https://github.com/johnpapa/angular-styleguide)  
 
-#### References ####
+#### References
 
 [Official AngularJS Documentation](https://docs.angularjs.org)  
 [Bite-sized web development training.](https://egghead.io)  

@@ -5,7 +5,7 @@ tags: Linux
 category: Tech
 ---
 
-#### Search for text in all files in sub-directories ####
+#### Search for text in all files in sub-directories
 
 Search all files for matching text - show positions in files...
 
@@ -35,6 +35,6 @@ grep -rli "StuffToSearch" *
 grep -l 'Search Statement' . | while read f; do mv "$f" targetDir; done
 ~~~
 
-#### References ####
+#### References
 
 [Drew's grep tutorial](http://www.uccs.edu/~ahitchco/grep/)  

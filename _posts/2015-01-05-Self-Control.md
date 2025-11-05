@@ -5,7 +5,7 @@ tags: People
 category: Misc
 ---
 
-#### General ####
+#### General
 
 #### I Am Second
 

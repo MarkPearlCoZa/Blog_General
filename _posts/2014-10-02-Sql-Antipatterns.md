@@ -13,7 +13,7 @@ I would recommend this book to anyone who is at the level where they recognize S
 
 I found myself disagreeing with a handful of points that Bill made regarding self documenting code - but nothing overwhelming. I also found the warm fuzzy feeling come over me that DBA are also programmers when I read his section on Application Development Antipatterns.
 
-#### Notes ####
+#### Notes
 - p.g. 23 on Naive Trees was a good read on tables that refernce themselves to get a tree relationship  
 - p.g. 112 Floats and rounding errors  
 - p.g. 141 MENTOR your indexes  

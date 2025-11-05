@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've just spent a week at 8th Light
+title: "I've just spent a week at 8th Light"
 tags: 
 category: General
 ---

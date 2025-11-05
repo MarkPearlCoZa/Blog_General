@@ -4,32 +4,32 @@ title: Four rules of simple design
 tags: Tech 
 category: Misc
 ---
-#### General Notes ####
+#### General Notes
 
 1. Tests Pass  
 2. Express Intent  
 3. No Duplication  
 4. Small  
 
-##### Tests Pass #####
+##### Tests Pass
 
 - Focus on correctness and verification  
 - Length of time it takes for a test to pass plays a significant factor in making changes  
 - Tend towards automated tests  
 - Tend towards making tests fast  
 
-##### Express Intent #####
+##### Express Intent
 
 - It is easy for the names we give things to stray from what they represent  
 - Pay attention to names and how code expresses itself  
 - Size of structures and naming have a direct correlation  
 
-##### No Duplication #####
+##### No Duplication
 
 - This is about knowledge duplication  
 - Every piece of knowledge should have one and only one representation  
 
-##### Small #####
+##### Small
 
 - Do you have vestigal code that is no longer user?  
 - Do you have any duplicate abstractions?  
@@ -37,9 +37,9 @@ category: Misc
 
 ------------------------------------------------------------------
 
-#### Learnings from Code Retreats ####
+#### Learnings from Code Retreats
 
-##### Test Names should influence Objects APIs #####
+##### Test Names should influence Objects APIs
 
 - It is easy to forget that test names can stand in for documentation  
 - Focussing on the symmetry between a good test name and the code under tests is a subtle design technique  
@@ -91,13 +91,13 @@ If you look at the internals of the tests, they are not testing what the test na
     }
 ~~~
 
-##### Four stages of naming #####
+##### Four stages of naming
 
 - Names tend to go through four stages: nonsense, accurate, precise, meaningful.  
 - Laziness or ignorance push us towards the left end of this spectrum, while with diligence we can move to the right. 
 - Names further to the right of this spectrum provide more clarity.  
 
-##### Duplication of Knowledge about Topology #####
+##### Duplication of Knowledge about Topology
 
 - Good way to detect knowledge duplication is to ask "What happens if we want to change something?"  
 - What effort is required and how many places will we need to look at and change?  
@@ -166,7 +166,7 @@ What happens if we change the coordinate system?
 ~~~
 
 
-##### Behavior Attractors #####
+##### Behavior Attractors
 
 - By aggresively eliminating knowledge of duplication through reification, we often find that we have built classes that naturally accept new behaviours that arise  
 - They not only accept them, they attract them  
@@ -224,13 +224,13 @@ class Location
     }
 ~~~
 
-##### Testing State vs Testing Behavior #####
+##### Testing State vs Testing Behavior
 
 - Focus on behavior is a common topic in software development conversations, but it isn't always clear how to do this  
 - Building systems in a behavior focussed way is about only building things that are absolutely needed and only at the time they are needed  
 - When wanting to add something new, ask what behavior in the system requires this new thing  
 
-##### Don't have tests depend on previous tests #####
+##### Don't have tests depend on previous tests
 
 - Be careful that the context of a test isn't reliant on a different test to set the context.
 
@@ -254,7 +254,7 @@ def test_an_empty_world_stays_empty_after_a_tick
 end
 ~~~
 
-##### Naive Duplication #####
+##### Naive Duplication
 
 ~~~
  public class Cell
@@ -329,7 +329,7 @@ We have however produced naive duplication, while we have removed the 3, the 3 r
 
 ------------------------------------------------------------------
 
-#### References ####
+#### References
 
 [Iteration over the four rules of simple design](http://blog.thecodewhisperer.com/2013/12/07/putting-an-age-old-battle-to-rest/)  
 [Four rules of simple design by Corey Haines](https://leanpub.com/4rulesofsimpledesign)  

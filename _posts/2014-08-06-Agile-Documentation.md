@@ -5,12 +5,12 @@ tags: Agile
 category: Process
 ---
 
-#### Introduction ####
+#### Introduction
 
 - Agile Manifesto focuses on [working software over comprehensive documentation](http://agilemanifesto.org/)
 - Agile became the popular alternative to massive development methodologies that favored processes, tools, and rigid planning
 
-#### General Points ####
+#### General Points
 
 - Documentation effort may be a few iterations behind your software development effort
 - Actively explore how they intend to use the documentation and why they are using it that way
@@ -36,19 +36,19 @@ Focus on just barely good enough documentation and avoid big upfront details whi
 
 Documentation can take many forms.  It is not only a Word document, documentation can live on a wiki, in the Agile planning tool, as comments in code, and much more
 
-#### The Extremes ####
+#### The Extremes
 
 At one end of the spectrum are projects where no documentation is written at all whereas at the other end no software is written at all, neither extreme is likely to be appropriate for your situation.  
 
 
-#### Relationship between Models, Documents, Source Code and Documentation ####
+#### Relationship between Models, Documents, Source Code and Documentation
 
 - a document is any artifact external to source code whose purpose is to convey information in a persistent manner  
 - a model, which is an abstraction that describes one or more aspects of a problem or a potential solution addressing a problem  
 - source code is a sequence of instructions, including the comments describing those instructions, for a computer system  
 - documentation includes both documents and comments in source code  
 
-#### Types of common document needs ####
+#### Types of common document needs
 
 - Contract models
 - Executive Overview/Vision Statement
@@ -62,7 +62,7 @@ At one end of the spectrum are projects where no documentation is written at all
 
 [See this post for a detailed table](http://www.agilemodeling.com/essays/agileDocumentation.htm)
 
-#### When to create a document ####
+#### When to create a document
 
 - Your project stakeholders require it  
 - To define a contract model  
@@ -71,21 +71,21 @@ At one end of the spectrum are projects where no documentation is written at all
 - Audit Purposes  
 - Think something through  
 
-#### Some rule of thumb laws ####
+#### Some rule of thumb laws
 
 - Prefer executable specifications over static specifications (documents)  
 - Single source information  
 - Document stable concepts, not speculative concepts, and thereby document as late as possible in the life cycle  
 - Documentation is the least effective means of communication  
 
-#### When Should You Update Documentation? ####
+#### When Should You Update Documentation?
 
 - Update Only When It Hurts  
 - Update contract models and re-release them ideally before, and minimally in parallel to, releasing the item(s) that the model describes.  
 - Documentation that is intended as part of the system, such as operations and user manuals, should be updated and released before or with the system itself.  
 - The customer of the documentation is being inordinately harmed, including a significant loss of productivity, because the documentation is not updated (e.g. it hurts).  
 
-#### Effective Documentation Handoffs ####
+#### Effective Documentation Handoffs
 
 - Avoid documentation handoffs  
 - Avoid documentation handoffs
@@ -95,21 +95,21 @@ At one end of the spectrum are projects where no documentation is written at all
 
 
 
-#### Approaches ####
+#### Approaches
 
 - Write deliverable documentation continuously throughout the project
 - Leave the finalization of your deliverable documentation to the end of the project
 
-#### When to Document ####
+#### When to Document
 
 - When the reasons behind the decisions that you made are important to record
 
-#### Why Documentation may be necessary ####
+#### Why Documentation may be necessary
 
 - lightweight user stories and requirement artifacts work really well for construction, they may not be sufficient for ongoing maintenance  
 - agile documents are often very minimalist without the overview often needed by a maintenance team  
 
-#### When is a Document Agile? ####
+#### When is a Document Agile?
 
 - When they maximize stakeholder ROI  
 - Stakeholders know the TCO of the document  
@@ -120,7 +120,7 @@ At one end of the spectrum are projects where no documentation is written at all
 - When the documents are sufficiently accurate, consistent, and detailed  
 
 
-#### Audit Documentation ####
+#### Audit Documentation
 
 - In some industries there are outside rules and regulations that applications must comply with
 - Traceability is important in large projects
@@ -130,28 +130,28 @@ At one end of the spectrum are projects where no documentation is written at all
 - Involve people with an auditing backgroung into the process  
 
 
-#### Best Practices for Simplification ####
+#### Best Practices for Simplification
 
 - Keep documentation just simple enough, but not too simple
 - Write the fewest documents with least overlap
 - Put the information in the most appropriate place
 - Display information publicly
 
-#### Forms of Agile Documentation ####
+#### Forms of Agile Documentation
 
 - [Disciplined Agile Delivery Framework](http://www.disciplinedagiledelivery.com/)
 - [Document Continuously Practice](http://www.agilemodeling.com/essays/documentContinuously.htm)
 
-#### User Stories ####
+#### User Stories
 
 [See User Stories Post](http://softskills.markpearl.co.za/User-Stories/)
 
-#### Misconceptions ####
+#### Misconceptions
 
 - if a individual/team doesn't perform one can take the documentation that was produced and provide it to the next contractor who will start from there  
 
 
-#### References ####
+#### References
 
 [Agile/Lean Documentation: Strategies for Agile Software Development](http://www.agilemodeling.com/essays/agileDocumentation.htm#sthash.6raSYzLX.dpuf)  
 [Is agile documentation an oxymoron?](http://www.ibm.com/developerworks/rational/agile/agile-documentation-oxymoron/index.html?ca=dat)  

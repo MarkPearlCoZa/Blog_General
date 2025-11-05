@@ -4,7 +4,7 @@ title: What I mean when I say I am developing software...
 tags: Code
 category: General
 ---
-### What Software Developers Do ###
+### What Software Developers Do
 
 I recently had a discussion where the comment was made that a group of software developers didn't have time to do any **real work** because they were busy in a retrospective. I'm concerned that a common perception by business people is that developing software involves 95% typing - this is a misconception. Good software developers do so much more.
 
@@ -12,7 +12,7 @@ I recently had a discussion where the comment was made that a group of software 
 
 -------------------------------------------------------------------------
 
-#### Weightings to Create Word Cloud ####
+#### Weightings to Create Word Cloud
 
 Here is my own list, feel free to add to the comments section additional tasks.
 
@@ -38,7 +38,7 @@ Pair-Programming:25
 Code-Reviews:20
 ~~~
 
-#### References ####
+#### References
 
 - [Create word cloud with wordle](http://www.wordle.net/)
 

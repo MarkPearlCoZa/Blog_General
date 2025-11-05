@@ -132,7 +132,7 @@ console.log(set.Values());
 
 ### Nulls 
 
-#### Checking for Null Values ####
+#### Checking for Null Values
 
 Use the || to return a default value if the first value is null. **Remember null is falsey.**
 
@@ -144,23 +144,23 @@ const lowercaseCount = str => (str.match(/[a-z]/g) || []).length;
 
 -------------------------------------------------------------------------------------------
 
-### Strings ###
+### Strings
 
-#### String Functions ####
+#### String Functions
 
 [slice](http://www.w3schools.com/jsref/jsref_slice_array.asp)  
 [split](http://www.w3schools.com/jsref/jsref_split.asp)  
 [join](http://www.w3schools.com/jsref/jsref_join.asp)  
 [substr](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)  
 
-#### String Interpolation ####
+#### String Interpolation
 
 ~~~
 let value = "Blah";
 console.log(`Hello ${value}!`);
 ~~~
 
-#### Checking for null, empty strings ####
+#### Checking for null, empty strings
 
 Remember, an empty string is falsey.  
 Remember, !undefined is truthy.
@@ -199,7 +199,7 @@ function isWholeNumber(n){
 }
 ~~~
 
-#### Check if a value is a finite number ####
+#### Check if a value is a finite number
 
 ~~~
 isFinite(testValue);
@@ -235,7 +235,7 @@ That ~~ is a double NOT bitwise operator.
 
 It is used as a faster substitute for Math.floor().
 
-#### Check if value is a number ####
+#### Check if value is a number
 
 ~~~
 function isANumber(value) {
@@ -314,7 +314,7 @@ str.replace(/.*/, "replaceing text");
 
 -------------------------------------------------------------------------------------------
 
-### Object Oriented JavaScript ###
+### Object Oriented JavaScript
 
 #### Class Declarations
 
@@ -449,7 +449,7 @@ for (let key in object) {
 
 ### Misc 
 
-#### Easy way to Run JavaScript ####
+#### Easy way to Run JavaScript
 
 Create a html file called program.html with the following content.
 
@@ -470,13 +470,13 @@ Create a javacript file called program.js with the following content.
 document.writeln("Hello World");
 ~~~
 
-#### Resetting a prototype override ####
+#### Resetting a prototype override
 
 ~~~
 Array.prototype.join = Array.prototype._join;
 ~~~
 
-#### Method Parameters ####
+#### Method Parameters
 
 The following is allowed in method signatures...  
 
@@ -484,11 +484,11 @@ The following is allowed in method signatures...
 const lengthOfLine = ([[x1,y1],[x2,y2]]) => (x1 - x2) * (y1 - y2)
 ~~~
 
-#### Iterators ####
+#### Iterators
 
 [Read more on iterators](http://exploringjs.com/es6/ch_iteration.html)  
 
-#### References ####
+#### References
 
 [Useful Methods for Strings]("http://www.impressivewebs.com/javascript-string-methods-reference/")  
 [Special Characters and Escape Sequences]("http://www.javascriptkit.com/jsref/escapesequence.shtml")  

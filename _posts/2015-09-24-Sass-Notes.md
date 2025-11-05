@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-#### References ####
+#### References
 
 [Sass website](http://sass-lang.com)  
 [CodeKit](http://incident57.com/codekit)  

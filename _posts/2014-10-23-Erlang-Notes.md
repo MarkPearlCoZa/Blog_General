@@ -5,17 +5,17 @@ tags: Languages
 category: Tech
 ---
 
-#### General ####
+#### General
 
 Riak uses erlang as a base language. Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability.
 
 OTP is a set of libraries and design principles providing middle-ware to develop erlang based systems.
 
-#### Kerl ####
+#### Kerl
 
 [Kerl](https://github.com/yrashk/kerl) is a shell agnostic tool that makes it easy to install and build instances of Erlang and Otp.
 
-#### Getting Started ####
+#### Getting Started
 
 ~~~
 erl
@@ -39,7 +39,7 @@ To get to the 'task manager' of erlang
 h
 ~~~
 
-#### References ####
+#### References
 
 [Erlang Site](http://www.erlang.org/)
 [Quick Start](http://www.erlang.org/static/getting_started_quickly.html)

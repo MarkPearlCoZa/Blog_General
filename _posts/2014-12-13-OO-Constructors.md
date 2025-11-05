@@ -4,7 +4,7 @@ title: OO Constructors
 tags: Design
 category: Programming
 ---
-#### Named Constructors ####
+#### Named Constructors
 
 ~~~
 public class Game
@@ -27,10 +27,10 @@ public class Game
 }
 ~~~
 
-#### Summary of a Constructors Purpose ####
+#### Summary of a Constructors Purpose
 - I want constructors only to initialise new instances to a rational state, so I move more interesting code into named constructors.  
 - Now that I have to give this construction behavior a name, cohesion and dependency problems become explicit and obvious.  
 - Now that I have identified explicit, obvious design problems, I can decide how and when to improve the design.  
 
-#### References ####
+#### References
 [Bloated Constructors](http://www.daedtech.com/beware-the-bloated-constructor)

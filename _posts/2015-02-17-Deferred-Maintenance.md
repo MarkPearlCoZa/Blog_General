@@ -4,9 +4,9 @@ title: Eskom, Deffered Maintenance and your Technical Debt Negotiations
 tags: Quality
 category: General
 ---
-### Deffered Maintenace ###
+### Deffered Maintenace
 
-##### Eskom & Load Shedding #####
+##### Eskom & Load Shedding
 
 In recent weeks South Africans have become all to familiar with the concept of load shedding - a process whereby the national electricity provider turns off parts of the countries electricity supply so that we don't have a [total grid melt down](http://www.timeslive.co.za/local/2014/11/03/load-shedding-is-to-avoid-grid-blackout-eskom). It sounds extreme and it is. It is going to have a major impact on South Africa's economy, and at this point it is necessary.
 
@@ -20,7 +20,7 @@ In [another interview](http://mybroadband.co.za/news/energy/116962-anc-governmen
 
 > If you continue to drive it without maintaining it, it will carry you, but at some point it breaks down. I think this is what is happening with many generating units of Eskom.
 
-##### Why deffered maintenance at Eskom? #####
+##### Why deffered maintenance at Eskom?
 
 What's interesting about the deferred maintenance situation is the word **'deferred'**. Eskom knew they were meant to do maintenance - but decided to delay it. Several interviews with Eskom employees place the decision to defer maintenance with the South African Government. As explained by Eskom, they raised the issue of needing to do maintenance, and Government told them to instead 'keep the lights on'. 
 
@@ -35,7 +35,7 @@ Eskom: Ok, it's your call since you are our bosses but the maintenance needs to 
 Govenrment: Great, let's worry about it later then  
 ~~~
 
-##### Deffered maintenance with Software System Maintenance #####
+##### Deffered maintenance with Software System Maintenance
 
 This pattern of deferring system maintenance is not unique to Eskom and it's generators. Businesses around the world are deferring maintenance on their software systems. I've heard of similar discussions happening weekly with a number of development teams.
 
@@ -48,7 +48,7 @@ Dev Team: Ok, it's your call since you are our boss but maintennace needs to be 
 Business: Great, let's worry about it later then.  
 ~~~
 
-##### Who's to blame when deferring maintenance? #####
+##### Who's to blame when deferring maintenance?
 
 So the question has to be asked - who's to blame when maintenance is deferred? The typical responses I get from software developers when posed with this question is that blame lies solely with business. 
 
@@ -60,7 +60,7 @@ Put it another way, asking my 3 year old son to choose between eating his vegeta
 
 So, if most business people don't really understand what the technical implications are, what heuristics do they use when deciding on whether to defer maintenance or not.
 
-##### Body language, conviction and pushback ####
+##### Body language, conviction and pushback
 
 I suspect most business people rely on body language and conviction when determining if something is important. If something is really important they expect the emotion when conveying the message to be a little higher than if it isn't. If they think someone is bluffing, they might push back a little bit to determine how convicted the person is to the message. 
 
@@ -69,15 +69,15 @@ I suspect most business people rely on body language and conviction when determi
 
 Ironically, most technical people I know are very poor at using body language and conviction to convey an important message. When business pushes back a little to guage our conviction, we accept things without challenging them or showing any real conviction. They then assume that the maintenance wasn't that important and move back to their features. 
 
-### Techniques to avoid deferring maintenance ###
+### Techniques to avoid deferring maintenance
 
 I've listed a few techniques below that I have seen used effectively to avoid deferred maintenance. I would be interested in hearing of others.
 
-##### Time box maintenance work #####
+##### Time box maintenance work
 
 When prioritizing work bring up maintenance issues. Be specific and clear about the commitment of how much time the maintenance will take. If you are unsure of the time place a time box on the work so that business doesn't have to worry that they are giving the go ahead for a potentially infinite piece of work (yes, they are scared of you secretly re-writing the entire system for the next 3 years, they don't trust you not to do this). 
 
-##### Bargain deferring work #####
+##### Bargain deferring work
 
 Try bargaining when business says no. Business is used to bargaining, they often use it when negotiating a price on something. For instance, this would be a typical price bargaining example:
 
@@ -102,7 +102,7 @@ Business: Ok, if we slot it in for 4 weeks is that alright?
 Dev: Deal
 ~~~
 
-##### Get a little emotional #####
+##### Get a little emotional
 
 The final technique I'm going to mention is to get a little emotional. That doesn't mean throwing chairs at people or crying (although if lives are on the line I wouldn't rule it out). When business tells you to defer maintenance, raise the tone and volume of your voice and re-address the maitenance issue. Use [body language](http://www.businessballs.com/body-language.htm) to show that this is important to you. It's a mental cue to business that this is something they need to reconsider.
 

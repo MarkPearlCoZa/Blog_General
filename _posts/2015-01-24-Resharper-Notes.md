@@ -4,13 +4,13 @@ title: Visual Studio Resharper Keyboard Shortcuts Notes
 tags: Tests
 category: Tech
 ---
-#### General Visual Studio Shortcuts ####
+#### General Visual Studio Shortcuts
 
 Open Nuget Package Manager Console - Alt T N O  
 
 [Visual Studio Shortcut Key Complete List](http://visualstudioshortcuts.com/)  
 
-#### Resharper Shortcuts ####
+#### Resharper Shortcuts
 
 Clipboard Window - CTRL+SHIFT+v  
 Close Current Tool Window - CTRL+SHIFT+F4   

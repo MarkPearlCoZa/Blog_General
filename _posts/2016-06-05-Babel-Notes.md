@@ -5,13 +5,13 @@ tags: Web JavaScript
 category: Tech
 ---
 
-#### Babel-polyfill ####
+#### Babel-polyfill
 
 Allows you to use some of the features of ES6 that do not transcompile.
  
 ---------------------------------------------------------------------------------
 
-#### Installing Babel Locally ####
+#### Installing Babel Locally
  
 ~~~
 npm init
@@ -26,7 +26,7 @@ npm install
  
 ---------------------------------------------------------------------------------
 
-#### Compiling code with Babel ####
+#### Compiling code with Babel
  
 The following outputs the transpiled code to the screen:  
 
@@ -43,25 +43,25 @@ babel src –presets es2015
 babel src –presets es2015 –out-dir build
 ~~~
  
-#### Combine files into one bundle ####
+#### Combine files into one bundle
  
 ~~~
 babel src –presets es2015 –out-file build/bundle.js
 ~~~
  
-##### using a json file for cli ####
+##### using a json file for cli
  
 .babelrc json file
  
 ---------------------------------------------------------------------------------
 
-#### Installing Plugins ####
+#### Installing Plugins
  
 Go to babeljs.io > plugins section
 
 ---------------------------------------------------------------------------------
 
-#### Getting Babel to work with React #### 
+#### Getting Babel to work with React
 
 ~~~
 npm install react react-dom –save
@@ -90,6 +90,6 @@ Your Package.json file should look as follows:
 
 [How to use babel for production](https://medium.com/@Cuadraman/how-to-use-babel-for-production-5b95e7323c2f#.u9v8j0k0e)  
 
-#### References ####
+#### References
 
 [Pluralsight Babel Course](https://www.pluralsight.com/courses/babel-get-started)  

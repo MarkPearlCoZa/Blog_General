@@ -4,9 +4,9 @@ title: DB Migration Script Notes
 tags: Automation
 category: Tech
 ---
-#### General Notes ####
+#### General Notes
 
 
-#### References ####
+#### References
 [Using Migration Scripts in Database Deployments](https://www.simple-talk.com/sql/database-administration/using-migration-scripts-in-database-deployments/)
 

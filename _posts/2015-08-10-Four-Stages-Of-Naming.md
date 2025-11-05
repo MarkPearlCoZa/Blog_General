@@ -11,7 +11,7 @@ There are only two hard things in Computer Science: cache invalidation and namin
 
 I first read about the concept of different stages of naming on [J. B. Rainsberger's blog](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) in 2015. At the time I had already recognized that my brain was going through different stages when I was naming things (methods, variables, tests etc.) although ironically I hadn't been able to put specific names to each stage. 
 
-### Moving from zero to four stages ###
+### Moving from zero to four stages
 
 Joe's original post proposed four stages of naming...
 
@@ -19,7 +19,7 @@ Joe's original post proposed four stages of naming...
 
 As he explained, laziness or ignorance would push one towards the left end of the spectrum, while with diligence one could move to the right. The further right one was, the more clarity one had.
 
-### Moving from four to six stages ###
+### Moving from four to six stages
 
 Understanding and embracing stage based naming is a liberating experience that has a huge impact on the code I have written. In early 2016 I saw a new take on naming stages that enhanced the original four stages of naming. Instead of four stages, [Arlo Belshee](https://twitter.com/arlobelshee) proposed six stages. 
 
@@ -60,7 +60,7 @@ Next time you are writing code, be aware of the names you give things. Be consci
 To name something correctly gives us a certain amount of power over it - M. Scott Peck (People of the Lie) 
 </blockquote>
 
-#### References ####
+#### References
 
 [Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design)  
 [Six Stages of Naming](https://twitter.com/llewellynfalco/status/634014935706636288)  

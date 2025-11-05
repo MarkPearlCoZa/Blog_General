@@ -6,9 +6,9 @@ category: Tech
 ---
 Great [pluralsight course on networking for developers](http://pluralsight.com/training/courses/TableOfContents?courseName=tcp-ip-networking-for-devs). I always forget this stuff.
 
-## Concepts ##
+## Concepts
 
-### DHCP ###
+### DHCP
 
 DHCP forms the basis of the functionality that allows your machine to automatically get and ip address and subnet mask.
 
@@ -24,15 +24,15 @@ DHCP has different messages that it can send, these include:
 - DHCPINFORM  
 - DHCPRELEASE  
 
-### DNS Nameservers ###
+### DNS Nameservers
 
 Domain Name System (DNS) is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network.
 
 It is the service that when you ping www.google.com translates that address into an ip address.  
 
-### Subnets ###
+### Subnets
 
-#### Host Files ####
+#### Host Files
 
 You can overwrite dns by customizing your host file.
 
@@ -48,13 +48,13 @@ Changing the host file will clear the local cache and cause it to be repopulated
 
 -------------------------------------------------------------------------------------------------
 
-## Tools ##
+## Tools
 
-### ping ###
+### ping
 
 -------------------------------------------------------------------------------------------------
 
-### ipconfig - Windows ###
+### ipconfig - Windows
 
 Display all the cached records on your local machine including the time till that cached record expires.  
 
@@ -70,7 +70,7 @@ Clear local DNS cache
 
 -------------------------------------------------------------------------------------------------
 
-### dig - Linux ###
+### dig - Linux
 
 Short for Domain Information Groper, dig is a network administration tool for querying DNS name servers.  
 
@@ -93,7 +93,7 @@ Tracing to make iterative queries
 
 -------------------------------------------------------------------------------------------------
 
-### host - Linux ### 
+### host - Linux
 
 host is used for converting domain names to ip addresses and the other way around. 
 
@@ -104,7 +104,7 @@ host is used for converting domain names to ip addresses and the other way aroun
 
 -------------------------------------------------------------------------------------------------
 
-### nslookup - Linux & Windows ###
+### nslookup - Linux & Windows
 
 Allows you to get dns responses from the command line.
 

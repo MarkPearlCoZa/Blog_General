@@ -5,7 +5,7 @@ tags: Design
 category: Programming
 ---
 
-#### Avoiding Pitfalls ####
+#### Avoiding Pitfalls
 
 Here are a few suggestions for avoiding common pitfalls when working with recursion.  
 
@@ -14,6 +14,6 @@ Here are a few suggestions for avoiding common pitfalls when working with recurs
 - Maintaining state within a deep recursive call chain may demand refactoring or workarounds, such as, tail calls.  
 - Debugging difficulties that are encountered when using  non-trivial recursive methods may dictate logging and perseverance.  
 
-#### References ####
+#### References
 [Rethinking the practicalities of recursion](https://www.simple-talk.com/dotnet/.net-framework/rethinking-the-practicalities-of-recursion)
 

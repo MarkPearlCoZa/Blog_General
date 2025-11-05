@@ -6,13 +6,13 @@ category: General
 ---
 I've recently identified a pattern used for most of corporate South Africa's software development. I call it the Dev Manager Obfuscation Layer Pattern.
 
-#### When is it applied? ####
+#### When is it applied?
 
 When businesses have a need for bespoke software development, but haven't figured how to get software developers and business people to interact properly.
 
 -------------------------------------------------------------------------
 
-#### How to apply it. ####
+#### How to apply it.
 
 Hire a Dev Manager. Their role is to act as an obfuscation layer between development and business.
 
@@ -25,7 +25,7 @@ If one Dev Manager doesn't provide enough obfuscation, you can hire multiple lay
 
 -------------------------------------------------------------------------
 
-#### Anti Patterns to Avoid. ####
+#### Anti Patterns to Avoid.
 
 - Agile, nothing makes a Dev Manager fear more than having both groups of people they have lied to for the last few years in the same room without them there to control the situation.
 

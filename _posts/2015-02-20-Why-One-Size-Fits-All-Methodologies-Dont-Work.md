@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why one size fits all development methodologies don't work
+title: "Why one size fits all development methodologies don't work"
 tags: Agile 
 category: Process
 ---
@@ -21,7 +21,7 @@ Organizations have different...
 - Value Chains  
 - Target Markets  
 
-#### References ####
+#### References
 
 [Kanban, successful evolutionary change for your technology business](http://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)  
 [People are non-linear, first order components in software development](http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development)  

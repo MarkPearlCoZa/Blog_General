@@ -7,7 +7,7 @@ category: General
 
 **The Golden Master is one of the approaches I use to make my life easier when refactoring legacy code. Today I would like to share the approach with you.**
 
-### What is Legacy Code? ###
+### What is Legacy Code?
 
 There are many definitions for legacy code. It's something that's easy to recognize and often hard to put in words. 
 
@@ -23,7 +23,7 @@ While I like Michael's definition, my all time favorite definition for legacy co
 
 In my career as a software developer I have had to work in many codebases that had legacy code - and to be honest, most of it I created!
 
-### What happens when you have to change it? ###
+### What happens when you have to change it?
 
 So what do you do when you come across legacy code and you have to add to it or change it's functionality? 
 
@@ -39,7 +39,7 @@ The problem is, the very nature of legacy code often means it is not clear what 
 
 So what do you do?
 
-### Characterization Tests and the Golden Master ###
+### Characterization Tests and the Golden Master
 
 In a situation like this the best thing to do is to write characterization tests. Characterization tests are tests that characterize the actual behavior of the code without worring about intent. In essence, instead of trying to uncover the behavior we simply assume that whatever is happening right now is exactly what should be happening and write tests that assert this.
 
@@ -49,7 +49,7 @@ Once we have generated a golden master we are ready to start refactoring. After 
 
 After refactoring to a suitable level we reach a point where we have confidence in the code. It is at this point that we typically introduce acceptance tests and delete the characterization tests. Once we have done this we are at the same place we would be if we were working with new shinny code. We are now ready to change the feature or add the new feature that brought us to this code in the first place.
 
-### Putting this in action in .Net ###
+### Putting this in action in .Net
 
 So it is great talking about it at a conceptual level, but let's put it into action. Today I am going to show you how to setup the infrastructure for a golden master test using ApprovalTests framework. I am targeting C# and .Net, but don't let that deter you, if you work in another platform or language there are many different ports of the [ApprovalTests framework for a range of languages](https://github.com/approvals) and once you get the gist of how it works you should easily be able to apply the principles to your langauge of choice.
 
@@ -60,7 +60,7 @@ The tools I am going to use are:
 - [ApprovalTests.Net](https://www.nuget.org/packages/ApprovalTests/) (Used to verify our golden master with our generated output)  
 - [Git](https://git-scm.com/downloads) (Helps us step back if we introduce behavioural changes)  
 
-#### Step 1 - Get some legacy code ####
+#### Step 1 - Get some legacy code
 
 To practice the Golden Master technique we need some legacy code to work with. I am going to use the [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata). This kata was designed specifically for refactoring exercises. It has a nice level of complexity that makes it a great candidate for practicing creating characterization tests.
 
@@ -72,7 +72,7 @@ git clone git@github.com:MarkPearl/Kata_GildedRose.git
 
 Once you have cloned the Gilded Rose Kata, open up the Visual Studio solution which should be in the root of the cloned reporistory (GildedRoseKata.sln).  
 
-#### Step 2 - Add NUnit and Approvals to the Test Project ####
+#### Step 2 - Add NUnit and Approvals to the Test Project
 
 Now that we have our legacy code, we need to add our test frameworks. In this instance we are going to use NUnit as our base test framework and the ApprovalTests framework to make working with a golden master easy. 
 
@@ -87,7 +87,7 @@ PM> Install-Package NUnit -Project GildedRoseKata.Tests
 
 This will install the latest nuget packages for NUnit and ApprovalTests to your test project. You should now be at a point where your solution will build successfully. Check by building the solution.
   
-#### Step 3 - Create a Golden Master ####
+#### Step 3 - Create a Golden Master
 
 At a high level whenever the ApprovalTests is run it does the following:
 
@@ -110,9 +110,12 @@ Go into Windows Explorer and have a look at the contents of the GildedRoseKata.T
 Now run the test, it should fail with a message:
 
 ~~~
-  Expected string length 0 but was 11710. Strings differ at index 0.
-  Expected: <string.Empty>
-  But was:  "OMGHAI!\r\n-------- day 0 --------\r\nname, sellIn, quality\r\n+5 D..."
+  Expected string length 0 but was 11710. Strings differ at index 0.
+
+  Expected: <string.Empty>
+
+  But was:  "OMGHAI!\r\n-------- day 0 --------\r\nname, sellIn, quality\r\n+5 D..."
+
   -----------^
 ~~~
 
@@ -145,7 +148,7 @@ Rerun the 'ThirtyDays' test. It should now pass!
 
 We have now created a golden master for the ThirtyDays test and it is checking our current test output against our golden master.
 
-#### Step 4 - Verify that our Golden Master works ####
+#### Step 4 - Verify that our Golden Master works
 
 To double check that this test is indeed validating it's ouput against our golden master we are going to simulate a behavioral change. To do this we are going to edit he GildedRose.cs file.
 
@@ -182,18 +185,18 @@ git commit -m "Golden master added for ThirtyDays"
 
 And with that happy refactoring!
 
-### So what have we achieved? ###
+### So what have we achieved?
 
 At this point we have a golden master setup for the 'ThirtyDays' test. 
 We can now begin to refactor the GildedRose.cs file. In refactoring we want to do small steps with quick feedback. That could mean making minor changes, running the golden master test to make sure it is passing and then committing.
 
-### What have we learn't? ###
+### What have we learn't?
 
 - Characterization tests as useful when working with Legacy Code.  
 - With characterization tests we don't have to understand what is going on, we just worry about the output.  
 - Setting up a golden master with ApprovalTests is fairly trivial
 
-#### References ####
+#### References
 
 [Refactoring Legacy Code: Part 1 - The Golden Master](http://code.tutsplus.com/tutorials/refactoring-legacy-code-part-1-the-golden-master--cms-20331)  
 [Gold Master Testing - Automatically Validating Millions of Data Points](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing/)  

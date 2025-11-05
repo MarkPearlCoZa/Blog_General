@@ -11,7 +11,7 @@ category: Process
 - It is not something to be done in isolation.  
 
 
-#### References ####
+#### References
 
 [User Story Mapping by ThoughtWorks](http://www.slideshare.net/pkanchankar/user-story-mapping-workshop-slideshare)  
 [Story mapping vs process maps](http://www.agilebuddha.com/agile/story-mapping-andvs-process-maps/)  

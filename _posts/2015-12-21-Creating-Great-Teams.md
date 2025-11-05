@@ -30,7 +30,7 @@ One area that resonated with me were the stages of doubt:
 
  All said, I found Creating Great Teams to be a great practical read. Something definitely worth considering if you are an organization that has traditional managers and are wanting to take things to a different level. It's also a fairly light read - something you can finish in a couple of hours.
 
-#### Areas that resonated with me ####
+#### Areas that resonated with me
 
 - Section on Managerial Selection Breaks When Organizations Grow  
 - Todays' work demands stable teams

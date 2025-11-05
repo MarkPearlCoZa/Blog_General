@@ -4,7 +4,7 @@ title: Microsoft Remote Desktop Notes
 tags: Windows
 category: Tech
 ---
-#### Connect via the Command Line ####
+#### Connect via the Command Line
 
 ~~~
 mstsc /v:ServerNode /f /console

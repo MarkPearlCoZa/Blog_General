@@ -4,12 +4,12 @@ title: Cognitive Biases
 tags: People  
 category: Soft
 ---  
-#### Anchoring ####
+#### Anchoring
 
-#### Dunning-Kruger Effect ####
+#### Dunning-Kruger Effect
 
 The tendency for unskilled individuals to overestimate their own ability and the tendency for experts to underestimate their own ability.  
 
-#### References ####
+#### References
 
 [Wiki list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)  

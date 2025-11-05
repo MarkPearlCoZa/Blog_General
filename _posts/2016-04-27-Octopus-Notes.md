@@ -5,7 +5,7 @@ tags: Automation
 category: Tech
 ---
 
-#### Building a Project ####
+#### Building a Project
 
 Place build.bat, build.ps1 & build.sh in the same folder as the solution file.
 
@@ -32,7 +32,7 @@ if($LastExitCode -ne 0) {
 
 build.bat and build.sh merely point to the powershell file that then builds the project.
 
-#### Generating Nuget Package to be consumed by Octopus ####
+#### Generating Nuget Package to be consumed by Octopus
 
 Make sure you have a nuspec file in the same folder of the project file (.csproj)
 
@@ -69,5 +69,5 @@ It should look something like the following:
 
 This should be inserted near the end of the csproj file, typically just before "Enusre"NugetPackageBuildImports" target section.
 
-#### References #### 
+#### References
 

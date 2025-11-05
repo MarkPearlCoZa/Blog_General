@@ -4,7 +4,7 @@ title: Impostor Syndrome
 tags: 
 category: Soft
 ---
-#### General ####
+#### General
 
 We may be impostors. We're not really sure how we got this far in our careers, but people have bought it so far! We might be phonies, and one days someone will stand up at work and say "You there! You have no idea what you're doing!"
 
@@ -14,6 +14,6 @@ The Dunning-Kruger effect is a cognitive bias in which unskilled people make poo
 
 Chanelle Henry and Scott Hanselman are impostors. We'll see why we feel this way, the phenomenon in tech, and consider how we can all work through it! We're phonies, and that's OK.
 
-#### References ####
+#### References
 
 [Im a phony, are you](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx)

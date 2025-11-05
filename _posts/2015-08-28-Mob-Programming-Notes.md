@@ -11,6 +11,6 @@ category: Process
 
 
 
-#### References ####
+#### References
 [Original Article by Woody](http://mobprogramming.org/)  
 [Time lapse video of Mob Programming](http://mobprogramming.org/mob-programming-time-lapse-video-a-day-of-mob-programming/)  

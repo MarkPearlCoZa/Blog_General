@@ -5,9 +5,9 @@ tags: Databases
 category: Tech
 ---
 
-### Beginner Stuff ###
+### Beginner Stuff
 
-#### User accounts ####
+#### User accounts
 
 ~~~
 sudo su - postgres
@@ -38,7 +38,7 @@ Change a table name
 ALTER TABLE oldTableName RENAME TO newTableName;
 ~~~
 
-#### Display Indexes ####
+#### Display Indexes
 
 in psql
 
@@ -46,7 +46,7 @@ in psql
 \di
 ~~~
 
-#### Display Table Schema ####
+#### Display Table Schema
 
 in psql  
 
@@ -61,7 +61,7 @@ select column_name, data_type, character_maximum_length
 from INFORMATION_SCHEMA.COLUMNS where table_name = '<name of table>';
 ~~~
 
-#### Inner Joins ####
+#### Inner Joins
 
 ~~~
 select cities.*, country_name From cities inner join countries on cities.country_code = countries.country_code;
@@ -75,7 +75,7 @@ select cities.*, country_name From cities inner join countries on cities.country
 COALESCE(NULLIF(clan,'something'), '[no clan specified]')
 ~~~
 
-#### Importing Sql ####
+#### Importing Sql
 
 in psql
 

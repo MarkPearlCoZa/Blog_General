@@ -20,7 +20,7 @@ Reducing coupling takes effort. The more you try to reduce coupling, the more ex
 
 ![Coupling Complexity Quadrants]({{ site.url }}/assets/images/CouplingComplexityQuadrants.png)
 
-#### References ####
+#### References
 
 [Normal Accidents: Living with High-Risk Technologies](http://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129)  
 [Software Design - Why, When & How](http://blog.markpearl.co.za/Software-Design-Why-When-How)  

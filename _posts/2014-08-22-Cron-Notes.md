@@ -4,12 +4,12 @@ title: Cron Notes
 tags: Linux
 category: Tech
 ---
-#### General Notes ####
+#### General Notes
 
 Custom cron jobs are stored in /etc/crontab  
 Cron jobs cannot run more frequently than every minute  
 
-#### Editing Cron Jobs ####
+#### Editing Cron Jobs
 
 To edit the crontab for the current user type...  
 
@@ -23,7 +23,7 @@ To edit the crontab for the root user type...
 sudo crontab -e
 ~~~
 
-#### Format ####
+#### Format
 
 **minute** **hour** **dom** **month** **dow** **user** **cmd**
 
@@ -35,20 +35,20 @@ sudo crontab -e
 **user**	The user who runs the command.  
 **cmd**		The command that you want run. This field may contain multiple words or spaces.  
 
-#### Run something every minute ####
+#### Run something every minute
 
 ~~~~
 */1 * * * * root echo "This command is run every minute"
 ~~~~
 
-#### Run something every 5 minutes ####
+#### Run something every 5 minutes
 
 ~~~~
 */5 * * * * root echo "This command is run every 5 minutes"
 ~~~~
 
 
-#### References ####
+#### References
 
 [Introduction to Cron](http://www.unixgeeks.org/security/newbie/unix/cron-1.html)  
 

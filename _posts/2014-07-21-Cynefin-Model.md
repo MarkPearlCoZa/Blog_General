@@ -4,7 +4,7 @@ title: Cynefin Framework
 tags: 
 category: Process
 ---
-####  Notes ####
+#### Notes
 
 The word *Cynefin*, pronounced ki-neh-vin is commonly translated as "habitat" or "place".
 
@@ -13,7 +13,7 @@ Cynefin is a *decision framework*. It recognises the causal differences that exi
 In a categorisation model, the framework precedes the data. This is good for exploitation but not exploration. 
 In a sense-making model the data precedes the framework, making it good for exploration.  
 
-#### References ####
+#### References
 [Cynefin Video](https://www.youtube.com/watch?v=N7oz366X0-8)  
 [Scrum Sense Summary](http://www.scrumsense.com/blog/cynefin-framework)
 

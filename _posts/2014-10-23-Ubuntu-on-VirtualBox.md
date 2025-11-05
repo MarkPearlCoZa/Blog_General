@@ -5,7 +5,7 @@ tags: Linux
 category: Tech
 ---
 
-### Step 1 - Set Virtual Box Network Cards ###
+### Step 1 - Set Virtual Box Network Cards
 
 Ensure the network card settings match the following.  
 
@@ -17,7 +17,7 @@ Network card 2 should look like...
 
 ![Network Card 2]({{ site.url }}/assets/images/2014-10-23-Ubuntu-on-VirtualBox-Network2.png)
 
-### Step 2 - Configure Ubuntu Network Interfaces ###
+### Step 2 - Configure Ubuntu Network Interfaces
 
 Change the network settings in the VM to have configured ip addresses for both cards. You need to edit the file in the folder
 
@@ -52,7 +52,7 @@ sudo ifdown eth0 && sudo ifup eth0
 sudo ifdown eth1 && sudo ifup eth1
 ~~~
 
-### Step 3 - Enable SSH ###
+### Step 3 - Enable SSH
 
 Install the OpenSSH server
 
@@ -70,7 +70,7 @@ For more info on OpenSHH read there [website](https://help.ubuntu.com/community/
 
 If there are issues connecting to SSH check your Windows Firewall Settings
 
-### Step 4 - Setup Conemu ###
+### Step 4 - Setup Conemu
 
 Create a Putty Instance to ssh
 

@@ -9,7 +9,7 @@ This book outlines at a principle level how one should tackle product developmen
 
 I would recommend anyone involved in product development to read and re-read this book. So far I've read it once. It was a condensed read. I realize that for me to fully appreciate its message I'm going to have to read it in depth several times.
 
-#### Notes ####
+#### Notes
 - Section on warefare and decentralized control
 - Explanation on 'Bunching' and the two busses model
 

@@ -11,7 +11,7 @@ After reading the Cathedral and the Bazaar I have a much better idea of the mind
 
 This is a two hour read at best, but really classic writing on Open Source Software philosophies. Eric also explores "Mangaement and the Maginot Line" - a few points on why a manager based approach will not outperform a community based approach to developing software. 
 
-#### Rules of thumb ####
+#### Rules of thumb
 - Every good work of software starts by scratching a developers personal itch.  
 - Good programmers know what to write. Great ones know what to rewrite (and reuse).  
 - Plan to throw one away; you will, anyhow  

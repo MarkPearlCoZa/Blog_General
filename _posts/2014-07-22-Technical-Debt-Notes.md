@@ -57,7 +57,7 @@ Doc Norton suggested 5 things you can measure to calculate the cost of technical
 
 Everything (security, scalability, etc.) is a feature except for maintainability.
 
-#### References ####
+#### References
 
 [A mess is not technical debt](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)  
 [Ward Cunningham explaining Debt Metaphor on YouTube](https://www.youtube.com/watch?v=pqeJFYwnkjE)  

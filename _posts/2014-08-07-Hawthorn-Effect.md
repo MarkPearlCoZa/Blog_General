@@ -4,10 +4,10 @@ title: The Hawthorn Effect
 tags: Measurement
 category: Soft
 ---
-#### Summary ####
+#### Summary
 
 That which is measured will improve... at a cost (which is often hidden)
 
-#### References ####
+#### References
 
 [Agile Metrics - Velocity is NOT the goal - 17 minutes in](https://vimeo.com/97505655)

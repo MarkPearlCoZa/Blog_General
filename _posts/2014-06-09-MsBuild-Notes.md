@@ -9,7 +9,7 @@ MSBuild [msdn reference](http://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx)
 Script everything but complie with MsBuild  
 File extension .build  
 
-#### Empty Build Script ####
+#### Empty Build Script
 
 ~~~
 <?xml version="1.0" encoding="utf-8"?>  
@@ -18,7 +18,7 @@ File extension .build
 </project> 
 ~~~
 
-#### Setting the default target ####
+#### Setting the default target
 
 ~~~
 <?xml version="1.0" encoding="utf-8"?>  
@@ -30,7 +30,7 @@ File extension .build
 
 Add a DefaultsTargets attribute to the project element with the TargetName being the name of the target.
 
-#### Dependencies ####
+#### Dependencies
 
 ~~~
   <Target Name="Clean">  
@@ -42,7 +42,7 @@ Add a DefaultsTargets attribute to the project element with the TargetName being
   </Target>  
 ~~~
 
-#### Compiling a VS Project ####
+#### Compiling a VS Project
 
 ~~~
 <Target Name="Compile">  
@@ -52,7 +52,7 @@ Add a DefaultsTargets attribute to the project element with the TargetName being
 
 *Important note that the outdir cannot be a relative path, it has to be an absolute path with a trailing /
 
-#### Properties ####
+#### Properties
 
 ~~~~
 <PropertyGroup>
@@ -71,7 +71,7 @@ You can have properties based off other properties.
 </PropertyGroup>
 ~~~~
 
-#### Debugging ####
+#### Debugging
 
 You can show values of parameters by using the Message Text
 
@@ -89,7 +89,7 @@ You can show values of parameters by using the Message Text
 </Target>
 ~~~
 
-#### Copying Files with Directory Structure ####
+#### Copying Files with Directory Structure
 
 ~~~
 <ItemGroup>
@@ -101,7 +101,7 @@ You can show values of parameters by using the Message Text
 </Target>
 ~~~
 
-#### Moving Files ####
+#### Moving Files
 
 ~~~
 <Target Name="MoveSomeFiles">
@@ -112,7 +112,7 @@ You can show values of parameters by using the Message Text
 </Target>
 ~~~
 
-#### Moving Files with Wildcards ####
+#### Moving Files with Wildcards
 
 You cannot use regular expression directly in task parameters. You need to create an item containing list of files to move and pass its content to the task:
 
@@ -134,7 +134,7 @@ You cannot use regular expression directly in task parameters. You need to creat
 Note the @ symbol is used to reference to item group compared to the $ to access properties.   
 [see stack overflow for more info](http://stackoverflow.com/questions/12744826/how-do-i-move-a-bunch-of-files-using-a-move-msbuild-task-and-a-wildcard)
 
-#### Exlcuding Files with WildCards ####
+#### Exlcuding Files with WildCards
 
 ~~~
 <ItemGroup>
@@ -144,7 +144,7 @@ Note the @ symbol is used to reference to item group compared to the $ to access
 
 **Be aware of when the files of created that you are including in your Item Group - if they are being created dynamically, place the ItemGroup as a child element to the element that is generating the files [Read here for a further explanation](http://jon.netdork.net/2008/10/26/msbuild-and-evaluating-itemgroups/)
 
-#### Overriding Parameters ####
+#### Overriding Parameters
 
 There is a bug/feature in MSBuild which means that if you call CreateProperty and CallTarget in the same Target, your new property will not be [globally available to other targets](http://weblogs.asp.net/bhouse/440648).
 
@@ -169,7 +169,7 @@ There is a bug/feature in MSBuild which means that if you call CreateProperty an
 
 [See the stack overflow notes](http://stackoverflow.com/questions/1366840/overwrite-properties-with-msbuild)
 
-#### Including Sub Files ####
+#### Including Sub Files
 
 ~~~
 <Import Project=".\Base.targets" />
@@ -192,7 +192,7 @@ And then in the base file add a property that is recognized
 [For more info on this see](http://stackoverflow.com/questions/2544926/how-to-get-import-custom-tasks-more-than-once-without-warning-message)
 
 
-#### Executing a Build Script ####
+#### Executing a Build Script
 
 Assume we had a build script called HelloCI.build with a target inside it called compile.  
 To execute this specific target you would use the following command:  
@@ -201,7 +201,7 @@ To execute this specific target you would use the following command:
 msbuild HelloCI.build /target:Compile
 ~~~~
 
-#### Conditionally evaluate ItemGroup in MSBuild file ####
+#### Conditionally evaluate ItemGroup in MSBuild file
 
 ~~~
  <ItemGroup Condition="'$(Configuration)' == 'Debug'">
@@ -214,6 +214,6 @@ msbuild HelloCI.build /target:Compile
 
 [For more info](http://stackoverflow.com/questions/8115696/conditional-content-based-upon-configuration)  
 
-#### Refactoring MsBuild Scripts ####
+#### Refactoring MsBuild Scripts
 
 [Great article on refactoring here.](https://timothystall.sys-con.com/node/253420/mobile)

@@ -5,7 +5,7 @@ tags: Teams
 category: Soft
 ---
 
-#### Do teams need to always get along? ####
+#### Do teams need to always get along?
 
 People generally think that teams that work together harmoniously are better and more productive than teams that don’t. But in a study we conducted on symphonies, we actually found that grumpy orchestras played together slightly better than orchestras in which all the musicians were really quite happy.
 
@@ -13,7 +13,7 @@ That’s because the cause-and-effect is the reverse of what most people believe
 
 > The mood of the orchestra members after a performance says more about how well they did than the mood beforehand.  
 
-#### Need for deviant's on teams ####
+#### Need for deviant's on teams
 
 If teams need to stay together to achieve the best performance, how do you prevent them from becoming complacent?
 
@@ -35,6 +35,6 @@ A team is a group of people that cover for each other - by cover we mean that we
 
 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)  
 
-#### References ####
+#### References
 
 [Why teams don't work](https://hbr.org/2009/05/why-teams-dont-work)  

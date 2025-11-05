@@ -565,7 +565,7 @@ rbenv use 2.2.3
 ruby -v
 ~~~
 
-#### References ####
+#### References
 
 [Official Ruby Documentation](https://ruby-doc.org)  
 [Ruby Online Repl](https://repl.it/languages/ruby)  

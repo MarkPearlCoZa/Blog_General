@@ -4,7 +4,7 @@ title: Regex Notes
 tags: Languages
 category: Misc
 ---
-### Two parts of a regex ###
+### Two parts of a regex
 
 1) Subject string (the text beig parsed)  
 2) Regex (group of characters that represent rules for matching / searching text)  
@@ -32,7 +32,7 @@ Lookarounds often cause confusion. I believe this confusion promptly disappears 
 
 For a detailed walkthough
 
-#### ?: Match Everything Inclosed Expression ####
+#### ?: Match Everything Inclosed Expression
 
 ?: is used to define a sub expression that is not used for the back reference. 
 
@@ -40,19 +40,19 @@ This construct is similar to (...), but won't create a capture group.
 
 Match everything enclosed.
 
-#### ?= Positive lookahead Expression ####
+#### ?= Positive lookahead Expression
 
 Starting at the current position in the expression, ensures that the given pattern will match. 
 Does not consume characters.
 
-#### ?! Negative lookahead Expression ####
+#### ?! Negative lookahead Expression
 
 Starting at the current position in the expression, ensures that the given pattern will not match. 
 Does not consume characters.
 
 ### Operators 
 
-#### Or Operator ####
+#### Or Operator
 
 | is the or operator, in the example below it would return true if your input has the numbers 407 OR 321 in the subject string.  
 
@@ -68,7 +68,7 @@ var result2 = Regex.IsMatch("5555555", "407|321"); // return false
 var result2 = Regex.IsMatch("0000321", "407|321"); // return true  
 ~~~
 
-#### + Operator ####
+#### + Operator
 
 Repeat the character one or more times until it is no longer matched
 
@@ -78,13 +78,13 @@ Repeat the character one or more times until it is no longer matched
 
 The above matches on ar, arr, arrr, arrr... etc.
 
-### Anchors ###
+### Anchors
 
 $ End of line  
 ^ Start of Line  
 \b Word boundary (useful for matching whole words only)   
 
-### Character Sets ###
+### Character Sets
 
 Use a [] to represent a character set, for example matching all letters in the alphabet could be achieved as follows:
 
@@ -117,7 +117,7 @@ It can sometimes be confusing on what the ^ represents because it has different 
 [^\s] == \S (match every character except white space  
 [^\w] == \W (match every character except words  
 
-#### Matching a specific number of times with internal expressions ####
+#### Matching a specific number of times with internal expressions
 
 ~~~
 [a-z]{2}
@@ -137,7 +137,7 @@ The above matches 1-3 characters.
 
 The above matches a minimum of 3 characters and more
 
-#### Matching multiple characters ####
+#### Matching multiple characters
 
 You can use the + operator after a character set to represent that it must match one or more characters
 
@@ -151,13 +151,13 @@ You can use the * operate after a character set to represent that it must match 
 [a-z]*
 ~~~
 
-#### Modifiers ####
+#### Modifiers
 
 \i - ignore case modifier
 \m - multi line modifier (changes the anchors so that ^ anchors to the beginning of every line and $ anchors to the end of every line
 
 
-#### Matching Case ####
+#### Matching Case
 
 ~~~
 [a-zA-Z]
@@ -175,7 +175,7 @@ Or
 (?i)word1|word2|word3
 ~~~
 
-#### Wildcard ####
+#### Wildcard
 
 \ represents ...
 ? represents an optional pattern that will match the pattern 0 to 1 times, matching as few times as possible
@@ -190,7 +190,7 @@ To use the '.' in as a character you need to escape it
 
 Characters that have a special meaning can be escaped with a backslash to use their literal meaning.
 
-#### Groups ####
+#### Groups
 
 Use prenthesis to create groups.
 
@@ -200,7 +200,7 @@ Use prenthesis to create groups.
 
 The () section indicates that any one of these can be in the space.
 
-##### Non-capturing Groups #####
+##### Non-capturing Groups
 
 ?: - is known as a non-capturing group and can be used to cause a match without returning it.
 
@@ -214,7 +214,7 @@ Another example would be below where it finds a match for http or ftp but does n
 (?:http|ftp)
 ~~~
 
-#### Capturing Groups #####
+#### Capturing Groups
 
 Use a group (), to return a capture group
 
@@ -226,7 +226,7 @@ Returns only whole words matching gold from the sentence below (in this case 3 g
 
 gold metal golden wood gold plastic metal stone rubber gold
 
-### Whitespace ###
+### Whitespace
 
 \s represents spaces, tabs, new lines
 
@@ -236,7 +236,7 @@ gold metal golden wood gold plastic metal stone rubber gold
 
 -------------------------------------------------------------------------------------
 
-### Useful Examples ###
+### Useful Examples
 
 Add a word egg after certain letters (bcd) with a word.  
 
@@ -244,12 +244,12 @@ Add a word egg after certain letters (bcd) with a word.
 word.replace(/[bcd]/ig, "$&egg")
 ~~~
 
-### Misc ###
+### Misc
 
 [] Ranges  
 {} Multipliers  
 
-### Check if the first occurance is followed by a pattern ###
+### Check if the first occurance is followed by a pattern
 
 For example: check if first occurance of x is followed by 2 x`s
 
@@ -257,13 +257,13 @@ For example: check if first occurance of x is followed by 2 x`s
 ^[^x]*xxx
 ~~~
 
-#### Matching Any and No Characters ####
+#### Matching Any and No Characters
 
 This is a bit of a hack because of special characters...   
 
 [\S\s] == any character
 
-#### Negative Matching ####
+#### Negative Matching
 
 Match any word that isn't rock
 
@@ -271,7 +271,7 @@ Match any word that isn't rock
 \b(?!rock\b)\S+
 ~~~
 
-### Tools ###
+### Tools
 
 [Regex 101](https://regex101.com/) - general regex tool  
 [Verbal Expressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - a js library that helps you construct difficult regex expressions  
@@ -288,7 +288,7 @@ Match any word that isn't rock
 /\b(\w)/g    // Joe Blogs => J B
 ~~~
 
-### Books ###
+### Books
 
 [Learn RegEx the Hard Way](http://regex.learncodethehardway.org/book/)  
 [Regular Expression for Javascript](http://eloquentjavascript.net/09_regexp.html)  

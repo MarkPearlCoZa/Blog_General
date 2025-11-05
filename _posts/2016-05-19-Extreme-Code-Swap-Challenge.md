@@ -9,14 +9,14 @@ I am a fan of code retreats. There is so much to get from them, from the differe
 
 -------------------------------------------------------------------------
 
-### Vanilla Code Swap ###
+### Vanilla Code Swap
 
-#### What you need ####
+#### What you need
 
 A small group of developers with an equal number of developer stations (3-5).   
 Identical development lanugage and IDE (or ones that everyone is comfortable) on all machines.  
 
-#### How it works ####
+#### How it works
 
 - A common kata is picked for the exercise.  
 - Each developer starts at their machine and is given 5 minutes to solve the kata.  
@@ -27,15 +27,15 @@ Identical development lanugage and IDE (or ones that everyone is comfortable) on
 
 -------------------------------------------------------------------------
 
-### Variations ###
+### Variations
 
-#### 1 Minute Feedback Rotation ####
+#### 1 Minute Feedback Rotation
 
 A slight variation on this is that when you hit a rotation point, you are allowed 1 minute to explain to the person coming in where you were going with the solution.
 
 -------------------------------------------------------------------------
 
-### Learnings from the exercise ###
+### Learnings from the exercise
 
 Some of the learnings I got from the exerise:  
 - Initially there seems to be a fair amount of pressure to 'solve' the problem.  

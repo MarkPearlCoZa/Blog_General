@@ -4,7 +4,7 @@ title: SSL Certificate Notes
 tags: Web
 category: Tech
 ---
-#### Different types of classes ####
+#### Different types of classes
 
 - Class 1 for individuals, intended for email.  
 - Class 2 for organizations, for which proof of identity is required.  
@@ -14,7 +14,7 @@ category: Tech
 
 --------------------------------------------------------------------------------------------------
 
-#### Commentary on Classes ####
+#### Commentary on Classes
 
 Vendor defined classes
 
@@ -32,19 +32,19 @@ This is new(ish). They used to actually verify all requests to make sure you wer
 
 [See original post](http://serverfault.com/questions/365846/ssl-certificate-class-2-vs-class-3-vs-class-4)  
 
-#### Wildcard Certificates ####
+#### Wildcard Certificates
 
 If a wildcard certificate is compromised anywhere on any of the services you use, the information on all your services is at risk. You also have to replace the certificate everywhere it's used.
 
 [Read More](https://en.wikipedia.org/wiki/Wildcard_certificate)  
 
-#### SHA-2 vs SHA-1 ####
+#### SHA-2 vs SHA-1
 
 [Read More](https://support.dnsimple.com/articles/sha-2-ssl-certificates/#sha-2-ssl-certificate-compatibility)  
 
 --------------------------------------------------------------------------------------------------
 
-#### Setting up your browser with ssl for authentication ####
+#### Setting up your browser with ssl for authentication
 
 With StartCom you will have a P12 File.
 

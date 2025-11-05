@@ -4,15 +4,15 @@ title: The Ultimate Developer Keyboard
 tags: Typing
 category: General
 ---
-### Why the Ultimate Developer Keyboard? ###
+### Why the Ultimate Developer Keyboard?
 
-### Health is important ###
+### Health is important
 
 I have been programming for over a decade now. As I've become a more experienced programmer, I have found that there has been a toll on my body. Let's just say, humans are not built for sitting long hours in front of a computer year after year. 
 
 While I have managed to maintain a reasonable level of health, I have noticed the usual challenges - a deterioration in my eyesight, posture problems and most worrying of all issues with my hands. Having a keyboard designed for being in front of a computer day after day for years is vital for longevity as a software developer.
 
-### Speed is important ###
+### Speed is important
 
 As I have become more experienced as a developer, I have found it important to master my tools. One of the fundamental tools of a software developer is the keyboard. I use it every day, it's important for me to be efficient on it. 
 
@@ -34,35 +34,35 @@ Having a wife who is good with Photoshop, I (with her significant help) was able
 
 -----------------------------------------------------------------------------------------
 
-### Design Decisions on the Ultimate Developer Keyboard ###
+### Design Decisions on the Ultimate Developer Keyboard
 
-#### Shape of Keyboard ####
+#### Shape of Keyboard
 
 The Kinesis got the shape of the keyboard right. My ideal developer keyboard would have a shell exactly the same as the Kinesis. This would allow arms to be parallel to the body instead of angled in.
 
 Keeping the shape of the keyboard would impact the ease of transportation of the keyboard, but the wins of portability having the keyboard as a single unit outweigh the cons of transportation. A single unit makes it easy to move between computers at a single location - something that is important if you work in a co-located office where pairing and mobbing is common.
 
-#### Thumb Keypad Layout ####
+#### Thumb Keypad Layout
 
 <img class="img-responsive" alt="Thumb Keys" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-ErgoDoxKeyLayout-Thumb-Keys.png">
 
 Keeping the thumb keypad layout (the area where enter, ctrl, alt, backspace, space, etc) are located as per both the ErgoDox and Kinesis is important. After having used this layout compared to a traditional layout, I have found it to be superior as well as easier on the hands.
 
-#### Key Wells ####
+#### Key Wells
 
 <img class="img-responsive" alt="Thumb Keys" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-Kinesis-Key-Wells.png">
 
 I would keep the kinesis key wells - the advantage of the key wells is having the standard keys closer together and naturally angled so that your hands fit comfortably in a resting position and your fingers do not have to move far to make a key press.
 
-#### Mechanical Function Keys ####
+#### Mechanical Function Keys
 
 I would have normal sized mechanical keys as function keys (The traditional function keys that the kinesis has are a waste of time - in the ErgoDox you typically map a different layer to function keys - neither approach is great) . This would make a huge difference when working in IDE's that require regular use of the function keys.
 
-#### Dedicated Gui/Function keys below Shift ####
+#### Dedicated Gui/Function keys below Shift
 
 I like the approach the ErgoDox has taken with the additional key underneath the shift keys. This allows for the windows/function keys to be assigned to these keys while still keeping the ctrl and alt keys on both thumb keypad layout. A key combination that is fairly common for programmers, especially when using tools like ReSharper.
 
-#### Remapping Keys Functionality ####
+#### Remapping Keys Functionality
 
 Mapping of keys would use the same process that the Ergodox uses. 
 
@@ -70,53 +70,53 @@ See [Massdrops Keyboard Configurator for ErgoDox](https://keyboard-configurator.
 
 Having a graphical display for for remapping keys is superior compared to manual remapping done with the Kinesis.
 
-#### Macro Recording Functionality ####
+#### Macro Recording Functionality
 
 I would drop the current macro recording facility of the Kinesis. It is a waste of time. If possible I would introduce a graphical macro recording facility. If this was not possible, I would scrap the idea of macro recording totally.
 
-#### Additional Row in Key Well for Layer Keys ####
+#### Additional Row in Key Well for Layer Keys
 
 I would add an additional column of keys in the key well for layer keys - similar to how the ErgoDox currently has it. These layer keys make it extremely easy to switch between layer mappings which makes them useful layers for VIM mappings etc.
 
-#### Eight Additional Keys in Dead Area ####
+#### Eight Additional Keys in Dead Area
 
 Looking at the Kinesis layout, there is a big wide open space in the middle of the keyboard I like to call the dead area. I would introduce 8 additional mechanical keys to this area. These keys can be mapped to anything. If we were able to substantially improve the macro recording facility these keys could prove to be really useful. Alternatively just mapping these keys to common key combinations could also add value.
 
-#### Mechanical Keys all the way ####
+#### Mechanical Keys all the way
 
 I understand that key switches are interchangeable, but by default I would use the gaetron browns - these are the default key switches I have in my ergodox and they are really comfortable. All keys on the keyboard would be mechanical.
 
-#### Led section to show current layer ####
+#### Led section to show current layer
 
 One of my irritations of the ErgoDox is guessing what layer you are currently on.
 
 I would add additional LED display to the top left of the keyboard which would graphically display what layer the keyboard is currently on.#
 
-#### Touchpad below thumb key pad ####
+#### Touchpad below thumb key pad
 
 I would add the apple touchpad built in to the keyboard just below the thumb key pad. This would allow you to keep you hands on your keyboard at all times. In the situations when you absolutely have to use mouse navigation, the touchpad is there.
 
 The touchpad is also useful for having on operating systems where you have multiple desktops and scrolling between desktops is common. 
 
-#### USB Hub / Ports ####
+#### USB Hub / Ports
 
 I would keep the USB hub where the Kinesis already has it underneath the keyboard. I would add an additional USB port on either side of the Kinesis box. This could be used for plugging in flash sticks, etc.
 
 You can never have enough USB ports!
 
-#### Bluetooth Connectivity ####
+#### Bluetooth Connectivity
 
 In addition, if possible I would add a Bluetooth module that would allow for the device to be connected to a PC via Bluetooth. I'm not sure on how easy this would be, but hey, this is my imaginary developer keyboard.
 
 -----------------------------------------------------------------------------------------
 
-### My Sources of Inspiration ###
+### My Sources of Inspiration
 
-### Kinesis Advantage Pro Review ###
+### Kinesis Advantage Pro Review
 
 <img class="img-responsive" alt="Kinesis Advantage Pro" src="{{ site.url }}/assets/images/Keyboard-KinesisAdvantagePro.jpg">
 
-### What I like about the Kinesis ###
+### What I like about the Kinesis
 
 I like to call my Kinesis my Silver Lamborghini. It's a great conversation starter. When I originally purchased it, it took me 3-4 months to re-learn how to type. The first two weeks were extremely tough, at one point I considered returning it. The big learning curve is that space, return, backspace, delete, ctrl and alt are moved to the thumbs instead of the pinky fingers. The reasoning behind this is that the thumb is the strongest of the fingers while the pinky fingers are the weakest. Thus it makes sense to move keys that are regularly pressed to the thumbs.
 
@@ -128,7 +128,7 @@ The keyboard has a on-board USB hub which is very useful for plugging a mouse do
 
 The keyboard comes with a foot pedal. Yes, you heard me right. I have never managed to use the pedal, but it is simply a real geek out telling people you have one.
 
-### What I don't like about the Kinesis ###
+### What I don't like about the Kinesis
 
 The keyboard comes with a macro recording feature - before buying the keyboard I thought this would be a killer feature. Turns out I don't use nearly as much as I thought. Recording macro's it a pain, and then remembering what macro is mapped to what key combination always becomes a challenge.
 
@@ -142,11 +142,11 @@ The keyboard does not work properly on certain Windows 7 machines. As stated by 
 
 -----------------------------------------------------------------------------------------
 
-### Ergodox EZ Review ###
+### Ergodox EZ Review
 
 <img class="img-responsive" alt="Ergodox Ez" src="{{ site.url }}/assets/images/Keyboard-ErgodoxEz.jpg">
 
-### What I like about the Ergodox EZ ###
+### What I like about the Ergodox EZ
 
 I have had my Ergodox EZ for two months now. I like to call it my Stealth Bomber. It's black, I ordered it with blank key caps and brown gaetron switches. It's also a great conversation starter as well as an awesome keyboard.
 
@@ -160,7 +160,7 @@ Transporting the Ergodox is really easy. Because it comes in two parts, you can 
 
 The Ergodox has the additional windows/function keys below shift. This is a step up from the Kinesis and means you can have alt + ctrl on both thumb maps and still have a windows key.
 
-### What I don't like about the Ergodox EZ ###
+### What I don't like about the Ergodox EZ
 
 #### Missing the USB hub
 
@@ -182,13 +182,13 @@ I really miss the curved design for the hands of the Kinesis. The keys on the Ki
 
 -----------------------------------------------------------------------------------------
 
-### Ultimate Hacking Keyboard Review ###
+### Ultimate Hacking Keyboard Review
 
 <img class="img-responsive" alt="Ultimate Hacking Keyboard" src="{{ site.url }}/assets/images/Ultimate-Developer-Keyboard-UHK.jpg">
 
 **Note the UHK is not officially out yet, I got to see an early prototype in May 2016 however the final product could be vastly different from the prototype I got to use**
 
-### What I like about the UHK ###
+### What I like about the UHK
 
 #### Key Cap Size 
 
@@ -214,7 +214,7 @@ Because the UHK can be split, it can be made extremely compact when travelling. 
 
 For a developer getting used to the concept of keyboard layers, having a visual display to indicate what layer you are currently on is really useful. The UHK makes it very clear.
 
-### What I don't like UHK ###
+### What I don't like UHK
 
 #### Thumb / Keypad Layout
 
@@ -229,7 +229,7 @@ Once you get used to layers they are extremely useful. Many software developers 
 
 -----------------------------------------------------------------------------------------
 
-### Summary ###
+### Summary
 
 I enjoy all three keyboards. Right now my preference is the Ergodox. The extra keys for switching key map layers really make a big difference. Because both the Ergodox and Kinesis both have the thumb pad with the primary keys on it (space, backspace, enter, ctrl, alt), switching between them once you have mapped the new positions is very easy. Also, all three keyboards are ergo-friendly. After having switched to a split layout the numbness in my hands has gone away.
 
@@ -239,7 +239,7 @@ See the discussion on [Quora regarding ultimate programmer keyboard](https://www
 
 -----------------------------------------------------------------------------------------
 
-### Developer keyboards to keep an eye on... ###
+### Developer keyboards to keep an eye on...
 
 [ErgoDox EZ](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard) - $295  
 [Kinesis Advantage Pro for PC](http://www.kinesis-ergo.com/shop/advantage-pro-for-pc-mac/) - $359  
@@ -253,12 +253,12 @@ See the discussion on [Quora regarding ultimate programmer keyboard](https://www
 [Planck Keyboard](https://olkb.com/planck/) - ?  
 Pok3r Keyboard - ?  
 
-### Which mechanical keyboard switches should I use? ###
+### Which mechanical keyboard switches should I use?
 
 See a [detailed explanation of different switches](http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/)  
 
 I'm very happy with Gaetron Browns - I find they are firm enough to get the great mechanical feel, yet quite enough to not be hated around the office.
 
-### Resources ###
+### Resources
 
 [Modifying your Kinesis - Mounting magic trackpad to Kinesis](https://www.petekeen.net/mounting-a-magic-trackpad-on-a-kinesis-advantage-keyboard)  

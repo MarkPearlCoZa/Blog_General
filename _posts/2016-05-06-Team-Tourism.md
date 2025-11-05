@@ -5,7 +5,7 @@ description: Team Tourism
 category: General
 tags: Collaboration
 ---
-### Disconnected Pockets of Brilliance ###
+### Disconnected Pockets of Brilliance
 
 In the last few years I have discovered that there are software development teams spread across the world that are doing amazing things.
 
@@ -29,41 +29,41 @@ Neither of these approaches are great. The guru is expensive, the hire is perman
 
 <img class="img-responsive center-block" alt="Passports" src="{{ site.url }}/assets/images/Team-Tourism-Passports.jpg">
 
-### What is Team Tourism? ###
+### What is Team Tourism?
 
 Team tourism is the idea that every once in a while we need to get out of our specific team and be a tourist with another team with the intention of openly sharing. The person touring has just as much responsibility in sharing as the team being toured. The aim of team tourism is to create intentional cross pollination between organizations at a higher cadence than currently exists with consultants or new hires.
 
-#### How does it work? ####
+#### How does it work?
 
 A person visits a team for a period of time. During the visit they learn by participation. This means the tourist joins the team, pairs or mobs with others, attends stand up, attends retro, etc.
 
-#### Why is this a better way? ####
+#### Why is this a better way?
 
 Open cross pollination at a fraction of the price with no bias - nobody is selling you anything - you get to see exactly what and how a different team handles things which sparks ideas for your own team.
 
 ---------------------------------------------------------------------------------------
 
-### Practical Implementation ###
+### Practical Implementation
 
 At a conceptual level there is a compelling argument for team tourism - how to practically implement it varies. To help, I've put together a few suggestions from my own experiences that I've found  help make it effective...   
 
-#### How long should a tourist visit? ####
+#### How long should a tourist visit?
 
 - One to three day's is great. I've found anything less than a day is too short with even one day being a bit overwhelming (especially if you have travelled a distance to get there). My preference is two days which gets to show you some of the routine.
 
-#### Who covers the costs? ####
+#### Who covers the costs?
 
 - Costs of tourism should be shared between companies. Typically if there is a reciprocal visit planned it makes sense for each company to pay one leg of the trip. There should be no profit making motive.
 
-#### Is this work or leave? ####
+#### Is this work or leave?
 
 - Companies supporting tourism should consider time spent at another team 'work'. I've tried doing tourism on my on leave - I gained a lot from it but alas for me, it is hard to do when leave with family is so limited anyway.  
 
-#### Additional No No's ####
+#### Additional No No's
 
 - Team tourism is not a 'polite' word for poaching staff - for it to work sponsoring companies should not be concerned that their staff will be poached.  
 
-### Interested in doing a team tourism day with me? ###
+### Interested in doing a team tourism day with me?
 
 I love doing tourism days. I've found two things typically hold me back from doing them more frequently.
 
@@ -72,6 +72,6 @@ I love doing tourism days. I've found two things typically hold me back from doi
 
 If you would be interested in having me be a tourist at your company shoot me an email and we will see if we can make it happen.  
 
-#### References ####
+#### References
 
 [I briefly spoke about the concept at Agile Roots in 2015](http://www.agileroots.com/)  

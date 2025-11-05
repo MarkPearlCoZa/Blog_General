@@ -15,7 +15,7 @@ Ctrl+Cmd+F - Go into fullscreen / exit out of fullscreen
 
 <img class="img-responsive" alt="Macbook Keyboard Symbols" src="{{ site.url }}/assets/images/mac-keyboard-symbols.jpg">
 
-#### Keyboard Windows to Mac Shortcuts ####
+#### Keyboard Windows to Mac Shortcuts
 
 Control - Ctrl  
 Option - Alt  
@@ -54,5 +54,5 @@ Delete row ctrl + -
 
 [Learning shortcut keys in OSX Max Excel](http://jeromyanglim.tumblr.com/post/35046966513/learning-shortcut-keys-in-osx-mac-excel)
 
-#### References ####
+#### References
 

@@ -9,13 +9,13 @@ I found this article extremely useful. It gives the histroy on pricing software 
 
 For instance, you used to be able to sell a license and then get yearly software maintenance fees. This is no longer proving to be the best way or even a sustainable approach. The article explores aternative approaches, highlights the challenges of each approach and points out some examples of implementation.
 
-#### Alternative Approaches ####
+#### Alternative Approaches
 
 - Subscription licensing  
 - SaaS model  
 - Protect and sell your data  
 
-#### General Points ####
+#### General Points
 
 - Real money no longer lies in software  
 - Software is an asset, not necessarily money  

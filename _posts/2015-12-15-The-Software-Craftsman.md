@@ -19,7 +19,7 @@ So what does it mean? Well, it turns out it is hard to put the exact meaning - i
 
 What I loved most about the book was the journey it took me on. The author, Sandro Mancuso, shared several experiences I could relate to directly, which validated my own experiences.
 
-#### Areas that resonated with me ####
+#### Areas that resonated with me
 
 - p.3. 32 to 38: Examination of the Software Craftmanship Manifesto with critique.  
 - p.g. 44: Keeping ourselves up to date - read books, 4 main types of books - Technology Specific (Silverlight), Conceptual (The art of unit testing), Behaviroural (The Software Craftsman), Revoltionary (The Pragmatic Programmer, Extreme Programming Explained).

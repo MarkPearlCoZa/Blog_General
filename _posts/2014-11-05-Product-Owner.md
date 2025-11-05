@@ -5,7 +5,7 @@ tags: Agile
 category: Process
 ---
 
-#### References ####
+#### References
 
 [Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE&feature=youtu.be)
 

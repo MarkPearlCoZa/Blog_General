@@ -4,7 +4,7 @@ title: Transformation Priority Premise
 tags: Design
 category: Programming
 ---
-#### General Notes ####
+#### General Notes
 
 *Refactorings* have counterparts called *Transformations*  
 
@@ -13,7 +13,7 @@ Transformations are simple operatins that change the behavior of the code.
 
 Transformations have a priority or prefered order. TDD has an approach of transforming a solution from "specific" to "generic". Below are a list of kown transformations.
 
-#### List of Transformation ####
+#### List of Transformation
 
 ~~~
 {} -> Nil

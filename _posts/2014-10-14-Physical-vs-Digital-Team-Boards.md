@@ -34,7 +34,7 @@ Physical boards are poor contract negotiatiors, but a far superior collaborating
 
 ### Physical Boards  
 
-#### Advantages of Physical Boards ####
+#### Advantages of Physical Boards
 
 - Extremely flexible, easy to change  
 - Tactile  
@@ -46,7 +46,7 @@ Physical boards are poor contract negotiatiors, but a far superior collaborating
 - When doing daily standup, person walking the board faces the group which leads to an engaged conversation  
 - Encourages team ownership as generally nobody externally is looking at the board  
 
-#### Disadvantages of Physical Boards ####
+#### Disadvantages of Physical Boards
 
 - Metric gathering requires extra effort  
 - Can loose stickies that fall off the board  
@@ -92,7 +92,7 @@ Perhaps for distributed teams if they could see the same projection it might ena
 As I said, I've reserved judgment until I see it in action, I don't have high hopes. 
 ~~~
 
-#### References ####
+#### References
 
 [Discussion on Virtual vs Physical Boards](http://pm.stackexchange.com/questions/8711/what-is-better-a-physical-scrum-board-or-an-online-board)
 

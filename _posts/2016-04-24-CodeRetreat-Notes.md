@@ -245,7 +245,7 @@ What to bring on the day…
 - Have some discussion period on each topic.  
 - Look at some way of reducing drop off of praticipants  
 
-#### References ####
+#### References
 
 - <a href="{{ site.url }}/assets/documents/CodeRetreat-GOL-Projector.zip">Conway's Game of Life for Projector</a>  
 - <a href="{{ site.url }}/assets/documents/CodeRetreat-ConwaysGOLRules.pdf">Conway's Game of Life A4 Printout PDF</a>  

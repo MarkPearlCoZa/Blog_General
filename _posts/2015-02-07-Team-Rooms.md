@@ -5,7 +5,7 @@ tags: Teams
 category: Soft
 ---
 
-#### Motivation ####
+#### Motivation
 
 The following was tweeted by [Peter Stevens](https://twitter.com/peterstev)  
 

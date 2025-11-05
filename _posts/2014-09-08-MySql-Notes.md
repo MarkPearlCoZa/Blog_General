@@ -5,81 +5,81 @@ tags: Databases
 category: Tech
 ---
 
-### Beginner Stuff ###
+### Beginner Stuff
 
-#### Login ####
+#### Login
 
 ~~~
 mysql -p
 ~~~
 
-#### Show all users ####
+#### Show all users
 
 ~~~
 Select user, host from mysql.user;
 ~~~
 
-#### Add User ####
+#### Add User
 
 ~~~
 CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
 ~~~
 
-#### Give User Priveledges ####
+#### Give User Priveledges
 
 ~~~
 GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
 ~~~
 
-#### Show Databases ####
+#### Show Databases
 
 ~~~
 show databases;
 ~~~
 
-#### Create Database ####
+#### Create Database
 
 ~~~ 
 create database dbName;
 ~~~
 
-#### Use Database ####
+#### Use Database
 
 ~~~
 use dbName;
 ~~~
 
-#### Show Tables in a Database ####
+#### Show Tables in a Database
 
 ~~~
 show tables;
 ~~~
 
-#### Create Table ####
+#### Create Table
 
 ~~~
 create table tableName (tableNameId serial primary key);
 ~~~
 
-#### Add value to table ####
+#### Add value to table
 
 ~~~
 Insert into tableName (tableNameId) Values (1234);
 ~~~
 
-#### Show Columns of a table ####
+#### Show Columns of a table
 
 ~~~
 show columns from TableName;
 ~~~
 
-#### Execute a sql file ####
+#### Execute a sql file
 
 ~~~
 source fileName;
 ~~~
 
-#### Foreign Key Constraints ####
+#### Foreign Key Constraints
 
 ~~~
  create table parentTable (
@@ -91,21 +91,21 @@ source fileName;
 	foreign key fk_invoices(parent_id) references parentTable(id));
 ~~~
 
-#### Adding a column to an existing table ####
+#### Adding a column to an existing table
 
 ~~~
 alter table tableName
 	add columnName text
 ~~~
 
-#### Renaming a column in an existing table ####
+#### Renaming a column in an existing table
 
 ~~~
 alter table tableName
 	change oldColumnName newColumnName int
 ~~~
 
-#### Ensuring a key is Unique ####
+#### Ensuring a key is Unique
 
 ~~~
  create table parentTable (
@@ -113,13 +113,13 @@ alter table tableName
 	unique key (id));
 ~~~
 
-#### Deleting items from a table ####
+#### Deleting items from a table
 
 ~~~
  delete from Table
 ~~~
 
-### Joins ###
+### Joins
 
 Inner Join - produces a set of records that which match in both tables  
 Left Join - produces a set of records that match every entry in the left table regardless of any matching entry in the right table  
@@ -136,9 +136,9 @@ Outer Join - produces a set of all records in both tables regardless of whether 
 	inner join table2 on table1.id = table2.id;
 ~~~
 
-### Stored Procedures ###
+### Stored Procedures
 
-#### Stored Procedure Basics ####
+#### Stored Procedure Basics
 
 ~~~
  DELIMITER //
@@ -165,7 +165,7 @@ drop procedure GetAllProducts;
 ~~~
 Deletes the stored procedure
 
-#### Stored Procedure Variables ####
+#### Stored Procedure Variables
 
 ~~~
 DECLARE total_count INT DEFAULT 0
@@ -186,7 +186,7 @@ Stored proc with a parameter declaration
 [For more info see this post](http://www.mysqltutorial.org/stored-procedures-parameters.aspx)
 
 
-### References ###
+### References
 
 [Everything you need to get started with mysql](http://code.tutsplus.com/tutorials/everything-you-need-to-get-started-with-mysql--net-3076)
 [Foreign Keys](http://www.mysqltutorial.org/mysql-foreign-key/)

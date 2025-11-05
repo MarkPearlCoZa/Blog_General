@@ -5,11 +5,11 @@ tags:
 category: Tech
 ---
 
-#### Start in headless mode from the Gui ####
+#### Start in headless mode from the Gui
 
 Hold the shift button down while click start on the Vm
 
-#### Misc ####
+#### Misc
 
 Default windows host key is the Right Ctrl key
 

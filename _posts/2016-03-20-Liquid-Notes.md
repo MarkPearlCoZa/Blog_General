@@ -5,9 +5,9 @@ tags: Web
 category: Tech
 ---
 
-#### General ####
+#### General
 
-#### Tag for posts in a specific category ####
+#### Tag for posts in a specific category
 
 ~~~
  {% assign sorted_tags = site.tags | sort %}
@@ -23,7 +23,7 @@ category: Tech
   endfor 
 ~~~
 
-#### References ####
+#### References
 
 [Liquid Reference](https://shopify.github.io/liquid/)  
 [Cheat Sheet](http://cheat.markdunkley.com/)  

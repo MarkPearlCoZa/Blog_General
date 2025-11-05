@@ -5,9 +5,9 @@ tags: Web
 category: Tech
 ---
 
-#### General ####
+#### General
 
 
-#### Useful Tools ####
+#### Useful Tools
 
 [Typora](https://www.typora.io/) - Tool for reading and writing markdown  

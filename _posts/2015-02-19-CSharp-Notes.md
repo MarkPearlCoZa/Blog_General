@@ -5,7 +5,7 @@ tags: Languages
 category: Tech
 ---
 
-#### Null-Coalescing (??) Operator #### 
+#### Null-Coalescing (??) Operator
 
 ~~~
 string something = null;
@@ -26,7 +26,7 @@ var valueLessThanFive = name1.Length < 5 ? name1 : name2;
 
 ## String
 
-#### Strip out Non Number / Alphabetic Characters ####
+#### Strip out Non Number / Alphabetic Characters
 
 ~~~
 string word = "!@# Original Text 123 !@#";
@@ -34,21 +34,21 @@ string strippedWord = new String(word.Where( c => char.IsDigit(c) || char.IsLett
 Assert.That(strippedWord, Is.EqualTo("OriginalText123");
 ~~~
 
-#### Split string with sub string ####
+#### Split string with sub string
 
 ~~~
 var text = "this<>is<>it<>";
 var splitText = text.Split(new[] { "<>" }, StringSplitOptions.None);
 ~~~
 
-#### Convert to Title Case ####
+#### Convert to Title Case
 
 ~~~
 var value = "some text here";
 var result = CultureInfo.CurrentCulture.TextInfo.ToTitleCase(value.ToLower());
 ~~~
 
-#### Creating a string for an array of characters ####
+#### Creating a string for an array of characters
 
 Previously I would do the following:
 
@@ -66,7 +66,7 @@ var text = string.Concat(chars);
 
 ## DateTime
 
-#### Parsing DateTime from String in a specific format ####
+#### Parsing DateTime from String in a specific format
 
 ~~~
 DateTime theDate = DateTime.ParseExact(dateText, "yyyyMMdd", CultureInfo.InvariantCulture);
@@ -74,7 +74,7 @@ DateTime theDate = DateTime.ParseExact(dateText, "yyyyMMdd", CultureInfo.Invaria
 
 ## Linq
 
-#### Simulate a for Loop ####
+#### Simulate a for Loop
 
 ~~~
 
@@ -87,7 +87,7 @@ Private static decimal DoSomething(int n)
 }
 ~~~
 
-#### Cartesian Product ####
+#### Cartesian Product
 
 Suppose you want to create the cartesian product of two lists (every possible combination between the two collections). This can be done as follows:
 
@@ -99,15 +99,15 @@ var cartesianLst = listA.SelectMany(a => listB.Select(b => new Tuple<int, int>(a
 
 -----------------------------------------------------------------------------------
 
-## CSharp 6 Features ##
+## CSharp 6 Features
 
-#### Expression Bodied Methods & Auto Properties ####
+#### Expression Bodied Methods & Auto Properties
 
 ~~~
 static public addNumbers(int a, int b) => a + b;	
 ~~~
 
-#### Dictionary Initialization ####
+#### Dictionary Initialization
 
 ~~~
 var colorMap = new Dictionary<string, ConsoleColor> {

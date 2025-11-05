@@ -4,7 +4,7 @@ title: Crockers Rule
 tags: 
 category: Soft
 ---
-#### The Rule ####
+#### The Rule
 
 Declaring yourself to be operating by "Crocker's Rules" means that other people are allowed to optimize their messages for information, not for being nice to you.  
 Crocker's Rules means that you have accepted full responsibility for the operation of your own mind - if you're offended, it's your fault.  

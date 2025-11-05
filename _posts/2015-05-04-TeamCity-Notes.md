@@ -4,7 +4,7 @@ title: TeamCity Notes
 tags: Automation
 category: Tech
 ---
-#### Setting a TeamCity Build Number from Console ####
+#### Setting a TeamCity Build Number from Console
 
 To set a custom build number directly, specify a buildNumber message using the following format:  
 
@@ -18,9 +18,9 @@ In the <new build number> value, you can use the {build.number} substitution to 
 ##teamcity[buildNumber '1.2.3_{build.number}-ent']
 ~~~
 
-#### Getting Command Line and TeamCity to pass values between each other ####
+#### Getting Command Line and TeamCity to pass values between each other
 
-##### Write #####
+##### Write
 
 ~~~
 echo "%build.number%" > \last-successful-build-version.txt
@@ -28,7 +28,7 @@ echo "%build.number%" > \last-successful-build-version.txt
 
 Writes the build number to a file in the build agent.  
 
-##### Read #####
+##### Read
 
 ~~~
 $ver = get-content \last-successful-build-version.txt
@@ -37,9 +37,9 @@ write-host "##teamcity[setParameter name='version_to_deploy' value='${ver}']"
 
 Reads the value from the written file back in to TeamCity parameters.  
 
-#### Great Visualizers ####
+#### Great Visualizers
 
 [BuildReactor](https://chrome.google.com/webstore/detail/buildreactor/agfdekbncfakhgofmaacjfkpbhjhpjmp?hl=en)  
 
-#### References ####
+#### References
 

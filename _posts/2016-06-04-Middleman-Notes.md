@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-#### Get path of current page ###
+#### Get path of current page
 
 You have access to the current_page variable. current_page.path is the source path of this resource (relative to the source directory, without template extensions) and current_page.url is the path without the directory index (so foo/index.html becomes just foo).
 
@@ -21,7 +21,7 @@ You have access to the current_page variable. current_page.path is the source pa
 
 
 
-#### Syntax for a link_to with html content and additional attributes ####
+#### Syntax for a link_to with html content and additional attributes
 
 The following...
 
@@ -38,7 +38,7 @@ Will render the following html...
 [See original thread](https://github.com/middleman/middleman/issues/881)  
 
 
-#### References ####
+#### References
 
 [Understanding Middleman - the static site generator for faster prototyping](https://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/)  
 [Github Middleman Project](https://github.com/middleman/middleman/)  

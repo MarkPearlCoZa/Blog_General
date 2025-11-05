@@ -5,7 +5,7 @@ tags: Marketing
 category: Tech
 ---
 
-####  Setting Measurable Goals ####
+#### Setting Measurable Goals
 
 How many people who sign-up or purchase?  
 How many visits to the site does it take before a purchase?  
@@ -16,7 +16,7 @@ You can create up to 20 goals per profile.
 
 Focus on goals that have value!  
 
-##### Goal Types #####
+##### Goal Types
 
 - URL Destination  
 - Visit Duration  
@@ -28,13 +28,13 @@ For instance, you can set a goal to have someone reach your signup page. A requi
 
 Tracking of funnell activity is best using the funnel visualization report.
 
-#### Tracking Document Downloads ####
+#### Tracking Document Downloads
 
 ~~~
 <a href=... onclick="_gaq.push(['_trackPageview', '/document/to/show/in/analytics.pdf']);"> ... </a>
 ~~~
 
-#### Tracking Discrete Events - i.e. Download a file ####
+#### Tracking Discrete Events - i.e. Download a file
 
 Use event tracking to track these types of things...
 
@@ -46,7 +46,7 @@ Events are used in considering bounce rates. If a user visited a single page and
 
 Events ca ben used for Goals, but cannot be used to define funnels.  
 
-#### E-commerce Tracking ####
+#### E-commerce Tracking
 
 ~~~
 _gaq.push(['_addTrans', 'orderID', 'storeName', 'total', 'tax', 'shipping']);  
@@ -54,7 +54,7 @@ _gaq.push(['_addTrans', 'orderID', 'storeName', 'total', 'tax', 'shipping']);
 
 TrackTrans should only be called once per order id.
 
-### References ###
+### References
 
 [Google Analytics IQ Test](http://www.googleanalyticstest.com)  
 [Google Analytics Framework for .Net](https://developers.google.com/api-client-library/dotnet/apis/analytics/v3)  

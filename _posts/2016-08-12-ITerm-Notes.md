@@ -21,6 +21,6 @@ Split Window Vertically (new profile) | `Option` + `⌘` + `V`
 Set Mark | `⌘` + `M`  
 Jump to Mark | `⌘` + `J`  
 
-#### References ####
+#### References
 
 [ITerm Cheat Sheet](https://gist.github.com/helger/3070258)  

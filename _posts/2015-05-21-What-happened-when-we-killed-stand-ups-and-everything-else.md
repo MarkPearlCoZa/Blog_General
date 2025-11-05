@@ -5,7 +5,7 @@ tags: Agile
 category: General  
 ---  
 
-#### The Team ####  
+#### The Team
 
 To understand the context of this post, you need some background on the team and the people in the team.  
 
@@ -28,7 +28,7 @@ The best way to describe the team is as a continuously adapting development and 
 
 -----------------------------------------------------------------------------------
 
-#### The Experiment ####
+#### The Experiment
 
 This month we did something I would never have thought of doing on my own - we killed all planned meetings including daily stand ups, code reviews, brown bags, etc.
 
@@ -36,7 +36,7 @@ The idea came from the team retrospective - as a team we were struggling to iden
 
 -----------------------------------------------------------------------------------
 
-#### The Rules ####
+#### The Rules
 
 The rules were simple...  
 1. We would run the experiment for a minimum of two weeks, after which we would get together and re-evaluate.  
@@ -44,13 +44,13 @@ The rules were simple...
 
 -----------------------------------------------------------------------------------
 
-#### The Experience ####
+#### The Experience
 
-##### Day 1 - Fun Times #####
+##### Day 1 - Fun Times
 
 The day after the retrospective it felt weird. At the time our usual stand up was meant to occur I remember feeling like we should be doing something. Everbody laughed when this was brought up in the team room. I wondered how our product manager would react when he got back from leave and found out about the experiment.
 
-##### Day 3 - Reaching Out #####
+##### Day 3 - Reaching Out
 
 Three days into the experiment Dave, who is a developer on the team, sent the following email.
 
@@ -69,7 +69,7 @@ Maybe you’d like to share your own observations in this email thread, seeing a
 
 I could relate to Dave's email. The progress on other peoples work was beginning to blur.  
 
-##### Day 8 - Frustration #####
+##### Day 8 - Frustration
 Five days after Dave's email the first reply came in from Sue, who was a tester in the team...
 
 ~~~
@@ -105,7 +105,7 @@ I propose we start from first principles. Discuss what things are important to e
 
 There was general chatter on Dave's email - I'm not going to record the specifics - but in essence the whole team agreed they liked the first principles approach.
 
-##### Day 12 - Disconnection #####
+##### Day 12 - Disconnection
 
 Two days before the end of the two week experiment Dave sent out the following...
 
@@ -117,7 +117,7 @@ I feel like I have stopped caring about how the team as a whole is delivering. M
 
 By this time I had lost total connection with the rest of the team. I had been working with another dev on the team on a specific user story for the week. I had too stopped caring about what others were doing. It didn't feel great.
 
-#### The Feedback ####
+#### The Feedback
 
 At the end of the two weeks an email was sent out with the following questions...
 
@@ -131,13 +131,13 @@ Can you answer the following?
 
 The following is the collated feedback from team members...
 
-##### What you liked about it #####
+##### What you liked about it
 - Less interruption while working in the morning.  
 - Having the timeslot open.  I’ve realised that for the current stand-ups timeslot is terrible.  It’s often a very good time to meet with business, so always having it blocked out in your calendar is not great.  
 - No time wasted before and after stand-up. With the timing of our old stand-up, I often found myself not being focussed before and after.  
 - I didn’t have to listen to stuff that doesn’t interest me.  
 
-##### What you didn't like about it #####
+##### What you didn't like about it
 
 - Feeling very disconnected.  
 - Not getting the big picture of where we are and where we are going on a daily basis.  
@@ -146,10 +146,10 @@ The following is the collated feedback from team members...
 - Not sure where else I can help before starting new work.  
 - CFD numbers seemingly lost (I felt these were important although it seems other don’t).    
 
-##### Did you feel it was a worthwhile experience #####
+##### Did you feel it was a worthwhile experience
 - Everybody responded yes.
 
-##### Any other insights gained from the experience #####
+##### Any other insights gained from the experience
 
 - I have noticed that slowly people are starting to ask around questions about what work is happening and where they can get involved.  With Stand-up not happening, it took about two weeks for us to start developing alternative ways of trying to connect with the rest of the team.  Even the emails re missing stand-ups was a way of people saying – “Hey I feel disconnected – let’s reconnect”.  The trick would be to keep that general interaction happening while re-introducing stand-up
 - There is stuff that happens in stand-up which should happen offline.  
@@ -158,7 +158,7 @@ The following is the collated feedback from team members...
 
 We then had a team retrospective where we discussed what we missed and what we didn't miss from experience...
 
-##### What we missed #####
+##### What we missed
 
 - Team  
 - Shared Ownership  
@@ -172,7 +172,7 @@ We then had a team retrospective where we discussed what we missed and what we d
 - Smart Goals  
 - Checklist  
 
-##### What we didn't miss #####
+##### What we didn't miss
 
 - The phrase 'Lets take that offline'  
 - To much detail given in daily stand-ups.  
@@ -182,7 +182,7 @@ We then had a team retrospective where we discussed what we missed and what we d
 
 -----------------------------------------------------------------------------------
 
-#### Where to from here? ####
+#### Where to from here?
 We decided to reinstate a vaery basic daily stand-up meeting and that we would rebuild that meeting and our other meetins up from first principles. Each day we would add one additional thing to the stand-up meeting format and then see if we wanted to adopt it or drop a previous addition.
 
 To start with we said we would ask for each story being work on whether it should move.
@@ -191,12 +191,12 @@ We also had a bit of a debate about the time we should hold stand-ups. Different
 
 -----------------------------------------------------------------------------------
 
-#### Original Notes ####
+#### Original Notes
 
-##### What we liked #####
+##### What we liked
 
 <img class="img-responsive" alt="Killing Standups what we liked" src="{{ site.url }}/assets/images/Killing-Standups-What-We-Liked.jpg">
 
-##### What we didn't like #####
+##### What we didn't like
 
 <img class="img-responsive" alt="Killing Standups what we didn't like" src="{{ site.url }}/assets/images/Killing-Standups-What-We-Didnt-Like.jpg">

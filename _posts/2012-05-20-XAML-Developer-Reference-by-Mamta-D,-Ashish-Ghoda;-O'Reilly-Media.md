@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XAML Developer Reference by Mamta D, Ashish Ghoda; O'Reilly Media
+title: "XAML Developer Reference by Mamta D, Ashish Ghoda; O'Reilly Media"
 tags: 
 category: Media
 ---

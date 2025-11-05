@@ -6,7 +6,7 @@ category: Soft
 ---
 Team tourism is a process of visiting a team to "make" notes.
 
-#### Comments from Kevin Trethewey on Team Tourism####
+#### Comments from Kevin Trethewey on Team Tourism
 
 Some meta-things I have learned in the process, off the top of my head:  
 - I haven't personally found any value in trying to benchmark teams against each other, the variability is just too high between them.   
@@ -18,7 +18,7 @@ Some meta-things I have learned in the process, off the top of my head:
 - The difference between a dev and manager view of the system is interesting on it's own and it takes some maturity to sift that.  
 - There is a lot of value in just knowing that people in different systems have the same problems as you do.
 
-##### Mechanisms we have tried: #####
+##### Mechanisms we have tried:
 - Whiteboard each other's process and discuss  
 - Get people to facilitate each other's retrospective. (this of course assumes a retro is in place on both sides)  
 - Observe a specific session (planning/demo etc), and give feedback on observations afterwards  

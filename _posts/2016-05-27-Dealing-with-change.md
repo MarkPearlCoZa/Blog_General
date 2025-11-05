@@ -83,7 +83,7 @@ You can be a good rebel, be careful not to be a bad rebel.
 - Friendships – outside of work friends = priceless to sanity, well-being.  
 - Get outside – all adventures are easier when you’re healthy, fit, rested  
  
-#### References ####
+#### References
 
 [Change Management Explanation](http://www.change-management.com/tutorial-adkar-overview.htm)  
 [Book - Rebels at Work: A Handbook for Leading Change from Within](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)  

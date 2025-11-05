@@ -5,7 +5,7 @@ tags: Windows
 category: Tech
 ---
 
-#### Open Solution from Command Line in Windows ####
+#### Open Solution from Command Line in Windows
 
 ~~~
 : start MySolutionFolder/MySolution.sln /D MySolutionFolder/
@@ -15,7 +15,7 @@ category: Tech
 devenv /edit FILE_PATH
 ~~~
 
-#### Disabling File Preview on Solution Explorer Click ####
+#### Disabling File Preview on Solution Explorer Click
 
 
 In Tools > Options > Environment > Tabs and Windows, you can disable it by unckecking "Solution explorer" under Preview tab.

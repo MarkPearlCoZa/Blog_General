@@ -4,11 +4,11 @@ title: SqlServer Notes
 tags: Windows
 category: Tech
 ---
-#### General Notes ####
+#### General Notes
 
 [Setting up to connect to instance via IP Address](http://dba.stackexchange.com/questions/62165/i-cant-connect-to-my-servers-sql-database-via-an-ip-address)
 
-#### Start / Stop Service from command line ####
+#### Start / Stop Service from command line
 
 Run the command line in administrator mode.
 
@@ -19,7 +19,7 @@ NET STOP MSSQLSERVER
 
 ---------------------------------------------------------------------------
 
-#### Formatting SQL ####
+#### Formatting SQL
 
 Attributes of SQL  
 - Designed to have an unambiguous grammar  
@@ -70,7 +70,7 @@ SELECT DISTINCT pilot_name
 
 [Formatting SQL Code Part 2](https://www.simple-talk.com/sql/t-sql-programming/formatting-sql-code-part-second/)  
 
-#### Useful Tools ####
+#### Useful Tools
 
 [SSMSBoost](http://www.ssmsboost.com/)  
 [Sql Complete](http://www.devart.com/dbforge/sql/sqlcomplete/)  

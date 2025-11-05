@@ -5,10 +5,10 @@ tags: Teams
 category: Soft
 ---
 
-#### General Notes ####
+#### General Notes
 
 ![Tuckmans Model]({{ site.url }}/assets/images/TuckmanModel.png)
 
-#### References ####
+#### References
 
 [The joys and challenges of group dynamics](http://www.shift-it-coach.com/tag/tuckman-model/)

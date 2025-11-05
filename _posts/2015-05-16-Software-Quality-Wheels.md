@@ -10,7 +10,7 @@ My first attempt at a revised wheel didn't go well. Specific attributes of a gen
 
 <img class="img-responsive" alt="Quality Software Systems Original Diagram" src="{{ site.url }}/assets/images/Quality-Software-System-Original.png">
 
-### Separating Internal vs Exterval views on Quality Software Systems ###
+### Separating Internal vs Exterval views on Quality Software Systems
 
 Two days later I made a second attempt at defining my quality software system wheel. Instead of thinking of quality in a generic sense, I changed my approach and thought of it in terms of a specific project I was working on. In this instance I thought about [MaxCut](www.MaxCut.co.za) - a system I have been involved with for a few years. Coming up with quality aspects for MaxCut was a lot easier. While trying to identify different attributes I noticed that some of the attributes I was listing were important to me as a software engineer (for instance the simplicity of the code) and had an internal viewpoint.
 
@@ -22,7 +22,7 @@ Other attributes were important were important to an end user and could be good 
 
 This led me to splitting my quality wheel into two wheels - one specifically focussing on external quality attributes and one specifically focussing on internal quality attributes. Taking this idea further, there are possibly a number of additional wheels of quality we could have identified.
 
-### Why is this useful? ###
+### Why is this useful?
 
 When we have words that mean different things for different people and these people interact - misunderstandings can occur. Clarifying these words can be useful. 
 

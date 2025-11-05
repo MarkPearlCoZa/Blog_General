@@ -14,7 +14,7 @@ Eventually I took the three remaining drives and placed them in a different mach
 
 I would give this drive a 2 out of 5 stars.
 
-#### References ####
+#### References
 
 [Cracking Seagate Black Armor NAS 110](http://crapnas.blogspot.co.za/)  
 [How to install latest U-Boot & Linux Kernel on BlackArmor](http://wiki.ccc-ffm.de/projekte:diverses:seagate_blackarmor_nas_220_debian)  

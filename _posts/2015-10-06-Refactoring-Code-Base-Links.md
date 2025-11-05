@@ -31,13 +31,13 @@ Source: Marcus Blakenship
 
 These are useful for nailing down the behavior of the existing code. They are different from test driven tests - revealing intent is not necessarily a primary objective.
 
-### Refactoring Articles ###
+### Refactoring Articles
 
 [Martin Fowlers Catalog of Refactorings](http://refactoring.com/catalog/)  
 [How to conque legacy code](https://medium.freecodecamp.com/conquer-legacy-code-f9e23a6ab758#.pyn3q1fet)  
 [Shims, Jigs, and other woodworking concepts to conquer technical debt](http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/)  
 
-### Refactoring Code Base Links ###
+### Refactoring Code Base Links
 
 Below are a set of links to code bases that are useful for refactoring exercises.  
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickas Catch Up's Notes
+title: "Kickas Catch Up's Notes"
 tags: 
 category: Soft
 ---

@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-#### Ubuntu ####
+#### Ubuntu
 
 Install Hugo in Ubuntu
 ~~~
@@ -31,6 +31,6 @@ which hugo
 hugo version
 ~~~
 
-#### References ####
+#### References
 
 [Installing Hugo in Ubuntu](http://exponential.io/blog/2015/02/25/install-hugo-on-ubuntu-linux/)  

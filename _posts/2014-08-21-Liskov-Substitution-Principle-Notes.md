@@ -5,7 +5,7 @@ description: "Liskon Substitution Principle Notes"
 tags: Design
 category: Programming
 ---
-#### General Ramblings ####
+#### General Ramblings
 
 *Uncle Bob*
 Does the set of all sets that doesn't contain itself contain itself?

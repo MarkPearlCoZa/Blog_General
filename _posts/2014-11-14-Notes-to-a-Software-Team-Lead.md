@@ -13,7 +13,7 @@ Another area that I strongly related with was Roy's explanation of the need to c
 
 I did find the book had a number of typo's at the time I read it. 
 
-#### Notes ####
+#### Notes
 
 - p.g. 9 Which leadership style should you choose 
 - Section 3 Survival mode 

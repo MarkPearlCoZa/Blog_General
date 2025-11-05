@@ -5,9 +5,9 @@ tags: Agile
 category: Soft
 ---
 
-#### General Notes ####
+#### General Notes
 
 
-#### References ####
+#### References
 
 [Littles Law - isn't it a linear relationship?](http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Steps to Incremental Improvements using Team Retro's
+title: "Four Steps to Incremental Improvements using Team Retro's"
 tags: Teams Retrospectives
 category: General 
 ---
@@ -157,7 +157,7 @@ Having a retrospective at a regular cadence is vital for incremental improvement
 
 ---------------------------------------------------------------------------------------------------
 
-#### Resource Sites ####
+#### Resource Sites
 
 [Fun Retrospective](http://www.funretrospectives.com/)  
 [7 Step Agenda for Retrospective](http://www.thoughtworks.com/insights/blog/7-step-agenda-effective-retrospective)  

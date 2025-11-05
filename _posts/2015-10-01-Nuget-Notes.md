@@ -5,9 +5,9 @@ tags: Windows
 category: Tech
 ---
 
-### Nuget Powershell Commands ###
+### Nuget Powershell Commands
 
-#### Installing Packages to a project ####
+#### Installing Packages to a project
 
 ~~~
 Install-Package <PackageName> -Project <TargetProject>

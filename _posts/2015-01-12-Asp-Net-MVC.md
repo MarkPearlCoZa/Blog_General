@@ -5,7 +5,7 @@ tags: Framework
 category: Tech
 ---
 
-#### Basics ####
+#### Basics
 
 When a http request is made, the following basic flow happen...
 
@@ -13,7 +13,7 @@ MVC Route Handler > Controller
 
 The controller determines the action, if the action result returns a view, the view renderer will return the correct view.
 
-#### Passing information from Controller to View ####
+#### Passing information from Controller to View
 
 - The ViewBag  
 - ViewDataDictionary  
@@ -32,11 +32,11 @@ Strongly typed views with a view model
 
 ---------------------------------------------------------------------------------
 
-#### Dependency Injection with Controllers ####
+#### Dependency Injection with Controllers
 
 [Asp.Net Controller Dependency Injection for Beginners](http://www.codeproject.com/Articles/560798/ASP-NET-MVC-Controller-Dependency-Injection-for-Be)
 
-##### Manual Dependency Injection #####
+##### Manual Dependency Injection
 
 Assume we have removed the default constructor on the home controller and instead our home controller has a dependency on persistenceService. We can manually get dependency injection working by doing the following.
 
@@ -100,12 +100,12 @@ protected void Application_Start()
 }
 ~~~
 
-#### Using an IOC container for Dependency Injection ####
+#### Using an IOC container for Dependency Injection
 
 - Add Unity.Mvc4 to the project via nuget  
 - Register the types in the Bootstrapper.cs file  
 
-#### Using Dependency Injection for Views ####
+#### Using Dependency Injection for Views
 
 For dependency injection in views you need to use property injection.  
 

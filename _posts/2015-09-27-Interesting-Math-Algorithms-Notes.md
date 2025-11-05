@@ -10,7 +10,7 @@ I recently have been spending a fair amount of time on [CodeWars](http://www.Cod
 
 -------------------------------------------------------------------------------------------------
 
-### Difference between Algebra and Calculus  ###
+### Difference between Algebra and Calculus
 
 Algebra & calculus are two different branches of mathematics. 
 
@@ -21,7 +21,7 @@ Algebra & calculus are two different branches of mathematics.
 
 -------------------------------------------------------------------------------------------------
 
-### Exponents and PowerOf ###
+### Exponents and PowerOf
 
 When we write:  
 
@@ -29,7 +29,7 @@ When we write:
 
 We say that a is the "base", b is the "exponent", and the whole thing is "a power of b".  
 
-#### Inversing Exponents ####
+#### Inversing Exponents
 
 To inverse an exponent you need to use logarithms. For the following exponent (where b > 0) :  
 
@@ -46,7 +46,7 @@ Another way to represent the relationship between exponents and logarithms is as
 [Read more about inversing exponenets.](http://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents)  
 
 
-#### Calculate a PowerOf without using libraries ####
+#### Calculate a PowerOf without using libraries
 
 ~~~
 const powerOf = (n, y) => {
@@ -87,7 +87,7 @@ where
 
 ------------------------------------------------------------------------------------------------
 
-### Averages ###
+### Averages
 
 Simple formula for calculating averages if you know the total length
 
@@ -111,7 +111,7 @@ const average = (arr) => arr.reduce((t,c,i) => ((t * i) + c) / (i + 1),0);
 
 ------------------------------------------------------------------------------------------------
 
-### Pronic Numbers ###
+### Pronic Numbers
 
 A pronic number, oblong number, rectangular number or heteromecic number, is a number which is the product of two consecutive integers, that is, n(n + 1).
 
@@ -127,7 +127,7 @@ public class Kata
 
 -------------------------------------------------------------------------------------------------
 
-### Triangular, Polygonal Numbers ###
+### Triangular, Polygonal Numbers
 
 A Triangular number is the term for a factorial type operation, but with summation instead of products?
 
@@ -140,18 +140,18 @@ var triangular = (n*(n+1)) / 2;
 
 -------------------------------------------------------------------------------------------------
 
-### Triangle Inequality Theorem ###
+### Triangle Inequality Theorem
 
 Triangle Inequality Theorem, which states that the sum of two side lengths of a triangle is always greater than the third side. If this is true for all three combinations of added side lengths, then you will have a triangle.
 
 -------------------------------------------------------------------------------------------------
 
-### Permutations vs Combinations ###
+### Permutations vs Combinations
 
 Combinations if order DOES NOT matter.  
 Permutations if order DOES matter.  
 
-#### Permutations ####
+#### Permutations
 
 2 Types:  
 - Repetition is allowed (n^r times)    
@@ -170,19 +170,19 @@ What order could 16 pool balls be in?
 - Our third choice has 14 possibilities.  
 - etc.  
 
-#### Combinations ####
+#### Combinations
 
 2 Types:  
 - Repetition is allowed  
 - Repetition is NOT allowed  
 
-##### When repetition is allowed: #####
+##### When repetition is allowed:
 
 (n + r - 1)! / r! (n - 1)! 
 
 where n is the number of things to choose from, and we choose r of them.
 
-##### When repetition is NOT allowed: #####
+##### When repetition is NOT allowed:
 
 n! / (r! * (n - r)!)
 
@@ -191,11 +191,11 @@ where n is the number of things to choose from, and we choose r of them.
 [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)  
 [Combination Calculator](https://www.mathsisfun.com/combinatorics/combinations-permutations-calculator.html)  
 
-### Factorial ###
+### Factorial
 
 Read [shmoop's explanation on factorials & permutations](http://www.shmoop.com/probability-statistics/factorials-permutations.html) for a humorous and understandable explanation of factorials.  
 
-#### Recursive Factorial ####
+#### Recursive Factorial
 
 Calculating factorial can be done as follows in JavaScript...
 
@@ -218,7 +218,7 @@ function factorial(n) {
 }
 ~~~
 
-#### Non-recursive Factorial ####
+#### Non-recursive Factorial
 
 Since an integers overflow on anything bigger than 12!, non-recursive factorials can often be done using look up tables...  
 
@@ -232,7 +232,7 @@ public int factorial(int n) {
 
 [See more on Stack Overflow](http://stackoverflow.com/questions/231250/how-would-you-write-a-non-recursive-algorithm-to-calculate-factorials)  
 
-### Sum of multiples ###
+### Sum of multiples
 
 Sn = (n/2) * (a1 + an) 
 
@@ -241,7 +241,7 @@ n = number of terms in the sequence
 a1 = the first term in the sequence.
 an = the nth term in the sequence. 
 
-### Calculating the nth root of a number  ###
+### Calculating the nth root of a number
 
 Get the nth root of a number using JavaScript  
 
@@ -263,7 +263,7 @@ Math.pow(25, 1/2) == 5
 
 [see prime number sequence](https://oeis.org/A000040)  
 
-### Calculating Prime ###
+### Calculating Prime
 
 When calculating primes you do not need to traverse every single number. You only need to check up to the sqrt of a number.
 
@@ -302,7 +302,7 @@ def isprime(n):
 
 -------------------------------------------------------------------------------------------------
 
-### Lowest Common Denominator / Greatest Common Denominator ###
+### Lowest Common Denominator / Greatest Common Denominator
 
 ~~~
 var gcd = function(a, b) {
@@ -316,7 +316,7 @@ var gcd = function(a, b) {
 
 ------------------------------------------------------------------------------------------------
 
-### Cutting Cubes ###
+### Cutting Cubes
 
 If you have a cube and you cut it once across all 3 dimensions, how many different types of cubes will you have?
 Do we have a formula for calculating this for any number of cuts across all 3 dimensions?
@@ -334,25 +334,25 @@ If we painted the cube a color, and then cut it into smaller cubes, what are the
 3) Cubes that are painted on 2 sides  
 4) Cubes that are painted on 3 sides  
 
-#### Cubes that are not painted ####
+#### Cubes that are not painted
 
 Take the number of cuts, visualize on one plain so that you can see rows and columns - we call this a face. 
 
 The total number of small cubes that are unpainted would be the (number of cuts - 2) ^ 3  
 
-#### Cubes that are painted on only one side ####
+#### Cubes that are painted on only one side
 
 Number of faces * central cubes  
 
-#### Cubes that are painted on only two sides ####
+#### Cubes that are painted on only two sides
 
 Number of 2 sides in one face * 3  
 
-#### Cubes that are painted on only three sides ####
+#### Cubes that are painted on only three sides
 
 This will be the corners of the original cube, which will always be 8
 
-#### Worked Example ####
+#### Worked Example
 
 If we cut a cube into 5 number of halves, the total number of small cubes are as follows:  
 
@@ -424,11 +424,11 @@ let result = Math.pow(9, 1/3);
 
 ------------------------------------------------------------------------------------------------
 
-### Distance / Length of a line ###
+### Distance / Length of a line
 
 [Length of Line Segment (Distance) explained](http://www.regentsprep.org/regents/math/geometry/gcg3/ldistance.htm)  
 
-### Find equation of straight line given 2 points ###
+### Find equation of straight line given 2 points
 
 <img src="{{ site.url }}/assets/images/Math_EquationOfLine.gif">
 
@@ -451,7 +451,7 @@ Or, another way to format it would be to use the "Slope-Intercept" form:
 
 ------------------------------------------------------------------------------------------------
 
-### Remainder ###
+### Remainder
 
 Calculate the remaineder without using the modulous operator...  
 

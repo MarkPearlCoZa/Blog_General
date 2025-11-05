@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-#### Having GH-Pages A Subdirectory ####
+#### Having GH-Pages A Subdirectory
 
 Make sure you do not currently have a gh-pages branch
 
@@ -27,5 +27,5 @@ Increase number of items in page response
 
 per_page=100000
 
-#### References ####
+#### References
 

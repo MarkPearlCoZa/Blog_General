@@ -63,7 +63,7 @@ Week 3: Chapters 1, 2, and 3: Economy, Precision, and Action
 Week 4: Chapters 4, 5, and 7: Music, Personality, and Point of View
 
 
-#### References ####
+#### References
 
 [Wiki](http://en.wikipedia.org/wiki/J_curve)  
 [Grammar](http://englishplus.com/)  

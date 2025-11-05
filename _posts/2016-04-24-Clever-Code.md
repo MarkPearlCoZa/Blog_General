@@ -5,9 +5,9 @@ tags: Code
 category: Misc
 ---
 
-### Javascript ###
+### Javascript
 
-#### Get the last digit of a number ####
+#### Get the last digit of a number
 
 ~~~
 let number = 123
@@ -15,7 +15,7 @@ let lastDigit = number % 10; // return 3
 let lastTwoDigits = number % 100 //return 23
 ~~~
 
-#### Inserting dashes between odd and even numbers ####
+#### Inserting dashes between odd and even numbers
 
 ~~~
 function insertDashII(num) {
@@ -25,7 +25,7 @@ function insertDashII(num) {
 }
 ~~~
 
-#### Replace every word not matching a pattern ####
+#### Replace every word not matching a pattern
 
 ~~~
 function rakeGarden(garden) {
@@ -34,7 +34,7 @@ function rakeGarden(garden) {
 ~~~
 
 
-#### Make sure that every letter in a word is unique ####
+#### Make sure that every letter in a word is unique
 
 ~~~
 function isIsogram(str){ 
@@ -42,7 +42,7 @@ function isIsogram(str){
 }
 ~~~
 
-#### Checking for Palindrome ####
+#### Checking for Palindrome
 
 ~~~
 const isPalindrome = (str) => str === reverse(str);
@@ -50,7 +50,7 @@ const isPalindrome = (str) => str === reverse(str);
 const reverse = (str) => str.toString().split('').reverse().join('');
 ~~~
 
-#### Handling Pricing Combinations / Steps  ####
+#### Handling Pricing Combinations / Steps
 
 The cost of deliveries is:
 

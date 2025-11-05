@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-### References ###
+### References
 
 - [Litmus - 14-Day Free Trial](https://litmus.com/signup/coupon/codeschool)  
 - [Bulletproof Buttons for Email](http://buttons.cm)  

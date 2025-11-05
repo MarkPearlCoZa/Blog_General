@@ -12,7 +12,7 @@ Key Points:
 3. Make sure your script tells your customers what you want them to know.
 4. Use an external mic...
 
-#### References ####
+#### References
 
 [The benefits of using video on landing pages](http://unbounce.com/landing-page-articles/the-benefits-of-using-video-on-landing-pages/)  
 [Video Landing Pages](http://www.wordstream.com/blog/ws/2014/12/16/video-landing-pages)  

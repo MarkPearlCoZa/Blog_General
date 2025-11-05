@@ -17,9 +17,9 @@ Next up - see if you can find a remuneration policy for speakers - you might nee
 So - basically at the minimum you'll be paying for flights.
 ~~~
 
-### Tips ###
+### Tips
 
-#### Travel Expense ####
+#### Travel Expense
 
 - Buy tickets well in advance (think 6-10 months).  
 - If you are a Discovery Vitality person - use your discounts.  
@@ -27,24 +27,24 @@ So - basically at the minimum you'll be paying for flights.
 
 - Some conferences pay speakers only for certain types of sessions, so don't hestitate to ask what the opportunities are. 
 
-#### Funding the time away from work ####
+#### Funding the time away from work
 
 - Ask organisers if they know local companies that might be interested in your services.  
 - Offer a paid for pre-conference workshop to help cover expenses for the trip.  
 
-#### Getting Submissions Accepted ####
+#### Getting Submissions Accepted
 
 - Submit to as many conferences as you can. This will give you practice in how to do this.  
 - Volunteer to be a reviewer for the conference (like for Agile20xx) this way you learn how to write submissions and what the reviewers are looking for.  
 - When submitting, send in the maximum submissions you can and vary the length and stage - this gives you a greater chance of being accepted. 
 - Don't worry about submitting too many talks / conferences - you can always decline if you get accepted and can't do it.
 
-#### People who gave advice ####
+#### People who gave advice
 
 Thanks to the following people who gave advice  
 - [Sam & Karen from Growing Agile](http://growingagile.co.za/)  
 - [Joe Rainsberger](http://www.jbrains.ca/)  
 
-#### Additional Resources ####
+#### Additional Resources
 
 [How to get a submission accepted into Agile20xx](http://www.mitchlacey.com/blog/getting-your-session-accepted-to-the-agile-alliance-agile-conference.html)  

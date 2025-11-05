@@ -13,13 +13,13 @@ I think any software developer can really gain from reading this book. Be it in 
 
 Areas I found particularly interesting...
 
-#### General ####
+#### General
 - His understanding of start ups - the fact that you are cramming decades of work into a handful of years, the risks, what worked for him  
 - His view on Lisp - how concise Lisp is, how he views it as an extremely powerful language  
 - His view on software projects - small teams no more than 10 people, possibly 5 if you can, everyone equally contributing
 - His view on increasing value of his start up - hiring people to increase value (even though they didn't put them on the direct product).
 
-#### His view on wealth ####
+#### His view on wealth
 - Money is not wealth, money is a way of moving wealth    
 - Wealth is what you want  
 - Wealth is not a pie, there is no cap on it  
@@ -30,10 +30,10 @@ Areas I found particularly interesting...
 - To get rich you need measurement and leverage  (you need both, one on its own isn't useful)  
 - Small companies are easier to measure, which acts as a motivator  
 
-#### What he would define as important in the ideal programming language ####
+#### What he would define as important in the ideal programming language
 - Written for programmer, not for language designers  
 
-#### Quote of the book ####
+#### Quote of the book
 
 ~~~
 Authoritarian countries become corrupt; 

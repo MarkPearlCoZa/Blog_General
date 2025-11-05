@@ -28,7 +28,7 @@ I also see part of the role of the architect to get involved in
 
 > Just enough architecture
 
-#### References ####
+#### References
 
 [The role of a TA in Development](https://www.simple-talk.com/opinion/opinion-pieces/the-role-of-the-technical-architect-in-development/?utm_source=simpletalk&utm_medium=email-main&utm_content=architectrole-20141027&utm_campaign=opinion)  
 [Software Architecture for Developers by Simon Brown](https://leanpub.com/software-architecture-for-developers)  

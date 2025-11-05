@@ -127,4 +127,4 @@ The second code example to me is more beautiful than the first. It has managed t
 
 #### Reference
 
-[Keys to Great Writing Ch1 ]()
+Keys to Great Writing Ch1

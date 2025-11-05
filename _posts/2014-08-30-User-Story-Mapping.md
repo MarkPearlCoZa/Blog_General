@@ -18,7 +18,7 @@ My favourite section in the book was Jeff's analogy of user stories being like t
 
 I would recommend User Story Mapping to everyone involved in the agile process. Thank you for making the time to put these thoughts on paper - it has been invaluable.
 
-#### Notes ####
+#### Notes
 - Read Rock Breaking  
 - Read Rock Breakers  
 - Read Stories are actually like Asteroids  
