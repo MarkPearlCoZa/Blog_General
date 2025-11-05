@@ -15,7 +15,7 @@ We are exceptionally good at this whole avoidance thing.
 * We stick to what we know.  If we believe it won’t matter whether we give the news or not, then we will believe ourselves.
 * We value ourselves over others.  That is, how we feel matters more than getting back to someone else. Ouch!   
 
-## 5 top tips to make it as easy as possible; 
+## 5 top tips to make it as easy as possible: 
 
 1. Preparation is important and doesn’t need to take that much time.  
 2. Ground it in facts and evidence. Give them the detail about why it is a no. You only need 1-2 points to make it valuable feedback.  
@@ -27,4 +27,4 @@ We are exceptionally good at this whole avoidance thing.
 
 ## References
 
-[Why saying no thanks is so hard](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=a1b33b7096&e=807b678eab]  
+[Why saying no thanks is so hard](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=a1b33b7096&e=807b678eab)  
