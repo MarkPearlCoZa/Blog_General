@@ -14,15 +14,14 @@ Turns out the name of the table in my database was “My.ExampleTable” with th
 
 The way you can identify this is if you go into Sql Management Studio and look at the Schemas.
 
-Schema
+![Schema]({{ site.url }}/assets/images/NDbUnit-Schema.png)
 
 Pulling the table into the xsd diagram will give you something like the following…
 
-2
-
+![XSD Diagram 1]({{ site.url }}/assets/images/NDbUnit-XSD-1.png)
 
 Adding the first part of the name back to the xsd diagram file solved the problem as illustrated in the last diagram….
 
-3
+![XSD Diagram 2]({{ site.url }}/assets/images/NDbUnit-XSD-2.png)
 
 And that should resolve the error, or at east it did in my case…
