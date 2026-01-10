@@ -4,6 +4,7 @@ title: Different types of policies
 tags: 
 category: General
 ---
+
 In Will Laron's book "Crafting Engineering Strategy" he covers different types of policies. As a quick reference, I've put them below:
 
 Strategic policies: Define why the organization makes certain choices by aligning engineering behavior with business strategy.
