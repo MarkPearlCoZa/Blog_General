@@ -12,6 +12,17 @@ Structural policies: Define who owns decisions and work by shaping teams, roles,
 Normative policies: Define how we are expected to behave by setting shared norms, standards, and expectations.  
 Procedural policies: Define how work gets done by specifying repeatable processes and workflows.  
 
+## Why policies?
+
+Policies help support the following organisational problems:  
+
+* How do we organize to build anything effectively?
+* What constraints guide technical and organizational decisions?
+* What must remain true regardless of which product bets we make?
+* How do we scale execution without breaking ourselves?
+
+## How policies fit in strategy documents
+
 A clean mental model for thinking about how policies fit into strategy documents
 
 * Policies constrain  
