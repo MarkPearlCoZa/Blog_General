@@ -237,7 +237,7 @@ dict_1 == dict2                                 # return true
 [1, 2, 3] == [1, 2, 3]      # return True
 ~~~
 
-# The get() method on dicts and its "default" argument
+## The get() method on dicts and its "default" argument
 
 ~~~
 name_for_userid = {
@@ -316,7 +316,7 @@ for (a,b) in enumerate(stuff):
     print(a)
     print(b)
 
-# 0 1 1 2 2 3 3 4 4 5 5 6
+## 0 1 1 2 2 3 3 4 4 5 5 6
 ~~~
 
 #### While Loops
@@ -532,8 +532,8 @@ doSomething(1, 2, 3)
 #### Finding the most common elements in an iterable
 
 ~~~
-# collections.Counter lets you find the most common
-# elements in an iterable:
+## collections.Counter lets you find the most common
+## elements in an iterable:
 
 >>> import collections
 >>> c = collections.Counter('helloworld')
@@ -548,20 +548,20 @@ Counter({'l': 3, 'o': 2, 'e': 1, 'd': 1, 'h': 1, 'r': 1, 'w': 1})
 #### Python List Comprehension
 
 ~~~
-# Python's list comprehensions are awesome.
+## Python's list comprehensions are awesome.
 
 vals = [expression 
         for value in collection 
         if condition]
 
-# This is equivalent to:
+## This is equivalent to:
 
 vals = []
 for value in collection:
     if condition:
         vals.append(expression)
 
-# Example:
+## Example:
 
 >>> even_squares = [x * x for x in range(10) if not x % 2]
 >>> even_squares
@@ -571,30 +571,30 @@ for value in collection:
 #### In Place Swapping
 
 ~~~
-# Why Python Is Great:
-# In-place value swapping
+## Why Python Is Great:
+## In-place value swapping
 
-# Let's say we want to swap
-# the values of a and b...
+## Let's say we want to swap
+## the values of a and b...
 a = 23
 b = 42
 
-# The "classic" way to do it
-# with a temporary variable:
+## The "classic" way to do it
+## with a temporary variable:
 tmp = a
 a = b
 b = tmp
 
-# Python also lets us
-# use this short-hand:
+## Python also lets us
+## use this short-hand:
 a, b = b, a
 ~~~
 
 ### Class Methods, Instance Methods & Static Methos
 
 ~~~
-# @classmethod vs @staticmethod vs "plain" methods
-# What's the difference?
+## @classmethod vs @staticmethod vs "plain" methods
+## What's the difference?
 
 class MyClass:
     def method(self):
@@ -622,8 +622,8 @@ class MyClass:
         """
         return 'static method called'
 
-# All methods types can be
-# called on a class instance:
+## All methods types can be
+## called on a class instance:
 >>> obj = MyClass()
 >>> obj.method()
 ('instance method called', <MyClass instance at 0x1019381b8>)
@@ -632,8 +632,8 @@ class MyClass:
 >>> obj.staticmethod()
 'static method called'
 
-# Calling instance methods fails
-# if we only have the class object:
+## Calling instance methods fails
+## if we only have the class object:
 >>> MyClass.classmethod()
 ('class method called', <class MyClass at 0x101a2f4c8>)
 >>> MyClass.staticmethod()

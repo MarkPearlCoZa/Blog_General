@@ -11,7 +11,7 @@ category: Tech
 - plan
 - destroy
 
-# Getting terraform states  
+## Getting terraform states  
 
 terraform init  # creates a .terraform folder with empty states
 terraform import module.ps-ledger-dist-sit-blue.aws_cloudfront_distribution.monkey XXXXXXXXXXXXXX    # module folder > ps ledger name > 
@@ -20,7 +20,7 @@ Check out main.tf to figure out path
 
 It doesn't matter how many files are in the folder, these files are collapsed into one file  
 
-# How to get the state back
+## How to get the state back
 
 terraform import 
 

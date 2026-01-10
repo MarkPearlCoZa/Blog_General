@@ -7,7 +7,7 @@ category: Tech
 
 REST stands for REpresentational State Transer. It is currently the de facto architecture of web applications. It is a guideline for mapping resources to URLs and interacting with them using CRUD verbs (Post, Get, Put and Delete).
 
-# URL's
+## URL's
 
 Resources are best thought of as nouns. For example, the following is not RESTful because it uses a URL to describe an action. This is a fairly fundamental point in distinguishing RESTful from non-RESTful systems.
 
@@ -17,7 +17,7 @@ Resources are best thought of as nouns. For example, the following is not RESTfu
 
 URLs should be as precise as needed; everything needed to uniquely identify a resource should be in the URL. You should not need to include data identifying the resource in the request. This way, URLs act as a complete map of all the data your application handles.
 
-# HTTP Verbs
+## HTTP Verbs
 
 ## GET
 
@@ -70,13 +70,13 @@ Remember: it's you, the programmer, who ultimately decides what happens when a c
 
 [See Beginners guide to HTTP](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)  
 
-# Anemic REST Antipattern
+## Anemic REST Antipattern
 
 Failure to properly model the domain as a set of resources, naively developing services that simply expose static, hierarchical data models via templated URL's.
 
 [Read Thoughtworks Info on Antipattern](https://www.thoughtworks.com/radar/techniques/anemic-rest)  
 
-# Rest & Long Running Jobs
+## Rest & Long Running Jobs
 
 Return a 202 Accepted Response
 

@@ -34,7 +34,7 @@ Actions to complement fuzzy projects
 * iterations == daily
 * discarded most original backlog
 
-# Inhibitors for managerless
+## Inhibitors for managerless
 
 * over-specialized  
 

@@ -23,7 +23,7 @@ After going through the basics on Carl’s blog I found it covered pretty much e
 
 The keyword I was looking for was…
 
-# git push origin master
+## git push origin master
 
 All seemed fine, except Git was asking me for a passphrase when I tried to push my local version to Garrens account on GitHub. I eventually emailed Garren, so will wait and see what passphrase it is requiring.
 

@@ -186,7 +186,6 @@ Stored proc with a parameter declaration
 [For more info see this post](http://www.mysqltutorial.org/stored-procedures-parameters.aspx)
 
 
-### References
-
+#### References
 [Everything you need to get started with mysql](http://code.tutsplus.com/tutorials/everything-you-need-to-get-started-with-mysql--net-3076)
 [Foreign Keys](http://www.mysqltutorial.org/mysql-foreign-key/)

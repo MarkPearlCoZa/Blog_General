@@ -245,13 +245,13 @@ Alternatively...
 x = [1, 1, 2, 4]
 y = [1, 2, 2, 2]
 
-# intersection
+## intersection
 x & y            # => [1, 2]
 
-# union
+## union
 x | y            # => [1, 2, 4]
 
-# difference
+## difference
 x - y            # => [4]
 ~~~
 

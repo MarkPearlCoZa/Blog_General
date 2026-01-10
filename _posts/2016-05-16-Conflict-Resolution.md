@@ -130,8 +130,7 @@ Conflict with this type might feel like ...  When Owls talk, they may come on st
 3. Other parties are unconcerned about outcome  
 4. Other parties do not have problem solving skills  
 
-### References
-
+#### References
 [Helping teams deal with conflict](http://nomad8.com/helping-teams-deal-with-conflict/)  
 [Conflict - Thomas-kilman-conflict-mode-instrument]({{ site.url }}/assets/documents/Conflict - thomas-kilman-conflict-mode-instrument.pdf)  
 [Conflict Style - Interpreting Your Scores]({{ site.url }}/assets/documents/Conflict Style_Interpreting Your Scores.doc)  

@@ -10,7 +10,7 @@ RPC in the Microsoft space is largely targeted toward c++. Support for languages
 - JSON over HTTP  
 - gRPC  
 
-# RPC Notes
+## RPC Notes
 
  Interface Definition Language (IDL) - IDL is a language for defining interfaces   
 

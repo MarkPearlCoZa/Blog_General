@@ -5,28 +5,28 @@ tags:
 category: General
 ---
 
-### **Objective**:
+### Objective:
 
 - To provide a structured process for team members to express genuine appreciations for their colleagues.
 - To enhance team cohesion, connection, and a culture of recognition.
 
-### **Duration**: 30 minutes 
+### Duration: 30 minutes 
 
-### **Session Outline**
+### Session Outline
 
-#### **1. Welcome and Introduction (5 minutes)**
+#### 1. Welcome and Introduction (5 minutes)
 
 - **Opening Remarks**: Begin by welcoming everyone and thanking them for attending.
 - **Purpose Explanation**: Explain the objective of the session—highlighting the importance of expressing appreciation and its positive impact on team dynamics.
 - **Set the Tone**: Encourage openness, positivity, and respect throughout the session.
 
-#### **2. Establish Ground Rules (3 minutes)**
+#### 2. Establish Ground Rules (3 minutes)
 
 - **Confidentiality**: Create a safe space where team members feel comfortable sharing.
 - **Respectful Communication**: Emphasize listening without interrupting and respecting diverse perspectives.
 - **Focus on Positivity**: Remind everyone that the session is about positive recognition, not critiques.
 
-#### **3. Guidelines for Expressing Appreciation (5 minutes)**
+#### 3. Guidelines for Expressing Appreciation (5 minutes)
 
 - **Be Specific**: Encourage mentioning exact actions or behaviors.
 - **Be Sincere**: Stress the importance of genuine and heartfelt appreciations.
@@ -36,7 +36,7 @@ category: General
   - **Behavior**: What exactly did the person do?
   - **Impact**: What was the positive outcome?
 
-#### **4. Sharing Appreciations (30-45 minutes)**
+#### 4. Sharing Appreciations (30-45 minutes)
 
 - **Method Options**:
   - **Option A: Round-Robin Sharing**
@@ -47,7 +47,7 @@ category: General
   - **Voluntary Sharing**: Allow team members to pass if they feel uncomfortable.
   - **Modeling**: Start the sharing yourself to set an example.
 
-#### **5. Open Discussion and Reflection (10 minutes)**
+#### 5. Open Discussion and Reflection (10 minutes)
 
 - **Discussion Questions**:
   - "How did it feel to give and receive appreciations?"
@@ -55,7 +55,7 @@ category: General
   - "How can we continue to support each other moving forward?"
 - **Encourage Sharing**: Invite team members to share their thoughts and feelings about the session.
 
-#### **6. Closing Remarks (5 minutes)**
+#### 6. Closing Remarks (5 minutes)
 
 - **Summarize Key Takeaways**: Recap the main points and appreciations shared.
 - **Express Gratitude**: Thank the team for their participation and openness.
@@ -63,7 +63,7 @@ category: General
 
 ---
 
-### **Additional Tips for a Successful Session**
+### Additional Tips for a Successful Session
 
 - **Preparation**:
   - **Advance Notice**: Inform the team about the session ahead of time so they can prepare mentally.
@@ -82,7 +82,7 @@ category: General
 
 ---
 
-### **Example of Expressing Appreciation Using the SBI Model**
+### Example of Expressing Appreciation Using the SBI Model
 
 - **Situation**: "During last week's client presentation,"
 - **Behavior**: "you stepped in to answer unexpected questions confidently and clearly,"

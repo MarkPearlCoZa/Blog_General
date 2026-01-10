@@ -7,7 +7,7 @@ category: Media
 
 Really recommend this book to anyone who is trying to change or get over an addictive habit.
 
-# Paragraphs that resonated with me...
+## Paragraphs that resonated with me...
 
 Finally, we don't feel our presentation of Alicia's case (or any other we've given) demonstrates how energy-consuming the process of change can be. It is not uncommon for people to be completely "out of commission" in other areas of their lives as they grapple with these core issues and try to alter the very blueprint of their lives. This decreased capacity to cope with demands in other areas of life often makes those who are trying to change feel guilty
 

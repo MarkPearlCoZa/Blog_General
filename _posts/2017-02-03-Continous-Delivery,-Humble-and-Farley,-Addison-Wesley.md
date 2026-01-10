@@ -15,11 +15,11 @@ So what stood out?
 * Version Control Everything, including all configuration data really hit home  
 * Creating a build pipeline, creating one set of binaries  
 
-# Chapter 9 - Testing Non-Functional Requirements
+## Chapter 9 - Testing Non-Functional Requirements
 
 * How to test non-functional requirements  
 
-# Chapter 15 - Managing Continous Delivery
+## Chapter 15 - Managing Continous Delivery
 
 This chapter covers so of the "managing" aspects of continous delivery. I really liked the maturity model they presented as well as going through the life cycles of creating software.
 

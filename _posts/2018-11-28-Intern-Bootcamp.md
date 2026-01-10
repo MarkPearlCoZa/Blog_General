@@ -6,7 +6,7 @@ category: General
 ---
 Goals for the session
 
-# Some things to consider
+## Some things to consider
 
 What does an intern software developer want? It depends who they are, here are some examples:  
 
@@ -22,7 +22,7 @@ What does an intern software developer want? It depends who they are, here are s
 * clarity & transparency   
 * it’s ok not to know the answers (let’s figure it out together)  
 
-# Having a good internships requires proper preparation...
+## Having a good internships requires proper preparation...
 
 The critical times are:
 
@@ -33,7 +33,7 @@ The critical times are:
 
 When there have been difficulties with internships it's usually problems related to different expectations and/or low level of engagement & support in the first couple of weeks.
 
-# Before Day 1 
+## Before Day 1 
 
 Before day 1 you need to prepare...
 
@@ -45,7 +45,7 @@ Before day 1 you need to prepare...
 
 Suggestion: Invite the interns for a casual lunch before start date. No pressure, just to meet the team and make everyone feel welcome.
 
-# First few days
+## First few days
 
 In the first few days get them introduced to their mentors, the company values, tools for communication etc.
 Housekeeping
@@ -83,7 +83,7 @@ Make sure day one goes smoothly! First impressions are really important. Try and
 As a newbie, it’s easy to get stuck in a hole. 1 minute’s advice from their mentor could save them HOURS of independent problem-solving.  
 Provide context for your intern: how does their project fit into the wider team/product/organisation? 
 
-# Week 2-10 
+## Week 2-10 
 
 If you are mentoring you should be able to pull back training/mentor time but remain available & ensure regular check-ins
 
@@ -116,12 +116,12 @@ Consider re-scoping project if their progress is slower than anticipated
 Can you provide extra training resources or tips?
 Extra tech or non-tech support required?
 
-# End
+## End
 
 We always asked our interns to present back to the wider team at the end of their project. It is great experience for them, and helps raise awareness about what interns can do.
 Wanna keep em? Sometimes interns are available part-time or full-time after summer. COMMUNICATE EARLY!
 
-# As a mentor
+## As a mentor
 
 Expect to be really hands on early on
 Expect to be available for the first two days, especially orientation day

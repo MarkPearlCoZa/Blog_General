@@ -5,7 +5,7 @@ tags:
 category: Misc
 ---
 
-# Book.txt
+## Book.txt
 
 ## Commenting Sections
 
@@ -14,13 +14,13 @@ thisIsIncluded.txt
 %% thisIsCommentedOut.txt
 ~~~
 
-# Image Size
+## Image Size
 
 468 wide  
 648 high  
 72ppi  
 
-# Cover Image
+## Cover Image
 
 612 wide  
 792 high  

@@ -7,11 +7,11 @@ category: Soft
 
 People are depend on you–for direction, for validation, for encouragement.
 
-# Care about your team
+## Care about your team
 
 - Great people in the morning, ask how they are doing and care about their answers. 
 
-# When getting started  
+## When getting started  
 
 1. Consistently hold meaningful one-on-one meetings   
 2. Make it safe for them to give you honest feedback  
@@ -19,18 +19,18 @@ People are depend on you–for direction, for validation, for encouragement.
 
 > Let people be seen and heard
 
-# Help people feel engaged
+## Help people feel engaged
 
 - Keep things simple, focus on one thing at a time
 - Keep people engaged  
 
 [We are making engagement way to complicated](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=3fcd3409bf&e=807b678eab)  
 
-# People have a need to belong
+## People have a need to belong
 
 Culture is the backbone of innovation - (Sarah Prevette) - It's not enough to want an innovation culture. You need to be dedicated to hearing honest feedback and championing ideas that your staff have.
 
-# Leadership styles
+## Leadership styles
 
 * Coercive leaders demand immediate compliance  
 * Affiliative leaders create imotional bonds and harmony  
@@ -40,7 +40,7 @@ Culture is the backbone of innovation - (Sarah Prevette) - It's not enough to wa
 
 [Leadership that gets results](https://hbr.org/2000/03/leadership-that-gets-results)  
 
-# Perceived attributes from a team looking for a Dev Lead
+## Perceived attributes from a team looking for a Dev Lead
 
 * They should have Strong People skills.  
 * They should be able to build strong relationship with other team – Unblock teams. (This is most important impedance which we face)  
@@ -54,7 +54,7 @@ Culture is the backbone of innovation - (Sarah Prevette) - It's not enough to wa
 * Should have at least basic understanding of the technologies  
 * Should contribute to the team by bringing fresh perspective and skills to the team 
  #
-# Potential interview questions for a Dev Lead
+## Potential interview questions for a Dev Lead
 
 * Give them a case scenario where the team is stressed and ask them how will they respond to it.
 * What have been their previous experience in:

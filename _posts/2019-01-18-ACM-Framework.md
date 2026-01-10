@@ -13,13 +13,13 @@ As Alan explains, if you look at the type of work software developers do you wil
 
 Alan goes on to explain that each week he wants his technical people to have some ambitious work that grows them. He also wants to minimize their mundane work (as he says, often the mundane work may be someone else's ambitious work).
 
-# My thoughts on ACM work
+## My thoughts on ACM work
 
 I think this framework is a great way to spark conversation around helping people stay engaged in what they are doing. Yes, there will always be some mundane work that needs to be done however too much mundane work leads to people getting bored and being unmotivated which in return results in poor quality and high turnover of staff.
 
 I believe actively identifying the categories of work and adjusting accordingly leads to people being engaged and motivated.
 
-# Optimising ACM work
+## Optimising ACM work
 
 An exercise with this model is to simply list the work you do in a sprint (or in a 1-2 week period), and then classify it into the three categories. The list should have a balance of enough ambitious work that you're not overwhelmed, and little or no mundane work - with comfortable work to fill the gaps. 
 

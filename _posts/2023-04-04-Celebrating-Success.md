@@ -15,19 +15,19 @@ When I think of reward and recognition. A few things come to mind:
 
 Here's how I rate myself:
 
-# Regularly do   
+## Regularly do   
 
 * Say thank you directly  
 * Have team lunches  
 * Announce new or departing employees  
 
-# Occasionally do  
+## Occasionally do  
 
 * Give thank you shoutouts on Slack  
 * Send employee care packs  
 * Celebrate major milestones  
 
-# Put some effort in doing more  
+## Put some effort in doing more  
 
 * Applaud work anniversaries  
 * Recognize individual contributions with gift cards or similar  

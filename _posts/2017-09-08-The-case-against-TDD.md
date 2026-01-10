@@ -18,14 +18,14 @@ TDD has 3 claims it makes, today's talk is the case against TDD.
 * TDD makes us faster, faster feedback (working on good code, and clean code)  
 * TDD leads to better design (promotes the minimal amount to do)  
 
-# TDD Reduces Defects
+## TDD Reduces Defects
 
 If you look at a subset of the tests for something that does something you have a lot more test lines of code than actual code  
 Assume writing tests reduced your bug defect by 75%
 You are still introducing bugs, just potentially in tests code
 The mess is in your tests
 
-# TDD Makes us faster
+## TDD Makes us faster
 
 Your most complicated code is in your unit tests, the tests get more complicated than the actual code  
 The more abstract you make test codes, the harder it is to understand    
@@ -36,7 +36,7 @@ Tests become a maintenance problem
 Unit tests add easily twice as much code  
 TDD doesn't really make you run faster, because you have moved the time to maintaining the tests
 
-# TDD makes better design
+## TDD makes better design
 
 Better design = more testable  
 This is a circle loop  
@@ -44,7 +44,7 @@ DHH spoke about TDD pain
 Bob Martin says the second guy pays for the abstraction
 Writing tests often forces the abstraction (the tests become the second guy)  
 
-# So was this all a waste?
+## So was this all a waste?
 
 One of the things that happened with TDD was that it came out of the dynamic paradigm, you don't have any types so you need something... tdd
 Static types are free tests, we threw them away because we didn't want to type them  

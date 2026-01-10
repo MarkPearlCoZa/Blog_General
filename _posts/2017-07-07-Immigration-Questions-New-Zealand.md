@@ -7,7 +7,7 @@ category: Misc
 
 **Please note this may not be up-to-date, but may be a handy guide if you have questions about moving from South Africa to New Zealand**
 
-# Before you make the leap
+## Before you make the leap
 
 ## How long did the process of emigrating take from conception to arrival?
 
@@ -41,7 +41,7 @@ To summarise, there are places that takes pets - but they are few and far betwee
 
 We used a consultant to help us with the work visa. We did the residency visa application on our own. It was useful having someone show us what to fill in where. It's a cost vs. effort thing. If the cost is not a big factor I would go the consultant route. That said, it is possible to do it all on your own - just can be a little daunting.
 
-# Arrival in Auckland
+## Arrival in Auckland
  
 What to avoid bringing into New Zealand
 New Zealand has strict biosecurity procedures at the airports; fresh food, honey and dairy products are generally challenging to get through immigration. Following is a link that you might find useful - https://www.mpi.govt.nz/travel-and-recreation/arriving-in-new-zealand/.
@@ -60,7 +60,7 @@ Airport shuttle on the other hand takes you from airport to your accommodation. 
  
 There are many cab companies that operate from the airport and can take you to Auckland CBD. Cabs are metered and metered costs are similar. However, if you booked your ride online via http://www.cheaptaxi.co.nz/booking/, rates are less expensive; this is just one of the many cab providers.
 
-# Living in Auckland
+## Living in Auckland
 
 ## Bank Account
 
@@ -192,7 +192,7 @@ We sold our house before we left. My guess is if you sold it while in NZ you wou
 [Here's a useful link to a fairly realistic budget](http://satonz.nz/thread/general-budgets/)  
 
 
-# Working at MYOB
+## Working at MYOB
 
 >  When will I get my salary?  
 

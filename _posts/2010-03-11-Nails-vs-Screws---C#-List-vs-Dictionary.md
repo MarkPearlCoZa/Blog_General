@@ -4,7 +4,7 @@ title: Nails vs Screws - C# List vs Dictionary
 tags: 
 category: General
 ---
-# General
+## General
 
 This may sound like a typical noob statement, but I’m finding out in a very real way that just because you have a solution to a problem, doesn’t necessarily mean it is the best solution. This was reiterated to me when a friend of mine suggested I look at using Dictionaries instead of Lists for a particular problem – he was right, I have always just assumed that because lists solved my problem I did not need to look elsewhere. So my new manifesto to counter this ageless problem is as follows…
 

@@ -281,6 +281,5 @@ FROM sys.dm_exec_requests req
 CROSS APPLY sys.dm_exec_sql_text(sql_handle) AS sqltext
 ~~~
 
-### References
-
+#### References
 [Learning Microsoft Transact Sql by Mark Long](http://shop.oreilly.com/product/0636920038290.do)

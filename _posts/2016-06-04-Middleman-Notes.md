@@ -11,12 +11,12 @@ You have access to the current_page variable. current_page.path is the source pa
 
 ~~~
 <%= current_page.path %>
-# -> index.html
+## -> index.html
 ~~~
 
 ~~~
 <%= current_page.url %>
-# -> /
+## -> /
 ~~~
 
 

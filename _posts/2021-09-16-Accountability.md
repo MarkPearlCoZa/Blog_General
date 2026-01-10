@@ -4,19 +4,19 @@ title: Accountability
 tags: 
 category: Soft
 ---
-# Why Accountability Slips
+## Why Accountability Slips
 
 It can feel like an inquisition and causes discomfort often for both parties
 
-# Teams needs both accoutnability and feedback
+## Teams needs both accoutnability and feedback
 
-# Accountability Loop
+## Accountability Loop
 
 * What will you do? (the commitment)
 * When will you do it? (the timeframe)
 * How will I know? (the reporting method)
 
-# When someone doesn't follow through
+## When someone doesn't follow through
 
 * What stopped you from following through?
 * Was this the right action? Is this still important?

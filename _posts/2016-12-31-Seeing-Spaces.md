@@ -25,7 +25,7 @@ The idea of designing tools in the form of rooms, spatial environments is intere
 * Creating in a shared environment  
 * Access to powerful tools  
 
-# Different types of tools
+## Different types of tools
 
 1. Bulding tools  
 2. Conceptual Tools  

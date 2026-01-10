@@ -7,7 +7,7 @@ category: Misc
 
 The Jedi Academy is a supporting structure to provide increase graduates knowledge in being a professional software developer. Jedi academy will meet every two weeks to focus on a a fundamental area of development.
 
-# General topics to cover...
+## General topics to cover...
 
 Initial fortnigtly topics include:
 
@@ -30,7 +30,7 @@ Initial fortnigtly topics include:
 
 Each session is facilitated by different experts in the organization. Sessions can be up to 4 hours, with pre and post session work.
 
-# Things to read...
+## Things to read...
 
 * The Pragmatic Programmer
 * Clean Code by Robert Martin  
@@ -39,7 +39,7 @@ Each session is facilitated by different experts in the organization. Sessions c
 * eXtreme programming explained by Kent Beck
 * Refactoring Legacy Code by Michael Feathers
 
-# Things to watch...
+## Things to watch...
 
 * [Adopting continous delivery by Jezz Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4)  
 * [The rationale of Continous Delivery by Dave Farley](https://www.youtube.com/watch?v=nauFRW6gYjc&list=TLGG3nAqaM5nIukwMjAzMjAxNw)  

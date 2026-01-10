@@ -81,8 +81,7 @@ Lean Doughnuts
 
 ![The authority matrix]({{ site.url }}/assets/images/AuthorityMatrix.png)
 
-##### References
-
+#### References
 [What are Self Organizing Teams](http://www.infoq.com/articles/what-are-self-organising-teams)  
 Philip Anderson, Seven Levers for Guiding the Evolving Enterprise  
 [35 Minutes in Mike Choens NDC2014 Talk](https://vimeo.com/97537676)  

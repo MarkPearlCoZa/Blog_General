@@ -13,7 +13,7 @@ Below are a list of websites that I have found useful in the past for programmin
 - [Typing IO](http://typing.io/) - programming typing tutorials
 - [Vim Golf](http://www.vimgolf.com/) - Vim game
 
-# Web Development
+## Web Development
 
 - [Minamilist Markdown](http://markdown.pioul.fr/) - on the fly markdown rendering
 - [Json Online Editor](http://www.jsoneditoronline.org/) - edit / inspect / format json  
@@ -28,7 +28,7 @@ Below are a list of websites that I have found useful in the past for programmin
 - [Online Latex Equation Editor](http://www.sciweavers.org/free-online-latex-equation-editor) - Great for generating math equations as images  
 - [Browserstack](https://www.browserstack.com/) - Access to all real mobile and desktop browsers in the cloud (see how things look in all browsers)  
 
-# Misc
+## Misc
 
 - [Dirpy](http://dirpy.com) - Youtube / Video downloader
 - [YouTube Downloader](https://www.onlinevideoconverter.com/mp3-converter) - Youtube / Audio Downloader

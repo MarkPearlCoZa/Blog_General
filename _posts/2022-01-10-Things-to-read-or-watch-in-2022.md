@@ -8,12 +8,12 @@ category: General
 [See 2023's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2023)   
 [See 2021's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2021)  
 
-# Craft
+## Craft
 
 [7 code review manners](https://reutsharabani.medium.com/the-7-code-review-manners-f0f0eef4d3e5)
 [How to make your team fall in love with legacy code](https://leaddev.com/legacy-technical-debt-migrations/how-make-your-team-fall-love-legacy-code)  
 
-# General 
+## General 
 
 [Accomplish More by Committing to Less](https://hbr.org/2015/01/accomplish-more-by-committing-to-less)    
 [Set better goals with NCTS not OKRs](https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs)  
@@ -24,11 +24,11 @@ category: General
 [4 Documentation Quadrants](https://documentation.divio.com/)  
 [Durably Excellent Teams](https://lethain.com/durably-excellent-teams/)  
 
-# Remote work
+## Remote work
 
 [Nice ideas on how to connect remote (hybrid) teams](https://twitter.com/nathanbarry/status/1480944048189980678?s=20)  
 
-# Platform
+## Platform
 
 [Overcoming the messy matrix for platform teams](https://go.tasktop.com/overcoming-the-messy-matrix-on-demand.html)   
 [Applying Product Thinking to Slack's Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/)    
@@ -40,13 +40,13 @@ category: General
 [Devs don't want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html)  
 [Scaling developer teams](https://www.infoq.com/presentations/scaling-developer-teams/)  
 
-# Product Delivery
+## Product Delivery
 
 [Compromise and collaboration: Working with product](https://leaddev.com/culture-engagement-motivation/compromise-and-collaboration-working-product)  
 [What is a technical product manager](https://www.youtube.com/watch?v=u0Iy-zpeRQs)  
 [Conway’s Law Doesn’t Apply to Rigid Designs](https://verraes.net/2022/05/conways-law-vs-rigid-designs/)  
 
-# General
+## General
 
 [Antifragile Planning](https://taylorpearson.me/planning/)  
 [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b)  
@@ -63,23 +63,23 @@ category: General
 [This Is What Winning In SaaS Looks Like In 2023](https://www.scalevp.com/blog/winning-in-saas-2023)  
 [HBR - Leaders guide to corporate culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture)  
 
-# Anki
+## Anki
 
 [Image Occlusion in Cloze for Anki](https://www.youtube.com/watch?v=aYAMkwBdOas)  
 [Using Cloze Deletion Cards in Anki](https://www.youtube.com/watch?v=IRY1rYxd9EM)  
 [How to make great anki cards which you will actually remember](https://revisingrubies.com/how-to-make-great-anki-cards/)  
 
-# Architecture and Technology
+## Architecture and Technology
 
 [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 [Build your own Radar](https://www.thoughtworks.com/radar/byor)  
 
-# Communication
+## Communication
 
 [Bad News Is Worse through Email](https://www.strategy-business.com/blog/Bad-News-Is-Worse-through-Email)  
 [How to deliver bad news](https://hbr.org/2015/03/how-to-deliver-bad-news-to-your-employees)  
 
-# Growth
+## Growth
 
 [Reforge Planning Your Successful Growth Career with Elena Verna and Adam Fishman](https://reforge.wistia.com/medias/grbouhl5fg)  
 [Reforge Teching Teams to Budget Time for the Bottom Line](https://reforge.wistia.com/medias/gh12rm8dlb)  

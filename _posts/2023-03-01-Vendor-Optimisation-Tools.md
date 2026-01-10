@@ -5,7 +5,7 @@ tags:
 category: Tech
 ---
 
-# Finding alternate vendors
+## Finding alternate vendors
 
 https://www.vendr.com/
 https://www.apptio.com/products/cloudability

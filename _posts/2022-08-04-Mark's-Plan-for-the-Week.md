@@ -11,7 +11,7 @@ I do this cause, as a leader, I want visibility and transparency for everyone in
 
 Over time I've experimented with different templates, here is how they have evolved
 
-# Template 02
+## Template 02
 
 Brief personal experience
 Top of Mind
@@ -31,7 +31,7 @@ Miscellaneous
 > Miscellaneous
 > HACKATHON - following up on my update in the July Company meeting, please sign up for the hackathon if you are based in our Auckland offices. You can find out more at #tmp-hackathon-2022 - there has been an amazing amount of work put into making this an enjoyable event and we are encouraging your involvement.
 
-# Template 01
+## Template 01
 
 Personal experience about something this last week
 Main focus at work

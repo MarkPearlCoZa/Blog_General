@@ -8,7 +8,7 @@ category: Process
 * Model originally used to help illustrate people changing health patterns.
 * There are 5 stages of change
 
-# General Aspects
+## General Aspects
 * People move between stages
 - Decisional Balance, do positives outweigh negatives
 - Self efficacy - is person competent and able
@@ -16,7 +16,7 @@ category: Process
 
 <img class="img-responsive" alt="Cycle of Change" src="{{ site.url }}/assets/images/stages-of-change.png">
 
-# Pre-contemplation "Not Ready"
+## Pre-contemplation "Not Ready"
 
 * Encouraged to think about positives and negatives of current behaviour
 * People often down and defensive
@@ -24,7 +24,7 @@ category: Process
 ## What you can do
 * ?
 
-# Contemplation
+## Contemplation
 
 * Plan to change in next few months but may not do anything for up to two years
 * Person has intention to behave in a new way
@@ -35,7 +35,7 @@ category: Process
 * To support, help them appreciate the positives of the new behavior
 * Help person by reducing negatives associated with behaviour change
 
-# Preparation
+## Preparation
 
 * Individual is ready to engage in action in the next 30 days
 * Person takes gradual steps to fit the change into their life
@@ -47,7 +47,7 @@ category: Process
 ## What you can do
 * Help them have a plan of action
 
-# Action
+## Action
 
 * Person has initiated behavior change in the last few months
 * Person needs to work hard to keep behaviour part of their life
@@ -57,7 +57,7 @@ category: Process
 
 * Help them learn techniques to enhance commitments, i.e. Acknowledging steps they have taken, avoiding people or situations that would cause regression
 
-# Maintenance
+## Maintenance
 
 * Person has changed behaviour several months ago
 * Encouraged to share experiences and seek support from others
@@ -70,11 +70,11 @@ category: Process
 * Help identify things that can cause slippage
 * Show your confidence that they are able to overcome the obstacle
 
-# Other change models
+## Other change models
 
 [Adkar](http://blog.markpearl.co.za/Adkar-Model)  
 
-# References
+## References
 
 [The Transtheoretical Model of Change](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/SB/BehavioralChangeTheories/BehavioralChangeTheories6.html)
 [Video of Introduction to Transtheoretical Model](https://www.youtube.com/watch?v=oO80XyBDrl0)

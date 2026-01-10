@@ -59,6 +59,6 @@ Caring personally and challenging directly
 
 [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)  
 
-# References
+## References
 
 [Not all feedback is helpful](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=3aef38a05a&e=c0224443b1)  

@@ -76,7 +76,7 @@ There are 13 behaviours that support the 4 cores in relationship trust
 12) Keep Commitments  
 13) Extend Trust  
 
-# Extending trust 
+## Extending trust 
 
 When you extend trust, if you give it to everyone you can be vulnerable, if you give it to noone you are unproductive. Use SMART Trust to be strategic on how to extend trust.
 

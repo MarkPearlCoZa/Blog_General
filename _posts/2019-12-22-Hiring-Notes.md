@@ -9,7 +9,7 @@ category: Leadership
 
 Do not give too much detail about why the candidate is not qualified for the job you have open as that can lead to a verbal shooting match in which the candidate feels compelled to argue each point.
 
-# CV Screening
+## CV Screening
 
 When screening CV's look at it in 3 areas
 1) technical experience, including functional skills, product-domain expertise, and tool skills; 
@@ -32,7 +32,7 @@ If a résumé is riddled with typos, I probably won’t phone-screen the person,
 
 RESEARCH THE YES CANDIDATES USING LINKEDIN, TWITTER, SEARCHING AND ANY OTHER SOCIAL MEDIA
 
-# Interviewing
+## Interviewing
 
 For example, for a developer, I’ll say, “Tell me what you’re developing now.” For a tester, I’ll say, “Tell me about your test choices and activities now.”
 

@@ -7,12 +7,12 @@ category: Media
 
 These are notes based on the book "[5 dysfunctions of a team](https://www.talentsquare.com/blog/book-summary-the-five-dysfunctions-of-a-team/)" and summary of this [video](https://www.youtube.com/watch?v=w42Sfbh91vU).
 
-# Absence of trust
+## Absence of trust
 
-# Fear of conflict 
+## Fear of conflict 
 
-# Lack of commitment
+## Lack of commitment
 
-# Avoidance of accountability 
+## Avoidance of accountability 
 
-# Inattention to results 
+## Inattention to results 

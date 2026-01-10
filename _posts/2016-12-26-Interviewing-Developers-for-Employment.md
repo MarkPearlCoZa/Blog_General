@@ -5,7 +5,7 @@ tags:
 category: Soft
 ---
 
-# High level view 
+## High level view 
 
 ## Experience matters
 
@@ -43,7 +43,7 @@ It is just as important to learn about the candidate as it is for them to learn 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Interview Process
+## Interview Process
 
 ## Before the face to face and team interviews
 

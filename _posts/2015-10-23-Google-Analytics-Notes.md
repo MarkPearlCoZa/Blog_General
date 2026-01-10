@@ -54,7 +54,6 @@ _gaq.push(['_addTrans', 'orderID', 'storeName', 'total', 'tax', 'shipping']);
 
 TrackTrans should only be called once per order id.
 
-### References
-
+#### References
 [Google Analytics IQ Test](http://www.googleanalyticstest.com)  
 [Google Analytics Framework for .Net](https://developers.google.com/api-client-library/dotnet/apis/analytics/v3)  

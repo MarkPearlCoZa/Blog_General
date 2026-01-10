@@ -8,11 +8,11 @@ Over the last 2 months we tried an experiment in my team to improve our muscle m
 
 > Two years ago I invested personal time to learn the shortcuts of my IDE (which was Visual Studio with Resharper at the time) and in doing so discovered a ton of useful features that I was not aware of. 
 
-# How do it work?
+## How do it work?
 
 The experiment was marketed as an internal team challenge - we called it the [ShortCutFoo Challenge](http://blog.markpearl.co.za/ShortcutFoo-Challenge). The basic idea was that everybody participating put $10 in th pot. Participants would then have during the week to practice using ShortcutFoo. On the Friday we would challenge each other using the 'Fight the Friend' feature; at the end of two months a champion would be crowned. 
 
-# So, how did the experiment go?
+## So, how did the experiment go?
 
 It had mixed results. 
 
@@ -24,7 +24,7 @@ Over the weeks different participants began to do ShortcutFoo, although because 
 
 Another issue we had was during the time the challenge was happening we had new dev join the team. Nobody in our team has access to the company credit card - it sits with the Dev Managaer - which proved a challenge to get. In the end the new dev ended up paying for access on the service on their own. A team having access to a credit card would have made this a lot easier.
 
-# What was the outcome?
+## What was the outcome?
 
 Ultimately one member of the team really enjoyed ShortcutFoo and completed the challenges; however while they are doing well knowing the shortcuts in ShortcutFoo, there is still work in moving them applying this in the actual editor.
 
@@ -33,7 +33,7 @@ Other particpants dabbled with ShortcutFoo but never really got into it as much 
 * We were learning Webstorm shortcuts, at the time we moved on to C# work (which meant we were working in VS).
 * Some participants had other things they felt were more important and battled to get into a routine
 
-# Learnings
+## Learnings
 
 * Giving people an opportunity to learn shortcuts as individuals is a good idea, getting a team to learn is hard.  
 * If we had dedicated time during the day for the whole team to practice we probably have seen more uptake (but this feels to much like babying people).  

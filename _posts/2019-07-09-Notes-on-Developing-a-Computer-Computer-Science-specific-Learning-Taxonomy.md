@@ -14,7 +14,7 @@ Taxonomy
 Problems with Blooms Taxonomy
 - did not find terms synthesis and evaluation useful in descriving learning outcomes and assesment tasks for programming courses, especially at introductory level
 
-# Review of Existing Taxonomies
+## Review of Existing Taxonomies
 
 Critical Thinking Model...
 
@@ -26,9 +26,9 @@ https://sites.google.com/site/qepcafe/modules/overview/facione
 
 ## Instructional Design
 
-# The use of taxnomies in comuter science education literature
+## The use of taxnomies in comuter science education literature
 
-# Examples of the use of taxonomies in some canonical comuter science courses
+## Examples of the use of taxonomies in some canonical comuter science courses
 
 ## Introductory Programming Example
 
@@ -36,12 +36,12 @@ https://sites.google.com/site/qepcafe/modules/overview/facione
 
 ## Computing Professionalism Example
 
-# What is specific about computer science?
+## What is specific about computer science?
 
-# Two dimensionsal adaption of Bloom's Taxonomy
+## Two dimensionsal adaption of Bloom's Taxonomy
 
-# Applying taxonomies interatively
+## Applying taxonomies interatively
 
-# Conclusions and recommendations
+## Conclusions and recommendations
 
 

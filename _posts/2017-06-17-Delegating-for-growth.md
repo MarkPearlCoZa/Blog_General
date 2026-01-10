@@ -5,12 +5,12 @@ tags:
 category: Soft
 ---
  
-# The delegator.
+## The delegator.
 
 You're responsible for the decisions and the outcomes of those decisions.  Delegation isn't a hack to free up time; it's a practice that requires work.  
 You delegate, contextualize, check-in, discuss, and give feedback, so the person learns to make good decisions. 
 
-# The delegatee.
+## The delegatee.
 
 People need "room in their weekly time budgets to grow in this way."  
 If your boss is delegating decisions to you, do them a favor and remind them that decision-making takes time, especially if you're in unfamiliar territory.  

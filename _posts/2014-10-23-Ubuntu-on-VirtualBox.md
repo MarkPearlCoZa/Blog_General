@@ -28,15 +28,15 @@ Change the network settings in the VM to have configured ip addresses for both c
 The file contents should be similar to the following
 
 ~~~
-# The loopback network interface
+## The loopback network interface
 auto lo
 iface lo inet loopback
 
-# Network Interface 1
+## Network Interface 1
 auto eth0
 iface eth0 inet dhcp
 
-# Network Interface 2
+## Network Interface 2
 auto eth1
 iface eth1 inet static
 address 192.168.56.20

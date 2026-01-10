@@ -31,7 +31,7 @@ If a script is NOT in your path variable, you need to include the location when 
 ~~~
 ./file.sh
 
-# or
+## or
 
 /home/documents/file.sh
 ~~~

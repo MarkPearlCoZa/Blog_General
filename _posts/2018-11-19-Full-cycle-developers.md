@@ -13,7 +13,7 @@ Full cycle developers is a different approach. It requires applying engineering 
 
 <img class="img-responsive" alt="Full Cycle Developer" src="{{ site.url }}/assets/images/full-cycle-developer.png">
 
-# Considerations
+## Considerations
 
 - The developer needs to value breadth, this requires both interest and aptitude in a diverse range of technologies.  
 - Some developers prefer focusing on becoming world class experts in a narrow field and our industry needs those types of specialists for some areas. For those experts, the need to be broad, with reasonable depth in each area, may be uncomfortable and sometimes unfulfilling.  

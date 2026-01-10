@@ -8,11 +8,11 @@ category: General
 [See 2022's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-or-watch-in-2022)  
 [See 2020's Things to read and watch](http://blog.markpearl.co.za/Things-to-watch-in-2020)  
 
-# General Problem Solving
+## General Problem Solving
 
 [Introduction to the Cynefin Framework](https://www.youtube.com/watch?v=9dRBb-r0fCY)
 
-# General Leadership
+## General Leadership
 
 [Phased Alignment](https://thoughtsonathing.com/2021/01/18/phased-alignment/)  
 [How to share your company vision as a leader](https://knowyourteam.com/blog/2019/07/11/how-to-share-company-vision/)  
@@ -27,14 +27,14 @@ category: General
 [Learning OKRs](https://www.whatmatters.com/faqs/learning-okr)  
 [Impact Players - Brene Brown and Liz Wiseman](https://open.spotify.com/episode/3DUXemFbKXo1zTTxtI0nnJ?si=e-q5l-d5St6WESBmUEVhDw&nd=1)  
 
-# Process
+## Process
 
 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce)  
 [Flow Framework](https://flowframework.org/about/)  
 [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/d/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_dtrl4NzUguc/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_su_30#_lumUl)  
 [Nobody ever gets credit for fixing problems that never happened - work harder vs work smarter](https://www.linkedin.com/pulse/nobody-ever-gets-credit-fixing-problems-never-happened-mike-long/)  
 
-# Business of software
+## Business of software
 
 [The garderners dilemma](https://www.linkedin.com/pulse/gardeners-dilemma-dirk-jan-swagerman/)  
 [Scaling up sustainably through better processes](https://leaddev.com/process/scaling-sustainably-through-better-processes)  
@@ -47,7 +47,7 @@ category: General
 [Pushing through friction](https://www.youtube.com/watch?v=8bxZuzDKoI0&t=1025s)  
 [Tech debt is not a burden, it's a strategic lever for success](https://www.reforge.com/blog/managing-tech-debt)  
 
-# Product Thinking
+## Product Thinking
 
 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e)  
 [Scaling Product Delivery](https://www.reforge.com/blog/scaling-product-delivery)  
@@ -56,7 +56,7 @@ category: General
 [How to Kickstart and Scale a MarketPlace](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace)  
 [50 Short Product Lessons by John Cutlefish](https://cutle.fish/blog/50-product-lessons)  
 
-# Communication
+## Communication
 
 [Feedback](https://www.aurorapatents.com/blog/feedback)  
 [Presenting to Executives](https://leaddev.com/communication-relationships/presenting-executives)  
@@ -64,7 +64,7 @@ category: General
 [Three ways to lead effectively when you fire somebody](https://leaddev.com/managing-time-crisis/three-ways-lead-effectively-when-you-fire-somebody)  
 [The Power Business Writing Guide](https://sahilbloom.substack.com/p/the-power-business-writing-guide)  
 
-# Vision, Goals & Decisions
+## Vision, Goals & Decisions
 
 [Writing engineering strategies and visions](https://lethain.com/good-engineering-strategy-is-boring/)  
 [The middle slump: the power of weekly project goals](https://leeorengel.medium.com/the-middle-slump-the-power-of-weekly-project-goals-3c23ad95c440)  
@@ -74,23 +74,23 @@ category: General
 [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)   
 [Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://www.linkedin.com/pulse/nobody-ever-gets-credit-fixing-problems-never-happened-mike-long/)  
 
-# Roles and Career Progress
+## Roles and Career Progress
 
 [Parallel Tracks](https://progressionapp.com/library/guides/parallel-tracks/)  
 [Career levels and more](https://lethain.com/career-levels-and-more/)  
 
-# Forecasting
+## Forecasting
 
 [No, engineers don't suck at time estimates](https://blog.nukemberg.com/post/no-engineers-dont-suck-at-estimates/)  
 [What is Rough Order of Magnitude (ROM) and how is it calculated](What is the Rough Order of Magnitude (ROM) and how is it calculated](https://project-management.info/rom-rough-order-of-magnitude)  
 
-# Delegation
+## Delegation
 
 [Tools for effective delegation in engineering management](https://leaddev.com/professional-development/tools-effective-delegation-engineering-management)  
 [Soft Edges](https://thoughtsonathing.com/2021/03/10/soft-edges/)  
 [How to be an effective early stage employee. Hint: be helpful](https://medium.com/helpful-com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f)  
 
-# Craft
+## Craft
 
 [I test in production](https://increment.com/testing/i-test-in-production/)  
 [Load/performance testing in production](https://www.neotys.com/blog/load-performance-testing-in-production)  
@@ -102,7 +102,7 @@ category: General
 [Fast test, slow test by Gary Bernhardt](https://www.youtube.com/watch?v=RAxiiRPHS9k)  
 [Change your habits: Modern techniques for modern C# - Bill Wagner](https://www.youtube.com/watch?v=aUbXGs7YTGo)  
 
-# People
+## People
 
 [The Drama Triangle](https://www.youtube.com/watch?v=E_XSeUYa0-8)  
 [The Drama Triangle and Challenger, Creator,  Coach](https://www.youtube.com/watch?v=ovrVv_RlCMw&t=197s)  
@@ -112,14 +112,14 @@ category: General
 [SCARF](https://childcareta.acf.hhs.gov/systemsbuilding/systems-guides/leadership/leading-ourselves/scarf-model)  
 
 
-# Decision Making
+## Decision Making
 
 [Conflict transformation tools: gradients of agreement and principled negotiation](https://www.youtube.com/watch?v=ZkEIB2vNzGA)  
 
-# Meetings
+## Meetings
 
 [How to Get Out of a Meeting You Know Will Waste Your Time](https://hbr.org/2018/01/how-to-get-out-of-a-meeting-you-know-will-waste-your-time)  
 
-# Platform
+## Platform
 
 [SRE vs. Platform Engineering](https://www.getambassador.io/resources/rise-of-cloud-native-engineering-organizations)  

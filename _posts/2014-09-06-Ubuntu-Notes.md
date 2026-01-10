@@ -220,7 +220,6 @@ net usershare add Documents /home/michael/Documents "Michael documents" everyone
 
 [Great article](http://www.codecoffee.com/tipsforlinux/articles/27.html) on make process and what it means.
 
-### References
-
+#### References
 [Keyboard Shortcuts](https://help.ubuntu.com/community/KeyboardShortcuts)  
 [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)

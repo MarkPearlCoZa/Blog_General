@@ -17,7 +17,7 @@ category: Tech
 ~~~
 setw -g pane-base-index 1           # sets the starting pane index to 1
 
-# moving between panes with Prefix h,j,k,l
+## moving between panes with Prefix h,j,k,l
 bind h select-pane -L
 bind j select-pane -D
 bind k select-pane -U

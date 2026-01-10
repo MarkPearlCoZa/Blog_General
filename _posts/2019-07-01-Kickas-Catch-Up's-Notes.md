@@ -54,7 +54,7 @@ Q) I discuss their 12 month KPI's and career goals
 Q) I prefer to ask more questions than tell the answers
 Q) I consider myself "present" and listen well
 
-# Ask More, Tell Less
+## Ask More, Tell Less
 
 While telling seems simple, it often feels really demotivating.
 To get the best out of our people we need to get better as asking questions.
@@ -64,7 +64,7 @@ POW Framework - Problem, Options, What Next
 
 Knowing that a manager is better at asking than telling
 
-# Career Conversations
+## Career Conversations
 
 * People don't know how to self manage their career
 * Don't understand how they know what is in their way of progressing
@@ -117,7 +117,7 @@ Current to Future State
 - How can you raise your profile to be more visible
 - What can you do outside of the orga that would give you satisfaction?
 
-# Your Presence is your Present
+## Your Presence is your Present
 
 Listening to people makes them feel valued and respected, and interested in them.
 Being present requires focus.
@@ -132,7 +132,7 @@ How many spot fires are we missing because we are not focussing on individuals a
 
 [Ted talk on Mindfulness](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes/up-next?language=en)
 
-# Feedback Both Ways
+## Feedback Both Ways
 
 Have you ever...
 * avoided conversation because you don't have all the facts
@@ -169,7 +169,7 @@ Think about an issue, problem or person
 2. Frame it; What's working? What could be better?
 3. Give them time to gather their examples and think things thorugh and set a date when you will get the feedback.
 
-# Relationships Matters
+## Relationships Matters
 
 When we work with people we like we give our discretionary effort
 
@@ -203,7 +203,7 @@ Five pillars to healthy relationships at work
 
 Identify relationships to upgrade, sit in their shows, have the conversation, repeat
 
-# Designing Your Catch Up
+## Designing Your Catch Up
 
 Quality of catch ups count
 Quantity of catch ups count

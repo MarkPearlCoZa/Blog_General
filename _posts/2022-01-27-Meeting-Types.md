@@ -4,7 +4,7 @@ title: Meeting Types
 tags: 
 category: Process
 ---
-# Some principles
+## Some principles
 
 * Avoid ad-hoc meetings: Definitely the most controversial, but our process was designed to avoid the “just in time” ad-hoc meetings. The trap of ad-hoc meetings has a lot of downsides. Each one requires schedule coordination of attendees, so it can push discussions out (”can I get 15 mins to chat about X” ends up happening 2 weeks later). But even more importantly, the lack of a clear structure can often lead to unproductive meetings — people don’t know if it’s an information sharing meeting or a decision-making meeting, and it’s not clear what level of prep, etc is required. So a key litmus test for us was minimizing ad-hoc meetings by creating the right regular forums with enough time and the right attendees.   
 
@@ -45,7 +45,7 @@ Message (slack or email) with information followed up by an in person meeting fo
 
 Unstructured time where everyone is required to stay (even if they are doing their own work). Can chat about any topic while in the bullpen
 
-# How does this translate to my world
+## How does this translate to my world
 
 Engineering All hands - 30 min prep content  with a 30 minute bullpen
 

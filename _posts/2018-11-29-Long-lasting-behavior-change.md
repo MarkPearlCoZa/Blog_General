@@ -5,15 +5,15 @@ tags:
 category: Soft
 ---
 
-# Transtheoretical Model
+## Transtheoretical Model
 
 <img class="img-responsive" alt="Transtheoretical Model" src="{{ site.url }}/assets/images/Transtheoretical-Model.jpeg">
 
-# Readiness Ruler
+## Readiness Ruler
 
 <img class="img-responsive" alt="Readiness Ruler" src="{{ site.url }}/assets/images/Readiness-Ruler.png">
 
-# Summary 
+## Summary 
 
 Lasting change takes time. Often we try and convince ourselves that change is not possible by cognitive distortions including:
 

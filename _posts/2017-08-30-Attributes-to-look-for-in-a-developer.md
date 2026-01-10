@@ -7,7 +7,7 @@ category: General
 
 I recently saw this somewhere outlining what a group was looking for in attributes in a developer. I thought it raised some interesting questions...
 
-# What they look for in the Soft Skills
+## What they look for in the Soft Skills
 
 ## Must haves
 
@@ -39,7 +39,7 @@ I recently saw this somewhere outlining what a group was looking for in attribut
 * Doesn't care about business value  
 * Unwilling to socialize  
 
-# What they look for in the Technical Skills
+## What they look for in the Technical Skills
 
 ## Must haves
 

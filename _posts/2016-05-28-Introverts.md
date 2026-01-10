@@ -111,7 +111,7 @@ Follow up within 48 hours, don’t follow up on Monday’s though
 The best day to ask for favour is Friday
 Always thank people when they have done something
  
-# Success Skills for Introverts
+## Success Skills for Introverts
  
 6 key strengths that introverts have
 -          Taking quiet time
@@ -131,7 +131,7 @@ Attributes of an introvert?
 -          Focus on depth vs breadth
 
  
-# Challenges that Introverts face in the workplace
+## Challenges that Introverts face in the workplace
  
 1)      People Exhaustion
 2)      Fast Decisions
@@ -139,7 +139,7 @@ Attributes of an introvert?
 4)      Sell yourself
 5)      Put on a happy face
 
-# Speaking to people
+## Speaking to people
 
 #### Preparing for meeting people at a conference - Offers & Needs
 

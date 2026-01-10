@@ -11,13 +11,13 @@ We believe to have a successful graduate program you need the following:
 * Structure  
 * Supervision  
 
-# Long term outlook
+## Long term outlook
 
 *The goal of the graduate program is not to get the get "cheap" labour. The goal is to invest in growing someone to become a great employee.*
 
 While we believe that graduates can and should produce valuable work, we see the graduate program as a platform for creating the people we want to work with - we are optimizing for learning and growth.
 
-# Structure 
+## Structure 
 
 ## It begins with a mentor
 
@@ -130,7 +130,7 @@ Part of a graduate becoming a professional is having an opportunity to work in d
 
 To provide useful interactions for future mentor/graduate selections, graduates should have day "exchanges" where they spend time with other teams and potential mentors. We believe this should only be done nearing the end of the first 6 months. During these exchanges they should be primarily pairing with people in the team. They should not be left to do work on their own. Teams that have had graduates for an exchange should give feedback on whether they believe the graduate would be a good fit for the team.
 
-# Supervision
+## Supervision
 
 ## Supervising Graduates 
 

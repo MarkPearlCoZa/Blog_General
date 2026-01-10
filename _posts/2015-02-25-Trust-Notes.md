@@ -11,7 +11,7 @@ category: Soft
 - Sociologists call it social capital.  
 - Small, frequent gestures or events enhance trust more than larger gestures made only occaisonally.   
 
-# Formula's for Trust
+## Formula's for Trust
 
 Trust = (Warmth + Competency + Reliability) / Motives (Self Orientation)
 
@@ -92,7 +92,7 @@ https://medium.com/@chrisza/trust-issues-in-software-development-48a6bca28056
 https://blog.newrelic.com/technology/trust-teams-software-development/
 https://www.stackbuilders.com/news/software-development-runs-on-trust
 
-# Books
+## Books
 
 * [Speed of Trust](https://www.amazon.com/SPEED-Trust-Thing-Changes-Everything-ebook/dp/B000MGATWG)  
 * [Trust - the trusted advisor](https://www.amazon.com/Trusted-Advisor-David-H-Maister/dp/0743212347)  

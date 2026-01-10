@@ -5,7 +5,7 @@ tags: Web
 category: Tech
 ---
 
-# Bootstrap 3 
+## Bootstrap 3 
 
 ## Basics 
 
@@ -106,7 +106,7 @@ In the css file have the following...
 
 ----------------------------------------------------------------------------------------------------------------
 
-# Bootstrap 4
+## Bootstrap 4
 
 ## What's new
 
@@ -114,8 +114,7 @@ In the css file have the following...
 * Extra breakpoint at 480px for smaller screens  
 * A new sm grid tier   
 
-### References 
-
+#### References
 [Bootstrap](http://getbootstrap.com/)  
 [Example Code from Code School Slides](https://github.com/codeschool/BlastingOffWithBootstrapDemo)  
 [Sample Site from Code School Site](http://codeschool.github.io/BlastingOffWithBootstrapDemo/)  

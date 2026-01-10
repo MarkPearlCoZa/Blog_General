@@ -66,7 +66,7 @@ iex "regsvr32 /s file.dll"
 ##### Commenting out a line of code
 
 ~~~
-# This is a comment in Powershell
+## This is a comment in Powershell
 ~~~
 
 ----------------------------------------------------------------------------------------

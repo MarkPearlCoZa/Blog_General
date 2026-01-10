@@ -15,13 +15,13 @@ The contents of the build.ps1 should be as follows:
 param([string] $buildEnvironment = "Debug", [string] $packageForDeploy = "true", [string] $packageVersion = "0.0.0.0")
 
 ### Parameters:
-# $buildEnvironment                 : The environment to build for eg. (Debug / Live).
-# $packageForDeploy                 : Whether to package output for deployment.
-# $packageVersion                   : The version number to use for the package.
+## $buildEnvironment                 : The environment to build for eg. (Debug / Live).
+## $packageForDeploy                 : Whether to package output for deployment.
+## $packageVersion                   : The version number to use for the package.
 
 ### Other:
-# OctoPackEnforceAddingFiles        : Set to true to enable packaging all build output files in addition to filespec in nuspec file.
-# OctoPackPublishPackagesToTeamCity : Set to false to prevent OctoPack from publishing any packages to the build in TeamCity package feed.
+## OctoPackEnforceAddingFiles        : Set to true to enable packaging all build output files in addition to filespec in nuspec file.
+## OctoPackPublishPackagesToTeamCity : Set to false to prevent OctoPack from publishing any packages to the build in TeamCity package feed.
 
 $solutionPath = Join-Path $PsScriptRoot ".\KeyBlade.SupportPortal.sln"
 msbuild $solutionPath /p:Configuration=$buildEnvironment /p:RunOctoPack=$packageForDeploy /p:OctoPackPackageVersion=$packageVersion /p:OctoPackEnforceAddingFiles=true /p:OctoPackPublishPackagesToTeamCity=false

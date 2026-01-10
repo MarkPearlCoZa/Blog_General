@@ -25,6 +25,5 @@ We are exceptionally good at this whole avoidance thing.
 
 **And above all. Don’t delay! Do it now! I know that makes it 6 tips, but I’m writing this so I can make up the rules.**
 
-## References
-
+#### References
 [Why saying no thanks is so hard](http://us7.campaign-archive2.com/?u=61b9f569636d0029c60263a99&id=a1b33b7096&e=807b678eab)  
