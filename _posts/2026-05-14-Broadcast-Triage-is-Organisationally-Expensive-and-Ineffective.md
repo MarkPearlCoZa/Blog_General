@@ -48,18 +48,17 @@ When the list is large and sent broadly, individuals often assume:
 
 This creates passive waiting behaviour. The larger the audience and the larger the list, the stronger this effect becomes. 
 
-When everyone owns something, nobody truly owns it.
+My mantra: When everyone owns something, nobody truly owns it.
 
-That does not mean people are avoiding responsibility intentionally. In most cases, the opposite is true. People are trying to be helpful, respectful of boundaries, and collaborative.
+That does not mean people are avoiding responsibility intentionally. In most cases, the opposite is true. People are generaly responsible for things they clearly own
 
-But larger organisations introduce a scaling problem:
+But when...
 
+* Ownership boundaries are unclear or fuzzy.
 * Teams have incomplete context.
-* Ownership boundaries become fuzzy.
-* Communication becomes broadcast-oriented.
-* Priorities compete constantly.
+* Requests compete with other work that is clearly owned
 
-In that environment, broad responsibility creates uncertainty:
+In that environment, Broadcast Triage creates uncertainty:
 
 * Who is expected to act?
 * Who decides priority?
@@ -67,7 +66,7 @@ In that environment, broad responsibility creates uncertainty:
 * Who escalates if nothing happens?
 * Who is accountable if the issue remains unresolved?
 
-Without clear answers, work quietly stalls or is ignored.
+Without clear answers, work quietly is ignored.
 
 While this happens with many situations, it does not always. High-severity incidents where the immmediate impact on the organization is clear like... outages or urgent escalations ... often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly, especially when ownership is unclear.
 
