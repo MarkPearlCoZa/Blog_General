@@ -4,8 +4,9 @@ title: Broadcast Triage is Organisationally Expensive and Ineffective
 tags: 
 category: General
 ---
+As organisations grow, one of the most common operational failure modes is broadcast triage — where work or issues are sent broadly to many teams with the expectation that ownership will self-organise. This is a classic example of diffuse accountability.
 
-As organisations grow, one of the most common operational failure modes is broadcast triage. This falls solidly under the concept of diffuse accountability.
+## What is Diffuse Accountability?
 
 Diffuese accountability is when responsibility is spread broadly across groups of people or teams, but nobody is explicitly accountable for ensuring the outcome happens.
 
