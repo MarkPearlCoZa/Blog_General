@@ -4,7 +4,7 @@ title: Broadcast Triage is Organisationally Expensive and Ineffective
 tags: 
 category: General
 ---
-As organisations grow, one of the most common pitfalls I've seen people try use to get a large group to do this is using broadcast triage... where work or issues are sent broadly to many teams with the expectation that those teams will resolve ownership and self-organise. This is a classic example of diffuse accountability.
+As organisations grow, one of the most common pitfalls I've seen people try use to get a large group to do something is using broadcast triage... where work or issues are sent broadly to many teams with the expectation that those teams will resolve ownership and self-organise. This is a classic example of diffuse accountability.
 
 ## Diffuse Accountability?
 
@@ -18,7 +18,7 @@ One way to identify it is if you see statements like:
 
 These statements come across as collaborative and inclusive but in reality, they create ambiguity and are rarely actioned.
 
-## It's Organisationally Expensive
+## Problem 1 : It's Organisationally Expensive
 
 The first problem I have with broadcast triage is it is organisationally expensive.
 
@@ -30,17 +30,15 @@ For example:
 * each review takes x minutes,
 * means the organisation may effectively perform hundreds or thousands of ownership evaluations...
 
-- Most of those evaluations are repetitive. Many teams will review the same items only to conclude: “This probably does not belong to us.”
-
-From an organisational efficiency perspective, this is expensive!
+Most of those evaluations are repetitive. Many teams will review the same items only to conclude: “This probably does not belong to us.” From an organisational efficiency perspective, this is expensive!
 
 A request that takes just 10 minutes per team can quickly translate into many hours of duplicated organisational effort.
 
 The rule of thumb: Unstructured duplication at scale without clear coordination accountability = extremely expensive.
 
-## Nobody takes ownership
+## Problem 2 : Nobody takes ownership
 
-The second problem I have with broadcast triad is in practice nobody takes ownership.
+The second problem I have with broadcast triage is in practice nobody takes ownership.
 
 When the list is large and sent broadly, individuals often assume:
 
@@ -50,7 +48,7 @@ When the list is large and sent broadly, individuals often assume:
 
 This creates passive waiting behaviour. The larger the audience and the larger the list, the stronger this effect becomes. 
 
-This does not always happen. High-severity incidents where the immmediate impact on the organization is clear like.. outages or urgent escalations often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
+While this happens with many situations, it does not always. High-severity incidents where the immmediate impact on the organization is clear like... outages or urgent escalations ... often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
 
 As a result, important work can sit untouched despite being visible to many teams and leaders.
 
