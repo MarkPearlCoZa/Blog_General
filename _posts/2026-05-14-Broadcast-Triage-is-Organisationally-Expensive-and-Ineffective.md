@@ -8,15 +8,15 @@ As organisations grow, one of the most common operational failure modes is broad
 
 ## What is Diffuse Accountability?
 
-Diffuese accountability is when responsibility is spread broadly across groups of people or teams, but nobody is explicitly accountable for ensuring the outcome happens.
+Diffuse accountability is when responsibility is spread broadly across groups of people or teams, but nobody is explicitly accountable for ensuring the outcome happens and ownership of the responsibility is unclear.
 
-One way to identify it is you see statements like:
+One way to identify it is if you see statements like:
 
 * “Someone needs to look at it.”
 * “Please review the list and identify any items that belong to your team.”
 * “Each team should review and do X.”
 
-These statements come across as collaborative and inclusive but in reality, they often create ambiguity around ownership and action.
+These statements come across as collaborative and inclusive but in reality, they create ambiguity and are rarely actioned.
 
 ## Broadcast Triage Is Often Organisationally Expensive
 
