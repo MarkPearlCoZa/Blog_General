@@ -121,9 +121,8 @@ Usually, it requires clearer defaults.
 
 Examples:
 
-* Always assign an initial owner, even if ownership may later move.
-* Have an individual or tiger team resolve unclear ownership
-* Create clear escalation paths for ambiguous ownership.
+* Have an individual or tiger team identify an initial owner for each action, even if ownership may later move.
+* Create clear escalation paths where ownership is discovered to be incorrect
 * Default unresolved ownership to a coordinating team.
 * Ensure every important initiative has one accountable lead.
 
@@ -131,11 +130,7 @@ A simple principle is:
 
 Multiple teams may contribute, but accountability should remain singular and explicit.
 
-## The Problem with “Everyone Owns It”
-
-
 ## Final Thought
-
 
 Collaboration is valuable. But collaboration should increase contribution, not dilute accountability.
 The larger an organisation becomes, the more important this distinction is.
@@ -145,4 +140,3 @@ Because in complex systems, ambiguity does not remain neutral.
 It accumulates.
 
 And eventually, it becomes operational friction that slows the entire organisation down.
-
