@@ -48,6 +48,27 @@ When the list is large and sent broadly, individuals often assume:
 
 This creates passive waiting behaviour. The larger the audience and the larger the list, the stronger this effect becomes. 
 
+When everyone owns something, nobody truly owns it.
+
+That does not mean people are avoiding responsibility intentionally. In most cases, the opposite is true. People are trying to be helpful, respectful of boundaries, and collaborative.
+
+But larger organisations introduce a scaling problem:
+
+* Teams have incomplete context.
+* Ownership boundaries become fuzzy.
+* Communication becomes broadcast-oriented.
+* Priorities compete constantly.
+
+In that environment, broad responsibility creates uncertainty:
+
+* Who is expected to act?
+* Who decides priority?
+* Who follows up?
+* Who escalates if nothing happens?
+* Who is accountable if the issue remains unresolved?
+
+Without clear answers, work quietly stalls or is ignored.
+
 While this happens with many situations, it does not always. High-severity incidents where the immmediate impact on the organization is clear like... outages or urgent escalations ... often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly, especially when ownership is unclear.
 
 As a result, important work often sits untouched despite being visible to many teams and leaders.
@@ -58,16 +79,15 @@ One possible reaction to this argument is:
 
 “Fine, then one central team should own all triage.”
 
-That approach can fail too.
+That approach often does not work.  
 
 Centralised coordination models can become:
 
 * bottlenecks,
-* overloaded queues,
 * single points of failure,
 * or disconnected from domain expertise.
 
-The goal is not rigid centralisation.  The goal is intentional accountability design.
+The goal is not rigid centralisation. The goal is intentional accountability design.
 
 That might mean:
 
@@ -92,18 +112,18 @@ Healthy engineering cultures absolutely benefit from proactive ownership behavio
 
 The problem arises when organisational systems rely primarily on mass voluntary ownership discovery as the default operating model.
 
-That model becomes increasingly unreliable as organisations grow.
+That model becomes increasingly unreliable as organisations grow or get into busy periods.
 
 ## Better Patterns
 
-Avoiding diffuse accountability does not require heavy process.
+Avoiding Broadcast Triage does not require heavy process.
 
 Usually, it requires clearer defaults.
 
 Examples:
 
 * Always assign an initial owner, even if ownership may later move.
-* Define explicit triage ownership.
+* Have an individual or tiger team resolve unclear ownership
 * Create clear escalation paths for ambiguous ownership.
 * Default unresolved ownership to a coordinating team.
 * Ensure every important initiative has one accountable lead.
@@ -114,26 +134,6 @@ Multiple teams may contribute, but accountability should remain singular and exp
 
 ## The Problem with “Everyone Owns It”
 
-When everyone owns something, nobody truly owns it.
-
-That does not mean people are avoiding responsibility intentionally. In most cases, the opposite is true. People are trying to be helpful, respectful of boundaries, and collaborative.
-
-But larger organisations introduce a scaling problem:
-
-* Teams have incomplete context.
-* Ownership boundaries become fuzzy.
-* Communication becomes broadcast-oriented.
-* Priorities compete constantly.
-
-In that environment, broad responsibility creates uncertainty:
-
-* Who is expected to act?
-* Who decides priority?
-* Who follows up?
-* Who escalates if nothing happens?
-* Who is accountable if the issue remains unresolved?
-
-Without clear answers, work quietly stalls or is ignored.
 
 ## Final Thought
 
