@@ -4,7 +4,7 @@ title: Broadcast Triage is Organisationally Expensive and Ineffective
 tags: 
 category: General
 ---
-As organisations grow, one of the most common operational failure modes is broadcast triage — where work or issues are sent broadly to many teams with the expectation that ownership will self-organise. This is a classic example of diffuse accountability.
+As organisations grow, one of the most common operational failure modes is broadcast triage... where work or issues are sent broadly to many teams with the expectation that ownership will self-organise. This is a classic example of diffuse accountability.
 
 ## What is Diffuse Accountability?
 
@@ -20,9 +20,26 @@ These statements come across as collaborative and inclusive but in reality, they
 
 ## Broadcast Triage Is Often Organisationally Expensive
 
-Broadcast triage is when a long list of issues is sent to a broad audience with messaging such as:
+Broadcast triage is operationally expensive. 
 
-“Please review the list and identify any items that belong to your team.”
+When a long list of issues is sent to a broad audience with messaging such as: “Please review the list and identify any items that belong to your team.” it incurs a multiplication of organisational effort.
+
+Simply put, broadcast triage duplicates effort across the organisation.
+
+For example:
+* 30 teams,
+* each reviewing a list of 40 issues,
+* means the organisation may effectively perform hundreds or thousands of ownership evaluations independently.
+
+- Most of that effort is repetitive. Many teams will review the same items only to conclude: “This probably does not belong to us.”
+
+From an organisational efficiency perspective, this is extremely expensive.
+
+A request that takes just 10 minutes per team can quickly translate into many hours of duplicated organisational effort.
+
+The rule of thumb: Unstructured duplication at scale without clear coordination accountability = extremely expensive.
+
+## Nobody takes ownership
 
 In practice, this approach creates two major problems.
 
@@ -41,33 +58,6 @@ This does not always happen. High-severity incidents where the immmediate impact
 But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
 
 As a result, important work can sit untouched despite being visible to many teams and leaders.
-
-### Multiplication of Organisational Effort
-
-There is also a less obvious scaling problem:
-broadcast triage duplicates effort across the organisation.
-
-For example:
-
-* 30 teams,
-* each reviewing a list of 40 issues,
-* means the organisation may effectively perform hundreds or thousands of ownership evaluations independently.
-
-- Most of that effort is repetitive. Many teams will review the same items only to conclude:
-
-“This probably does not belong to us.”
-
-From an organisational efficiency perspective, this is extremely expensive.
-
-A request that takes:
-
-“just 10 minutes per team” can quickly translate into many hours of duplicated organisational effort.
-
-Some duplication is healthy and even necessary. Overlap can help identify hidden impacts, validate assumptions, and improve resilience.
-
-The issue is not duplication itself.
-
-The issue is unstructured duplication at scale without clear coordination accountability = extremely expensive.
 
 ## Diffuse Accountability Is Often Invisible
 
