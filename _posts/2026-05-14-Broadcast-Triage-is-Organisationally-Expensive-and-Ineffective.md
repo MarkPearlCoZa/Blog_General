@@ -48,71 +48,9 @@ When the list is large and sent broadly, individuals often assume:
 
 This creates passive waiting behaviour. The larger the audience and the larger the list, the stronger this effect becomes. 
 
-While this happens with many situations, it does not always. High-severity incidents where the immmediate impact on the organization is clear like... outages or urgent escalations ... often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
+While this happens with many situations, it does not always. High-severity incidents where the immmediate impact on the organization is clear like... outages or urgent escalations ... often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly, especially when ownership is unclear.
 
-As a result, important work can sit untouched despite being visible to many teams and leaders.
-
-## Diffuse Accountability Is Often Invisible
-
-Security remediation is a common example.
-
-An email goes to a broad distribution list:
-
-“Relevant teams should review these findings and take ownership.”
-
-The assumption is that affected teams will self-identify and act.
-
-But in practice:
-
-* Teams assume another team is more appropriate.
-* Teams do not know whether they are expected to lead or contribute.
-* Teams deprioritise the work because nobody explicitly assigned it.
-* Teams wait for clarification that never comes.
-
-The issue remains “unassigned” while everybody believes somebody else is probably handling it.
-
-Why This Gets Worse as Organisations Scale
-
-Large organisations do not work that way.
-
-At scale:
-
-* Communication becomes asynchronous.
-* Teams optimise locally.
-* Leaders cannot manually coordinate everything.
-* Ownership boundaries become specialised.
-* Dependencies increase.
-
-Diffuse accountability compounds with scale because ambiguity multiplies across teams and systems.
-
-A process that works for 10 engineers often breaks at 300.
-
-Shared Responsibility Is Not the Same as Shared Accountability
-
-This is an important distinction.
-
-Shared responsibility can work extremely well.
-
-Many teams can contribute to an outcome:
-
-* Security teams define standards.
-* Platform teams provide tooling.
-* Product teams remediate vulnerabilities.
-* Infrastructure teams support rollout.
-
-That is healthy collaboration.
-
-But accountability should remain explicit.
-
-There should still be a clearly identified owner for:
-
-* triage,
-* coordination,
-* escalation,
-* tracking,
-* and ensuring completion.
-
-Good organisations distribute contribution while maintaining clarity of accountability.
+As a result, important work often sits untouched despite being visible to many teams and leaders.
 
 ## This Does Not Mean Centralise Everything
 
