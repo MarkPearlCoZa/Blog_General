@@ -50,26 +50,11 @@ When the list is large and sent broadly, individuals often assume:
 
 This creates passive waiting behaviour. The larger the audience and the larger the list, the stronger this effect becomes. 
 
-This does not always happen. High-severity incidents where the immmediate impact on the organization is clear like.. outages or urgent escalations often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners.
-
-But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
+This does not always happen. High-severity incidents where the immmediate impact on the organization is clear like.. outages or urgent escalations often create immediate engagement regardless of ownership ambiguity because leadership immediately rallys to identify owners. But for large operational backlogs, security findings, technical debt, or cross-team remediation work, the probability of delayed action increases significantly when ownership is unclear because the immediate impact on the business is low.
 
 As a result, important work can sit untouched despite being visible to many teams and leaders.
 
 ## Diffuse Accountability Is Often Invisible
-
-One of the dangerous aspects of diffuse accountability is that it can look productive on the surface.
-
-There are meetings.
-There are emails.
-There are Jira tickets.
-There are Slack discussions.
-There are people agreeing the work matters.
-
-Yet nothing moves.
-
-This creates a category of organisational dead zone:
-important work that everybody acknowledges, but nobody operationally drives.
 
 Security remediation is a common example.
 
@@ -89,13 +74,6 @@ But in practice:
 The issue remains “unassigned” while everybody believes somebody else is probably handling it.
 
 Why This Gets Worse as Organisations Scale
-
-Small teams can often survive ambiguous ownership because context is shared socially.
-
-People sit near each other.
-Communication loops are short.
-Gaps are obvious.
-Social pressure fills operational cracks.
 
 Large organisations do not work that way.
 
@@ -179,24 +157,6 @@ Healthy engineering cultures absolutely benefit from proactive ownership behavio
 The problem arises when organisational systems rely primarily on mass voluntary ownership discovery as the default operating model.
 
 That model becomes increasingly unreliable as organisations grow.
-
-## The Hidden Costs
-
-Diffuse accountability creates more than operational inconvenience.
-
-It creates systemic drag:
-
-* slower execution,
-* duplicated work,
-* decision paralysis,
-* unresolved risks,
-* coordination overhead,
-* and organisational frustration.
-
-Over time, people lose confidence in processes because they observe that issues disappear into ambiguity.
-
-This often leads to a secondary failure mode:
-people creating shadow ownership structures informally just to get things done.
 
 ## Better Patterns
 
