@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fan Out Work: Understanding the Risks and High Level Strategies for Prevention
+title: Fan Out Work - Understanding the Risks and High Level Strategies for Prevention
 tags: 
 category: General
 ---
