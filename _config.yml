@@ -7,6 +7,7 @@ markdown: kramdown
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "vendor"]
 highlighter: rouge
+future: true
 
 # Performance optimizations
 sass:
