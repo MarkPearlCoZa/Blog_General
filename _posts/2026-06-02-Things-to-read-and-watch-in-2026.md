@@ -5,6 +5,6 @@ tags:
 category: General
 ---
 
-See 2024’s Things to read and watch
+[See 2025's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2025)  
 
 [The future of software engineering - Google](https://youtu.be/2n41YjR5QfU)  
