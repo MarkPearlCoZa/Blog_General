@@ -4,6 +4,7 @@ title: Things to read and watch in 2025
 tags: 
 category: General
 ---
+[See 2026's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2026)  
 [See 2024's Things to read and watch](http://blog.markpearl.co.za/Things-to-read-and-watch-in-2024)  
 
 [Fighting compliance trolls killing platform engineering](https://platformengineering.org/blog/fighting-compliance-trolls-killing-platform-engineering)  
