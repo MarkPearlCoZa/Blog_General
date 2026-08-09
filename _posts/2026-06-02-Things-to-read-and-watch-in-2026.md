@@ -10,3 +10,4 @@ category: General
 [The future of software engineering - Google](https://youtu.be/2n41YjR5QfU)    
 [Building 10x Organizations in Engineering](https://vimeo.com/1194496048)  
 [The Power of Trust and Maximizing Potential](https://findingmastery.com/podcasts/anne-frances/)  
+[The team structure that scales](https://www.youtube.com/watch?v=clHDEg9xsvg)  
