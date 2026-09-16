@@ -11,3 +11,4 @@ category: General
 [Building 10x Organizations in Engineering](https://vimeo.com/1194496048)  
 [The Power of Trust and Maximizing Potential](https://findingmastery.com/podcasts/anne-frances/)  
 [The team structure that scales](https://www.youtube.com/watch?v=clHDEg9xsvg)  
+[Guidelines for respectful use of AI](https://skamille.medium.com/guidelines-for-respectful-use-of-ai-affcc85d7072)  
